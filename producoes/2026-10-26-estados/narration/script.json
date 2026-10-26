@@ -1,0 +1,18 @@
+{
+  "voice": "pm_alex",
+  "speed": 1.12,
+  "lang": "pt-br",
+  "_comment": "Ranking dos estados no 2º turno 2026 (votos válidos). Fonte: TSE via Bloomberg Línea (tabela por estado).",
+  "say": {},
+  "fish": { "voice": "c9d3da0bdf61417d929dc67966e4befe", "speed": 1.18, "model": "s2.1-pro-free" },
+  "clips": [
+    { "id": "c1", "scene": 1, "minStart": 0.3, "gapAfterPrev": 0, "text": "Qual foi o estado mais Lula, e o mais Flávio do Brasil? O mapa mostra tudo." },
+    { "id": "c2", "scene": 2, "minStart": 0, "gapAfterPrev": 0.4, "text": "Do lado do Lula, o campeão foi o Piauí, com quase setenta e seis por cento. Depois vêm Bahia e Maranhão." },
+    { "id": "c3", "scene": 3, "minStart": 0, "gapAfterPrev": 0.4, "text": "Do lado do Flávio, o recorde foi Roraima, com setenta e dois e meio por cento. Depois, Rondônia e Santa Catarina." },
+    { "id": "c4", "scene": 4, "minStart": 0, "gapAfterPrev": 0.4, "text": "E o estado mais dividido do país foi Minas Gerais: cinquenta vírgula quatro contra quarenta e nove vírgula seis." },
+    { "id": "c5", "scene": 5, "minStart": 0, "gapAfterPrev": 0.4, "text": "Tocantins e Amapá também ficaram perto do meio a meio." },
+    { "id": "c6", "scene": 6, "minStart": 0, "gapAfterPrev": 0.45, "text": "E o seu estado, como votou? Comenta a sigla dele aqui, e segue pra mais." }
+  ],
+  "tailAfterLastClip": 1.8,
+  "keywords": []
+}
