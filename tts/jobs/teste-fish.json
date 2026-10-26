@@ -1,0 +1,33 @@
+{
+  "status": "pendente",
+  "voice": "c9d3da0bdf61417d929dc67966e4befe",
+  "speed": 1.05,
+  "model": "s2.1-pro",
+  "language": "pt",
+  "clips": [
+    {
+      "id": "c1",
+      "text": "Em estudos, quem usou essa caneta perdeu, em média, até vinte por cento do peso. Mas ela não queima gordura. Ela imita um hormônio que o seu corpo já tem."
+    },
+    {
+      "id": "c2",
+      "text": "Quando você come, o intestino libera um hormônio chamado gê ele pê um. Ele avisa o cérebro: chega, você está satisfeito. E manda o pâncreas soltar insulina."
+    },
+    {
+      "id": "c3",
+      "text": "O problema: o gê ele pê um natural dura só uns dois minutos. Uma enzima destrói ele rapidinho."
+    },
+    {
+      "id": "c4",
+      "text": "O remédio da caneta é uma versão modificada, que a enzima não consegue quebrar. Ele dura cerca de uma semana. Por isso, é só uma injeção por semana."
+    },
+    {
+      "id": "c5",
+      "text": "Resultado: o estômago esvazia mais devagar, a fome cai, e a pessoa come menos. Mas pode dar enjoo, e quem para de usar costuma recuperar boa parte do peso."
+    },
+    {
+      "id": "c6",
+      "text": "Por isso, no Brasil, só se vende com receita retida. E a anvisa mandou apreender canetas sem registro vendidas na internet. Qual remédio você quer ver por dentro? Comenta, e segue pra mais."
+    }
+  ]
+}
