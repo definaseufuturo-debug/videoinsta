@@ -2,6 +2,14 @@
   "_info": "Fila de postagens. Horários em BRT. Use pipeline/fila.py para ler e alterar.",
   "agendados": [
     {
+      "id": "2026-10-26-mapa-virada",
+      "video": "mapa_virada_regioes.mp4",
+      "legenda": "Mapa da virada: como cada região votou no 2º turno 🗺️📊\n\nSul, Centro-Oeste e Sudeste deram vantagem ao Flávio. O Norte terminou praticamente empatado: 1.079 votos de diferença na região inteira. E o Nordeste deu 13,7 milhões de votos a mais ao Lula, o suficiente pra compensar o resto do país e decidir a eleição.\n\n📚 Conteúdo educativo, sem viés político. Dados: TSE (votos válidos).\n🎨 Animação e narração feitas com IA.\n\nQual dado te surpreendeu? Comenta aí e segue a @mindloop_u pra entender como as coisas funcionam por dentro 👇\n\n#eleicoes2026 #segundoturno #mapadavotacao #tse #brasil #dados #curiosidades #comofunciona",
+      "postar_em": "2026-10-26T10:05",
+      "status": "pendente",
+      "thumb_offset": 4500
+    },
+    {
       "id": "2026-10-26-12-caneta",
       "video": "caneta_emagrecedora.mp4",
       "legenda": "Como funciona por dentro a caneta emagrecedora? 💉🧠\n\nEla não queima gordura: imita o GLP-1, um hormônio que o seu intestino já produz e que avisa o cérebro que você está satisfeito. A diferença é que a versão do remédio foi modificada pra durar cerca de uma semana.\n\n⚠️ Pode causar efeitos colaterais e o peso costuma voltar quando se para. No Brasil, só com receita retida, e a Anvisa mandou apreender canetas sem registro vendidas na internet. Nunca use sem orientação médica.\n\n📚 Conteúdo educativo, não substitui orientação médica.\n🎨 Animação e narração feitas com IA.\n\nQual remédio você quer ver por dentro? Comenta aí e segue a @mindloop_u 👇\n\n#canetaemagrecedora #glp1 #comofunciona #saude #ciencia #curiosidades #emagrecimento #anvisa",
