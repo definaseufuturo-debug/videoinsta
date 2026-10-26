@@ -1,0 +1,18 @@
+{
+  "voice": "pf_dora",
+  "speed": 1.12,
+  "lang": "pt-br",
+  "_comment": "Capitais no 2º turno 2026 (votos válidos). Fontes: O Tempo (26/10/2026, dados de O Globo/TSE), Brasil 247 (mesma tabela); estados: Bloomberg Línea/TSE.",
+  "say": {},
+  "fish": { "voice": "b1cab1f57b8d41aeb225d7d8bafc0806", "speed": 1.18, "model": "s2.1-pro-free" },
+  "clips": [
+    { "id": "c1", "scene": 1, "minStart": 0.3, "gapAfterPrev": 0, "text": "Nas capitais, deu quase empate: Flávio venceu em catorze, e Lula em treze. Mas o mais curioso é onde a capital votou diferente do próprio estado." },
+    { "id": "c2", "scene": 2, "minStart": 0, "gapAfterPrev": 0.4, "text": "O estado de São Paulo deu Flávio. Mas a cidade de São Paulo deu Lula, com cinquenta e cinco e meio por cento. O mesmo aconteceu no Rio e em Porto Alegre." },
+    { "id": "c3", "scene": 3, "minStart": 0, "gapAfterPrev": 0.4, "text": "E o contrário também: Lula venceu no Amazonas, em Alagoas e em Minas. Mas Manaus, Maceió e Belo Horizonte foram de Flávio." },
+    { "id": "c4", "scene": 4, "minStart": 0, "gapAfterPrev": 0.4, "text": "As mais apertadas foram Macapá e Belo Horizonte, com menos de dois pontos de diferença." },
+    { "id": "c5", "scene": 5, "minStart": 0, "gapAfterPrev": 0.4, "text": "E os extremos: Salvador deu setenta e três por cento pro Lula. Boa Vista, setenta e seis por cento pro Flávio." },
+    { "id": "c6", "scene": 6, "minStart": 0, "gapAfterPrev": 0.45, "text": "E na sua cidade, como foi? Comenta aí, e segue pra mais." }
+  ],
+  "tailAfterLastClip": 1.8,
+  "keywords": []
+}
