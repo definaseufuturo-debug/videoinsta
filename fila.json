@@ -1,0 +1,51 @@
+{
+  "_info": "Fila de postagens. Horários em BRT. Use pipeline/fila.py para ler e alterar.",
+  "agendados": [
+    {
+      "id": "2026-10-26-12-caneta",
+      "video": "caneta_emagrecedora.mp4",
+      "legenda": "Como funciona por dentro a caneta emagrecedora? 💉🧠\n\nEla não queima gordura: imita o GLP-1, um hormônio que o seu intestino já produz e que avisa o cérebro que você está satisfeito. A diferença é que a versão do remédio foi modificada pra durar cerca de uma semana.\n\n⚠️ Pode causar efeitos colaterais e o peso costuma voltar quando se para. No Brasil, só com receita retida, e a Anvisa mandou apreender canetas sem registro vendidas na internet. Nunca use sem orientação médica.\n\n📚 Conteúdo educativo, não substitui orientação médica.\n🎨 Animação e narração feitas com IA.\n\nQual remédio você quer ver por dentro? Comenta aí e segue a @mindloop_u 👇\n\n#canetaemagrecedora #glp1 #comofunciona #saude #ciencia #curiosidades #emagrecimento #anvisa",
+      "postar_em": "2026-10-26T12:00",
+      "status": "pendente",
+      "thumb_offset": 3500
+    },
+    {
+      "id": "2026-10-26-19-elevador",
+      "video": "elevador_freio.mp4",
+      "postar_em": "2026-10-26T19:00",
+      "status": "pendente",
+      "thumb_offset": 2500,
+      "legenda": "E se o cabo do elevador arrebentar? 🛗😱\n\nSpoiler: ele não despenca. Existe um freio de segurança genial, inventado em 1854, que trava o elevador nos trilhos sozinho, sem precisar de energia.\n\nVocê tem medo de elevador? Comenta aí!\n\n🎨 Animação e narração feitas com IA.\n\nSegue a @mindloop_u pra entender como as coisas funcionam por dentro 👇\n\n#elevador #comofunciona #engenharia #curiosidades #seguranca #ciencia #fisica"
+    }
+  ],
+  "reserva": [
+    {
+      "id": "reserva-pix",
+      "video": "pix_como_funciona.mp4",
+      "status": "disponivel",
+      "thumb_offset": 4000,
+      "legenda": "O que acontece nos 3 segundos depois que você aperta \"enviar\" no Pix? 💸⚡\n\nDa chave ao Banco Central e de volta: o caminho do seu dinheiro por dentro.\n\n🎨 Animação e narração feitas com IA.\n\nSegue a @mindloop_u pra entender como as coisas funcionam por dentro 👇\n\n#pix #comofunciona #bancocentral #tecnologia #curiosidades #dinheiro"
+    },
+    {
+      "id": "reserva-bacterias",
+      "video": "bacterias.mp4",
+      "status": "disponivel",
+      "thumb_offset": 2000,
+      "legenda": "Você tem trilhões de bactérias morando no seu corpo 🦠 E a maioria está do seu lado.\n\nComo funciona o cabo de guerra entre as bactérias boas e as ruins no seu intestino.\n\n📚 Conteúdo educativo, não substitui orientação médica.\n\n🎨 Animação e narração feitas com IA.\n\nSegue a @mindloop_u pra entender como as coisas funcionam por dentro 👇\n\n#bacterias #intestino #microbiota #saude #curiosidades #ciencia #comofunciona"
+    },
+    {
+      "id": "reserva-hiperinflacao",
+      "video": "hiperinflacao.mp4",
+      "status": "disponivel",
+      "thumb_offset": 3000,
+      "legenda": "Em 1993, a inflação no Brasil passou de 2.000% em um ano 🤯 Os preços mudavam no mesmo dia.\n\nComo era viver na hiperinflação e como o Plano Real virou o jogo. Você ou seus pais viveram isso? Conta aqui!\n\n🎨 Animação e narração feitas com IA.\n\nSegue a @mindloop_u pra entender como as coisas funcionam por dentro 👇\n\n#hiperinflacao #planoreal #nostalgia #economia #historia #brasil #curiosidades"
+    },
+    {
+      "id": "reserva-cerebro",
+      "video": "cerebro_aprende.mp4",
+      "status": "disponivel",
+      "thumb_offset": 3000,
+      "legenda": "O que acontece no seu cérebro quando você aprende algo? 🧠✨\n\nNeurônios trocam sinais e, com a prática, as conexões ficam mais fortes. É por isso que treinar funciona.\n\n🎨 Animação e narração feitas com IA.\n\nSegue a @mindloop_u pra entender como as coisas funcionam por dentro 👇\n\n#cerebro #neurociencia #aprendizado #comofunciona #curiosidades #ciencia #estudos"
+    }
+  ]
+}

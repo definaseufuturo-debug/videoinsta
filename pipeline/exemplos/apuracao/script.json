@@ -1,0 +1,17 @@
+{
+  "voice": "pf_dora",
+  "speed": 1.15,
+  "lang": "pt-br",
+  "_comment": "Por que o resultado virou no meio da apuração (2º turno 2026). Fontes: Plural (linha do tempo da apuração), Bloomberg Línea (resultado por estado), TSE.",
+  "say": { "TSE": "tê ésse é" },
+  "clips": [
+    { "id": "c1", "scene": 1, "minStart": 0.3, "gapAfterPrev": 0, "text": "Ontem, Flávio Bolsonaro liderou boa parte da apuração. Mas às oito e vinte e seis da noite, com quase metade das urnas contadas, Lula passou na frente. Foi mágica? Não. Tem explicação." },
+    { "id": "c2", "scene": 2, "minStart": 0, "gapAfterPrev": 0.4, "text": "Às cinco da tarde, cada urna imprime um boletim com os votos daquela seção. Esse resultado é transmitido, criptografado, para o TSE, que soma tudo." },
+    { "id": "c3", "scene": 3, "minStart": 0, "gapAfterPrev": 0.4, "text": "Só que os estados não chegam juntos. Sul, Sudeste e Centro-Oeste totalizaram mais rápido. O Nordeste entrou em volume depois." },
+    { "id": "c4", "scene": 4, "minStart": 0, "gapAfterPrev": 0.4, "text": "Então a parcial do começo não era o Brasil inteiro. Era, principalmente, onde o Flávio estava mais forte. É como contar um pote de balas pegando só as de cima." },
+    { "id": "c5", "scene": 5, "minStart": 0, "gapAfterPrev": 0.4, "text": "Quando o Nordeste chegou, a conta virou. Lá, Lula teve quase catorze milhões de votos a mais. Resultado final: cinquenta e um vírgula oito por cento, contra quarenta e oito vírgula dois." },
+    { "id": "c6", "scene": 6, "minStart": 0, "gapAfterPrev": 0.45, "text": "Ou seja: parcial não é previsão. Só o cem por cento decide. Manda pra quem ficou confuso ontem, e segue pra entender como as coisas funcionam por dentro." }
+  ],
+  "tailAfterLastClip": 1.8,
+  "keywords": []
+}

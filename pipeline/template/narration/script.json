@@ -1,0 +1,17 @@
+{
+  "voice": "pm_alex",
+  "speed": 1.12,
+  "lang": "pt-br",
+  "_comment": "Como funciona por dentro a caneta emagrecedora (agonistas de GLP-1). Fontes: estudos STEP-1 e SURMOUNT-1 (NEJM), CFF/Anvisa (receita retida), Anvisa RE 4.035/2026 (apreensão).",
+  "say": { "GLP-1": "gê ele pê um", "Anvisa": "anvisa" },
+  "clips": [
+    { "id": "c1", "scene": 1, "minStart": 0.3, "gapAfterPrev": 0, "text": "Em estudos, quem usou essa caneta perdeu, em média, até vinte por cento do peso. Mas ela não queima gordura. Ela imita um hormônio que o seu corpo já tem." },
+    { "id": "c2", "scene": 2, "minStart": 0, "gapAfterPrev": 0.4, "text": "Quando você come, o intestino libera um hormônio chamado GLP-1. Ele avisa o cérebro: chega, você está satisfeito. E manda o pâncreas soltar insulina." },
+    { "id": "c3", "scene": 3, "minStart": 0, "gapAfterPrev": 0.4, "text": "O problema: o GLP-1 natural dura só uns dois minutos. Uma enzima destrói ele rapidinho." },
+    { "id": "c4", "scene": 4, "minStart": 0, "gapAfterPrev": 0.4, "text": "O remédio da caneta é uma versão modificada, que a enzima não consegue quebrar. Ele dura cerca de uma semana. Por isso, é só uma injeção por semana." },
+    { "id": "c5", "scene": 5, "minStart": 0, "gapAfterPrev": 0.4, "text": "Resultado: o estômago esvazia mais devagar, a fome cai, e a pessoa come menos. Mas pode dar enjoo, e quem para de usar costuma recuperar boa parte do peso." },
+    { "id": "c6", "scene": 6, "minStart": 0, "gapAfterPrev": 0.45, "text": "Por isso, no Brasil, só se vende com receita retida. E a Anvisa mandou apreender canetas sem registro vendidas na internet. Qual remédio você quer ver por dentro? Comenta, e segue pra mais." }
+  ],
+  "tailAfterLastClip": 1.8,
+  "keywords": []
+}
