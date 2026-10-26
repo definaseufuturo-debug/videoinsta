@@ -15,7 +15,8 @@ Cada post é enviado uns 10 minutos antes do horário para entrar no ar a tempo.
 
 - **Manhã: RAIO-X.** Um objeto ou tecnologia do dia a dia aberto por dentro (estilo do vídeo `motor`). É o vídeo que mais gera salvamento.
 - **Almoço: EM ALTA.** O assunto mais comentado do Brasil no dia, explicado de forma neutra e educativa (estilo dos vídeos `apuracao` e `caneta`). O tema é escolhido no dia, pesquisando as notícias. Não entram política partidária, tragédias com vítimas nem fofoca.
-- **Noite: CORPO, ESCALA ou QUIZ.** Corpo humano, comparação de tamanho e escala, ou um quiz do tipo "você acertaria?". É o vídeo que mais gera comentário.
+- **Noite: CORPO, ESCALA, QUIZ ou MAPA.** Corpo humano, comparação de tamanho e escala, ou um quiz do tipo "você acertaria?". É o vídeo que mais gera comentário.
+  - **MAPA** é o formato de melhor resultado até agora: 8,6 mil visualizações e 146 envios no mapa da virada. Vai **3 vezes por semana (seg, qua, sex)** no lugar do tema da noite. Use o estilo dos exemplos `mapa`, `estados` e `capitais` (papel quadriculado, mapa real dos estados em `assets/br.json`, ranking em barras) e feche com o CTA "comenta a sigla do seu estado".
 
 ## Fila de temas
 
@@ -37,7 +38,19 @@ Marque `[x]` quando o vídeo for produzido. A produção sempre pega o próximo 
 - [ ] Usina hidrelétrica: da água à tomada
 - [ ] Cadeado e chave: o segredo dos pinos
 
-### Noite (corpo, escala ou quiz)
+### Noite: MAPA (seg, qua, sex). Só dados oficiais (IBGE, ANP, INMET, TSE, Censo), conferidos em 2 fontes
+- [ ] Preço médio da gasolina por estado: onde é mais caro e mais barato (ANP)
+- [ ] População: os estados mais e menos populosos e o tamanho de cada um (IBGE/Censo)
+- [ ] Onde chove mais e onde chove menos no Brasil (INMET)
+- [ ] Salário médio por estado (IBGE)
+- [ ] O estado mais quente e o mais frio (INMET)
+- [ ] Expectativa de vida por estado (IBGE)
+- [ ] Quantos carros por habitante em cada estado (Senatran/IBGE)
+- [ ] Onde nascem mais bebês: taxa de natalidade (IBGE)
+- [ ] O sotaque e a palavra: biscoito × bolacha, mandioca × aipim × macaxeira (fontes de pesquisa linguística)
+- [ ] Os estados mais e menos visitados por turistas (Ministério do Turismo)
+
+### Noite (corpo, escala ou quiz, nos outros dias)
 - [ ] Corpo: o que o café faz no seu cérebro
 - [ ] Escala: o tamanho real da Terra perto do Sol e da maior estrela
 - [ ] Quiz: 5 perguntas de física do dia a dia (você acertaria?)

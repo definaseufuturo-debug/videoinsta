@@ -14,7 +14,7 @@ Este repositório gera vídeos animados (desenhados por código), narrados com v
   - `novo.sh <slug>`: cria `producoes/<slug>` a partir do template.
   - `build.sh <slug> [--frames t1,t2]`: gera a narração, o áudio e o vídeo (`producoes/<slug>/build/video.mp4`).
   - `template/`: projeto base. `src/anim.js` é a animação em canvas e `narration/script.json` é o roteiro.
-  - `exemplos/`: animações reais já publicadas (`motor`, `apuracao`, `caneta`). Leia pelo menos uma inteira antes de escrever outra.
+  - `exemplos/`: animações reais já publicadas (`motor`, `apuracao`, `caneta`, e as de mapa `mapa`, `estados` e `capitais`). Leia pelo menos uma inteira antes de escrever outra. Para MAPA, parta de `exemplos/estados` (mapa coroplético, ranking e CTA de sigla) com `assets/br.json`.
 - `log/postagens.md`: registro de cada execução. Sempre acrescente uma linha.
 
 ## Tarefa A: POSTAR (rodada nos horários de postagem)
@@ -40,7 +40,9 @@ Para cada horário do dia (veja os horários em `calendario.md`):
    - vozes `pm_alex` ou `pf_dora`, alternando;
    - siglas pronunciadas pelo mapa `say`;
    - a primeira frase é um gancho forte, com número, pergunta ou choque;
-   - a última frase é o CTA: pergunta para comentar e "segue pra mais".
+   - a última frase é o CTA: pergunta para comentar e um motivo para seguir. Prefira o gancho de série ("amanhã: X, segue pra não perder") ao "segue pra mais", porque converte mais seguidores;
+   - duração ideal de 35 a 45 s. Os vídeos mais curtos retêm melhor;
+   - `thumb_offset` (capa): use o instante em que o título ou número principal da cena 1 já está inteiro na tela, nunca um quadro de transição ou de contagem pela metade.
 2b. **Voz (padrão: Fish Audio).**
    - No `script.json`, adicione `"fish": {"voice": "<id>", "speed": 1.18, "model": "s2.1-pro-free"}`.
    - Alterne as vozes entre os vídeos do dia:
