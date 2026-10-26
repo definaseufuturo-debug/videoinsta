@@ -1,7 +1,7 @@
 {
-  "status": "pronto",
+  "status": "pendente",
   "voice": "c9d3da0bdf61417d929dc67966e4befe",
-  "speed": 1.05,
+  "speed": 1.18,
   "model": "s2.1-pro-free",
   "language": "pt",
   "clips": [
