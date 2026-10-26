@@ -1,8 +1,8 @@
 {
-  "status": "erro",
+  "status": "pendente",
   "voice": "c9d3da0bdf61417d929dc67966e4befe",
   "speed": 1.05,
-  "model": "s2.1-pro",
+  "model": "s2.1-pro-free",
   "language": "pt",
   "clips": [
     {
@@ -29,6 +29,5 @@
       "id": "c6",
       "text": "Por isso, no Brasil, só se vende com receita retida. E a anvisa mandou apreender canetas sem registro vendidas na internet. Qual remédio você quer ver por dentro? Comenta, e segue pra mais."
     }
-  ],
-  "erro": "HTTP 402: {\"status\":402,\"message\":\"Insufficient API credit. API credit is managed independently from platform credit. Please visit https://fish.audio/app/developers to view your API credit balance or add funds.\"}"
+  ]
 }
