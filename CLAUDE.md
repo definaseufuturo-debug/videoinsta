@@ -32,8 +32,7 @@ Este repositório gera vídeos animados (desenhados por código), narrados com v
 ## Tarefa B: PRODUZIR (de madrugada, faz os 3 vídeos do dia)
 Para cada horário do dia (veja os horários em `calendario.md`):
 
-1. **Tema.** Pegue o próximo `[ ]` da coluna certa.
-   - No horário de almoço (EM ALTA), pesquise com WebSearch as notícias de hoje no Brasil e escolha um assunto em alta que dê para explicar em "como funciona" de forma neutra.
+1. **Tema.** Pegue o próximo `[ ]` da coluna certa. A Tarefa B faz só a manhã e a noite. O almoço (EM ALTA) é feito de manhã pela Tarefa C, para pegar o assunto ainda quente.
    - Pesquise e confira os fatos (2 ou mais fontes) e anote as fontes no `script.json` (`_comment`).
 2. **Roteiro.** Rode `pipeline/novo.sh AAAA-MM-DD-<slug>` e escreva o `narration/script.json`:
    - 6 a 7 clips, 45 a 55 s no total, com `speed` entre 1,10 e 1,15;
@@ -71,6 +70,25 @@ Para cada horário do dia (veja os horários em `calendario.md`):
    - Marque o tema como `[x]` no `calendario.md`.
 6. Faça commit e push depois de cada vídeo (não espere os 3). Apague `producoes/<slug>/build` antes do commit, porque ele já está no .gitignore.
 7. Se um vídeo falhar, deixe o horário vazio. A tarefa de postar usa a reserva.
+
+## Tarefa C: EM ALTA (de manhã, faz o vídeo do almoço com o assunto quente do dia)
+1. Rode `pipeline/trends.sh`. Ele lista o que o Brasil mais está buscando agora (Google Trends), com a manchete de cada assunto. Complete com WebSearch das notícias de hoje.
+2. Escolha **um** assunto que esteja na boca do povo **e** que dê para explicar no formato "como funciona" ou com dados. Exemplos:
+   - "por que o dólar subiu";
+   - "como funciona a regra X que mudou hoje";
+   - "o que é o fenômeno do tempo que está em todo lugar";
+   - um jogo histórico explicado em números;
+   - um lançamento de tecnologia por dentro.
+   Prefira o de maior volume de busca entre os que encaixam.
+3. Não entram:
+   - tragédias com vítimas;
+   - crimes envolvendo pessoas identificáveis;
+   - fofoca e vida pessoal de famosos;
+   - boatos não confirmados;
+   - política partidária opinativa.
+   Também valem as Regras de conteúdo abaixo (sem rosto, marca ou escudo de time: desenhe tudo genérico).
+4. Confira os fatos em 2 ou mais fontes. Depois produza como na Tarefa B, com vídeo de 35 a 45 s. O horário é 12:00 nos dias úteis e 13:00 no fim de semana. Se o horário já tiver vídeo na fila, use `fila.py` para substituir só se o assunto novo for claramente mais quente.
+5. No log, registre qual assunto foi escolhido e por quê.
 
 ## Regras de conteúdo (sempre)
 - **Propriedade intelectual:** nenhuma marca, logo, produto de marca, personagem famoso ou rosto de pessoa real. Desenhe versões genéricas.
