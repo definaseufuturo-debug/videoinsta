@@ -1,0 +1,23 @@
+# Baixa dados abertos do TSE (o ambiente do Claude não acessa tse.jus.br; o GitHub acessa).
+# Disparo: push em tse/pedido.json. Resultado: tse/sonda.json (status/tamanho de cada URL) e,
+# para itens com "baixar": true, o arquivo extraído/filtrado em tse/dados/.
+name: tse-fetch
+on:
+  push:
+    paths: ["tse/pedido.json"]
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 pipeline/tse_fetch.py
+      - run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add tse/
+          git diff --cached --quiet && exit 0
+          git commit -m "tse: dados baixados"
+          for i in 1 2 3; do git pull --rebase origin main && git push origin HEAD:main && break; sleep 5; done
