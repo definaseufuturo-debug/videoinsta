@@ -1,3 +1,4 @@
 {"baixar": [
- {"url": "https://resultados.tse.jus.br/oficial/comum/config/ele-c.json", "bruto": true, "saida": "ele-c.json"}
+ {"url": "https://resultados.tse.jus.br/oficial/ele2026/arquivo-urna/3221/config/sp/sp-p003221-cs.json", "bruto": true, "saida": "sp-cs.json"},
+ {"url": "https://resultados.tse.jus.br/oficial/ele2026/6258/dados-simplificados/sp/sp71072-c0001-e006258-r.json", "bruto": true, "saida": "sp-capital-r.json"}
 ], "sondar": []}
