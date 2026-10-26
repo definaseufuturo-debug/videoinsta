@@ -138,7 +138,15 @@ def main():
         SAY = script.get("say", {})  # pronúncia: troca só no áudio, a legenda mantém o texto original
         say_text = c["text"]
         for a_, b_ in SAY.items(): say_text = re.sub(r"\b" + re.escape(a_) + r"\b", b_, say_text)
-        audio, sr = k.create(say_text, voice=voice, speed=speed, lang=script["lang"])
+        if script.get("fish"):  # voz da Fish Audio (gerada por pipeline/fish.sh)
+            import soundfile as _sf
+            from scipy.signal import resample_poly
+            fa, fsr = _sf.read(str(ROOT / "fish" / f"{c['id']}.wav"), dtype="float32")
+            if fa.ndim > 1: fa = fa.mean(axis=1)
+            if fsr != SR: fa = resample_poly(fa, SR, fsr).astype("float32")
+            audio, sr = fa, SR
+        else:
+            audio, sr = k.create(say_text, voice=voice, speed=speed, lang=script["lang"])
         assert sr == SR
         audio, _ = trim(np.asarray(audio, dtype=np.float32))
         dur = len(audio) / SR
