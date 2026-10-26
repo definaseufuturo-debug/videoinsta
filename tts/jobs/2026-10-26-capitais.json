@@ -1,0 +1,33 @@
+{
+  "status": "pendente",
+  "voice": "b1cab1f57b8d41aeb225d7d8bafc0806",
+  "speed": 1.18,
+  "model": "s2.1-pro-free",
+  "language": "pt",
+  "clips": [
+    {
+      "id": "c1",
+      "text": "Nas capitais, deu quase empate: Flávio venceu em catorze, e Lula em treze. Mas o mais curioso é onde a capital votou diferente do próprio estado."
+    },
+    {
+      "id": "c2",
+      "text": "O estado de São Paulo deu Flávio. Mas a cidade de São Paulo deu Lula, com cinquenta e cinco e meio por cento. O mesmo aconteceu no Rio e em Porto Alegre."
+    },
+    {
+      "id": "c3",
+      "text": "E o contrário também: Lula venceu no Amazonas, em Alagoas e em Minas. Mas Manaus, Maceió e Belo Horizonte foram de Flávio."
+    },
+    {
+      "id": "c4",
+      "text": "As mais apertadas foram Macapá e Belo Horizonte, com menos de dois pontos de diferença."
+    },
+    {
+      "id": "c5",
+      "text": "E os extremos: Salvador deu setenta e três por cento pro Lula. Boa Vista, setenta e seis por cento pro Flávio."
+    },
+    {
+      "id": "c6",
+      "text": "E na sua cidade, como foi? Comenta aí, e segue pra mais."
+    }
+  ]
+}
