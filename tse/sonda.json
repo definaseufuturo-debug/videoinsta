@@ -1,9 +1,0 @@
-{
-  "https://resultados.tse.jus.br/oficial/ele2026/arquivo-urna/3221/config/sp/sp-p003221-cs.json": {
-    "baixado": "sp-cs.json",
-    "bytes": 6293803
-  },
-  "https://resultados.tse.jus.br/oficial/ele2026/6258/dados-simplificados/sp/sp71072-c0001-e006258-r.json": {
-    "erro_baixar": "HTTP Error 404: Not Found"
-  }
-}
