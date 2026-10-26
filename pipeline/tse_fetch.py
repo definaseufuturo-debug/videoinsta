@@ -19,6 +19,8 @@ out = ROOT / "tse/dados"; out.mkdir(parents=True, exist_ok=True)
 for it in ped.get("baixar", []):
     try:
         data = urllib.request.urlopen(urllib.request.Request(it["url"], headers=UA), timeout=600).read()
+        if it.get("bruto"):
+            (out / it["saida"]).write_bytes(data); res[it["url"]] = {"baixado": it["saida"], "bytes": len(data)}; continue
         files = []
         if it["url"].endswith(".zip"):
             z = zipfile.ZipFile(io.BytesIO(data))

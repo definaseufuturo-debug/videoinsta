@@ -1,9 +1,3 @@
-{"sondar": [
- "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2026_SP.zip",
- "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2026.zip",
- "https://cdn.tse.jus.br/estatistica/sead/odsele/detalhe_votacao_munzona/detalhe_votacao_munzona_2026.zip",
- "https://cdn.tse.jus.br/estatistica/sead/odsele/perfil_eleitor_secao/perfil_eleitor_secao_2026_SP.zip",
- "https://cdn.tse.jus.br/estatistica/sead/odsele/eleitorado_locais_votacao/eleitorado_local_votacao_2026.zip",
- "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_secao/votacao_secao_2022_SP.zip",
- "https://resultados.tse.jus.br/oficial/comum/config/ele-c.json"
-]}
+{"baixar": [
+ {"url": "https://resultados.tse.jus.br/oficial/comum/config/ele-c.json", "bruto": true, "saida": "ele-c.json"}
+], "sondar": []}
