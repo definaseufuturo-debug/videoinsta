@@ -41,6 +41,13 @@ Para cada horário do dia (veja os horários em `calendario.md`):
    - siglas pronunciadas pelo mapa `say`;
    - a primeira frase é um gancho forte, com número, pergunta ou choque;
    - a última frase é o CTA: pergunta para comentar e "segue pra mais".
+2b. **Voz (padrão: Fish Audio).**
+   - No `script.json`, adicione `"fish": {"voice": "<id>", "speed": 1.18, "model": "s2.1-pro-free"}`.
+   - Alterne as vozes entre os vídeos do dia:
+     - masculina: `c9d3da0bdf61417d929dc67966e4befe`;
+     - jovem: `b1cab1f57b8d41aeb225d7d8bafc0806`.
+   - Rode `pipeline/fish.sh <slug>`. Ele envia o pedido ao GitHub Actions, que usa o segredo `FISH_API_KEY`, espera e copia os áudios para `producoes/<slug>/fish/`. Depois siga com `pipeline/build.sh`.
+   - Se a Fish der erro (sem crédito, fora do ar ou tempo esgotado), apague a chave `"fish"` do `script.json` e use a voz Kokoro (`pm_alex`/`pf_dora`). Registre o motivo no log.
 3. **Animação.** Escreva `src/anim.js`, com uma cena por clip, presa às palavras via `wt('cN','palavra')`.
    - Reaproveite as primitivas do template: `txt`, `rtxt`, `chip`, `stampMark`, `bg`, `soft` e as legendas.
    - Use só tipos de som que existem no dicionário `H` de `tools/audio.py`.
