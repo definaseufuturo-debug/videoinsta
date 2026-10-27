@@ -1,0 +1,18 @@
+{
+  "voice": "pm_alex",
+  "speed": 1.12,
+  "lang": "pt-br",
+  "_comment": "Blocos regionais no 2º turno 2026. Somas calculadas a partir dos votos válidos por estado (TSE via Bloomberg Línea). N+NE: L 29.475.058 F 15.820.283; S+SE: L 30.847.101 F 38.230.394; CO+DF: L 3.733.919 F 5.603.867. Total nacional c/ exterior: dif 4.430.191.",
+  "say": {},
+  "fish": { "voice": "c9d3da0bdf61417d929dc67966e4befe", "speed": 1.18, "model": "s2.1-pro-free" },
+  "clips": [
+    { "id": "c1", "scene": 1, "minStart": 0.3, "gapAfterPrev": 0, "text": "Somando os votos por região, dá pra ver exatamente onde essa eleição foi decidida." },
+    { "id": "c2", "scene": 2, "minStart": 0, "gapAfterPrev": 0.4, "text": "Norte e Nordeste juntos: quarenta e cinco milhões de votos. Lula teve sessenta e cinco por cento, com treze vírgula sete milhões a mais." },
+    { "id": "c3", "scene": 3, "minStart": 0, "gapAfterPrev": 0.4, "text": "Sul e Sudeste juntos: sessenta e nove milhões de votos, o maior bloco do país. Flávio teve cinquenta e cinco por cento, com sete vírgula quatro milhões a mais." },
+    { "id": "c4", "scene": 4, "minStart": 0, "gapAfterPrev": 0.4, "text": "Centro-Oeste e Distrito Federal deram mais um vírgula nove milhão pro Flávio." },
+    { "id": "c5", "scene": 5, "minStart": 0, "gapAfterPrev": 0.4, "text": "Na conta final, a vantagem do Norte e Nordeste foi maior que a do resto do país somado. Resultado: quatro vírgula quatro milhões de diferença." },
+    { "id": "c6", "scene": 6, "minStart": 0, "gapAfterPrev": 0.45, "text": "Mas lembra: todo voto vale igual, de qualquer região. Qual número te surpreendeu? Comenta, e segue pra mais." }
+  ],
+  "tailAfterLastClip": 1.8,
+  "keywords": []
+}
