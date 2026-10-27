@@ -1,5 +1,19 @@
 {
   "conta": "cristao",
   "tipo": "diag",
-  "status": "pendente"
+  "status": "ok",
+  "diag": {
+    "tamanho_token": 258,
+    "inicio": "EAAY",
+    "ig_me": "HTTP 400: {\"error\":{\"message\":\"Invalid OAuth access token - Cannot parse access token\",\"type\":\"OAuthException\",\"code\":190,\"fbtrace_id\":\"Ap1R4-4zp3XThqarYeMbCUy\"}}",
+    "fb_me": {
+      "id": "122104825227519428",
+      "name": "Publicar Jonas System User"
+    },
+    "fb_contas": {
+      "data": []
+    },
+    "fb_ig": "HTTP 400: {\"error\":{\"message\":\"Unsupported get request. Object with ID '17841451042007480' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api\",\"code\":100,\"type\":\"Gr"
+  },
+  "processado_em": "2026-10-27T17:40:01Z"
 }
