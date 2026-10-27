@@ -1,0 +1,58 @@
+{
+  "voice": "pf_dora",
+  "speed": 1.12,
+  "lang": "pt-br",
+  "_comment": "EM ALTA 27/10: 'fase da lua hoje' (Google Trends BR, 1000+, manchete g1 'Lua do Caçador ilumina o céu'). Fontes: Star Walk PT (starwalk.space/pt/news/full-moon-october: lua cheia 26/10/2026 01:12 BRT = 04:12 UTC; não é superlua; primeira lua cheia após a Lua da Colheita de 26/09; origem: temporada de caça de outono no hemisfério norte; próxima lua cheia e superlua: Lua do Castor, 24/11/2026 11:53 BRT), Farmers' Almanac (Hunter's Moon 2026: 26/10 04:12 UTC; nascer da lua só ~30 min mais tarde por noite em vez dos ~50 típicos; caça após a colheita; Beaver Moon 24/11 abre sequência de superluas). Ilusão da Lua no horizonte: efeito perceptivo clássico (tamanho angular quase constante).",
+  "say": {},
+  "fish": {
+    "voice": "a7f67c4e2d94440aad9c5a82365d9d92",
+    "speed": 1.18,
+    "model": "s2.1-pro-free"
+  },
+  "clips": [
+    {
+      "id": "c1",
+      "scene": 1,
+      "minStart": 0.3,
+      "gapAfterPrev": 0,
+      "text": "A lua cheia dessa semana tem nome: Lua do Caçador. Mas não, ela não é uma superlua."
+    },
+    {
+      "id": "c2",
+      "scene": 2,
+      "minStart": 0,
+      "gapAfterPrev": 0.4,
+      "text": "A lua fica cheia quando está do lado oposto ao Sol, toda iluminada pra nós. O auge foi segunda, à uma e doze da madrugada."
+    },
+    {
+      "id": "c3",
+      "scene": 3,
+      "minStart": 0,
+      "gapAfterPrev": 0.4,
+      "text": "O nome vem do hemisfério norte. É a primeira lua cheia depois da colheita. Com os campos limpos, a luz da lua ajudava a caçar antes do inverno."
+    },
+    {
+      "id": "c4",
+      "scene": 4,
+      "minStart": 0,
+      "gapAfterPrev": 0.4,
+      "text": "E lá, nessa época, ela nasce só uns trinta minutos mais tarde por noite, e não cinquenta. Lua forte logo após o pôr do sol, várias noites seguidas."
+    },
+    {
+      "id": "c5",
+      "scene": 5,
+      "minStart": 0,
+      "gapAfterPrev": 0.4,
+      "text": "Se ela pareceu gigante no horizonte, é ilusão do seu cérebro. O tamanho quase não muda."
+    },
+    {
+      "id": "c6",
+      "scene": 6,
+      "minStart": 0,
+      "gapAfterPrev": 0.45,
+      "text": "A superlua de verdade vem no dia vinte e quatro de novembro. Você viu a lua? Comenta. E segue pra não perder a superlua."
+    }
+  ],
+  "tailAfterLastClip": 1.5,
+  "keywords": []
+}
