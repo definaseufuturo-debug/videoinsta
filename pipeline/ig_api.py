@@ -37,6 +37,8 @@ for jf in sorted((ROOT / "ig/jobs").glob("*.json")):
         d = {"tamanho_token": len(token), "inicio": token[:4]}
         for nome, host, path, f in [("ig_me", IG_API, "me", "user_id,username"), ("fb_me", FB_API, "me", "id,name"),
                                     ("fb_contas", FB_API, "me/accounts", "name,instagram_business_account{id,username}"),
+                                    ("fb_perms", FB_API, "me/permissions", "permission,status"),
+                                    ("fb_biz", FB_API, "me/businesses", "id,name,owned_instagram_accounts{id,username},instagram_accounts{id,username}"),
                                     ("fb_ig", FB_API, IG_IDS.get(job["conta"], "x"), "id,username")]:
             API = host
             try: d[nome] = call("GET", path, token, fields=f)
