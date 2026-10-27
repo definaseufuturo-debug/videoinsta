@@ -1,0 +1,33 @@
+{
+  "status": "pendente",
+  "voice": "c9d3da0bdf61417d929dc67966e4befe",
+  "speed": 1.18,
+  "model": "s2.1-pro-free",
+  "language": "pt",
+  "clips": [
+    {
+      "id": "c1",
+      "text": "Somando os votos por região, dá pra ver exatamente onde essa eleição foi decidida."
+    },
+    {
+      "id": "c2",
+      "text": "Norte e Nordeste juntos: quarenta e cinco milhões de votos. Lula teve sessenta e cinco por cento, com treze vírgula sete milhões a mais."
+    },
+    {
+      "id": "c3",
+      "text": "Sul e Sudeste juntos: sessenta e nove milhões de votos, o maior bloco do país. Flávio teve cinquenta e cinco por cento, com sete vírgula quatro milhões a mais."
+    },
+    {
+      "id": "c4",
+      "text": "Centro-Oeste e Distrito Federal deram mais um vírgula nove milhão pro Flávio."
+    },
+    {
+      "id": "c5",
+      "text": "Na conta final, a vantagem do Norte e Nordeste foi maior que a do resto do país somado. Resultado: quatro vírgula quatro milhões de diferença."
+    },
+    {
+      "id": "c6",
+      "text": "Mas lembra: todo voto vale igual, de qualquer região. Qual número te surpreendeu? Comenta, e segue pra mais."
+    }
+  ]
+}
