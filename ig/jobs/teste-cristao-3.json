@@ -1,5 +1,7 @@
 {
   "conta": "cristao",
   "tipo": "teste",
-  "status": "pendente"
+  "status": "erro",
+  "erro": "HTTP 400: {\"error\":{\"message\":\"Unsupported get request. Object with ID '17841451042007480' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api\",\"code\":100,\"type\":\"GraphMethodException\",\"error_subcode\":33,\"fbtrace_id\":\"A8WHpnP69bQ8kW2Ikx1JLDb\"}}",
+  "processado_em": "2026-10-27T18:21:14Z"
 }
