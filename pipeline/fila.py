@@ -9,6 +9,7 @@
   python3 pipeline/fila.py proximo --so-carrossel   -> só carrosséis vencidos (nunca usa a reserva)
   python3 pipeline/fila.py para_reserva <id>       -> tira um agendado pendente do horário e põe no início da reserva
   python3 pipeline/fila.py status                  -> resumo
+  Qualquer comando + "--conta cristao" usa a fila do perfil cristão (fila_cristao.json, vídeos em videos/cristao/).
 
 Regras do "proximo":
   1. item de "agendados" com status "pendente" e postar_em <= agora + 25 min (o mais antigo primeiro);
@@ -20,9 +21,14 @@ from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-FILA = ROOT / "fila.json"
 RAWROOT = "https://raw.githubusercontent.com/definaseufuturo-debug/videoinsta/main/"
-RAW = RAWROOT + "videos/"
+# --conta cristao  ->  usa fila_cristao.json e videos/cristao/ (padrão: @mindloop_u, fila.json e videos/)
+CONTA = None
+if "--conta" in sys.argv:
+    i = sys.argv.index("--conta"); CONTA = sys.argv[i + 1]; del sys.argv[i:i + 2]
+FILA = ROOT / (f"fila_{CONTA}.json" if CONTA else "fila.json")
+VDIR = ROOT / "videos" / CONTA if CONTA else ROOT / "videos"
+RAW = RAWROOT + (f"videos/{CONTA}/" if CONTA else "videos/")
 BRT = timezone(timedelta(hours=-3))
 now = lambda: datetime.now(BRT)
 
@@ -38,7 +44,7 @@ def out(it, origem):
     if it.get("tipo") == "carrossel":
         print(json.dumps({"id": it["id"], "origem": origem, "tipo": "carrossel", "image_urls": [RAWROOT + x for x in it["imagens"]], "caption": it["legenda"],
                           "postar_em": it.get("postar_em")}, ensure_ascii=False, indent=2)); return
-    print(json.dumps({"id": it["id"], "origem": origem, "tipo": "video", "video_url": RAW + it["video"], "caption": it["legenda"],
+    print(json.dumps({"id": it["id"], "origem": origem, "tipo": "video", "conta": CONTA, "video_url": RAW + it["video"], "caption": it["legenda"],
                       "thumb_offset": it.get("thumb_offset", 3000), "postar_em": it.get("postar_em")}, ensure_ascii=False, indent=2))
 
 cmd = sys.argv[1] if len(sys.argv) > 1 else "status"
@@ -59,7 +65,7 @@ elif cmd == "falhou":
     it = find(d, sys.argv[2]); it.setdefault("erros", []).append(f"{now().isoformat(timespec='minutes')} {sys.argv[3]}"); save(d); print("registrado")
 elif cmd == "adicionar":
     i, video, leg, quando = sys.argv[2:6]
-    assert (ROOT / "videos" / video).exists(), "vídeo não está em videos/"
+    assert (VDIR / video).exists(), f"vídeo não está em {VDIR.relative_to(ROOT)}/"
     datetime.fromisoformat(quando)
     item = {"id": i, "video": video, "legenda": Path(leg).read_text().strip(), "postar_em": quando, "status": "pendente"}
     if len(sys.argv) > 6: item["thumb_offset"] = int(sys.argv[6])
