@@ -1,0 +1,33 @@
+{
+  "status": "pendente",
+  "voice": "b1cab1f57b8d41aeb225d7d8bafc0806",
+  "speed": 1.18,
+  "model": "s2.1-pro-free",
+  "language": "pt",
+  "clips": [
+    {
+      "id": "c1",
+      "text": "Esse fogão ferve a água, mas você pode encostar a mão do lado da panela. Como isso é possível?"
+    },
+    {
+      "id": "c2",
+      "text": "Debaixo do vidro tem uma bobina de cobre. A corrente nela muda de sentido milhares de vezes por segundo, e cria um campo magnético."
+    },
+    {
+      "id": "c3",
+      "text": "Esse campo atravessa o vidro e gera correntes dentro do fundo da panela. É a própria panela que esquenta, não o fogão."
+    },
+    {
+      "id": "c4",
+      "text": "Por isso a panela tem que ser de metal magnético. O teste é fácil: se o ímã gruda no fundo, funciona."
+    },
+    {
+      "id": "c5",
+      "text": "Vale a pena? Quase noventa por cento do calor vai pra panela. Numa conta com tarifa média, saiu uns vinte reais mais barato por mês que o botijão. Mas depende da tarifa da sua região."
+    },
+    {
+      "id": "c6",
+      "text": "Deixei o modelo que eu indicaria no link da bio. E segue pra ver o próximo vale a pena."
+    }
+  ]
+}
