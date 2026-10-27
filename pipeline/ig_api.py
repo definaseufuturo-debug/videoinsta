@@ -33,6 +33,16 @@ for jf in sorted((ROOT / "ig/jobs").glob("*.json")):
     job = json.loads(jf.read_text())
     if job.get("status") != "pendente": continue
     token = os.environ.get("IG_TOKEN_" + job["conta"].upper(), "")
+    if job["tipo"] == "diag":
+        d = {"tamanho_token": len(token), "inicio": token[:4]}
+        for nome, host, path, f in [("ig_me", IG_API, "me", "user_id,username"), ("fb_me", FB_API, "me", "id,name"),
+                                    ("fb_contas", FB_API, "me/accounts", "name,instagram_business_account{id,username}"),
+                                    ("fb_ig", FB_API, IG_IDS.get(job["conta"], "x"), "id,username")]:
+            API = host
+            try: d[nome] = call("GET", path, token, fields=f)
+            except Exception as e: d[nome] = str(e)[:300]
+        job["diag"], job["status"] = d, "ok"; job["processado_em"] = time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime())
+        jf.write_text(json.dumps(job, ensure_ascii=False, indent=2)); print(jf.name, "diag"); continue
     try:
         if not token: raise RuntimeError(f"segredo IG_TOKEN_{job['conta'].upper()} não configurado")
         API = IG_API

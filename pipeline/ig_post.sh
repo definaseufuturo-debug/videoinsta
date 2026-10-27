@@ -17,4 +17,4 @@ for i in $(seq 1 60); do
   st=$(python3 -c "import json;print(json.load(open('ig/jobs/$ID.json'))['status'])")
   [ "$st" != "pendente" ] && break
 done
-python3 -c "import json;j=json.load(open('ig/jobs/$ID.json'));print(json.dumps({k:j.get(k) for k in ('status','usuario','media_id','erro','limite')},ensure_ascii=False))"
+python3 -c "import json;j=json.load(open('ig/jobs/$ID.json'));print(json.dumps({k:j.get(k) for k in ('status','usuario','media_id','erro','limite','diag')},ensure_ascii=False))"
