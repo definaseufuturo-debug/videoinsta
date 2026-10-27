@@ -15,3 +15,4 @@
 - 2026-10-27 09:33 | 2026-10-27-12-bola-de-ouro | produção (Tarefa C, EM ALTA, pedido do Jonas) | fila 12:00 ok (voz Fish 4, 36 s, 16 MB). Assunto: Bola de Ouro 2026 (Kane). Motivo: 'quem ganhou a bola de ouro' 500 mil+ no Trends BR (+1000%), muito mais quente que a lua; 2026-10-27-12-lua-cacador foi para o início da reserva (novo comando fila.py para_reserva). Pedido do Jonas: foto do jogador recusada (regra de rosto/direitos), usado jogador genérico.
 - 2026-10-27 11:02 | 2026-10-27-12-lua-cacador | manual (pedido do Jonas, da reserva) | ok 18599408839065745
 - 2026-10-27 11:53 | 2026-10-27-12-bola-de-ouro | agendado | ok 18122766383313170
+- 2026-10-27 15:54 | - | carrossel | nada na fila (proximo --so-carrossel)
