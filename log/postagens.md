@@ -9,3 +9,4 @@
 - 2026-10-26 21:01 | 2026-10-26-21-estados | agendado | ok 18375213223300919
 - 2026-10-27 00:22 | 2026-10-27-19-cafe | produção (Tarefa B) | fila 19:00 ok (voz Fish masculina, 51 s, 21 MB). Manhã 08:00 já tinha 2026-10-27-08-inducao na fila.
 - 2026-10-27 06:52 | 2026-10-27-blocos | manual | ok 18490507822129034
+- 2026-10-27 07:30 | 2026-10-27-top10 | manual | ok 18015681422983342
