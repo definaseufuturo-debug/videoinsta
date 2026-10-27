@@ -1,0 +1,33 @@
+# Publica no Instagram pela API oficial (Instagram API with Instagram Login), sem intermediários.
+# Disparo: push de ig/jobs/<id>.json com "status": "pendente" (feito por pipeline/ig_post.sh).
+# Segredos: IG_TOKEN_<CONTA> (token de acesso gerado no painel da Meta), por exemplo IG_TOKEN_CRISTAO.
+name: ig-post
+on:
+  push:
+    paths: ["ig/jobs/*.json"]
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: ig-post
+  cancel-in-progress: false
+jobs:
+  post:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Publicar pendentes
+        env:
+          IG_TOKEN_CRISTAO: ${{ secrets.IG_TOKEN_CRISTAO }}
+          IG_TOKEN_MINDLOOP: ${{ secrets.IG_TOKEN_MINDLOOP }}
+          IG_TOKEN_EXTRA1: ${{ secrets.IG_TOKEN_EXTRA1 }}
+          IG_TOKEN_EXTRA2: ${{ secrets.IG_TOKEN_EXTRA2 }}
+        run: python3 pipeline/ig_api.py
+      - name: Salvar resultado
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add ig/
+          git diff --cached --quiet && exit 0
+          git commit -m "ig-post: resultado"
+          for i in 1 2 3; do git pull --rebase origin main && git push origin HEAD:main && break; sleep 5; done
