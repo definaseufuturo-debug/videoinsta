@@ -1,0 +1,33 @@
+{
+  "status": "pendente",
+  "voice": "a0a26a57cac94ea4918f05a2393b4259",
+  "speed": 1.18,
+  "model": "s2.1-pro-free",
+  "language": "pt",
+  "clips": [
+    {
+      "id": "c1",
+      "text": "Sessenta e um gols em cinquenta e um jogos. Foi assim que Harry Kane ganhou a Bola de Ouro."
+    },
+    {
+      "id": "c2",
+      "text": "Ele é o primeiro inglês a vencer desde Michael Owen, em dois mil e um. Foram vinte e cinco anos de espera."
+    },
+    {
+      "id": "c3",
+      "text": "Mas quem escolhe? Jornalistas de cem países, os primeiros do ranking da fifa. Cada um monta a sua lista, e os pontos são somados."
+    },
+    {
+      "id": "c4",
+      "text": "Na temporada, Kane foi campeão alemão, ganhou a Copa da Alemanha e foi artilheiro da liga pela terceira vez seguida."
+    },
+    {
+      "id": "c5",
+      "text": "No pódio: Kane, Mbappé e Lamine Yamal. O melhor brasileiro, vini Júnior, ficou só em décimo sétimo."
+    },
+    {
+      "id": "c6",
+      "text": "E você, o que achou? Foi merecido? Comenta. E segue pra mais futebol explicado em números."
+    }
+  ]
+}
