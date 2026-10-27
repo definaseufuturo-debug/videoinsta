@@ -17,3 +17,4 @@
 - 2026-10-27 11:53 | 2026-10-27-12-bola-de-ouro | agendado | ok 18122766383313170
 - 2026-10-27 15:54 | - | carrossel | nada na fila (proximo --so-carrossel)
 - 2026-10-27 15:57 | cristao-exodo-mar-vermelho | manual (API Meta, @e_cosdafe) | ok 18117051887274207
+- 2026-10-27 18:52 | 2026-10-27-19-cafe | agendado | ok 18029150702865956
