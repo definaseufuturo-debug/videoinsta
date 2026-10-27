@@ -358,7 +358,7 @@
       scr(); ctx.globalAlpha = 0.22; const f = Math.floor(t * 12); ctx.drawImage(grain, -((f * 37) % 40), -((f * 53) % 40), W + 40, H + 40); ctx.globalAlpha = 1; ctx.drawImage(vig, 0, 0);
       if (fl > 0) { ctx.globalAlpha = clamp(fl) * 0.85; ctx.fillStyle = '#05070c'; ctx.fillRect(0, 0, W, H); ctx.globalAlpha = 1; }
       captions(t);
-      txt('conteúdo educativo • não substitui orientação médica', 540, 1840, 26, { w: 600, color: 'rgba(255,255,255,0.45)' });
+      txt('conteúdo educativo', 540, 1840, 26, { w: 600, color: 'rgba(255,255,255,0.45)' });
     }
     for (let k = 1; k < NS; k++) cue(B[k] - 0.15, 'whoosh', { dur: 0.3, gain: 0.6 });
     cues.sort((a, b) => a.t - b.t);

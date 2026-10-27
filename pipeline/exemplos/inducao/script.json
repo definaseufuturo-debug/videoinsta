@@ -1,0 +1,18 @@
+{
+  "voice": "pf_dora",
+  "speed": 1.12,
+  "lang": "pt-br",
+  "_comment": "Como funciona o fogão de indução + vale a pena? Fontes: Canaltech (contas: ~1 kWh/h, tarifa média ANEEL R$0,756/kWh, botijão R$100/45 dias; ~90% do calor na panela), Brastemp (funcionamento), Manual do Mundo (consumo). Vídeo com CTA de afiliado (link na bio, #publi).",
+  "say": {},
+  "fish": { "voice": "b1cab1f57b8d41aeb225d7d8bafc0806", "speed": 1.18, "model": "s2.1-pro-free" },
+  "clips": [
+    { "id": "c1", "scene": 1, "minStart": 0.3, "gapAfterPrev": 0, "text": "Esse fogão ferve a água, mas você pode encostar a mão do lado da panela. Como isso é possível?" },
+    { "id": "c2", "scene": 2, "minStart": 0, "gapAfterPrev": 0.4, "text": "Debaixo do vidro tem uma bobina de cobre. A corrente nela muda de sentido milhares de vezes por segundo, e cria um campo magnético." },
+    { "id": "c3", "scene": 3, "minStart": 0, "gapAfterPrev": 0.4, "text": "Esse campo atravessa o vidro e gera correntes dentro do fundo da panela. É a própria panela que esquenta, não o fogão." },
+    { "id": "c4", "scene": 4, "minStart": 0, "gapAfterPrev": 0.4, "text": "Por isso a panela tem que ser de metal magnético. O teste é fácil: se o ímã gruda no fundo, funciona." },
+    { "id": "c5", "scene": 5, "minStart": 0, "gapAfterPrev": 0.4, "text": "Vale a pena? Quase noventa por cento do calor vai pra panela. Numa conta com tarifa média, saiu uns vinte reais mais barato por mês que o botijão. Mas depende da tarifa da sua região." },
+    { "id": "c6", "scene": 6, "minStart": 0, "gapAfterPrev": 0.45, "text": "Deixei o modelo que eu indicaria no link da bio. E segue pra ver o próximo vale a pena." }
+  ],
+  "tailAfterLastClip": 1.8,
+  "keywords": []
+}
