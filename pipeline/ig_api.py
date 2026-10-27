@@ -9,7 +9,8 @@ ROOT = Path(__file__).resolve().parent.parent
 IG_API = "https://graph.instagram.com/v26.0"
 FB_API = "https://graph.facebook.com/v26.0"  # token do login unificado/Facebook (precisa de ig_id)
 API = IG_API
-IG_IDS = {"cristao": "17841451042007480"}
+CONTAS = json.loads((ROOT / "ig/contas.json").read_text()) if (ROOT / "ig/contas.json").exists() else {}
+IG_IDS = {k: v["ig_id"] for k, v in CONTAS.items() if isinstance(v, dict) and v.get("ig_id")}
 
 def call(method, path, token, **params):
     params["access_token"] = token
@@ -32,7 +33,7 @@ def wait(cid, token):
 for jf in sorted((ROOT / "ig/jobs").glob("*.json")):
     job = json.loads(jf.read_text())
     if job.get("status") != "pendente": continue
-    token = os.environ.get("IG_TOKEN_" + job["conta"].upper(), "")
+    token = os.environ.get("IG_TOKEN_" + job["conta"].upper(), "") or os.environ.get("IG_TOKEN_SISTEMA", "") or os.environ.get("IG_TOKEN_CRISTAO", "")
     if job["tipo"] == "diag":
         d = {"tamanho_token": len(token), "inicio": token[:4]}
         for nome, host, path, f in [("ig_me", IG_API, "me", "user_id,username"), ("fb_me", FB_API, "me", "id,name"),
@@ -51,13 +52,13 @@ for jf in sorted((ROOT / "ig/jobs").glob("*.json")):
         try:
             me = call("GET", "me", token, fields="user_id,username"); uid = me["user_id"]
         except RuntimeError as e1:
-            API = FB_API; uid = job.get("ig_id")
+            API = FB_API; uid = job.get("ig_id") or IG_IDS.get(job["conta"])  # id fixo primeiro: com várias Páginas, a descoberta pegaria a primeira
             if not uid:
                 try:
                     pgs = call("GET", "me/accounts", token, fields="instagram_business_account").get("data", [])
                     uid = next((p["instagram_business_account"]["id"] for p in pgs if p.get("instagram_business_account")), None)
                 except RuntimeError: uid = None
-            uid = uid or IG_IDS.get(job["conta"])
+
             if not uid: raise RuntimeError(f"token não serve no graph.instagram ({e1}) e não há ig_id")
             me = call("GET", uid, token, fields="id,username")
         job["usuario"] = me.get("username"); job["host"] = API.split("/")[2]

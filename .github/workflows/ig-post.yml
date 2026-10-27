@@ -19,6 +19,7 @@ jobs:
       - name: Publicar pendentes
         env:
           IG_TOKEN_CRISTAO: ${{ secrets.IG_TOKEN_CRISTAO }}
+          IG_TOKEN_SISTEMA: ${{ secrets.IG_TOKEN_SISTEMA }}
           IG_TOKEN_MINDLOOP: ${{ secrets.IG_TOKEN_MINDLOOP }}
           IG_TOKEN_EXTRA1: ${{ secrets.IG_TOKEN_EXTRA1 }}
           IG_TOKEN_EXTRA2: ${{ secrets.IG_TOKEN_EXTRA2 }}

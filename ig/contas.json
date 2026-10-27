@@ -1,0 +1,4 @@
+{
+  "_info": "Contas do Instagram postadas pela API oficial da Meta. conta -> id do Instagram (o mesmo token do usuário do sistema 'publicar jonas' serve para todas as contas atribuídas a ele no portfólio). token: nome do segredo do GitHub (padrão IG_TOKEN_SISTEMA, com IG_TOKEN_CRISTAO de reserva).",
+  "cristao": {"ig_id": "17841451042007480", "usuario": "e_cosdafe"}
+}
