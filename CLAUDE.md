@@ -44,9 +44,11 @@ Para cada horário do dia (veja os horários em `calendario.md`):
    - `thumb_offset` (capa): use o instante em que o título ou número principal da cena 1 já está inteiro na tela, nunca um quadro de transição ou de contagem pela metade.
 2b. **Voz (padrão: Fish Audio).**
    - No `script.json`, adicione `"fish": {"voice": "<id>", "speed": 1.18, "model": "s2.1-pro-free"}`.
-   - Alterne as vozes entre os vídeos do dia:
+   - Alterne entre as 4 vozes, sem repetir a mesma voz no mesmo dia. Veja em `log/postagens.md` e nos `script.json` recentes quais foram usadas por último:
      - masculina: `c9d3da0bdf61417d929dc67966e4befe`;
-     - jovem: `b1cab1f57b8d41aeb225d7d8bafc0806`.
+     - jovem: `b1cab1f57b8d41aeb225d7d8bafc0806`;
+     - voz 3: `a7f67c4e2d94440aad9c5a82365d9d92`;
+     - voz 4: `a0a26a57cac94ea4918f05a2393b4259`.
    - Rode `pipeline/fish.sh <slug>`. Ele envia o pedido ao GitHub Actions, que usa o segredo `FISH_API_KEY`, espera e copia os áudios para `producoes/<slug>/fish/`. Depois siga com `pipeline/build.sh`.
    - Se a Fish der erro (sem crédito, fora do ar ou tempo esgotado), apague a chave `"fish"` do `script.json` e use a voz Kokoro (`pm_alex`/`pf_dora`). Registre o motivo no log.
 3. **Animação.** Escreva `src/anim.js`, com uma cena por clip, presa às palavras via `wt('cN','palavra')`.
