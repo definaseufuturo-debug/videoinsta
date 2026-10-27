@@ -1,0 +1,37 @@
+{
+  "status": "pendente",
+  "voice": "a0a26a57cac94ea4918f05a2393b4259",
+  "speed": 1.12,
+  "model": "s2.1-pro-free",
+  "language": "pt",
+  "clips": [
+    {
+      "id": "c1",
+      "text": "Depois de quatrocentos e trinta anos no Egito, seiscentos mil homens, fora mulheres e crianças, saíram de uma vez. Olha o caminho."
+    },
+    {
+      "id": "c2",
+      "text": "Eles partem de Ramessés, no delta do Nilo, e vão até Sucote. Depois acampam em Etã, na beira do deserto."
+    },
+    {
+      "id": "c3",
+      "text": "O caminho mais curto era pela costa, a terra dos filisteus. Mas Deus leva o povo pelo deserto, para que ninguém desistisse ao ver a guerra."
+    },
+    {
+      "id": "c4",
+      "text": "De dia, uma coluna de nuvem vai na frente. De noite, uma coluna de fogo."
+    },
+    {
+      "id": "c5",
+      "text": "Então Deus manda voltar e acampar junto ao mar, em Pi-Hairote. E o faraó vem atrás, com seiscentos carros de guerra."
+    },
+    {
+      "id": "c6",
+      "text": "Moisés estende a mão, um vento forte sopra a noite inteira, e o mar se abre. O povo atravessa em terra seca."
+    },
+    {
+      "id": "c7",
+      "text": "Qual parte dessa história mais te marca? Comenta aqui. E segue, porque a próxima parte é a caminhada até o monte Sinai."
+    }
+  ]
+}
