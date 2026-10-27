@@ -1,5 +1,19 @@
 {
   "conta": "cristao",
   "tipo": "teste",
-  "status": "pendente"
+  "status": "ok",
+  "usuario": "e_cosdafe",
+  "host": "graph.facebook.com",
+  "limite": {
+    "data": [
+      {
+        "quota_usage": 0,
+        "config": {
+          "quota_total": 100,
+          "quota_duration": 86400
+        }
+      }
+    ]
+  },
+  "processado_em": "2026-10-27T18:37:09Z"
 }
