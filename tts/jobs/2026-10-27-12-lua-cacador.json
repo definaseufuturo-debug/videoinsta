@@ -1,5 +1,5 @@
 {
-  "status": "pronto",
+  "status": "pendente",
   "voice": "a7f67c4e2d94440aad9c5a82365d9d92",
   "speed": 1.18,
   "model": "s2.1-pro-free",
@@ -11,7 +11,7 @@
     },
     {
       "id": "c2",
-      "text": "A lua fica cheia quando está do lado oposto ao Sol. Aí a face virada pra nós fica toda iluminada. O auge foi segunda, à uma e doze da madrugada."
+      "text": "A lua fica cheia quando está do lado oposto ao Sol, toda iluminada pra nós. O auge foi segunda, à uma e doze da madrugada."
     },
     {
       "id": "c3",
@@ -19,7 +19,7 @@
     },
     {
       "id": "c4",
-      "text": "E lá, nessa época, ela nasce só uns trinta minutos mais tarde a cada noite, e não cinquenta. É lua forte logo depois do pôr do sol, várias noites seguidas."
+      "text": "E lá, nessa época, ela nasce só uns trinta minutos mais tarde por noite, e não cinquenta. Lua forte logo após o pôr do sol, várias noites seguidas."
     },
     {
       "id": "c5",
