@@ -1,5 +1,93 @@
 {
   "conta": "cristao",
   "tipo": "diag",
-  "status": "pendente"
+  "status": "ok",
+  "diag": {
+    "tamanho_token": 203,
+    "inicio": "EAAY",
+    "ig_me": "HTTP 400: {\"error\":{\"message\":\"Invalid OAuth access token - Cannot parse access token\",\"type\":\"OAuthException\",\"code\":190,\"fbtrace_id\":\"AelVVRNCOqkAy46W5pF6tre\"}}",
+    "fb_me": {
+      "id": "122094185205537681",
+      "name": "publicar jonas"
+    },
+    "fb_contas": {
+      "data": [
+        {
+          "name": "Magali Dicas",
+          "id": "101643702580757"
+        }
+      ],
+      "paging": {
+        "cursors": {
+          "before": "QVFIVHhMWE1tZAzBQX2tTaUdIdlZAIWXd0Wmw5Skd1cHd1VThKQmtmVHJRMjJEX3VKZA2hia2hDQWViVC1GTnM5YWJyRDlvRk5YOXRnaERBcVhjMlNnUlZAuZAmNB",
+          "after": "QVFIVHhMWE1tZAzBQX2tTaUdIdlZAIWXd0Wmw5Skd1cHd1VThKQmtmVHJRMjJEX3VKZA2hia2hDQWViVC1GTnM5YWJyRDlvRk5YOXRnaERBcVhjMlNnUlZAuZAmNB"
+        }
+      }
+    },
+    "fb_perms": {
+      "data": [
+        {
+          "permission": "pages_show_list",
+          "status": "granted"
+        },
+        {
+          "permission": "ads_management",
+          "status": "granted"
+        },
+        {
+          "permission": "ads_read",
+          "status": "granted"
+        },
+        {
+          "permission": "business_management",
+          "status": "granted"
+        },
+        {
+          "permission": "instagram_manage_comments",
+          "status": "granted"
+        },
+        {
+          "permission": "instagram_manage_insights",
+          "status": "granted"
+        },
+        {
+          "permission": "instagram_content_publish",
+          "status": "granted"
+        },
+        {
+          "permission": "instagram_manage_messages",
+          "status": "granted"
+        },
+        {
+          "permission": "pages_read_engagement",
+          "status": "granted"
+        },
+        {
+          "permission": "instagram_shopping_tag_products",
+          "status": "granted"
+        },
+        {
+          "permission": "instagram_branded_content_brand",
+          "status": "granted"
+        },
+        {
+          "permission": "instagram_branded_content_ads_brand",
+          "status": "granted"
+        },
+        {
+          "permission": "instagram_manage_contents",
+          "status": "granted"
+        },
+        {
+          "permission": "public_profile",
+          "status": "granted"
+        }
+      ]
+    },
+    "fb_biz": {
+      "data": []
+    },
+    "fb_ig": "HTTP 400: {\"error\":{\"message\":\"Unsupported get request. Object with ID '17841451042007480' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api\",\"code\":100,\"type\":\"Gr"
+  },
+  "processado_em": "2026-10-27T18:35:39Z"
 }
