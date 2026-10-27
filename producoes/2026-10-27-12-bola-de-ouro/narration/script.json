@@ -1,0 +1,18 @@
+{
+  "voice": "pm_alex",
+  "speed": 1.12,
+  "lang": "pt-br",
+  "_comment": "EM ALTA 27/10: 'quem ganhou a bola de ouro' (Google Trends BR, 500 mil+, +1000%). Cerimônia 26/10/2026, Londres. Fontes: CNN Brasil (Kane eleito; 51 jogos, 61 gols pelo Bayern na temporada 2025-26; artilheiro da Bundesliga pela 3ª vez seguida; campeão alemão e da Copa da Alemanha; primeiro inglês desde Michael Owen em 2001; votação de jornalistas de 100 países definidos pelo ranking da Fifa; Vini Jr. 17º), Itatiaia (top 10 oficial: Kane, Mbappé, Lamine Yamal...; 61 gols pelo Bayern), CNN Brasil ao vivo e Perfil (Vini 17º; lista completa).",
+  "say": { "Fifa": "fifa", "Vini": "vini" },
+  "fish": { "voice": "a0a26a57cac94ea4918f05a2393b4259", "speed": 1.0, "model": "s2.1-pro-free" },
+  "clips": [
+    { "id": "c1", "scene": 1, "minStart": 0.3, "gapAfterPrev": 0, "text": "Sessenta e um gols em cinquenta e um jogos. Foi assim que Harry Kane ganhou a Bola de Ouro." },
+    { "id": "c2", "scene": 2, "minStart": 0, "gapAfterPrev": 0.4, "text": "Ele é o primeiro inglês a vencer desde Michael Owen, em dois mil e um. Foram vinte e cinco anos de espera." },
+    { "id": "c3", "scene": 3, "minStart": 0, "gapAfterPrev": 0.4, "text": "Mas quem escolhe? Jornalistas de cem países, os primeiros do ranking da Fifa. Cada um monta a sua lista, e os pontos são somados." },
+    { "id": "c4", "scene": 4, "minStart": 0, "gapAfterPrev": 0.4, "text": "Na temporada, Kane foi campeão alemão, ganhou a Copa da Alemanha e foi artilheiro da liga pela terceira vez seguida." },
+    { "id": "c5", "scene": 5, "minStart": 0, "gapAfterPrev": 0.4, "text": "No pódio: Kane, Mbappé e Lamine Yamal. O melhor brasileiro, Vini Júnior, ficou só em décimo sétimo." },
+    { "id": "c6", "scene": 6, "minStart": 0, "gapAfterPrev": 0.45, "text": "E você, o que achou? Foi merecido? Comenta. E segue pra mais futebol explicado em números." }
+  ],
+  "tailAfterLastClip": 2.0,
+  "keywords": []
+}

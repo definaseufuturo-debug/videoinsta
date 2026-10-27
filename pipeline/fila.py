@@ -5,6 +5,7 @@
   python3 pipeline/fila.py marcar <id> <media_id>  -> marca como postado
   python3 pipeline/fila.py falhou <id> "<erro>"     -> registra erro (o item continua pendente)
   python3 pipeline/fila.py adicionar <id> <arquivo.mp4 em videos/> <legenda.txt> <YYYY-MM-DDTHH:MM> [thumb_ms]
+  python3 pipeline/fila.py para_reserva <id>       -> tira um agendado pendente do horário e põe no início da reserva
   python3 pipeline/fila.py status                  -> resumo
 
 Regras do "proximo":
@@ -55,6 +56,9 @@ elif cmd == "adicionar":
     item = {"id": i, "video": video, "legenda": Path(leg).read_text().strip(), "postar_em": quando, "status": "pendente"}
     if len(sys.argv) > 6: item["thumb_offset"] = int(sys.argv[6])
     d["agendados"].append(item); d["agendados"].sort(key=lambda x: x["postar_em"]); save(d); print("adicionado", i, quando)
+elif cmd == "para_reserva":
+    it = find(d, sys.argv[2]); assert it in d["agendados"] and it["status"] == "pendente", "precisa ser um agendado pendente"
+    d["agendados"].remove(it); it.pop("postar_em", None); it["status"] = "disponivel"; d["reserva"].insert(0, it); save(d); print("na reserva:", it["id"])
 else:
     p = [x for x in d["agendados"] if x["status"] == "pendente"]
     print(f"agora: {now():%Y-%m-%d %H:%M} BRT")

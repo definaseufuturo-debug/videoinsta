@@ -52,12 +52,12 @@
       "postado_em": "2026-10-27T07:53-03:00"
     },
     {
-      "id": "2026-10-27-12-lua-cacador",
-      "video": "2026-10-27-12-lua-cacador.mp4",
-      "legenda": "A lua cheia dessa semana tem nome: Lua do Caçador 🌕 Mas não, ela não é uma superlua.\n\nO nome vem do hemisfério norte: é a primeira lua cheia depois da Lua da Colheita, e a luz dela ajudava a caçar antes do inverno. O auge foi na segunda (26/10), à 01:12 de Brasília. E se ela pareceu gigante no horizonte, é ilusão do cérebro: o tamanho quase não muda.\n\n🎨 Animação e narração feitas com IA.\nFontes: Star Walk e Farmers' Almanac.\n\nVocê viu a lua? Comenta aí 👇 A superlua de verdade vem dia 24 de novembro. Segue a @mindloop_u pra não perder!\n\n#lua #luacheia #luadocacador #superlua #astronomia #ceu #ciencia #curiosidades",
+      "id": "2026-10-27-12-bola-de-ouro",
+      "video": "2026-10-27-12-bola-de-ouro.mp4",
+      "legenda": "61 gols em 51 jogos: foi assim que Harry Kane ganhou a Bola de Ouro 2026 🏆⚽\n\nÉ o primeiro inglês a vencer desde Michael Owen, em 2001. Quem escolhe são jornalistas de 100 países, os primeiros do ranking da Fifa, e os pontos de cada lista são somados. No pódio: Kane, Mbappé e Lamine Yamal. O melhor brasileiro, Vini Jr., ficou em 17º.\n\n🎨 Animação e narração feitas com IA.\nFontes: CNN Brasil e Itatiaia.\n\nE você, o que achou? Foi merecido? Comenta aí 👇 Segue a @mindloop_u pra mais futebol explicado em números!\n\n#boladeouro #harrykane #futebol #ballondor #mbappe #lamineyamal #vinijr #esporte",
       "postar_em": "2026-10-27T12:00",
       "status": "pendente",
-      "thumb_offset": 3600
+      "thumb_offset": 4300
     },
     {
       "id": "2026-10-27-19-cafe",
@@ -69,6 +69,13 @@
     }
   ],
   "reserva": [
+    {
+      "id": "2026-10-27-12-lua-cacador",
+      "video": "2026-10-27-12-lua-cacador.mp4",
+      "legenda": "A lua cheia dessa semana tem nome: Lua do Caçador 🌕 Mas não, ela não é uma superlua.\n\nO nome vem do hemisfério norte: é a primeira lua cheia depois da Lua da Colheita, e a luz dela ajudava a caçar antes do inverno. O auge foi na segunda (26/10), à 01:12 de Brasília. E se ela pareceu gigante no horizonte, é ilusão do cérebro: o tamanho quase não muda.\n\n🎨 Animação e narração feitas com IA.\nFontes: Star Walk e Farmers' Almanac.\n\nVocê viu a lua? Comenta aí 👇 A superlua de verdade vem dia 24 de novembro. Segue a @mindloop_u pra não perder!\n\n#lua #luacheia #luadocacador #superlua #astronomia #ceu #ciencia #curiosidades",
+      "status": "disponivel",
+      "thumb_offset": 3600
+    },
     {
       "id": "reserva-pix",
       "video": "pix_como_funciona.mp4",
