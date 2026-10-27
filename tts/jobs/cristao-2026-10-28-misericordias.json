@@ -1,0 +1,33 @@
+{
+  "status": "pendente",
+  "voice": "a7f67c4e2d94440aad9c5a82365d9d92",
+  "speed": 1.05,
+  "model": "s2.1-pro-free",
+  "language": "pt",
+  "clips": [
+    {
+      "id": "c1",
+      "text": "Acordou cansado, sem esperança pra hoje? Então ouve isso."
+    },
+    {
+      "id": "c2",
+      "text": "As misericórdias do Senhor não têm fim. Elas se renovam cada manhã. Grande é a tua fidelidade."
+    },
+    {
+      "id": "c3",
+      "text": "Quem escreveu isso estava olhando para Jerusalém em ruínas. Tinha perdido quase tudo."
+    },
+    {
+      "id": "c4",
+      "text": "E mesmo assim, no meio do pior dia, ele lembrou: Deus começa de novo comigo hoje."
+    },
+    {
+      "id": "c5",
+      "text": "A misericórdia de ontem não precisa durar até hoje. Hoje chegou uma nova."
+    },
+    {
+      "id": "c6",
+      "text": "Se essa palavra é pra você, comenta amém. E segue, pra receber uma palavra toda manhã."
+    }
+  ]
+}
