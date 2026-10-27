@@ -51,7 +51,13 @@ for jf in sorted((ROOT / "ig/jobs").glob("*.json")):
         try:
             me = call("GET", "me", token, fields="user_id,username"); uid = me["user_id"]
         except RuntimeError as e1:
-            API = FB_API; uid = job.get("ig_id") or IG_IDS.get(job["conta"])
+            API = FB_API; uid = job.get("ig_id")
+            if not uid:
+                try:
+                    pgs = call("GET", "me/accounts", token, fields="instagram_business_account").get("data", [])
+                    uid = next((p["instagram_business_account"]["id"] for p in pgs if p.get("instagram_business_account")), None)
+                except RuntimeError: uid = None
+            uid = uid or IG_IDS.get(job["conta"])
             if not uid: raise RuntimeError(f"token não serve no graph.instagram ({e1}) e não há ig_id")
             me = call("GET", uid, token, fields="id,username")
         job["usuario"] = me.get("username"); job["host"] = API.split("/")[2]
