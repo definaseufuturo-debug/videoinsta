@@ -1,0 +1,17 @@
+{
+  "voice": "pf_dora",
+  "speed": 1.12,
+  "lang": "pt-br",
+  "_comment": "10 cidades mais populosas (IBGE, estimativa 2025, via JB) e o 2º turno 2026 em cada uma (votos válidos; O Tempo/TSE, 26/10/2026).",
+  "say": {},
+  "fish": { "voice": "b1cab1f57b8d41aeb225d7d8bafc0806", "speed": 1.18, "model": "s2.1-pro-free" },
+  "clips": [
+    { "id": "c1", "scene": 1, "minStart": 0.3, "gapAfterPrev": 0, "text": "As dez maiores cidades do Brasil somam mais de trinta e seis milhões de pessoas. E no segundo turno, deu empate: cinco pra cada lado." },
+    { "id": "c2", "scene": 2, "minStart": 0, "gapAfterPrev": 0.4, "text": "Lula venceu em São Paulo, no Rio, em Fortaleza, Salvador e Recife. Salvador foi a mais forte: setenta e três por cento." },
+    { "id": "c3", "scene": 3, "minStart": 0, "gapAfterPrev": 0.4, "text": "Flávio venceu em Brasília, Belo Horizonte, Manaus, Curitiba e Goiânia. Em Goiânia e Curitiba, passou de sessenta e dois por cento." },
+    { "id": "c4", "scene": 4, "minStart": 0, "gapAfterPrev": 0.4, "text": "A mais apertada foi Belo Horizonte: Flávio com cinquenta vírgula oito. E o Rio também foi no detalhe: Lula com cinquenta e um e meio." },
+    { "id": "c5", "scene": 5, "minStart": 0, "gapAfterPrev": 0.45, "text": "A sua cidade tá no top dez? Comenta o nome dela aqui, e segue pra mais." }
+  ],
+  "tailAfterLastClip": 1.8,
+  "keywords": []
+}
