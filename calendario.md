@@ -51,7 +51,7 @@ Marque `[x]` quando o vídeo for produzido. A produção sempre pega o próximo 
 - [ ] Os estados mais e menos visitados por turistas (Ministério do Turismo)
 
 ### Noite (corpo, escala ou quiz, nos outros dias)
-- [ ] Corpo: o que o café faz no seu cérebro
+- [x] Corpo: o que o café faz no seu cérebro
 - [ ] Escala: o tamanho real da Terra perto do Sol e da maior estrela
 - [ ] Quiz: 5 perguntas de física do dia a dia (você acertaria?)
 - [ ] Corpo: por que a gente boceja (e por que é contagioso)
