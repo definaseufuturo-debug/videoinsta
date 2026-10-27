@@ -1,0 +1,33 @@
+{
+  "status": "pendente",
+  "voice": "a7f67c4e2d94440aad9c5a82365d9d92",
+  "speed": 1.12,
+  "model": "s2.1-pro-free",
+  "language": "pt",
+  "clips": [
+    {
+      "id": "c1",
+      "text": "Há quase dois mil anos, o apóstolo Paulo percorreu mais de dez mil quilômetros, a pé e de barco, para levar o Evangelho. Olha o caminho."
+    },
+    {
+      "id": "c2",
+      "text": "Na primeira viagem, ele sai de Antioquia, cruza o mar até Chipre, e entra na Galácia, passando por Icônio, Listra e Derbe."
+    },
+    {
+      "id": "c3",
+      "text": "Na segunda, o Evangelho chega à Europa: Filipos, Tessalônica, Atenas e Corinto, onde ele fica um ano e meio."
+    },
+    {
+      "id": "c4",
+      "text": "Na terceira, ele passa quase três anos em Éfeso. Depois volta para Jerusalém, onde é preso."
+    },
+    {
+      "id": "c5",
+      "text": "A última viagem é como prisioneiro, rumo a Roma. No caminho, uma tempestade de catorze dias, e o navio naufraga na ilha de Malta."
+    },
+    {
+      "id": "c6",
+      "text": "Muitas das cartas que ele escreveu nessa jornada estão na Bíblia até hoje. Qual é a sua favorita? Comenta, e segue pra mais."
+    }
+  ]
+}
