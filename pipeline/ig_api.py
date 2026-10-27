@@ -6,7 +6,7 @@ Grava status "postado" + media_id, ou "erro" + mensagem, no próprio job."""
 import json, os, time, urllib.request, urllib.parse, urllib.error
 from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
-API = "https://graph.instagram.com/v24.0"
+API = "https://graph.instagram.com/v26.0"
 
 def call(method, path, token, **params):
     params["access_token"] = token
