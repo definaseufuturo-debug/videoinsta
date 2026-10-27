@@ -1,0 +1,37 @@
+{
+  "status": "pendente",
+  "voice": "c9d3da0bdf61417d929dc67966e4befe",
+  "speed": 1.18,
+  "model": "s2.1-pro-free",
+  "language": "pt",
+  "clips": [
+    {
+      "id": "c1",
+      "text": "O café não te dá energia nenhuma. Ele engana o seu cérebro."
+    },
+    {
+      "id": "c2",
+      "text": "Enquanto você está acordado, o cérebro acumula uma molécula chamada adenosina. Ela se encaixa nos neurônios, e é isso que dá sono."
+    },
+    {
+      "id": "c3",
+      "text": "A cafeína tem quase o mesmo formato. Ela ocupa o encaixe, mas não liga o sinal. E o cansaço não chega."
+    },
+    {
+      "id": "c4",
+      "text": "Ela chega ao pico no sangue entre trinta e sessenta minutos. E de três a cinco horas depois, metade ainda está lá."
+    },
+    {
+      "id": "c5",
+      "text": "Mas a adenosina continua se acumulando. Quando a cafeína sai, o sono guardado aparece. Num estudo, café seis horas antes de dormir tirou uma hora de sono."
+    },
+    {
+      "id": "c6",
+      "text": "E quem toma todo dia se acostuma. O efeito diminui, e parar de repente pode dar dor de cabeça."
+    },
+    {
+      "id": "c7",
+      "text": "Até que horas você toma café? Comenta. Na quinta: o tamanho real da Terra perto da maior estrela. Segue pra não perder."
+    }
+  ]
+}
