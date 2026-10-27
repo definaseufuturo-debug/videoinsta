@@ -6,7 +6,10 @@ Grava status "postado" + media_id, ou "erro" + mensagem, no próprio job."""
 import json, os, time, urllib.request, urllib.parse, urllib.error
 from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
-API = "https://graph.instagram.com/v26.0"
+IG_API = "https://graph.instagram.com/v26.0"
+FB_API = "https://graph.facebook.com/v26.0"  # token do login unificado/Facebook (precisa de ig_id)
+API = IG_API
+IG_IDS = {"cristao": "17841451042007480"}
 
 def call(method, path, token, **params):
     params["access_token"] = token
@@ -32,8 +35,14 @@ for jf in sorted((ROOT / "ig/jobs").glob("*.json")):
     token = os.environ.get("IG_TOKEN_" + job["conta"].upper(), "")
     try:
         if not token: raise RuntimeError(f"segredo IG_TOKEN_{job['conta'].upper()} não configurado")
-        me = call("GET", "me", token, fields="user_id,username")
-        uid = me["user_id"]; job["usuario"] = me.get("username")
+        API = IG_API
+        try:
+            me = call("GET", "me", token, fields="user_id,username"); uid = me["user_id"]
+        except RuntimeError as e1:
+            API = FB_API; uid = job.get("ig_id") or IG_IDS.get(job["conta"])
+            if not uid: raise RuntimeError(f"token não serve no graph.instagram ({e1}) e não há ig_id")
+            me = call("GET", uid, token, fields="id,username")
+        job["usuario"] = me.get("username"); job["host"] = API.split("/")[2]
         if job["tipo"] == "teste":
             job["limite"] = call("GET", f"{uid}/content_publishing_limit", token, fields="quota_usage,config")
         elif job["tipo"] == "video":
