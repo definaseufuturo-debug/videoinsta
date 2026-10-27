@@ -1,0 +1,33 @@
+{
+  "status": "pendente",
+  "voice": "a7f67c4e2d94440aad9c5a82365d9d92",
+  "speed": 1.18,
+  "model": "s2.1-pro-free",
+  "language": "pt",
+  "clips": [
+    {
+      "id": "c1",
+      "text": "A lua cheia dessa semana tem nome: Lua do Caçador. Mas não, ela não é uma superlua."
+    },
+    {
+      "id": "c2",
+      "text": "A lua fica cheia quando está do lado oposto ao Sol. Aí a face virada pra nós fica toda iluminada. O auge foi segunda, à uma e doze da madrugada."
+    },
+    {
+      "id": "c3",
+      "text": "O nome vem do hemisfério norte. É a primeira lua cheia depois da colheita. Com os campos limpos, a luz da lua ajudava a caçar antes do inverno."
+    },
+    {
+      "id": "c4",
+      "text": "E lá, nessa época, ela nasce só uns trinta minutos mais tarde a cada noite, e não cinquenta. É lua forte logo depois do pôr do sol, várias noites seguidas."
+    },
+    {
+      "id": "c5",
+      "text": "Se ela pareceu gigante no horizonte, é ilusão do seu cérebro. O tamanho quase não muda."
+    },
+    {
+      "id": "c6",
+      "text": "A superlua de verdade vem no dia vinte e quatro de novembro. Você viu a lua? Comenta. E segue pra não perder a superlua."
+    }
+  ]
+}
