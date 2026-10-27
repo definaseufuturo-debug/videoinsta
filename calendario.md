@@ -11,6 +11,8 @@
 
 Cada post é enviado uns 10 minutos antes do horário para entrar no ar a tempo.
 
+**Carrossel extra:** terça e sábado às **16:00**. Ele é produzido na noite anterior e não ocupa nenhum horário dos Reels.
+
 ## O que vai em cada horário
 
 - **Manhã: RAIO-X.** Um objeto ou tecnologia do dia a dia aberto por dentro (estilo do vídeo `motor`). É o vídeo que mais gera salvamento.
@@ -66,3 +68,15 @@ Marque `[x]` quando o vídeo for produzido. A produção sempre pega o próximo 
 
 ## Já publicados
 - 26/10: motor de F1 (teste), apuração (em alta), caneta emagrecedora (12h), elevador (19h)
+
+### Carrossel (ter e sáb, 16:00): alternar "guia pra salvar" e "ranking/mapa"
+- [ ] Guia: o que mais gasta energia na sua casa (ranking com custo por mês)
+- [ ] Ranking/mapa: gasolina mais cara e mais barata por estado (ANP)
+- [ ] Guia: sua panela serve na indução? (teste do ímã e materiais)
+- [ ] Ranking/mapa: os 10 estados mais e menos populosos (IBGE)
+- [ ] Guia: o que significa cada luz do painel do carro
+- [ ] Ranking/mapa: onde mais chove e onde faz mais calor (INMET)
+- [ ] Mitos × verdades: celular carregando à noite estraga a bateria?
+- [ ] Guia: o caminho do Pix, passo a passo
+- [ ] Vale a pena: air fryer × forno elétrico (consumo e custo)
+- [ ] Guia: quanto tempo dura cada alimento na geladeira

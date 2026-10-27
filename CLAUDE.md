@@ -20,9 +20,10 @@ Este repositório gera vídeos animados (desenhados por código), narrados com v
 ## Tarefa A: POSTAR (rodada nos horários de postagem)
 1. `python3 pipeline/fila.py proximo`.
    - Se vier `{"nada": true}`, registre no log e encerre.
-2. Chame o Windsor `execute_action` com:
-   - connector `instagram`, account `17841442746650307`, action `create_video_post`;
-   - params `{video_url, caption, share_to_feed: true, thumb_offset}` vindos do JSON.
+2. Chame o Windsor `execute_action` com connector `instagram` e account `17841442746650307`:
+   - se `tipo` for `video`: action `create_video_post`, com params `{video_url, caption, share_to_feed: true, thumb_offset}` vindos do JSON;
+   - se `tipo` for `carrossel`: action `create_carousel_post`, com params `{image_urls, caption}` vindos do JSON.
+   O `proximo` normal só devolve vídeos. Os carrosséis saem pela tarefa de carrossel com `fila.py proximo --so-carrossel`, que nunca usa a reserva.
 3. Se der certo: `python3 pipeline/fila.py marcar <id> <media_id>`.
    Se der erro: `python3 pipeline/fila.py falhou <id> "<erro>"`. Tente de novo uma única vez, depois de 1 minuto.
 4. Acrescente uma linha em `log/postagens.md`: `- AAAA-MM-DD HH:MM | <id> | <origem> | ok <media_id>` (ou `ERRO ...`).
@@ -91,6 +92,25 @@ Para cada horário do dia (veja os horários em `calendario.md`):
    Também valem as Regras de conteúdo abaixo (sem rosto, marca ou escudo de time: desenhe tudo genérico).
 4. Confira os fatos em 2 ou mais fontes. Depois produza como na Tarefa B, com vídeo de 35 a 45 s. O horário é 12:00 nos dias úteis e 13:00 no fim de semana. Se o horário já tiver vídeo na fila, use `fila.py` para substituir só se o assunto novo for claramente mais quente.
 5. No log, registre qual assunto foi escolhido e por quê.
+
+## Tarefa D: CARROSSEL (2 por semana: terça e sábado às 16:00)
+1. Tema: pegue o próximo `[ ]` da seção "Carrossel" do `calendario.md`, alternando entre "guia pra salvar" e "ranking/mapa". Confira os fatos em 2 ou mais fontes.
+2. Crie `carrosseis/AAAA-MM-DD-<slug>/gerar.js` partindo de `pipeline/exemplos/carrossel-mapa/gerar.js`. Ele desenha os cards com @napi-rs/canvas, em 1080×1350, e salva JPEG `01.jpg`, `02.jpg`… Para rodar, ligue o `node_modules` da raiz com um symlink.
+   - **Quantidade:** de 6 a 10 cards.
+   - **Capa:** gancho forte, mais "ARRASTA →".
+   - **Meio:** uma ideia por card.
+   - **Último card:** CTA "SALVA E SEGUE" com pergunta para comentar.
+   - **Rodapé de todo card:** `@mindloop_u` e a fonte.
+   - **Estilo:** papel quadriculado (dados e mapas) ou fundo escuro do "como funciona" (guias e passos).
+   - **Texto:** sem emoji nos cards, porque a fonte não tem. Letras grandes e legíveis no celular.
+3. Monte uma folha com todos os cards e olhe com Read. Corrija textos cortados e sobreposições.
+4. Escreva `legenda.txt`:
+   - "Arrasta pro lado →";
+   - resumo;
+   - avisos (fonte, educativo e, se for saúde, orientação médica);
+   - "💾 Salva…";
+   - 6 a 8 hashtags.
+5. Rode `python3 pipeline/fila.py adicionar_carrossel <id> carrosseis/<pasta> carrosseis/<pasta>/legenda.txt AAAA-MM-DDT16:00`. Depois marque `[x]` no calendário e faça commit e push.
 
 ## Regras de conteúdo (sempre)
 - **Propriedade intelectual:** nenhuma marca, logo, produto de marca, personagem famoso ou rosto de pessoa real. Desenhe versões genéricas.
