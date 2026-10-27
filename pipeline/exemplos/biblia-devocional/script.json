@@ -1,0 +1,18 @@
+{
+  "voice": "pf_dora",
+  "speed": 1.08,
+  "lang": "pt-br",
+  "_comment": "Devocional. Lamentações 3:22-23 (as misericórdias do Senhor não têm fim; renovam-se cada manhã; grande é a tua fidelidade). Contexto: Lamentações foi escrito depois da destruição de Jerusalém pelos babilônios (c. 586 a.C.), autoria tradicionalmente atribuída a Jeremias.",
+  "say": {},
+  "fish": { "voice": "a7f67c4e2d94440aad9c5a82365d9d92", "speed": 1.05, "model": "s2.1-pro-free" },
+  "clips": [
+    { "id": "c1", "scene": 1, "minStart": 0.3, "gapAfterPrev": 0, "text": "Acordou cansado, sem esperança pra hoje? Então ouve isso." },
+    { "id": "c2", "scene": 2, "minStart": 0, "gapAfterPrev": 0.5, "text": "As misericórdias do Senhor não têm fim. Elas se renovam cada manhã. Grande é a tua fidelidade." },
+    { "id": "c3", "scene": 3, "minStart": 0, "gapAfterPrev": 0.5, "text": "Quem escreveu isso estava olhando para Jerusalém em ruínas. Tinha perdido quase tudo." },
+    { "id": "c4", "scene": 4, "minStart": 0, "gapAfterPrev": 0.45, "text": "E mesmo assim, no meio do pior dia, ele lembrou: Deus começa de novo comigo hoje." },
+    { "id": "c5", "scene": 5, "minStart": 0, "gapAfterPrev": 0.45, "text": "A misericórdia de ontem não precisa durar até hoje. Hoje chegou uma nova." },
+    { "id": "c6", "scene": 6, "minStart": 0, "gapAfterPrev": 0.5, "text": "Se essa palavra é pra você, comenta amém. E segue, pra receber uma palavra toda manhã." }
+  ],
+  "tailAfterLastClip": 2.0,
+  "keywords": []
+}

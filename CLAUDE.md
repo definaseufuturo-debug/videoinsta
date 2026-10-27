@@ -123,21 +123,22 @@ Para cada horário do dia (veja os horários em `calendario.md`):
 
 - **Conta:** Instagram `e_cosdafe`, id `17841451042007480`. **Não usa o Windsor.** Posta pela API oficial da Meta via GitHub Actions: `pipeline/ig_post.sh <job.json>` (workflow `ig-post.yml`, segredo `IG_TOKEN_CRISTAO`, token de usuário do sistema que não expira; vai pelo graph.facebook.com pela Página ligada à conta).
 - **Fila:** `fila_cristao.json`, sempre por `python3 pipeline/fila.py <comando> --conta cristao`. Vídeos em `videos/cristao/`.
-- **Calendário e regras:** `cristao/calendario.md` (1 Reel por dia às 19:00, série "a Bíblia no mapa", fila de temas e regras de conteúdo do perfil).
-- **Base:** `pipeline/novo.sh <slug> template_cristao`. Leia inteiros `pipeline/exemplos/biblia-exodo/anim.js` e `pipeline/exemplos/biblia-paulo/anim.js` antes de escrever.
+- **Calendário e regras:** `cristao/calendario.md` (2 Reels por dia: 07:00 devocional "Palavra da Manhã" e 19:00 mapa "A Bíblia no mapa"; filas de temas e regras de conteúdo do perfil).
+- **Base:** `pipeline/novo.sh <slug> template_cristao`. Antes de escrever, leia inteiro o exemplo do formato: devocional = `pipeline/exemplos/biblia-devocional/` (não usa mapa; apague os .json de `assets/`); mapa = `pipeline/exemplos/biblia-exodo/` e `biblia-paulo/`.
   - Mapa da região: `python3 pipeline/geo_regiao.py <lon0> <lon1> <lat0> <lat1> producoes/<slug>/assets/regiao.json` e, no anim.js, carregue esse arquivo e use `K = Math.cos(lat_ref * Math.PI / 180)` (o `lat_ref` vem no JSON). Para o Mediterrâneo inteiro, existe `assets/med.json` (K = cos 37°).
   - Os comandos de build da Tarefa B valem iguais (`pipeline/fish.sh`, `pipeline/build.sh`, folha de quadros obrigatória).
 
-## Tarefa E: PRODUZIR CRISTÃO (de madrugada, 1 vídeo para as 19:00 do dia)
-1. Tema: o próximo `[ ]` de `cristao/calendario.md`. Confira no texto bíblico e em mais uma fonte (atlas/enciclopédia). Anote referências no `_comment`.
-2. Roteiro (`narration/script.json`): 6 a 7 clips, 35 a 50 s. Gancho com número do texto na 1ª frase. Último clip: pergunta para comentar + gancho da série ("segue, porque a próxima parte é <próximo tema da fila>").
-3. Voz Fish, alternando entre voz 3 (`a7f67c4e2d94440aad9c5a82365d9d92`) e voz 4 (`a0a26a57cac94ea4918f05a2393b4259`); veja a última usada nos `producoes/cristao-*/narration/script.json`. Fallback Kokoro como na Tarefa B.
+## Tarefa E: PRODUZIR CRISTÃO (de madrugada, 2 vídeos: devocional 07:00 e mapa 19:00 do dia)
+Faça cada um que ainda não estiver na fila (`fila.py status --conta cristao`). Comece pelo devocional (sai primeiro). Commit e push depois de cada vídeo.
+1. Tema: o próximo `[ ]` da fila certa de `cristao/calendario.md` (devocional ou mapa). Confira no texto bíblico e em mais uma fonte (atlas/enciclopédia). Anote referências no `_comment`.
+2. Roteiro (`narration/script.json`): 6 a 7 clips. **Mapa:** 35 a 50 s, gancho com número do texto na 1ª frase, último clip com pergunta para comentar + gancho da série ("segue, porque a próxima parte é <próximo tema da fila>"). **Devocional:** 30 a 40 s, Fish `speed` ~1.05 (mais calmo), segue o formato de 6 passos do calendário.
+3. Voz Fish fixa por formato (identidade do perfil): **devocional = voz 3** (`a7f67c4e2d94440aad9c5a82365d9d92`), **mapa = voz 4** (`a0a26a57cac94ea4918f05a2393b4259`). Fallback Kokoro como na Tarefa B.
 4. Animação, checagem visual e build como na Tarefa B. `thumb_offset` no quadro em que o número/título da cena 1 está inteiro.
-5. Copie para `videos/cristao/<slug>.mp4`. Legenda: gancho + 2 frases com a referência bíblica, "🎨 Animação e narração feitas com IA.", "Rota tradicional aproximada" se for o caso, CTA de comentar e seguir a @e_cosdafe, 6 a 8 hashtags (#biblia #mapabiblico …).
-6. `python3 pipeline/fila.py adicionar <slug> <slug>.mp4 legenda.txt AAAA-MM-DDT19:00 <thumb_ms> --conta cristao`, marque `[x]` no calendário, apague `producoes/<slug>/build` e faça commit e push.
+5. Copie para `videos/cristao/<slug>.mp4`. Legenda: gancho + 2 frases com a referência bíblica (devocional: o versículo entre aspas), "🎨 Animação e narração feitas com IA.", "Rota tradicional aproximada" se for o caso, CTA de comentar e seguir a @e_cosdafe, 6 a 8 hashtags (#biblia #mapabiblico …).
+6. `python3 pipeline/fila.py adicionar <slug> <slug>.mp4 legenda.txt AAAA-MM-DDT<07:00|19:00> <thumb_ms> --conta cristao`, marque `[x]` no calendário, apague `producoes/<slug>/build` e faça commit e push.
    Slug: `cristao-AAAA-MM-DD-<tema>`.
 
-## Tarefa F: POSTAR CRISTÃO (às 18:50)
+## Tarefa F: POSTAR CRISTÃO (às 06:52 e 18:52)
 1. `python3 pipeline/fila.py proximo --conta cristao`. Se vier `{"nada": true}`, registre no log e encerre (sem reserva por enquanto).
 2. Monte o job `{"conta": "cristao", "tipo": "video", "video_url", "caption", "share_to_feed": true, "thumb_offset"}` com os campos do JSON, salve num arquivo temporário e rode `bash pipeline/ig_post.sh <arquivo>`.
 3. `status` "postado" → `python3 pipeline/fila.py marcar <id> <media_id> --conta cristao`. "erro" → `fila.py falhou <id> "<erro>" --conta cristao` e tente de novo uma vez depois de 1 minuto.
