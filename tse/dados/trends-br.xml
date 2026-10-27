@@ -170,21 +170,21 @@
 			<description/>
 			<link>https://trends.google.com/trending/rss?geo=BR</link>
 			<pubDate>Tue, 27 Oct 2026 03:30:00 -0700</pubDate>
-			<ht:picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRSRkATEna2J5_evTtX4CTkb-6RijRkxRlsTRjor0ShxMRyo2GyqwBVrP-Bq_E</ht:picture>
-			<ht:picture_source>The Guardian</ht:picture_source>
+			<ht:picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRmIsX6h_4oeR8kXyUTS1s9Cl-2Tv4hxaiLvkDD50hkh9KpoE307xqrMi8fN5M</ht:picture>
+			<ht:picture_source>AFP.com</ht:picture_source>
+			<ht:news_item>
+				<ht:news_item_title>Man Utd crisis deepens as Carrick faces axe</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.afp.com/en/man-utd-crisis-deepens-carrick-faces-axe</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRmIsX6h_4oeR8kXyUTS1s9Cl-2Tv4hxaiLvkDD50hkh9KpoE307xqrMi8fN5M</ht:news_item_picture>
+				<ht:news_item_source>AFP.com</ht:news_item_source>
+			</ht:news_item>
 			<ht:news_item>
 				<ht:news_item_title>Michael Carrick attends Manchester United training ground as club discuss his fate</ht:news_item_title>
 				<ht:news_item_snippet/>
 				<ht:news_item_url>https://www.theguardian.com/football/2026/oct/26/michael-carrick-manchester-united-training-ground-club-discuss-sacking</ht:news_item_url>
 				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRSRkATEna2J5_evTtX4CTkb-6RijRkxRlsTRjor0ShxMRyo2GyqwBVrP-Bq_E</ht:news_item_picture>
 				<ht:news_item_source>The Guardian</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>Manchester United reaction LIVE: Michael Carrick future under scrutiny as Man Utd lose again</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.bbc.com/sport/football/live/crvg9qe31xj1t</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRylph1GpZFA9PX0fBTIr-CmMXD4Uls1nN-3AmQp-2GIDK-ti_U2pvrZD3nnXs</ht:news_item_picture>
-				<ht:news_item_source>BBC</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
 				<ht:news_item_title>The Briefing: The poison drips through at Manchester United. Are Liverpool on the rise?</ht:news_item_title>
