@@ -1,0 +1,19 @@
+{
+  "voice": "pm_alex",
+  "speed": 1.12,
+  "lang": "pt-br",
+  "_comment": "Êxodo 15:22 – 19:2. Três dias no deserto de Sur sem achar água (15:22); Mara, águas amargas, Moisés lança um lenho e elas ficam doces (15:23-25); Elim, doze fontes e setenta palmeiras, acamparam junto às águas (15:27); deserto de Sim, entre Elim e Sinai, aos 15 dias do 2º mês (16:1); codornizes à tarde e de manhã uma coisa miúda como geada sobre a terra, o maná (16:13-15,31); Refidim sem água, Moisés fere a rocha em Horebe, Massá e Meribá (17:1-7); Amaleque ataca em Refidim, Moisés com as mãos erguidas, Arão e Hur sustentam, Josué vence (17:8-13); no 3º mês chegam ao deserto do Sinai e acampam diante do monte (19:1-2). Locais tradicionais (rota sul): Mara = Ain Hawara, Elim = Wadi Gharandel, Refidim = Wadi Feiran/Refayid, Sinai = Jebel Musa (Encyclopedia of the Bible/BibleGateway 'Elim'; Wikipedia 'Rephidim'). Localizações debatidas: mostradas como tradicionais.",
+  "say": {},
+  "fish": { "voice": "a0a26a57cac94ea4918f05a2393b4259", "speed": 1.12, "model": "s2.1-pro-free" },
+  "clips": [
+    { "id": "c1", "scene": 1, "minStart": 0.3, "gapAfterPrev": 0, "text": "Três dias no deserto, e nenhuma gota de água. Foi assim que começou a caminhada até o monte Sinai. Olha no mapa." },
+    { "id": "c2", "scene": 2, "minStart": 0, "gapAfterPrev": 0.4, "text": "Depois do mar, o povo entra no deserto de Sur. Em Mara, a água é amarga. Moisés joga um pedaço de madeira, e ela fica doce." },
+    { "id": "c3", "scene": 3, "minStart": 0, "gapAfterPrev": 0.4, "text": "Logo adiante, em Elim, havia doze fontes e setenta palmeiras. Ali eles acampam junto às águas." },
+    { "id": "c4", "scene": 4, "minStart": 0, "gapAfterPrev": 0.4, "text": "No deserto de Sim, falta comida. À tarde, vêm as codornizes. E toda manhã, o maná cobre o chão, fino como geada." },
+    { "id": "c5", "scene": 5, "minStart": 0, "gapAfterPrev": 0.4, "text": "Em Refidim, de novo sem água. Moisés bate na rocha, e sai água para o povo beber." },
+    { "id": "c6", "scene": 6, "minStart": 0, "gapAfterPrev": 0.4, "text": "Ali, Amaleque ataca. Enquanto Moisés mantém as mãos erguidas, Israel vence. E no terceiro mês, eles acampam diante do Sinai." },
+    { "id": "c7", "scene": 7, "minStart": 0, "gapAfterPrev": 0.45, "text": "Qual parada dessa caminhada mais fala com você? Comenta aqui. E segue, porque a próxima parte é: por que quarenta anos no deserto?" }
+  ],
+  "tailAfterLastClip": 1.8,
+  "keywords": []
+}

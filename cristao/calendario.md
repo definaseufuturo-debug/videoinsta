@@ -55,7 +55,7 @@ Varie o cenário/símbolo conforme o tema (lâmpada, caminho, âncora, pássaros
 
 ## Fila do mapa (19:00, pegue o próximo [ ])
 - [x] O Êxodo: do Egito ao Mar Vermelho (Êx 12–14) — postado 27/10
-- [ ] Do Mar Vermelho ao Sinai: Mara, Elim, o maná e Refidim (Êx 15–19)
+- [x] Do Mar Vermelho ao Sinai: Mara, Elim, o maná e Refidim (Êx 15–19) — 28/10
 - [ ] Por que 40 anos no deserto? Os espias e Cades-Barneia (Nm 13–14; Dt 1:2 "onze dias")
 - [ ] A travessia do Jordão e a queda de Jericó (Js 3–6)
 - [ ] As 12 tribos: onde cada uma ficou na terra prometida (Js 13–19)
