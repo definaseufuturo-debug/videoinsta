@@ -39,7 +39,9 @@ async function renderRange(f0, f1, out) { // renderiza quadros [f0, f1) num arqu
 }
 
 async function main() {
-  anim = F1Anim.create(TL, { createCanvas, images: {} }); W = anim.width; H = anim.height;
+  const images = {}; const fdir = path.join(ROOT, 'assets/fotos');
+  if (fs.existsSync(fdir)) for (const f of fs.readdirSync(fdir)) if (f.endsWith('.png')) images[f.replace('.png', '')] = await loadImage(path.join(fdir, f));
+  anim = F1Anim.create(TL, { createCanvas, images }); W = anim.width; H = anim.height;
   if (process.argv.includes('--worker')) { // processo filho
     const [f0, f1, out] = [+arg('f0'), +arg('f1'), arg('out')];
     await renderRange(f0, f1, out); process.send({ finished: true }); process.exit(0);
