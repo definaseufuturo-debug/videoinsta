@@ -1,0 +1,49 @@
+{
+  "status": "pendente",
+  "voice": "b1cab1f57b8d41aeb225d7d8bafc0806",
+  "speed": 1.12,
+  "model": "s2.1-pro-free",
+  "language": "pt",
+  "clips": [
+    {
+      "id": "c0",
+      "text": "Plantão. Derrotado nas urnas... Flávio Bolsonaro deixa o Brasil. Esta é a cronologia, hora a hora."
+    },
+    {
+      "id": "c1",
+      "text": "Domingo, vinte e cinco de outubro. O ministro Cristiano Zanin, do Supremo, prorroga a votação até as dezenove horas. A campanha de Flávio reage, e fala em golpe judiciário."
+    },
+    {
+      "id": "c2",
+      "text": "À noite, a virada. Flávio tinha liderado o primeiro turno, com quarenta e sete por cento. Mas Lula é reeleito, para o quarto mandato. E Flávio não reconhece a derrota."
+    },
+    {
+      "id": "c3",
+      "text": "Segunda-feira. Alexandre de Moraes manda apreender os passaportes do senador, e o proíbe de deixar o país. Em vídeo, Flávio diz que a decisão se baseou numa fala do irmão, Eduardo."
+    },
+    {
+      "id": "c4",
+      "text": "Terça de manhã. O paradeiro dele é desconhecido. A Polícia Federal aciona a Argentina. Mas o governo argentino diz não ter registro da entrada."
+    },
+    {
+      "id": "c5",
+      "text": "Horas depois, a confirmação. Segundo Róiters, bê bê cê e cê ene ene, Flávio deixou o Brasil com a mulher e as filhas. Um aliado diz que o destino foi a Flórida."
+    },
+    {
+      "id": "c6",
+      "text": "No fim da tarde, o governo Trump confirma. O Departamento de Estado vai emitir vistos para Flávio e a família. Um pedido de asilo ainda não foi confirmado."
+    },
+    {
+      "id": "c7",
+      "text": "As reações. Lula chama a viagem de ato vergonhoso. Trump diz que aprova a ida de Flávio aos Estados Unidos, segundo o gê um. Flávio nega irregularidades."
+    },
+    {
+      "id": "c8",
+      "text": "E agora? Segundo a bê bê cê, ele não é tratado como foragido. O mandato termina em trinta e um de janeiro, e com ele, o foro privilegiado. Se vai pedir asilo... ninguém sabe."
+    },
+    {
+      "id": "c9",
+      "text": "Essa história ainda não acabou. Siga para acompanhar."
+    }
+  ]
+}
