@@ -1,0 +1,33 @@
+{
+  "status": "pendente",
+  "voice": "a7f67c4e2d94440aad9c5a82365d9d92",
+  "speed": 1.05,
+  "model": "s2.1-pro-free",
+  "language": "pt",
+  "clips": [
+    {
+      "id": "c1",
+      "text": "Acordou com o coração apertado de preocupação?"
+    },
+    {
+      "id": "c2",
+      "text": "Não andeis ansiosos de coisa alguma; em tudo, porém, sejam conhecidas, diante de Deus, as vossas petições, pela oração e pela súplica, com ações de graças."
+    },
+    {
+      "id": "c3",
+      "text": "Quem escreveu isso foi Paulo. E ele estava preso."
+    },
+    {
+      "id": "c4",
+      "text": "Acorrentado, ele não fingiu que estava tudo bem. Ele levou tudo a Deus, em oração e com gratidão."
+    },
+    {
+      "id": "c5",
+      "text": "Hoje, antes de tentar resolver tudo sozinho, entrega a Deus o que está te pesando."
+    },
+    {
+      "id": "c6",
+      "text": "Se essa palavra é pra você, comenta amém. E segue, pra receber uma palavra toda manhã."
+    }
+  ]
+}
