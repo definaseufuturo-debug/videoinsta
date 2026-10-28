@@ -26,3 +26,4 @@
 - 2026-10-28 01:51 | cristao-2026-10-28-ate-o-sinai | cristao produção (Tarefa E) | fila 19:00 ok (mapa Êx 15–19 até o Sinai, voz Fish 4, 41 s, 6,3 MB); devocional 07:00 já estava na fila
 - 2026-10-28 06:54 | cristao-2026-10-28-misericordias | cristao | ok 18339927766275175
 - 2026-10-28 07:20 | 2026-10-28-flavio-cronologia | produzido a pedido do Jonas (cronologia Flávio Bolsonaro, voz Fish jovem, 84s) e adicionado para postar agora
+- 2026-10-28 07:54 | 2026-10-28-flavio-cronologia | agendado | ok 17914515099507729
