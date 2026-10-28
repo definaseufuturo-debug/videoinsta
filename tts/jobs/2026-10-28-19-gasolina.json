@@ -1,5 +1,5 @@
 {
-  "status": "pronto",
+  "status": "pendente",
   "voice": "a0a26a57cac94ea4918f05a2393b4259",
   "speed": 1.18,
   "model": "s2.1-pro-free",
@@ -23,10 +23,14 @@
     },
     {
       "id": "c5",
-      "text": "No geral, o Norte paga mais, e o Sul e o Sudeste pagam menos. Entre os extremos, são um real e quarenta por litro."
+      "text": "E os dois estados com mais gente ficam abaixo da média: São Paulo, com seis e trinta e cinco, e Minas, com seis e trinta e dois."
     },
     {
       "id": "c6",
+      "text": "No geral, o Norte paga mais, e o Sul e o Sudeste pagam menos. Entre os extremos, são um real e quarenta por litro."
+    },
+    {
+      "id": "c7",
       "text": "Quanto está a gasolina aí? Comenta a sigla do seu estado. Sexta tem mais mapa: os estados com mais gente. Segue pra não perder."
     }
   ]
