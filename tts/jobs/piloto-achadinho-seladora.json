@@ -1,0 +1,37 @@
+{
+  "status": "pendente",
+  "voice": "b1cab1f57b8d41aeb225d7d8bafc0806",
+  "speed": 1.18,
+  "model": "s2.1-pro-free",
+  "language": "pt",
+  "clips": [
+    {
+      "id": "c1",
+      "text": "Abriu o salgadinho ontem e hoje ele tá murcho? Não estragou. Quem fez isso foi o ar da sua casa."
+    },
+    {
+      "id": "c2",
+      "text": "Na fritura, quase toda a água da batata evapora. Por isso ela sai seca e crocante."
+    },
+    {
+      "id": "c3",
+      "text": "Só que o ar tem umidade. Abriu o pacote, essa água entra e gruda no amido da batata."
+    },
+    {
+      "id": "c4",
+      "text": "O amido amolece e a crocância vai embora. E o prendedor ajuda, mas sempre deixa uma fresta."
+    },
+    {
+      "id": "c5",
+      "text": "É por isso que o pacote vem lacrado de fábrica, cheio de nitrogênio, sem ar úmido lá dentro."
+    },
+    {
+      "id": "c6",
+      "text": "O achadinho que resolve: uma mini seladora. Ela esquenta a borda do pacote e lacra de novo, em segundos."
+    },
+    {
+      "id": "c7",
+      "text": "O link tá na bio. Comenta qual comida murcha mais rápido aí, e segue pra ver mais achadinhos."
+    }
+  ]
+}
