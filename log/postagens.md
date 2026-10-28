@@ -31,3 +31,4 @@
 - 2026-10-28 08:01 | 2026-10-28-08-geladeira | reagendado | 08:00 → 10:00 a pedido do Jonas (horário das 08:00 foi gasto com a cópia do Flávio)
 - 2026-10-28 09:01 | 2026-10-28-12-celular-satelite | produção EM ALTA (Tarefa C) | fila 12:00 ok (celular via satélite: 'celular via satélite' no Google Trends + lançamento de 26/10 em todos os portais de tecnologia; escolhido por ser explicável em 'como funciona' e seguro; alternativas descartadas: acidente de trem na Espanha (tragédia), A Fazenda/MasterChef (fofoca), política; voz Fish masculina, 45 s, 19,5 MB)
 - 2026-10-28 09:55 | 2026-10-28-08-geladeira | agendado (extra 10:00) | ok 18093828362664730
+- 2026-10-28 10:15 | 2026-10-28-geladeira | youtube (teste) | ok TvDXRSOJUq4
