@@ -1,0 +1,37 @@
+{
+  "status": "pendente",
+  "voice": "c9d3da0bdf61417d929dc67966e4befe",
+  "speed": 1.18,
+  "model": "s2.1-pro-free",
+  "language": "pt",
+  "clips": [
+    {
+      "id": "c1",
+      "text": "Cinquenta milhões de celulares no Brasil agora podem mandar mensagem direto pro espaço. Sem antena nova."
+    },
+    {
+      "id": "c2",
+      "text": "Normalmente, o celular fala com uma torre em terra. Sem torre por perto, sem sinal."
+    },
+    {
+      "id": "c3",
+      "text": "Agora, a Vivo ligou seus clientes aos satélites da Starlink. Lá no alto, cada satélite faz o papel de uma torre."
+    },
+    {
+      "id": "c4",
+      "text": "Sem torre, o celular se conecta sozinho ao satélite que passa por cima. Mas precisa de céu aberto: teto e árvore bloqueiam."
+    },
+    {
+      "id": "c5",
+      "text": "O sinal é fraco, então é pra coisa leve: texto, áudio, localização e mapa. Videochamada, não."
+    },
+    {
+      "id": "c6",
+      "text": "E é grátis por doze meses, nos planos elegíveis, sem precisar ativar nada."
+    },
+    {
+      "id": "c7",
+      "text": "Já ficou sem sinal na hora errada? Comenta onde. Amanhã: o micro-ondas por dentro. Segue pra não perder."
+    }
+  ]
+}
