@@ -20,3 +20,4 @@
 - 2026-10-27 18:52 | 2026-10-27-19-cafe | agendado | ok 18029150702865956
 - 2026-10-27 18:53 | - | cristao | nada na fila (proximo --conta cristao)
 - 2026-10-27 22:56 | 2026-10-27-22-bolsa-eleicao | extra (pedido do Jonas) | ok 18075914702749096
+- 2026-10-27 23:08 | cristao-2026-10-28-misericordias | cristao | refeito no estilo tipografia cinética editorial (pedido do Jonas), mesma voz Fish voz 3 e mesmo horário 07:00
