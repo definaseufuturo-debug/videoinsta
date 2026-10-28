@@ -1,1 +1,8 @@
-{"status": "pendente", "acao": "checar", "canal": "achadinhos", "tentativa": 2}
+{
+  "status": "ok",
+  "acao": "checar",
+  "canal": "achadinhos",
+  "tentativa": 2,
+  "token": "válido",
+  "canal_nome": "(não deu para ler o nome: HTTP 403)"
+}
