@@ -19,3 +19,4 @@
 - 2026-10-27 15:57 | cristao-exodo-mar-vermelho | manual (API Meta, @e_cosdafe) | ok 18117051887274207
 - 2026-10-27 18:52 | 2026-10-27-19-cafe | agendado | ok 18029150702865956
 - 2026-10-27 18:53 | - | cristao | nada na fila (proximo --conta cristao)
+- 2026-10-27 22:56 | 2026-10-27-22-bolsa-eleicao | extra (pedido do Jonas) | ok 18075914702749096
