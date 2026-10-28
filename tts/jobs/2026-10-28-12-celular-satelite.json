@@ -1,5 +1,5 @@
 {
-  "status": "pronto",
+  "status": "pendente",
   "voice": "c9d3da0bdf61417d929dc67966e4befe",
   "speed": 1.18,
   "model": "s2.1-pro-free",
@@ -11,15 +11,15 @@
     },
     {
       "id": "c2",
-      "text": "Normalmente, o celular fala com uma torre em terra. Sem torre por perto, sem sinal."
+      "text": "O celular comum fala com uma torre em terra. Sem torre por perto, sem sinal."
     },
     {
       "id": "c3",
-      "text": "Agora, a Vivo ligou seus clientes aos satélites da Starlink. Lá no alto, cada satélite faz o papel de uma torre."
+      "text": "A Vivo ligou seus clientes aos satélites da Starlink. Lá no alto, cada um faz o papel de uma torre."
     },
     {
       "id": "c4",
-      "text": "Sem torre, o celular se conecta sozinho ao satélite que passa por cima. Mas precisa de céu aberto: teto e árvore bloqueiam."
+      "text": "Sem torre, ele se conecta sozinho ao satélite. Mas precisa de céu aberto: teto e árvore bloqueiam."
     },
     {
       "id": "c5",
