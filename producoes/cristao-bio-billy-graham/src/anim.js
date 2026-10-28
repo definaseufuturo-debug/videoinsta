@@ -1,6 +1,6 @@
 /*
  * BIOGRAFIA — Billy Graham, em colagem editorial vintage (papel envelhecido, retícula, recortes de jornal,
- * carimbos, marcações em vermelho). Sem rostos: silhuetas, multidões em pontos, objetos e números.
+ * carimbos, marcações em vermelho). Fotos reais só de domínio público (assets/fotos/CREDITOS.txt), recortadas sem outras pessoas.
  * 9:16 (1080x1920). Toda ação é presa à palavra falada (build/timeline.json).
  */
 (function (root, factory) {
@@ -88,6 +88,22 @@
       if (o.lines) { ctx.save(); ctx.clip(); const R2 = mulberry(seed + 9); ctx.fillStyle = 'rgba(40,30,20,0.28)'; for (let yy = -h / 2 + (o.top || 30); yy < h / 2 - 10; yy += 18) { let xx = -w / 2 + 20; while (xx < w / 2 - 20) { const ww = 10 + R2() * 46; ctx.fillRect(xx, yy, Math.min(ww, w / 2 - 20 - xx), 7); xx += ww + 8; } } ctx.restore(); }
       ctx.restore();
     }
+    // foto real (domínio público) em recorte de papel rasgado
+    const IMG = (env && env.images) || {};
+    function photo(name, x, y, w, rot, k, seed = 1, o = {}) {
+      const img = IMG[name]; if (!img || k <= 0) return; const h = w * img.height / img.width;
+      const R = mulberry(seed), pts = [], step = 22;
+      for (let xx = -w / 2; xx <= w / 2; xx += step) pts.push([xx, -h / 2 + (R() - 0.5) * 16]);
+      for (let yy = -h / 2; yy <= h / 2; yy += step) pts.push([w / 2 + (R() - 0.5) * 14, yy]);
+      for (let xx = w / 2; xx >= -w / 2; xx -= step) pts.push([xx, h / 2 + (R() - 0.5) * 16]);
+      for (let yy = h / 2; yy >= -h / 2; yy -= step) pts.push([-w / 2 + (R() - 0.5) * 14, yy]);
+      ctx.save(); ctx.translate(x, y); ctx.rotate(rot); const sc = lerp(1.12, 1, outC(k)) * (o.zoom ? 1 + 0.03 * o.zoom : 1); ctx.scale(sc, sc); ga(clamp(k * 3) * (o.a ?? 1));
+      ctx.beginPath(); pts.forEach((p, i) => i ? ctx.lineTo(p[0] + 12, p[1] + 14) : ctx.moveTo(p[0] + 12, p[1] + 14)); ctx.closePath(); ctx.fillStyle = 'rgba(40,25,10,0.4)'; ctx.fill();
+      ctx.beginPath(); pts.forEach((p, i) => i ? ctx.lineTo(p[0], p[1]) : ctx.moveTo(p[0], p[1])); ctx.closePath(); ctx.fillStyle = CREAM; ctx.fill(); ctx.save(); ctx.clip();
+      const pz = o.pan || 0; ctx.drawImage(img, -w / 2 - pz * 20, -h / 2 - pz * 30, w + pz * 40, h + pz * 60); ctx.restore();
+      ctx.restore(); ga(1);
+    }
+    function signature(x, y, w, k) { const img = IMG['graham_assinatura']; if (!img || k <= 0) return; const h = w * img.height / img.width; ctx.save(); ctx.beginPath(); ctx.rect(x - w / 2, y - h / 2 - 20, w * clamp(k), h + 40); ctx.clip(); ctx.drawImage(img, x - w / 2, y - h / 2, w, h); ctx.restore(); }
     // manchete num recorte de jornal
     function headline(s, x, y, size, k, rot = -0.03, seed = 2, o = {}) {
       if (k <= 0) return; const w = Math.min(1000, tw(s, size, 700, SERIF) + 90), h = size * (o.lines ? 2.4 : 1.55);
@@ -211,7 +227,7 @@
       bg(t, 0); header();
       const part2 = t > s1.tud - 0.15;
       if (!part2) {
-        preacher(640, 1320, 1.0, sm(t, 0.2, 1.0), prog(t, 0, 0.6));
+        photo('graham_1966_halftone', 610, 1110, 680, 0.035, prog(t, 0.05, 0.45), 50, { pan: prog(t, 0, B[1]) });
         // multidão em pontos na frente
         crowd(60, 1300, 960, 260, 900, prog(t, s1.pes - 0.6, s1.pes + 0.3), 3, 9);
         headline('AO VIVO', 330, 330, 58, prog(t, 0.25, 0.55), -0.05, 4);
@@ -312,26 +328,32 @@
       ring(540, 1050, 500, 340, prog(t, s5.enc - 0.2, s5.enc + 0.6), 29);
     }
 
-    // ================= CENA 6 — 185 países, 1918–2018 =================
-    const s6 = { cen: wt('c6', 'cento'), pai: wt('c6', 'paises'), par: wt('c6', 'partiu'), doi: wt('c6', 'dois'), nov: wt('c6', 'noventa'), ano: wt('c6', 'anos') };
-    cue(s6.cen, 'roll', { dur: 1.0 }); cue(s6.pai, 'stamp'); cue(s6.par, 'riser', { dur: 0.6, gain: 0.5 }); cue(s6.doi, 'stamp'); cue(s6.nov, 'bell');
-    hit(s6.pai, 0.8);
+    // ================= CENA 6 — 185 países, medalha 1983, 1918–2018 =================
+    const s6 = { cen: wt('c6', 'cento'), pai: wt('c6', 'paises'), oit: wt('c6', 'oitenta', 1), rec: wt('c6', 'recebeu'), med: wt('c6', 'medalha'), lib: wt('c6', 'liberdade'), par: wt('c6', 'partiu'), doi: wt('c6', 'dois'), nov: wt('c6', 'noventa'), ano: wt('c6', 'anos') };
+    cue(s6.cen, 'roll', { dur: 1.0 }); cue(s6.pai, 'stamp'); cue(s6.oit, 'stamp'); cue(s6.med, 'reveal'); cue(s6.lib, 'bell'); cue(s6.par, 'riser', { dur: 0.6, gain: 0.5 }); cue(s6.doi, 'stamp'); cue(s6.nov, 'scratch');
+    hit(s6.pai, 0.8); hit(s6.oit, 0.8);
     function scene6(t) {
       bg(t, 5); header();
-      const part2 = t > s6.par - 0.25;
-      if (!part2) {
+      if (t < s6.oit - 0.25) {
         const pins = Math.round(185 * outC(prog(t, s6.cen - 0.2, s6.pai + 0.3)));
         globe(540, 1000, 380, t, pins);
         bigNum('+' + pins, 540, 470, 220, sm(t, s6.cen - 0.25, s6.cen + 0.05));
         chipLabel('PAÍSES E TERRITÓRIOS', 540, 640, 44, prog(t, s6.pai - 0.1, s6.pai + 0.2));
+      } else if (t < s6.par - 0.25) {
+        photo('graham_1983_halftone', 560, 1010, 760, -0.03, sm(t, s6.oit - 0.25, s6.oit + 0.1), 61, { pan: prog(t, s6.oit, s6.par) });
+        stamp(['23 FEV 1983'], 300, 420, prog(t, s6.oit - 0.1, s6.oit + 0.15), { rx: 200, ry: 80, s0: 46, rot: -0.12 });
+        headline('MEDALHA PRESIDENCIAL', 560, 560, 56, prog(t, s6.med - 0.2, s6.med + 0.1), 0.02, 62);
+        chipLabel('DA LIBERDADE', 560, 650, 46, prog(t, s6.lib - 0.15, s6.lib + 0.15), { bg: RED });
+        ring(330, 1060, 150, 110, prog(t, s6.med, s6.med + 0.6), 63);
       } else {
         const k1 = sm(t, s6.par - 0.25, s6.par + 0.1, outBack);
-        preacher(540, 1220, 1.0, 0.15, 0.5 * k1);
-        bigNum('1918', 300, 520, 170, k1, { rot: -0.04 });
-        bigNum('2018', 780, 520, 170, sm(t, s6.doi - 0.2, s6.doi + 0.1, outBack), { rot: 0.04 });
-        hand([[430, 540], [650, 540]], 8, RED, prog(t, s6.doi - 0.3, s6.doi + 0.2), 31);
-        stamp(['99 ANOS'], 540, 1500, prog(t, s6.nov - 0.1, s6.nov + 0.15), { rx: 200, ry: 90, s0: 60, rot: -0.06 });
-        stamp(['21 FEV 2018'], 760, 760, prog(t, s6.doi, s6.doi + 0.2), { rx: 170, ry: 70, s0: 38, rot: 0.14 });
+        photo('graham_1981_halftone', 560, 990, 390, 0.03, k1, 64);
+        bigNum('1918', 280, 470, 170, k1, { rot: -0.04 });
+        bigNum('2018', 800, 470, 170, sm(t, s6.doi - 0.2, s6.doi + 0.1, outBack), { rot: 0.04 });
+        hand([[410, 490], [670, 490]], 8, RED, prog(t, s6.doi - 0.3, s6.doi + 0.2), 31);
+        stamp(['21 FEV 2018'], 850, 690, prog(t, s6.doi, s6.doi + 0.2), { rx: 170, ry: 70, s0: 38, rot: 0.14 });
+        stamp(['99 ANOS'], 250, 1260, prog(t, s6.nov - 0.1, s6.nov + 0.15), { rx: 180, ry: 85, s0: 56, rot: -0.08 });
+        signature(560, 1490, 600, prog(t, s6.nov - 0.2, s6.ano + 0.9));
       }
     }
 
@@ -345,7 +367,7 @@
       ring(540, 560, 420, 90, prog(t, s7.fe, s7.fe + 0.5), 35);
       const ck = sm(t, s7.com - 0.2, s7.com + 0.15, outBack);
       if (ck > 0) { ctx.save(); ctx.translate(540, 820); ctx.scale(ck, ck); torn(0, 0, 640, 140, CREAM, -0.02, 36); txt('COMENTA AQUI', 0, 4, 60, { f: MONO, w: 700, color: RED, rot: -0.02 }); ctx.restore(); }
-      preacher(540, 1260, 0.75, 1, 0.8 * prog(t, s7.his - 0.3, s7.his + 0.3));
+      photo('graham_1966_halftone', 540, 1150, 360, -0.04, prog(t, s7.com, s7.com + 0.4), 70);
       const bk = sm(t, s7.seg - 0.3, s7.seg + 0.1, outBack), press = t > s7.seg + 0.2;
       if (bk > 0) { ctx.save(); ctx.translate(540, 1470); const pr = bk * (1 - 0.06 * pulse(t, s7.seg + 0.2, 0.03, 0.15)); ctx.scale(pr, pr); ctx.fillStyle = 'rgba(40,25,10,0.35)'; ctx.fillRect(-250 + 10, -70 + 12, 500, 140); ctx.fillStyle = press ? CREAM : INK; ctx.fillRect(-250, -70, 500, 140); ctx.lineWidth = 6; ctx.strokeStyle = INK; ctx.strokeRect(-250, -70, 500, 140); txt(press ? 'SEGUINDO ✓' : '+ SEGUIR', 0, 4, 60, { w: 900, color: press ? INK : CREAM }); ctx.restore(); }
     }
