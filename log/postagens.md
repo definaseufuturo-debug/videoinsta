@@ -35,3 +35,4 @@
 - 2026-10-28 11:55 | 2026-10-28-12-celular-satelite | agendado | ok 18100443920403350 | yt sL4sic8ztDY
 - 2026-10-28 14:13 | cristao-2026-10-28-bio-billy-graham | cristao (extra, pedido do Jonas) | ok 18044903258834542
 - 2026-10-28 17:18 | cristao-2026-10-28-porta-estreita | cristao (extra, piloto stickman, pedido do Jonas) | ok 18154369120541517
+- 2026-10-28 18:53 | 2026-10-28-19-gasolina | agendado | ok 17984626364904114 | yt 9kKCrVmjtDo
