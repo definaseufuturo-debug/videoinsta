@@ -1,5 +1,5 @@
 {
-  "status": "pronto",
+  "status": "pendente",
   "voice": "a7f67c4e2d94440aad9c5a82365d9d92",
   "speed": 1.12,
   "model": "s2.1-pro-free",
@@ -27,7 +27,7 @@
     },
     {
       "id": "c6",
-      "text": "Foram mais de cento e oitenta e cinco países. Ele partiu em dois mil e dezoito, aos noventa e nove anos."
+      "text": "Pregou em mais de cento e oitenta e cinco países e, em oitenta e três, recebeu a Medalha Presidencial da Liberdade. Ele partiu em dois mil e dezoito, aos noventa e nove anos."
     },
     {
       "id": "c7",
