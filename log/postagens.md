@@ -33,3 +33,4 @@
 - 2026-10-28 09:55 | 2026-10-28-08-geladeira | agendado (extra 10:00) | ok 18093828362664730
 - 2026-10-28 10:15 | 2026-10-28-geladeira | youtube (teste) | ok TvDXRSOJUq4
 - 2026-10-28 11:55 | 2026-10-28-12-celular-satelite | agendado | ok 18100443920403350 | yt sL4sic8ztDY
+- 2026-10-28 14:13 | cristao-2026-10-28-bio-billy-graham | cristao (extra, pedido do Jonas) | ok 18044903258834542
