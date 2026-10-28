@@ -1,0 +1,20 @@
+{
+  "voice": "pf_dora",
+  "speed": 1.08,
+  "lang": "pt-br",
+  "_comment": "Devocional no estilo TEXTO CINÉTICO. Filipenses 4:6 (ARA: 'Não andeis ansiosos de coisa alguma; em tudo, porém, sejam conhecidas, diante de Deus, as vossas petições, pela oração e pela súplica, com ações de graças'). Contexto: Paulo escreveu aos filipenses estando preso (Fp 1:7, 1:13 'as minhas cadeias').",
+  "say": {},
+  "fish": { "voice": "a7f67c4e2d94440aad9c5a82365d9d92", "speed": 1.05, "model": "s2.1-pro-free" },
+  "accent": ["ansiosos", "ansiedade", "deus", "oracao", "gracas", "preso", "acorrentado", "tudo", "entrega", "amem", "pesando"],
+  "clips": [
+    { "id": "c1", "scene": 1, "minStart": 0.3, "gapAfterPrev": 0, "text": "Acordou com o coração apertado de preocupação?" },
+    { "id": "c2", "scene": 2, "minStart": 0, "gapAfterPrev": 0.5, "text": "Não andeis ansiosos de coisa alguma; em tudo, porém, sejam conhecidas, diante de Deus, as vossas petições, pela oração e pela súplica, com ações de graças." },
+    { "id": "c3", "scene": 3, "minStart": 0, "gapAfterPrev": 0.5, "text": "Quem escreveu isso foi Paulo. E ele estava preso." },
+    { "id": "c4", "scene": 4, "minStart": 0, "gapAfterPrev": 0.45, "text": "Acorrentado, ele não fingiu que estava tudo bem. Ele levou tudo a Deus, em oração e com gratidão." },
+    { "id": "c5", "scene": 5, "minStart": 0, "gapAfterPrev": 0.45, "text": "Hoje, antes de tentar resolver tudo sozinho, entrega a Deus o que está te pesando." },
+    { "id": "c6", "scene": 6, "minStart": 0, "gapAfterPrev": 0.5, "text": "Se essa palavra é pra você, comenta amém. E segue, pra receber uma palavra toda manhã." }
+  ],
+  "ref": { "c2": "FILIPENSES 4:6" },
+  "tailAfterLastClip": 2.0,
+  "keywords": []
+}

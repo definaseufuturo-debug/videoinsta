@@ -3,7 +3,7 @@
 **Identidade:** "a Bíblia no mapa". Histórias bíblicas contadas como mapa animado em pergaminho, com rota, lugares, números do próprio texto e a referência bíblica. De 35 a 50 s, em 9:16 e em português.
 
 ## Horários (Brasília), todos os dias
-- **07:00: DEVOCIONAL "Palavra da Manhã".** Um versículo + contexto + aplicação, de 30 a 40 s. Estilo do exemplo `biblia-devocional` (céu de amanhecer, pergaminho com o versículo, símbolos desenhados, CTA "comenta amém").
+- **07:00: DEVOCIONAL "Palavra da Manhã".** Um versículo + contexto + aplicação, de 30 a 40 s. **Desde 29/10/2026: estilo TEXTO CINÉTICO** do exemplo `devocional-cinetico` (cor chapada por cena, palavras gigantes entrando no instante em que são faladas, destaques sublinhados, referência no rodapé, CTA "comenta amém" + botão seguir). O antigo `biblia-devocional` (pergaminho) não é mais usado no devocional.
 - **19:00: MAPA "A Bíblia no mapa".** Série de histórias bíblicas em mapa de pergaminho (exemplos `biblia-exodo` e `biblia-paulo`).
 - Os dois são postados pela API oficial da Meta (`pipeline/ig_post.sh`), uns 8 min antes do horário.
 
@@ -19,11 +19,11 @@
 4. Virada: o que isso significa no meio daquela situação.
 5. Aplicação para hoje, em 1 frase.
 6. CTA: "Se essa palavra é pra você, comenta amém. E segue, pra receber uma palavra toda manhã."
-Varie o cenário/símbolo conforme o tema (lâmpada, caminho, âncora, pássaros, lírios, ovelha, montanha, porta, semente…), sempre desenhado, sem rosto.
+No estilo cinético, o que varia é a **paleta** (uma cor por cena, no bloco CONFIG do anim.js) e as **palavras de destaque** (`accent`). O gancho (cena 1) precisa ser curto e direto, falando com a pessoa ("Acordou ansioso?"), porque é o que segura o primeiro segundo.
 
 ## Fila do devocional (07:00, pegue o próximo [ ])
 - [x] Esperança: as misericórdias se renovam cada manhã (Lm 3:22-23) — 28/10
-- [ ] Ansiedade: não andeis ansiosos (Fp 4:6-7; Paulo escreveu preso)
+- [x] Ansiedade: não andeis ansiosos (Fp 4:6-7; Paulo escreveu preso) — 29/10 (1º no estilo texto cinético)
 - [ ] Medo: não temas, eu sou contigo (Is 41:10)
 - [ ] Cansaço: vinde a mim, os cansados (Mt 11:28-30)
 - [ ] Propósito: pensamentos de paz, não de mal (Jr 29:11; carta aos exilados na Babilônia)

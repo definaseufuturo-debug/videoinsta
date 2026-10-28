@@ -129,7 +129,7 @@ Para cada horário do dia (veja os horários em `calendario.md`):
 - **Conta:** Instagram `e_cosdafe`, id `17841451042007480`. **Não usa o Windsor.** Posta pela API oficial da Meta via GitHub Actions: `pipeline/ig_post.sh <job.json>` (workflow `ig-post.yml`, segredo `IG_TOKEN_CRISTAO`, token de usuário do sistema que não expira; vai pelo graph.facebook.com pela Página ligada à conta).
 - **Fila:** `fila_cristao.json`, sempre por `python3 pipeline/fila.py <comando> --conta cristao`. Vídeos em `videos/cristao/`.
 - **Calendário e regras:** `cristao/calendario.md` (2 Reels por dia: 07:00 devocional "Palavra da Manhã" e 19:00 mapa "A Bíblia no mapa"; filas de temas e regras de conteúdo do perfil).
-- **Base:** `pipeline/novo.sh <slug> template_cristao`. Antes de escrever, leia inteiro o exemplo do formato: devocional = `pipeline/exemplos/biblia-devocional/` (não usa mapa; apague os .json de `assets/`); mapa = `pipeline/exemplos/biblia-exodo/` e `biblia-paulo/`.
+- **Base:** `pipeline/novo.sh <slug> template_cristao`. Antes de escrever, leia inteiro o exemplo do formato: devocional = `pipeline/exemplos/devocional-cinetico/` (estilo TEXTO CINÉTICO desde 29/10/2026: copie o anim.js inteiro e edite só o bloco CONFIG — destaques, referência e paleta; apague os .json de `assets/`); mapa = `pipeline/exemplos/biblia-exodo/` e `biblia-paulo/`.
   - Mapa da região: `python3 pipeline/geo_regiao.py <lon0> <lon1> <lat0> <lat1> producoes/<slug>/assets/regiao.json` e, no anim.js, carregue esse arquivo e use `K = Math.cos(lat_ref * Math.PI / 180)` (o `lat_ref` vem no JSON). Para o Mediterrâneo inteiro, existe `assets/med.json` (K = cos 37°).
   - Os comandos de build da Tarefa B valem iguais (`pipeline/fish.sh`, `pipeline/build.sh`, folha de quadros obrigatória).
 
