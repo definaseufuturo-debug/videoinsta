@@ -45,7 +45,7 @@ for jf in sorted((ROOT / "yt/jobs").glob("*.json")):
         if not (CID and CSEC and rtok): raise RuntimeError(f"faltam segredos YT_CLIENT_ID / YT_CLIENT_SECRET / {nome}")
         res = upload(job, token(rtok))
         job.update(status="postado", video_id=res["id"], url="https://youtube.com/shorts/" + res["id"],
-                   privacidade=res.get("status", {}).get("privacyStatus"), canal_nome=res.get("snippet", {}).get("channelTitle"), canal_id=res.get("snippet", {}).get("channelId"), upload=res.get("status", {}).get("uploadStatus"))
+                   privacidade=res.get("status", {}).get("privacyStatus"), canal_nome=res.get("snippet", {}).get("channelTitle"), canal_nome=res.get("snippet", {}).get("channelTitle"), canal_id=res.get("snippet", {}).get("channelId"), upload=res.get("status", {}).get("uploadStatus"))
         print(jf.stem, "ok", res["id"], job["privacidade"])
     except urllib.error.HTTPError as e:
         job.update(status="erro", erro=f"HTTP {e.code}: {e.read().decode(errors='ignore')[:500]}")

@@ -8,7 +8,7 @@ cd "$(dirname "$0")/.."
 ID="$1"; VID="$2"; LEG="$3"; TIT="${4:-}"; CANAL="${5:-}"
 git pull -q --rebase origin main; mkdir -p yt/jobs
 python3 - "$ID" "$VID" "$LEG" "$TIT" "$CANAL" <<'PY'
-import json, re, sys
+import json, os, re, sys
 i, vid, leg, tit, canal = sys.argv[1:6]
 txt = sys.stdin.read() if leg == "-" else open(leg).read()
 tags = re.findall(r"#(\w+)", txt)
@@ -18,7 +18,7 @@ title = re.sub(r"[^\w\s.,:;!?()'\"%$-–—/@áàâãéêíóôõúçÁÀÂÃÉ�
 if len(title) > 90: title = title[:87].rsplit(" ", 1)[0] + "…"
 desc = txt.strip() + ("" if "#shorts" in txt.lower() else "\n\n#Shorts")
 job = {"status": "pendente", "video": vid, "title": title + " #Shorts", "description": desc,
-       "tags": tags[:15] + ["Shorts"], "privacy": "public", "categoryId": 27, "canal": canal}
+       "tags": tags[:15] + ["Shorts"], "privacy": os.environ.get("YT_PRIVACY", "public"), "categoryId": 27, "canal": canal}
 json.dump(job, open(f"yt/jobs/{i}.json", "w"), ensure_ascii=False, indent=2)
 print("título:", job["title"])
 PY
@@ -30,4 +30,4 @@ for i in $(seq 1 90); do
   st=$(python3 -c "import json;print(json.load(open('yt/jobs/$ID.json'))['status'])")
   [ "$st" != "pendente" ] && break
 done
-python3 -c "import json;j=json.load(open('yt/jobs/$ID.json'));print(json.dumps({k:j.get(k) for k in ('status','video_id','url','privacidade','erro')},ensure_ascii=False))"
+python3 -c "import json;j=json.load(open('yt/jobs/$ID.json'));print(json.dumps({k:j.get(k) for k in ('status','video_id','url','privacidade','canal_nome','erro')},ensure_ascii=False))"
