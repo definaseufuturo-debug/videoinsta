@@ -61,6 +61,8 @@ if cmd == "proximo":
         else: print(json.dumps({"nada": True}))
 elif cmd == "marcar":
     it = find(d, sys.argv[2]); it["status"] = "postado"; it["media_id"] = sys.argv[3]; it["postado_em"] = now().isoformat(timespec="minutes"); save(d); print("ok")
+elif cmd == "marcar_yt":
+    it = find(d, sys.argv[2]); it["youtube_id"] = sys.argv[3]; save(d); print("ok")
 elif cmd == "falhou":
     it = find(d, sys.argv[2]); it.setdefault("erros", []).append(f"{now().isoformat(timespec='minutes')} {sys.argv[3]}"); save(d); print("registrado")
 elif cmd == "adicionar":

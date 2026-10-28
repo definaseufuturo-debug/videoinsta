@@ -1,6 +1,6 @@
 # videoinsta: produção e postagem automática da @mindloop_u
 
-Este repositório gera vídeos animados (desenhados por código), narrados com voz neural e sincronizados palavra a palavra, e os publica como Reels na @mindloop_u pelo Windsor.ai.
+Este repositório gera vídeos animados (desenhados por código), narrados com voz neural e sincronizados palavra a palavra, e os publica como Reels na @mindloop_u pelo Windsor.ai e como Shorts no YouTube (`pipeline/yt_post.sh`, workflow `yt-post.yml`, segredos `YT_CLIENT_ID`, `YT_CLIENT_SECRET` e `YT_REFRESH_TOKEN`). O @e_cosdafe ainda não posta no YouTube.
 
 - **Dono:** Jonas, que fala português.
 - **Conta:** Instagram `mindloop_u`, id `17841442746650307`, connector `instagram`.
@@ -26,7 +26,12 @@ Este repositório gera vídeos animados (desenhados por código), narrados com v
    O `proximo` normal só devolve vídeos. Os carrosséis saem pela tarefa de carrossel com `fila.py proximo --so-carrossel`, que nunca usa a reserva.
 3. Se der certo: `python3 pipeline/fila.py marcar <id> <media_id>`.
    Se der erro: `python3 pipeline/fila.py falhou <id> "<erro>"`. Tente de novo uma única vez, depois de 1 minuto.
-4. Acrescente uma linha em `log/postagens.md`: `- AAAA-MM-DD HH:MM | <id> | <origem> | ok <media_id>` (ou `ERRO ...`).
+3b. **YouTube (só vídeos, só depois do Instagram dar certo).** Salve o `caption` num arquivo temporário e rode `bash pipeline/yt_post.sh <id> videos/<arquivo do video_url> <arquivo da legenda> "<título>"`.
+   - Título: uma pergunta ou frase curta e forte sobre o tema, de até 80 caracteres, sem emoji (o script acrescenta " #Shorts").
+   - Se der `postado`: `python3 pipeline/fila.py marcar_yt <id> <video_id>`.
+   - Se der erro: registre no log e siga. Não tente de novo e não mexa no post do Instagram. Se o erro for de cota (`quotaExceeded`), pule o YouTube até o dia seguinte.
+   - Carrossel não vai para o YouTube.
+4. Acrescente uma linha em `log/postagens.md`: `- AAAA-MM-DD HH:MM | <id> | <origem> | ok <media_id> | yt <video_id>` (ou `ERRO ...` em cada parte).
 5. Faça commit e push (`git pull --rebase` antes).
 6. Nunca poste duas vezes no mesmo horário. Nunca poste fora da fila.
 
