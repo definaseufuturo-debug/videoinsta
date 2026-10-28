@@ -1,0 +1,45 @@
+{
+  "status": "pendente",
+  "voice": "b1cab1f57b8d41aeb225d7d8bafc0806",
+  "speed": 1.05,
+  "model": "s2.1-pro-free",
+  "language": "pt",
+  "clips": [
+    {
+      "id": "c1",
+      "text": "Vinte e quatro horas. Foi o tempo que o mercado levou para dar o seu veredito."
+    },
+    {
+      "id": "c2",
+      "text": "Domingo, vinte e cinco de outubro. Lula é reeleito, com cinquenta e um vírgula setenta e nove por cento dos votos válidos. Uma virada inédita sobre Flávio Bolsonaro."
+    },
+    {
+      "id": "c3",
+      "text": "Ainda na noite de domingo, o primeiro alarme. Em Tóquio, o fundo que replica o Ibovespa despenca treze por cento."
+    },
+    {
+      "id": "c4",
+      "text": "Segunda-feira. A Bolsa abre, e em minutos a queda passa de dez por cento. O circuit breaker é acionado. Negociações suspensas. Pela primeira vez desde a pandemia."
+    },
+    {
+      "id": "c5",
+      "text": "No fim do dia, o Ibovespa fecha em queda de treze vírgula oitenta e oito por cento. Vinte e oito mil pontos apagados em um único pregão."
+    },
+    {
+      "id": "c6",
+      "text": "Nas ações, um massacre. Magazine Luiza afunda cinquenta e oito por cento. Cyrela, quarenta e quatro. Bradesco, vinte e um."
+    },
+    {
+      "id": "c7",
+      "text": "O dólar dispara oito vírgula vinte e um por cento, e fecha a cinco reais e quarenta. A maior alta diária desde mil novecentos e noventa e nove."
+    },
+    {
+      "id": "c8",
+      "text": "E os juros futuros explodem. O mercado já aposta em alta da Selic em novembro."
+    },
+    {
+      "id": "c9",
+      "text": "A pergunta agora é uma só. Foi só o susto do primeiro dia, ou o começo de algo maior?"
+    }
+  ]
+}
