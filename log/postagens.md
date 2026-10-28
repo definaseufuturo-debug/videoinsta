@@ -27,3 +27,4 @@
 - 2026-10-28 06:54 | cristao-2026-10-28-misericordias | cristao | ok 18339927766275175
 - 2026-10-28 07:20 | 2026-10-28-flavio-cronologia | produzido a pedido do Jonas (cronologia Flávio Bolsonaro, voz Fish jovem, 84s) e adicionado para postar agora
 - 2026-10-28 07:54 | 2026-10-28-flavio-cronologia | agendado | ok 17914515099507729
+- 2026-10-28 07:58 | 2026-10-28-flavio-cronologia | verificação | DUPLICADO: já estava no ar desde ~07:2x como 17991554964027592 (postado fora da fila); a rodada 07:50 postou de novo (17914515099507729). Apagar um no app. Geladeira 08:00 ficou sem postar.
