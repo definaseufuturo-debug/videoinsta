@@ -1,0 +1,33 @@
+{
+  "status": "pendente",
+  "voice": "a0a26a57cac94ea4918f05a2393b4259",
+  "speed": 1.18,
+  "model": "s2.1-pro-free",
+  "language": "pt",
+  "clips": [
+    {
+      "id": "c1",
+      "text": "Encher o tanque pode custar setenta reais a mais, dependendo do estado. Olha o mapa da gasolina."
+    },
+    {
+      "id": "c2",
+      "text": "Na última pesquisa da a ene pê, a média do Brasil ficou em seis reais e quarenta e nove o litro."
+    },
+    {
+      "id": "c3",
+      "text": "A mais cara está em Roraima: sete e cinquenta e seis. Depois vêm Acre e Rondônia, com sete e quarenta e três."
+    },
+    {
+      "id": "c4",
+      "text": "A mais barata está no Rio Grande do Sul: seis e dezesseis. Depois, Santa Catarina e Paraíba."
+    },
+    {
+      "id": "c5",
+      "text": "No geral, o Norte paga mais, e o Sul e o Sudeste pagam menos. Entre os extremos, são um real e quarenta por litro."
+    },
+    {
+      "id": "c6",
+      "text": "Quanto está a gasolina aí? Comenta a sigla do seu estado. Sexta tem mais mapa: os estados com mais gente. Segue pra não perder."
+    }
+  ]
+}
