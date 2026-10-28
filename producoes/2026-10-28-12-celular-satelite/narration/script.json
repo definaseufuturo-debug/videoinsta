@@ -1,0 +1,65 @@
+{
+  "voice": "pm_alex",
+  "speed": 1.12,
+  "lang": "pt-br",
+  "_comment": "EM ALTA 28/10: celular via satélite (Google Trends 'celular via satélite' 500+). Fontes: Exame 26/10/2026 'Vivo e Starlink lançam conexão direta entre celulares e satélites' (lançamento 26/10; D2D; satélites de órbita baixa a centenas de km funcionam como estações de transmissão; precisa visão desobstruída do céu, teto de carro/prédios/árvores interrompem; texto, áudio, localização e mapas; sem videochamada nem navegação livre; sem antena, sem ativar, roaming de dados ligado; grátis por tempo limitado); Mundo Conectado 26/10/2026 (cerca de 50 milhões de assinantes elegíveis; grátis 12 meses para consumidores e 3 meses empresarial, em planos elegíveis/pré-pago com recarga acima de R$30; conexão automática onde não há cobertura terrestre).",
+  "say": {},
+  "fish": {
+    "voice": "c9d3da0bdf61417d929dc67966e4befe",
+    "speed": 1.18,
+    "model": "s2.1-pro-free"
+  },
+  "clips": [
+    {
+      "id": "c1",
+      "scene": 1,
+      "minStart": 0.3,
+      "gapAfterPrev": 0,
+      "text": "Cinquenta milhões de celulares no Brasil agora podem mandar mensagem direto pro espaço. Sem antena nova."
+    },
+    {
+      "id": "c2",
+      "scene": 2,
+      "minStart": 0,
+      "gapAfterPrev": 0.4,
+      "text": "O celular comum fala com uma torre em terra. Sem torre por perto, sem sinal."
+    },
+    {
+      "id": "c3",
+      "scene": 3,
+      "minStart": 0,
+      "gapAfterPrev": 0.4,
+      "text": "A Vivo ligou seus clientes aos satélites da Starlink. Lá no alto, cada um faz o papel de uma torre."
+    },
+    {
+      "id": "c4",
+      "scene": 4,
+      "minStart": 0,
+      "gapAfterPrev": 0.4,
+      "text": "Sem torre, ele se conecta sozinho ao satélite. Mas precisa de céu aberto: teto e árvore bloqueiam."
+    },
+    {
+      "id": "c5",
+      "scene": 5,
+      "minStart": 0,
+      "gapAfterPrev": 0.4,
+      "text": "O sinal é fraco, então é pra coisa leve: texto, áudio, localização e mapa. Videochamada, não."
+    },
+    {
+      "id": "c6",
+      "scene": 6,
+      "minStart": 0,
+      "gapAfterPrev": 0.4,
+      "text": "E é grátis por doze meses, nos planos elegíveis, sem precisar ativar nada."
+    },
+    {
+      "id": "c7",
+      "scene": 7,
+      "minStart": 0,
+      "gapAfterPrev": 0.45,
+      "text": "Já ficou sem sinal na hora errada? Comenta onde. Amanhã: o micro-ondas por dentro. Segue pra não perder."
+    }
+  ],
+  "tailAfterLastClip": 1.8,
+  "keywords": []
+}
