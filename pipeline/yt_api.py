@@ -56,7 +56,7 @@ for jf in sorted((ROOT / "yt/jobs").glob("*.json")):
             jf.write_text(json.dumps(job, ensure_ascii=False, indent=2)); continue
         res = upload(job, at)
         job.update(status="postado", video_id=res["id"], url="https://youtube.com/shorts/" + res["id"],
-                   privacidade=res.get("status", {}).get("privacyStatus"), canal_nome=res.get("snippet", {}).get("channelTitle"), canal_nome=res.get("snippet", {}).get("channelTitle"), canal_id=res.get("snippet", {}).get("channelId"), upload=res.get("status", {}).get("uploadStatus"))
+                   privacidade=res.get("status", {}).get("privacyStatus"), canal_nome=res.get("snippet", {}).get("channelTitle"), canal_id=res.get("snippet", {}).get("channelId"), upload=res.get("status", {}).get("uploadStatus"))
         print(jf.stem, "ok", res["id"], job["privacidade"])
     except urllib.error.HTTPError as e:
         job.update(status="erro", erro=f"HTTP {e.code}: {e.read().decode(errors='ignore')[:500]}")

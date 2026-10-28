@@ -1,5 +1,5 @@
 {
-  "status": "pendente",
+  "status": "cancelado",
   "video": "videos/achadinhos/2026-10-28-piloto-seladora.mp4",
   "title": "Por que o salgadinho murcha? E o achadinho que resolve #Shorts",
   "description": "Seu salgadinho murcha de um dia pro outro? A culpa é do ar da sua casa 🥔💧\n\nNa fritura, quase toda a água da batata evapora. Quando o pacote fica aberto, a umidade do ar volta e gruda no amido, e a crocância vai embora. O prendedor ajuda, mas sempre deixa uma fresta.\n\nO achadinho que resolve: mini seladora. Ela esquenta a borda e lacra o pacote de novo em segundos. 🔗 Link na bio.\n\n🎨 Animação e narração feitas com IA.\n\nQual comida murcha mais rápido aí? Comenta 👇 e segue pra ver mais achadinhos.\n\n#achadinhos #achadinhosshopee #utilidadesdomesticas #cozinha #dicasdecasa #curiosidades #shorts",
@@ -15,5 +15,6 @@
   ],
   "privacy": "private",
   "categoryId": 27,
-  "canal": "achadinhos"
+  "canal": "achadinhos",
+  "erro": "duplicado do teste-achadinhos"
 }
