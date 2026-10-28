@@ -37,3 +37,4 @@
 - 2026-10-28 17:18 | cristao-2026-10-28-porta-estreita | cristao (extra, piloto stickman, pedido do Jonas) | ok 18154369120541517
 - 2026-10-28 18:53 | 2026-10-28-19-gasolina | agendado | ok 17984626364904114 | yt 9kKCrVmjtDo
 - 2026-10-28 18:55 | cristao-2026-10-28-ate-o-sinai | cristao | ok 18052375853684532
+- 2026-10-27 21:01 | 2026-10-27-carrossel-mapa | manual | ok 18128925412789480 (1ª tentativa deu 'Media ID is not available'; 2ª publicou)
