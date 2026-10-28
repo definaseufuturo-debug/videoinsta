@@ -1,0 +1,29 @@
+{
+  "status": "pendente",
+  "voice": "c9d3da0bdf61417d929dc67966e4befe",
+  "speed": 1.12,
+  "model": "s2.1-pro-free",
+  "language": "pt",
+  "clips": [
+    {
+      "id": "c1",
+      "text": "Em mil novecentos e sessenta, o Brasil já era a maior economia da América Latina. Mas ele não ficou no topo o tempo todo."
+    },
+    {
+      "id": "c2",
+      "text": "Na virada do século, o México passou o Brasil, e ficou na frente por sete anos seguidos."
+    },
+    {
+      "id": "c3",
+      "text": "Em dois mil e onze, o Brasil chegou ao seu recorde: dois vírgula seis trilhões de dólares."
+    },
+    {
+      "id": "c4",
+      "text": "Hoje, o Brasil lidera de novo, com dois vírgula dois trilhões. E o México vem colado, com um vírgula oito."
+    },
+    {
+      "id": "c5",
+      "text": "Qual país mais te surpreendeu? Comenta aí, e segue a mindloop, porque o próximo ranking é o do mundo inteiro."
+    }
+  ]
+}
