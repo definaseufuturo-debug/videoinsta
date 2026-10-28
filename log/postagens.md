@@ -22,3 +22,4 @@
 - 2026-10-27 22:56 | 2026-10-27-22-bolsa-eleicao | extra (pedido do Jonas) | ok 18075914702749096
 - 2026-10-27 23:08 | cristao-2026-10-28-misericordias | cristao | refeito no estilo tipografia cinética editorial (pedido do Jonas), mesma voz Fish voz 3 e mesmo horário 07:00
 - 2026-10-28 00:25 | 2026-10-28-08-geladeira | produção (Tarefa B) | fila 08:00 ok (raio-X geladeira, voz Fish jovem, 37 s, 17,7 MB)
+- 2026-10-28 00:29 | 2026-10-28-19-gasolina | produção (Tarefa B) | fila 19:00 ok (MAPA gasolina por estado, ANP 18-24/10, voz Fish 4, 37 s, 4,9 MB)

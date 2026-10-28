@@ -41,7 +41,7 @@ Marque `[x]` quando o vídeo for produzido. A produção sempre pega o próximo 
 - [ ] Cadeado e chave: o segredo dos pinos
 
 ### Noite: MAPA (seg, qua, sex). Só dados oficiais (IBGE, ANP, INMET, TSE, Censo), conferidos em 2 fontes
-- [ ] Preço médio da gasolina por estado: onde é mais caro e mais barato (ANP)
+- [x] Preço médio da gasolina por estado: onde é mais caro e mais barato (ANP)
 - [ ] População: os estados mais e menos populosos e o tamanho de cada um (IBGE/Censo)
 - [ ] Onde chove mais e onde chove menos no Brasil (INMET)
 - [ ] Salário médio por estado (IBGE)

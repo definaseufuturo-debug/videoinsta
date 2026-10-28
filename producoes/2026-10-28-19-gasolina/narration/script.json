@@ -1,0 +1,67 @@
+{
+  "voice": "pm_alex",
+  "speed": 1.12,
+  "lang": "pt-br",
+  "_comment": "Mapa: preço médio da gasolina comum por estado, levantamento semanal da ANP de 18 a 24/10/2026 (divulgado em 26/10). Fontes: Cenário MT (tabela das 27 UFs, ANP), Game Over Drive (mesma tabela), Economic News Brasil 27/10/2026 (média Brasil R$ 6,49; menor RS R$ 6,16; maior RR R$ 7,56; médias regionais Norte 6,90, Nordeste 6,72, Sudeste 6,37, Sul 6,34). Tanque de 50 L x R$ 1,40 = R$ 70. SP R$ 6,35 e MG R$ 6,32 (mesma tabela); SP e MG são os mais populosos (Censo 2022, IBGE).",
+  "say": {
+    "ANP": "a ene pê"
+  },
+  "fish": {
+    "voice": "a0a26a57cac94ea4918f05a2393b4259",
+    "speed": 1.18,
+    "model": "s2.1-pro-free"
+  },
+  "clips": [
+    {
+      "id": "c1",
+      "scene": 1,
+      "minStart": 0.3,
+      "gapAfterPrev": 0,
+      "text": "Encher o tanque pode custar setenta reais a mais, dependendo do estado. Olha o mapa da gasolina."
+    },
+    {
+      "id": "c2",
+      "scene": 2,
+      "minStart": 0,
+      "gapAfterPrev": 0.4,
+      "text": "Na última pesquisa da ANP, a média do Brasil ficou em seis reais e quarenta e nove o litro."
+    },
+    {
+      "id": "c3",
+      "scene": 3,
+      "minStart": 0,
+      "gapAfterPrev": 0.4,
+      "text": "A mais cara está em Roraima: sete e cinquenta e seis. Depois vêm Acre e Rondônia, com sete e quarenta e três."
+    },
+    {
+      "id": "c4",
+      "scene": 4,
+      "minStart": 0,
+      "gapAfterPrev": 0.4,
+      "text": "A mais barata está no Rio Grande do Sul: seis e dezesseis. Depois, Santa Catarina e Paraíba."
+    },
+    {
+      "id": "c5",
+      "scene": 5,
+      "minStart": 0,
+      "gapAfterPrev": 0.4,
+      "text": "E os dois estados com mais gente ficam abaixo da média: São Paulo, com seis e trinta e cinco, e Minas, com seis e trinta e dois."
+    },
+    {
+      "id": "c6",
+      "scene": 6,
+      "minStart": 0,
+      "gapAfterPrev": 0.4,
+      "text": "No geral, o Norte paga mais, e o Sul e o Sudeste pagam menos. Entre os extremos, são um real e quarenta por litro."
+    },
+    {
+      "id": "c7",
+      "scene": 7,
+      "minStart": 0,
+      "gapAfterPrev": 0.45,
+      "text": "Quanto está a gasolina aí? Comenta a sigla do seu estado. Sexta tem mais mapa: os estados com mais gente. Segue pra não perder."
+    }
+  ],
+  "tailAfterLastClip": 1.8,
+  "keywords": []
+}
