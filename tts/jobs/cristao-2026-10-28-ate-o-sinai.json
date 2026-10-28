@@ -1,0 +1,37 @@
+{
+  "status": "pendente",
+  "voice": "a0a26a57cac94ea4918f05a2393b4259",
+  "speed": 1.12,
+  "model": "s2.1-pro-free",
+  "language": "pt",
+  "clips": [
+    {
+      "id": "c1",
+      "text": "Três dias no deserto, e nenhuma gota de água. Foi assim que começou a caminhada até o monte Sinai. Olha no mapa."
+    },
+    {
+      "id": "c2",
+      "text": "Depois do mar, o povo entra no deserto de Sur. Em Mara, a água é amarga. Moisés joga um pedaço de madeira, e ela fica doce."
+    },
+    {
+      "id": "c3",
+      "text": "Logo adiante, em Elim, havia doze fontes e setenta palmeiras. Ali eles acampam junto às águas."
+    },
+    {
+      "id": "c4",
+      "text": "No deserto de Sim, falta comida. À tarde, vêm as codornizes. E toda manhã, o maná cobre o chão, fino como geada."
+    },
+    {
+      "id": "c5",
+      "text": "Em Refidim, de novo sem água. Moisés bate na rocha, e sai água para o povo beber."
+    },
+    {
+      "id": "c6",
+      "text": "Ali, Amaleque ataca. Enquanto Moisés mantém as mãos erguidas, Israel vence. E no terceiro mês, eles acampam diante do Sinai."
+    },
+    {
+      "id": "c7",
+      "text": "Qual parada dessa caminhada mais fala com você? Comenta aqui. E segue, porque a próxima parte é: por que quarenta anos no deserto?"
+    }
+  ]
+}
