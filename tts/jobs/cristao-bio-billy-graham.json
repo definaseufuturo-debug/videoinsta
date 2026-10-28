@@ -1,0 +1,37 @@
+{
+  "status": "pendente",
+  "voice": "a7f67c4e2d94440aad9c5a82365d9d92",
+  "speed": 1.12,
+  "model": "s2.1-pro-free",
+  "language": "pt",
+  "clips": [
+    {
+      "id": "c1",
+      "text": "Ele pregou ao vivo para cerca de duzentos e quinze milhões de pessoas. E tudo começou numa fazenda de leite."
+    },
+    {
+      "id": "c2",
+      "text": "Billy Graham nasceu em mil novecentos e dezoito, perto de Charlotte, nos Estados Unidos. Aos quinze anos, numa reunião de avivamento, entregou a vida a Cristo."
+    },
+    {
+      "id": "c3",
+      "text": "Em mil novecentos e quarenta e nove, uma campanha numa tenda em Los Angeles lotou tanto que foi estendida para oito semanas."
+    },
+    {
+      "id": "c4",
+      "text": "Em setenta e três, em Seul, um único culto reuniu mais de um milhão de pessoas."
+    },
+    {
+      "id": "c5",
+      "text": "No ano seguinte, ele veio ao Rio. No Maracanã, cerca de duzentas e cinquenta mil pessoas lotaram o encerramento."
+    },
+    {
+      "id": "c6",
+      "text": "Foram mais de cento e oitenta e cinco países. Ele partiu em dois mil e dezoito, aos noventa e nove anos."
+    },
+    {
+      "id": "c7",
+      "text": "Qual pregador marcou a sua fé? Comenta aqui. E segue pra conhecer mais histórias de quem levou o evangelho longe."
+    }
+  ]
+}
