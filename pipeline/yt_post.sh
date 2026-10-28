@@ -5,7 +5,7 @@
 set -e
 cd "$(dirname "$0")/.."
 ID="$1"; VID="$2"; LEG="$3"; TIT="${4:-}"
-git pull -q --rebase origin main
+git pull -q --rebase origin main; mkdir -p yt/jobs
 python3 - "$ID" "$VID" "$LEG" "$TIT" <<'PY'
 import json, re, sys
 i, vid, leg, tit = sys.argv[1:5]
