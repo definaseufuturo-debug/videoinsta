@@ -1,0 +1,19 @@
+{
+  "voice": "pf_dora",
+  "speed": 1.12,
+  "lang": "pt-br",
+  "_comment": "Raio-X: como a geladeira tira o calor de dentro (ciclo de compressão de vapor). Fontes: Danfoss 'Como um refrigerador funciona' (compressor como bomba de bicicleta, gás sai quente e sob alta pressão; condensador na traseira devolve o gás ao estado líquido; tubo capilar reduz a pressão; evaporação esfria a área; transfere o calor de dentro para fora), Prepara Enem 'Física do funcionamento dos refrigeradores' (evaporação retira calor; atrás da geladeira a temperatura é sempre elevada; serpentina dentro da câmara), Gas Servei ficha R-600a (isobutano usado em geladeiras domésticas; ponto de ebulição a 1,013 bar: -12 °C).",
+  "say": {},
+  "fish": { "voice": "b1cab1f57b8d41aeb225d7d8bafc0806", "speed": 1.18, "model": "s2.1-pro-free" },
+  "clips": [
+    { "id": "c1", "scene": 1, "minStart": 0.3, "gapAfterPrev": 0, "text": "Encosta a mão atrás da sua geladeira: tá quente. Esse calor saiu da sua comida. A geladeira não cria frio, ela tira o calor." },
+    { "id": "c2", "scene": 2, "minStart": 0, "gapAfterPrev": 0.4, "text": "Por dentro dos canos corre um gás que ferve a doze graus abaixo de zero." },
+    { "id": "c3", "scene": 3, "minStart": 0, "gapAfterPrev": 0.4, "text": "Ele passa por um tubo fininho, perde pressão e evapora lá dentro. E pra evaporar, ele rouba o calor da comida." },
+    { "id": "c4", "scene": 4, "minStart": 0, "gapAfterPrev": 0.4, "text": "Depois, o compressor, aquele motor lá embaixo, aperta esse gás. Apertado, ele fica muito quente." },
+    { "id": "c5", "scene": 5, "minStart": 0, "gapAfterPrev": 0.4, "text": "Quente, ele passa pela grade atrás da geladeira, solta o calor na cozinha e vira líquido de novo." },
+    { "id": "c6", "scene": 6, "minStart": 0, "gapAfterPrev": 0.4, "text": "E o ciclo recomeça. Por isso, colar a geladeira na parede atrapalha: o calor não tem pra onde ir." },
+    { "id": "c7", "scene": 7, "minStart": 0, "gapAfterPrev": 0.45, "text": "Qual aparelho você quer ver por dentro? Comenta. Amanhã: por que o micro-ondas esquenta a comida e não o prato. Segue pra não perder." }
+  ],
+  "tailAfterLastClip": 1.8,
+  "keywords": []
+}

@@ -25,7 +25,7 @@ Cada post é enviado uns 10 minutos antes do horário para entrar no ar a tempo.
 Marque `[x]` quando o vídeo for produzido. A produção sempre pega o próximo tema `[ ]` de cada coluna.
 
 ### Manhã (raio-X)
-- [ ] Geladeira: como ela "tira" o calor de dentro
+- [x] Geladeira: como ela "tira" o calor de dentro
 - [ ] Micro-ondas: por que esquenta a comida e não o prato
 - [ ] Bateria do celular: o que acontece quando ela carrega e vicia
 - [ ] Avião: como 400 toneladas ficam no ar
