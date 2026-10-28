@@ -1,0 +1,37 @@
+{
+  "status": "pendente",
+  "voice": "b1cab1f57b8d41aeb225d7d8bafc0806",
+  "speed": 1.18,
+  "model": "s2.1-pro-free",
+  "language": "pt",
+  "clips": [
+    {
+      "id": "c1",
+      "text": "Encosta a mão atrás da sua geladeira: tá quente. Esse calor saiu da sua comida. A geladeira não cria frio, ela tira o calor."
+    },
+    {
+      "id": "c2",
+      "text": "Por dentro dos canos corre um gás que ferve a doze graus abaixo de zero."
+    },
+    {
+      "id": "c3",
+      "text": "Ele passa por um tubo fininho, perde pressão e evapora lá dentro. E pra evaporar, ele rouba o calor da comida."
+    },
+    {
+      "id": "c4",
+      "text": "Depois, o compressor, aquele motor lá embaixo, aperta esse gás. Apertado, ele fica muito quente."
+    },
+    {
+      "id": "c5",
+      "text": "Quente, ele passa pela grade atrás da geladeira, solta o calor na cozinha e vira líquido de novo."
+    },
+    {
+      "id": "c6",
+      "text": "E o ciclo recomeça. Por isso, colar a geladeira na parede atrapalha: o calor não tem pra onde ir."
+    },
+    {
+      "id": "c7",
+      "text": "Qual aparelho você quer ver por dentro? Comenta. Amanhã: por que o micro-ondas esquenta a comida e não o prato. Segue pra não perder."
+    }
+  ]
+}
