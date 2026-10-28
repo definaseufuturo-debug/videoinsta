@@ -6,282 +6,296 @@
 		<link>https://trends.google.com/trending/rss?geo=BR</link>
 		<atom:link href="https://trends.google.com/trending/rss?geo=BR" rel="self" type="application/rss+xml"/>
 		<item>
-			<title>fatima gavioli</title>
-			<ht:approx_traffic>200+</ht:approx_traffic>
-			<description/>
-			<link>https://trends.google.com/trending/rss?geo=BR</link>
-			<pubDate>Tue, 27 Oct 2026 04:10:00 -0700</pubDate>
-			<ht:picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRsQPL0ScKiBHntFeqKgM6kRt9GUWmbPtPKJmspWorR40-tt3Yv7-YgNiG6zfE</ht:picture>
-			<ht:picture_source>Transmissão Política</ht:picture_source>
-			<ht:news_item>
-				<ht:news_item_title>Fátima Gavioli é convidada por Sérgio Moro para assumir Educação no Paraná</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://transmissaopolitica.com.br/politica-nacional/2026/10/26/fatima-gavioli-educacao-parana-moro/</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRsQPL0ScKiBHntFeqKgM6kRt9GUWmbPtPKJmspWorR40-tt3Yv7-YgNiG6zfE</ht:news_item_picture>
-				<ht:news_item_source>Transmissão Política</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>Paranaense de Goioerê é escolhida para comandar a Educação do Paraná</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://obemdito.com.br/noticia/470427/paranaense-de-goioere-e-escolhida-para-comandar-a-educacao-do-parana</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQHCbyy4ejt-yUzFPqmxG8Jnkdv54pYKcsWHNx043GlOffeMymow5gmFcaAlPU</ht:news_item_picture>
-				<ht:news_item_source>OBemdito</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>Moro anuncia segundo nome: Fátima Gavioli será secretária de Educação</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.tribunapr.com.br/noticias/parana/moro-anuncia-segundo-nome-fatima-gavioli-sera-secretaria-educacao/</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTZGBbVLjzV_gx49AbiKZdHupPQlbJCD2VRVZSpKGEcO7u0rJenbLD4rFR9aXM</ht:news_item_picture>
-				<ht:news_item_source>Tribuna do Paraná</ht:news_item_source>
-			</ht:news_item>
-		</item>
-		<item>
-			<title>halloween</title>
+			<title>celular via satélite</title>
 			<ht:approx_traffic>500+</ht:approx_traffic>
 			<description/>
 			<link>https://trends.google.com/trending/rss?geo=BR</link>
-			<pubDate>Tue, 27 Oct 2026 03:50:00 -0700</pubDate>
-			<ht:picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRoqtr6y6rVHHEjaZBrKkXg8B6yYzRDopyRoQ-8JGX3CGNo6ouc8TTmO49fXRU</ht:picture>
-			<ht:picture_source>TAPinto</ht:picture_source>
+			<pubDate>Wed, 28 Oct 2026 04:20:00 -0700</pubDate>
+			<ht:picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT6YaRKQfBz_BJrK3Z7ISvdeqMKZKpr8Ed8HM2PQGf7NR4gbTyBPekacrXTGPc</ht:picture>
+			<ht:picture_source>TELETIME News</ht:picture_source>
 			<ht:news_item>
-				<ht:news_item_title>Coconut Creek Police Launch Halloween Safety Video Series for Trick-or-Treaters</ht:news_item_title>
+				<ht:news_item_title>Vivo anuncia parceria com Starlink e lança serviço Vivo Satélite</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.tapinto.net/towns/coconut-creek/sections/police-and-fire/articles/coconut-creek-police-launch-halloween-safety-video-series-for-trick-or-treaters</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRoqtr6y6rVHHEjaZBrKkXg8B6yYzRDopyRoQ-8JGX3CGNo6ouc8TTmO49fXRU</ht:news_item_picture>
-				<ht:news_item_source>TAPinto</ht:news_item_source>
+				<ht:news_item_url>https://teletime.com.br/26/10/2026/vivo-parceria-starlink-vivo-satelite/</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT6YaRKQfBz_BJrK3Z7ISvdeqMKZKpr8Ed8HM2PQGf7NR4gbTyBPekacrXTGPc</ht:news_item_picture>
+				<ht:news_item_source>TELETIME News</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>Big City Boo!</ht:news_item_title>
+				<ht:news_item_title>Vivo lança serviço de internet via satélite grátis em parceria com a Starlink</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.clevelandohio.gov/events/big-city-boo-2026</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQvq3VQLN6ccC-G_uT-X6ctUvLep9VyPVbC3IigsJliA_4yBpDCzH07nX1hbSQ</ht:news_item_picture>
-				<ht:news_item_source>City of Cleveland Ohio (.gov)</ht:news_item_source>
+				<ht:news_item_url>https://www.estadao.com.br/tecmundo/big-techs/vivo-lanca-servico-de-internet-via-satelite-gratis-em-parceria-com-a-starlink/</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSVUcJTMet2Ma8YVDdgudCh4onrCNudXCegAwwz5_NNTI2fWUjyNx9JStvNBGw</ht:news_item_picture>
+				<ht:news_item_source>Estadão</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>DPS Shares Halloween Safety Tips for Texas Families</ht:news_item_title>
+				<ht:news_item_title>Celular com sinal via satélite amplia oferta no Brasil. Mas será que vale a pena?</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.dps.texas.gov/news/dps-shares-halloween-safety-tips-texas-families</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS6lgS9auOuf_syrGto5m-tO2cccp3Y73_EiMWKMk7gPOPfuZnKaLZUVKdts7c</ht:news_item_picture>
-				<ht:news_item_source>Texas Department of Public Safety (DPS) (.gov)</ht:news_item_source>
-			</ht:news_item>
-		</item>
-		<item>
-			<title>feriados de novembro</title>
-			<ht:approx_traffic>500+</ht:approx_traffic>
-			<description/>
-			<link>https://trends.google.com/trending/rss?geo=BR</link>
-			<pubDate>Tue, 27 Oct 2026 03:40:00 -0700</pubDate>
-			<ht:picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQQaquKeaxgATVx8mzCr3YdLYjXCq9l_vxORw_N3x1ZXWXoogld077foJvZVto</ht:picture>
-			<ht:picture_source>O GLOBO</ht:picture_source>
-			<ht:news_item>
-				<ht:news_item_title>Quando é o próximo feriado de 2026?</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://oglobo.globo.com/brasil/noticia/2026/10/27/quando-e-o-proximo-feriado-de-2026.ghtml</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQQaquKeaxgATVx8mzCr3YdLYjXCq9l_vxORw_N3x1ZXWXoogld077foJvZVto</ht:news_item_picture>
-				<ht:news_item_source>O GLOBO</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>Quais os próximos feriados de 2026? Veja as datas</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://diariogaucho.clicrbs.com.br/dia-a-dia/noticia/2026/10/quais-os-proximos-feriados-de-2026-veja-as-datas-cmvpfywpc004g016g7o2i6g8m.html</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQuoyF5uSfrFvnPuBVuKcwpdiROci9ahFXv1AcE2C6dAVNm37HUNAT8BrkQ6Q0</ht:news_item_picture>
-				<ht:news_item_source>Diário Gaúcho</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>Novembro terá três feriados nacionais; veja as datas</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://piauihoje.com/noticias/cultura/novembro-tera-tres-feriados-nacionais-veja-as-datas-469388.html</ht:news_item_url>
-				<ht:news_item_picture></ht:news_item_picture>
-				<ht:news_item_source>Portal Piauí Hoje</ht:news_item_source>
+				<ht:news_item_url>https://investnews.com.br/negocios/conexao-via-satelite-no-celular-ganha-espaco-no-brasil-entenda-os-desafios/</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjj5xpWVkM_5QCTcgRo1pczk9OTg0sFJ--oP5q8IOKP7hLZVv1E0Lv3sCg2xA</ht:news_item_picture>
+				<ht:news_item_source>InvestNews</ht:news_item_source>
 			</ht:news_item>
 		</item>
 		<item>
-			<title>pokemon unite</title>
-			<ht:approx_traffic>100+</ht:approx_traffic>
-			<description/>
-			<link>https://trends.google.com/trending/rss?geo=BR</link>
-			<pubDate>Tue, 27 Oct 2026 03:40:00 -0700</pubDate>
-			<ht:picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT8UO5b963IMtssf1D6w9JTn5ZhsFR1Ajtmn9-2PMNyhPdWHpIZYqbGjCY3SoQ</ht:picture>
-			<ht:picture_source>Pokemon.com</ht:picture_source>
-			<ht:news_item>
-				<ht:news_item_title>Special Event and Library Feature Added to Pokémon UNITE</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.pokemon.com/us/news/special-event-and-library-feature-added-to-pokemon-unite</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT8UO5b963IMtssf1D6w9JTn5ZhsFR1Ajtmn9-2PMNyhPdWHpIZYqbGjCY3SoQ</ht:news_item_picture>
-				<ht:news_item_source>Pokemon.com</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>Pokémon’s free-to-play MOBA Pokémon Unite is shutting down, The Pokémon Company has confirmed</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.videogameschronicle.com/news/pokemons-free-to-play-moba-pokemon-unite-is-shutting-down-the-pokemon-company-has-confirmed/</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTayDiTP0a-yMq_M_389K6zUwDh4f08iBJZLdFMQN8UtRvA702rkYOH-1iNQ8Q</ht:news_item_picture>
-				<ht:news_item_source>Video Games Chronicle</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>Pokemon UNITE to end service on March 23, 2027</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.gematsu.com/2026/10/pokemon-unite-to-end-service-on-march-23-2027</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV2K1HsGWXGjiRntoTETSMADqi6uPc5IE_H9g8whoGaGcsFCA-3IrjO5OjOi0</ht:news_item_picture>
-				<ht:news_item_source>Gematsu</ht:news_item_source>
-			</ht:news_item>
-		</item>
-		<item>
-			<title>boletim</title>
-			<ht:approx_traffic>100+</ht:approx_traffic>
-			<description/>
-			<link>https://trends.google.com/trending/rss?geo=BR</link>
-			<pubDate>Tue, 27 Oct 2026 03:40:00 -0700</pubDate>
-			<ht:picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKusaxXERM2vqovjzNLRKG1ZK7mD-d0LE01rKld-1J0SRn9ElcigYTZcU01Q</ht:picture>
-			<ht:picture_source>Tribunal Superior Eleitoral</ht:picture_source>
-			<ht:news_item>
-				<ht:news_item_title>Luiz Inácio Lula da Silva é reeleito presidente do Brasil.</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.tse.jus.br/comunicacao/radio/2026/Outubro/luiz-inacio-lula-da-silva-e-reeleito-presidente-do-brasil</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKusaxXERM2vqovjzNLRKG1ZK7mD-d0LE01rKld-1J0SRn9ElcigYTZcU01Q</ht:news_item_picture>
-				<ht:news_item_source>Tribunal Superior Eleitoral</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>Consulte o local de votação antes de sair de casa; saiba como</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/consulte-o-local-de-votacao-antes-de-sair-de-casa-saiba-como</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTGV5APNwBXrdEc8g9rdfxshNogWPGl6f5w4z3vAwNM1vUhQTcwarw3nBo9BcA</ht:news_item_picture>
-				<ht:news_item_source>Agência Brasil</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>Eleições 2026: estado de São Paulo tem apenas cinco alterações de local de votação para o 2º turno</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.tre-sp.jus.br/comunicacao/noticias/2026/Outubro/eleicoes-2026-estado-de-sao-paulo-tem-apenas-cinco-alteracoes-de-local-de-votacao-para-o-2o-turno</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ_pqhejfmOAGvvJzFgUzLcBGR5zVtVzGV7n4f4J85pO1XyxUId_bpBfJCO_WY</ht:news_item_picture>
-				<ht:news_item_source>Tribunal Regional Eleitoral de São Paulo</ht:news_item_source>
-			</ht:news_item>
-		</item>
-		<item>
-			<title>taxa das blusinhas</title>
-			<ht:approx_traffic>100+</ht:approx_traffic>
-			<description/>
-			<link>https://trends.google.com/trending/rss?geo=BR</link>
-			<pubDate>Tue, 27 Oct 2026 03:30:00 -0700</pubDate>
-			<ht:picture/>
-			<ht:picture_source/>
-		</item>
-		<item>
-			<title>michael carrick</title>
-			<ht:approx_traffic>100+</ht:approx_traffic>
-			<description/>
-			<link>https://trends.google.com/trending/rss?geo=BR</link>
-			<pubDate>Tue, 27 Oct 2026 03:30:00 -0700</pubDate>
-			<ht:picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRmIsX6h_4oeR8kXyUTS1s9Cl-2Tv4hxaiLvkDD50hkh9KpoE307xqrMi8fN5M</ht:picture>
-			<ht:picture_source>AFP.com</ht:picture_source>
-			<ht:news_item>
-				<ht:news_item_title>Man Utd crisis deepens as Carrick faces axe</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.afp.com/en/man-utd-crisis-deepens-carrick-faces-axe</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRmIsX6h_4oeR8kXyUTS1s9Cl-2Tv4hxaiLvkDD50hkh9KpoE307xqrMi8fN5M</ht:news_item_picture>
-				<ht:news_item_source>AFP.com</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>Michael Carrick attends Manchester United training ground as club discuss his fate</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.theguardian.com/football/2026/oct/26/michael-carrick-manchester-united-training-ground-club-discuss-sacking</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRSRkATEna2J5_evTtX4CTkb-6RijRkxRlsTRjor0ShxMRyo2GyqwBVrP-Bq_E</ht:news_item_picture>
-				<ht:news_item_source>The Guardian</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>The Briefing: The poison drips through at Manchester United. Are Liverpool on the rise?</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.nytimes.com/athletic/7724405/2026/10/26/premier-league-manchester-united-liverpool-carrick/</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRCsQH9W-mwAUOMrqwAqQkewdEXFs3zO2TRwah2oO0A-K03pAcNANOKci6NGAo</ht:news_item_picture>
-				<ht:news_item_source>The New York Times</ht:news_item_source>
-			</ht:news_item>
-		</item>
-		<item>
-			<title>dia 30 de outubro é feriado</title>
-			<ht:approx_traffic>200+</ht:approx_traffic>
-			<description/>
-			<link>https://trends.google.com/trending/rss?geo=BR</link>
-			<pubDate>Tue, 27 Oct 2026 03:20:00 -0700</pubDate>
-			<ht:picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSO9cMM1ECp_wW-tv3s7XaXgTXtG28PvPcBxOq9CPr70LA8sQWKk4KYBUmTNi8</ht:picture>
-			<ht:picture_source>G1</ht:picture_source>
-			<ht:news_item>
-				<ht:news_item_title>Dia do Servidor Público é feriado ou ponto facultativo? Veja onde haverá folga</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://g1.globo.com/trabalho-e-carreira/noticia/2026/10/27/dia-do-servidor-publico-veja-onde-havera-folga.ghtml</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSO9cMM1ECp_wW-tv3s7XaXgTXtG28PvPcBxOq9CPr70LA8sQWKk4KYBUmTNi8</ht:news_item_picture>
-				<ht:news_item_source>G1</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>Dia do Servidor Público: ponto facultativo será na sexta-feira</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://agenciabrasil.ebc.com.br/geral/noticia/2026-10/dia-do-servidor-publico-ponto-facultativo-sera-na-sexta-feira</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRatUFQgiMhz7e7Zowj2xjlNAtlCw2R8QdNYK57hCh1coh8Aglss8GLt0azd7I</ht:news_item_picture>
-				<ht:news_item_source>Agência Brasil</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>UFMA informa ponto facultativo na sexta-feira, 30 de outubro, em alusão ao Dia do Servido Público</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://portalpadrao.ufma.br/site/noticias/ufma-informa-ponto-facultativo-na-sexta-feira-30-de-outubro-em-alusao-ao-dia-do-servidor-publico</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRuhvGXqWuDze57H1eNwUr5H3ME2NGtAapjJIjDNwXdvuklZ-rUc1fB-U2HnoM</ht:news_item_picture>
-				<ht:news_item_source>Universidade Federal do Maranhão</ht:news_item_source>
-			</ht:news_item>
-		</item>
-		<item>
-			<title>copa da liga inglesa</title>
-			<ht:approx_traffic>100+</ht:approx_traffic>
-			<description/>
-			<link>https://trends.google.com/trending/rss?geo=BR</link>
-			<pubDate>Tue, 27 Oct 2026 03:20:00 -0700</pubDate>
-			<ht:picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQS0mr774ImJph5V2Y0UV7vICCmBaC1Bfs6P1Wsapo8tw2x9SLMxgfzbYfBazE</ht:picture>
-			<ht:picture_source>Goal.com</ht:picture_source>
-			<ht:news_item>
-				<ht:news_item_title>Mikel Arteta confia que Viktor Gyokeres, com dificuldades para marcar, reencontrará o faro de gol enquanto o Arsenal se prepara para visitar o Fleetwood Town pela Copa da Liga Inglesa</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.goal.com/br/not%C3%ADcias/mikel-arteta-confia-que-viktor-gyokeres-com-dificuldades-para-marcar-reencontrara-o-faro-de-gol-enquanto-o-arsenal-se-prepara-para-visitar-o-fleetwood-town-pela-copa-da-liga-inglesa/blte6ccbf1f2d311dbc</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQS0mr774ImJph5V2Y0UV7vICCmBaC1Bfs6P1Wsapo8tw2x9SLMxgfzbYfBazE</ht:news_item_picture>
-				<ht:news_item_source>Goal.com</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>Gyökeres e a queda do antigo rei de Alvalade</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.comumonline.com/2026/10/gyokeres-e-a-queda-do-antigo-rei-de-alvalade/</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuWNMkLFHqpvzcFmNJe-WlMXDCgiVQ7XcPHf8GTuZCFMtWBywR5F1UQwkCtS0</ht:news_item_picture>
-				<ht:news_item_source>ComUM Online</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>Saída de Gyokeres ganha força. Arsenal já fixou preço</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.noticiasaominuto.com/desporto/3070396/saida-de-gyokeres-ganha-forca-arsenal-ja-fixou-preco</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTUEKOiR4zRocpieUaM-DcOWvdirHA6hBR4mlBh_lL4Z9hnnXwMyv_yLjOCPXs</ht:news_item_picture>
-				<ht:news_item_source>Notícias ao Minuto</ht:news_item_source>
-			</ht:news_item>
-		</item>
-		<item>
-			<title>fase da lua hoje</title>
+			<title>espanha</title>
 			<ht:approx_traffic>1000+</ht:approx_traffic>
 			<description/>
 			<link>https://trends.google.com/trending/rss?geo=BR</link>
-			<pubDate>Tue, 27 Oct 2026 03:10:00 -0700</pubDate>
-			<ht:picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTSp_te79igFuDY2Bwz6hnus2AxaVRZCqiEUERZJQFr2R5Sk25QMuIfdDLiJpE</ht:picture>
+			<pubDate>Wed, 28 Oct 2026 04:20:00 -0700</pubDate>
+			<ht:picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS6WAWoYJWXgp8xKIhWB96-abBl8jyO9cUoSs5snYsa1xg7-opRvByI2cAQOMA</ht:picture>
+			<ht:picture_source>O GLOBO</ht:picture_source>
+			<ht:news_item>
+				<ht:news_item_title>Colisão entre trens de alta velocidade na Espanha deixa ao menos 39 mortos e interrompe circulação ferroviária</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://oglobo.globo.com/mundo/noticia/2026/10/28/dois-trens-de-alta-velocidade-colidem-na-espanha-e-dois-vagoes-caem-por-aterro-na-provincia-de-toledo.ghtml</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS6WAWoYJWXgp8xKIhWB96-abBl8jyO9cUoSs5snYsa1xg7-opRvByI2cAQOMA</ht:news_item_picture>
+				<ht:news_item_source>O GLOBO</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>Vídeo. Espanha: primeiras imagens mostram destroços de acidente mortal de comboio rápido</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://pt.euronews.com/video/2026/10/28/espanha-primeiras-imagens-mostram-destrocos-de-acidente-mortal-de-comboio-rapido</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRHEbAO7jTWYhnmr_TtQDOBQTK4PuSr60CXs_tiQWcKSqbh4695NKGuw2Ao3WM</ht:news_item_picture>
+				<ht:news_item_source>Euronews.com</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>Colisão de trem na Espanha deixa pelo menos 30 mortos, diz governo</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.cnnbrasil.com.br/internacional/dois-trens-de-alta-velocidade-colidem-na-espanha-diz-operadora/</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR2x_tYE8Yt110uVljSOD8zZqFz9ZfczapzgM-dbYofdoGr-igUp5IJrxVudBI</ht:news_item_picture>
+				<ht:news_item_source>CNN Brasil</ht:news_item_source>
+			</ht:news_item>
+		</item>
+		<item>
+			<title>rose elias a fazenda</title>
+			<ht:approx_traffic>100+</ht:approx_traffic>
+			<description/>
+			<link>https://trends.google.com/trending/rss?geo=BR</link>
+			<pubDate>Wed, 28 Oct 2026 04:20:00 -0700</pubDate>
+			<ht:picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsNxxUky10y6wfZQ4Tu2OvJZdL4Pw92ALREVMvRxQ7QFsyShc5s1upgz-VUzw</ht:picture>
+			<ht:picture_source>R7</ht:picture_source>
+			<ht:news_item>
+				<ht:news_item_title>Rodrigo Carelli faz homenagem emocionante à Rose Elias: ‘Perdi uma grande amiga’</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://record.r7.com/a-fazenda/rodrigo-carelli-faz-homenagem-emocionante-a-rose-elias-perdi-uma-grande-amiga-28102026/</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsNxxUky10y6wfZQ4Tu2OvJZdL4Pw92ALREVMvRxQ7QFsyShc5s1upgz-VUzw</ht:news_item_picture>
+				<ht:news_item_source>R7</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>Luto em A Fazenda 18: Rodrigo Carelli lamenta morte de produtora</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.itatiaia.com.br/entretenimento/luto-em-a-fazenda-18-rodrigo-carelli-lamenta-morte-de-diretora/</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzcBjVc_Q87QSEe_3IOr_7-jrCK4JidJNhxy_ZM6khPqTD1ey-_HEj2_CVI08</ht:news_item_picture>
+				<ht:news_item_source>Rádio Itatiaia</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>Morre Rose Elias, produtora executiva de A Fazenda, e Carelli presta homenagem emocionante</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://gazetadoparana.com.br/mais/morre-rose-elias-produtora-executiva-de-a-fazenda-e-carelli-presta-homenagem-emocionante</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKrg1IrXC3kvwLD9IH6aZ3ia6YO_P3HadDtNZ9xMC4w-P6YPFmGLZDouuwvd4</ht:news_item_picture>
+				<ht:news_item_source>Gazeta do Paraná</ht:news_item_source>
+			</ht:news_item>
+		</item>
+		<item>
+			<title>iron maiden curitiba</title>
+			<ht:approx_traffic>100+</ht:approx_traffic>
+			<description/>
+			<link>https://trends.google.com/trending/rss?geo=BR</link>
+			<pubDate>Wed, 28 Oct 2026 04:20:00 -0700</pubDate>
+			<ht:picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSI4H2jNYt8OStg6qNgfKfMl1SxMNeezuho6X4RseKwABzaBAdNNPOd_jwwDBI</ht:picture>
 			<ht:picture_source>G1</ht:picture_source>
 			<ht:news_item>
-				<ht:news_item_title>Lua do Caçador ilumina o céu em diferentes países; veja FOTOS do fenômeno</ht:news_item_title>
+				<ht:news_item_title>Iron Maiden em Curitiba: tudo o que você precisa saber para ir ao show</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://g1.globo.com/ciencia/noticia/2026/10/27/lua-do-cacador-veja-fotos-do-fenomeno.ghtml</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTSp_te79igFuDY2Bwz6hnus2AxaVRZCqiEUERZJQFr2R5Sk25QMuIfdDLiJpE</ht:news_item_picture>
+				<ht:news_item_url>https://g1.globo.com/pr/parana/o-que-fazer-no-parana/noticia/2026/10/28/iron-maiden-em-curitiba-tudo-o-que-voce-precisa-saber-para-ir-ao-show.ghtml</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSI4H2jNYt8OStg6qNgfKfMl1SxMNeezuho6X4RseKwABzaBAdNNPOd_jwwDBI</ht:news_item_picture>
 				<ht:news_item_source>G1</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>Lua do caçador: a Lua cheia desta segunda (26) acerta as contas antes do fim do ano</ht:news_item_title>
+				<ht:news_item_title>Iron Maiden faz show para fãs aguerridos em noite de eleição histórica em SP</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://f5.folha.uol.com.br/astrologia/2026/10/lua-do-cacador-a-lua-cheia-desta-segunda-26-acerta-as-contas-antes-do-fim-do-ano.shtml</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS9tRoplFzJR1qZ-HEiW2IsEDBPPdGPbSXL6OEtbnSiSZ9ReKxB29ABwTY-avg</ht:news_item_picture>
+				<ht:news_item_url>https://www1.folha.uol.com.br/ilustrada/2026/10/iron-maiden-faz-show-para-fas-aguerridos-em-noite-de-eleicao-historica-em-sao-paulo.shtml</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRBrDdsRrMakNaC_lLxndR9eBX_daQYGPV1Nwsb-Pancl5J2vwEb22EF0f5oSk</ht:news_item_picture>
+				<ht:news_item_source>Folha de S.Paulo</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>Iron Maiden arrebata gerações de fãs em SP e Bruce Dickinson promete: ‘Como James Bond, voltaremos’</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.estadao.com.br/cultura/musica/iron-maiden-arrebata-geracoes-de-fas-em-sp-e-bruce-dickinson-promete-como-james-bond-voltaremos/</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRng81n2htPBxTiM7EZny2NF7pOXQCY-cH-qta_gs-lfWf75L3VNp6IDyoO44M</ht:news_item_picture>
+				<ht:news_item_source>Estadão</ht:news_item_source>
+			</ht:news_item>
+		</item>
+		<item>
+			<title>quem saiu do masterchef?</title>
+			<ht:approx_traffic>200+</ht:approx_traffic>
+			<description/>
+			<link>https://trends.google.com/trending/rss?geo=BR</link>
+			<pubDate>Wed, 28 Oct 2026 04:10:00 -0700</pubDate>
+			<ht:picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTXecAHUkBBvxakL6kAvfCUANv5WSRXuiz3OB9nVoYE4HKueBHM1vq31NIAZXc</ht:picture>
+			<ht:picture_source>Band</ht:picture_source>
+			<ht:news_item>
+				<ht:news_item_title>Irina emociona Marcelo durante eliminação no MasterChef: &quot;Sofreu muito&quot;</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.band.com.br/entretenimento/realities/masterchef/irina-emociona-marcelo-durante-eliminacao-no-masterchef-sofreu-muito</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTXecAHUkBBvxakL6kAvfCUANv5WSRXuiz3OB9nVoYE4HKueBHM1vq31NIAZXc</ht:news_item_picture>
+				<ht:news_item_source>Band</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>Quem saiu do &apos;MasterChef Profissionais 2026&apos;? Marcado por polêmica de machismo em 2016, ex-finalista tenta mostrar evolução, mas falha em prova e chora com homenagem: &apos;Todo mundo merece uma segunda chance&apos;</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.terra.com.br/diversao/tv/reality-shows/quem-saiu-do-masterchef-profissionais-2026-marcado-por-polemica-de-machismo-em-2016-ex-finalista-tenta-mostrar-evolucao-mas-falha-em-prova-e-chora-com-homenagem-todo-mundo-merece-uma-segunda-chance,1d16eb5798893bdef2675571cbd4783esw4e7lnj.html</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRJsAS-Jsr4oIIYWdjhu1d3uktYN5Mi304Rq-ZiphV6bJ1ZgqbsODH0pcYZfJw</ht:news_item_picture>
+				<ht:news_item_source>Terra</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>Marcelo (MasterChef Profissionais): rebate rótulo de esnobe após punição de 10 minutos</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://diariodamidia.com.br/marcelo-masterchef-profissionais-rebate-rotulo-de-esnobe-apos-punicao-de-10-minutos</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRKq5Lq2o5EfwA8Sh9QLhh-6WrnvboTXtApwlebWxi7IaL8y5Pe8YiKjSfhfVs</ht:news_item_picture>
+				<ht:news_item_source>diariodamidia.com.br</ht:news_item_source>
+			</ht:news_item>
+		</item>
+		<item>
+			<title>david walliams</title>
+			<ht:approx_traffic>100+</ht:approx_traffic>
+			<description/>
+			<link>https://trends.google.com/trending/rss?geo=BR</link>
+			<pubDate>Wed, 28 Oct 2026 04:10:00 -0700</pubDate>
+			<ht:picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTZXVnAQIgVgBWjUKtTJgDXQhz956mR09GSgudY-j1euagkmRG8ozMIBERdPn0</ht:picture>
+			<ht:picture_source>The Sun</ht:picture_source>
+			<ht:news_item>
+				<ht:news_item_title>Sara Pascoe reveals she was fired from panel show job saying ‘it was like she had a breakdown’ on set</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.thesun.co.uk/tv/40819081/sara-pascoe-fired-wall-of-fame-panel/</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTZXVnAQIgVgBWjUKtTJgDXQhz956mR09GSgudY-j1euagkmRG8ozMIBERdPn0</ht:news_item_picture>
+				<ht:news_item_source>The Sun</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>Sara Pascoe was &apos;fired&apos; from panel show</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.femalefirst.co.uk/tv/news/sara-pascoe-fired-panel-show-1452747.html</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRpFqeAssoYFRrJwxqmYwa9SyoMW54jhcMXQVxrOKm-PZj4n6ynFj4P7XoSAtM</ht:news_item_picture>
+				<ht:news_item_source>Female First</ht:news_item_source>
+			</ht:news_item>
+		</item>
+		<item>
+			<title>portugal</title>
+			<ht:approx_traffic>1000+</ht:approx_traffic>
+			<description/>
+			<link>https://trends.google.com/trending/rss?geo=BR</link>
+			<pubDate>Wed, 28 Oct 2026 03:40:00 -0700</pubDate>
+			<ht:picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSGEPg_H_tgsgBtqQ1jRqH3Wj6K4aXfYEx75srcISh0lbx-nJzaOPvpS92i7Ok</ht:picture>
+			<ht:picture_source>Reuters</ht:picture_source>
+			<ht:news_item>
+				<ht:news_item_title>Thousands rally outside Portugal&apos;s parliament over housing crisis, police operations</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.reuters.com/world/europe/thousands-rally-outside-portugals-parliament-over-housing-crisis-police-2026-10-27/</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSGEPg_H_tgsgBtqQ1jRqH3Wj6K4aXfYEx75srcISh0lbx-nJzaOPvpS92i7Ok</ht:news_item_picture>
+				<ht:news_item_source>Reuters</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>Thousands of Portuguese gather outside Parliament as housing protests swell</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://apnews.com/article/portugal-housing-crisis-europe-unrest-03f26f4b351d6557fd6320683ec324de</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTCeODpdq3bGZxy4FvHgygMIHeEpGJWZZBpqBemECKANDaOgWpxyIPhIPhH-qw</ht:news_item_picture>
+				<ht:news_item_source>AP News</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>Portuguese police clear Lisbon housing protest camp, arrest 25</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.aljazeera.com/economy/2026/10/25/portuguese-police-clear-lisbon-housing-protest-camp-arrest-25</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS3M8IvD_e7QMoMenSDgtyQcG7yKXazJshWBIY4t6p9CAGJfCzNkHyvCcZD2TE</ht:news_item_picture>
+				<ht:news_item_source>Al Jazeera</ht:news_item_source>
+			</ht:news_item>
+		</item>
+		<item>
+			<title>feriado</title>
+			<ht:approx_traffic>2000+</ht:approx_traffic>
+			<description/>
+			<link>https://trends.google.com/trending/rss?geo=BR</link>
+			<pubDate>Wed, 28 Oct 2026 03:40:00 -0700</pubDate>
+			<ht:picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEa0zaDD39HBBI8fQSRnJDlimn-is-JxtunHNbe2sgZPa9ogj4QqS34silzcY</ht:picture>
+			<ht:picture_source>G1</ht:picture_source>
+			<ht:news_item>
+				<ht:news_item_title>Dia do Servidor: prefeituras do Alto Tietê transferem folga para sexta</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://g1.globo.com/sp/mogi-das-cruzes-suzano/noticia/2026/10/28/dia-do-servidor-prefeituras-do-alto-tiete-transferem-folga-para-sexta.ghtml</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEa0zaDD39HBBI8fQSRnJDlimn-is-JxtunHNbe2sgZPa9ogj4QqS34silzcY</ht:news_item_picture>
+				<ht:news_item_source>G1</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>Estado, Palmas, Araguaína, Gurupi e Porto transferem ponto facultativo do Dia do Servidor para sexta-feira</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://clebertoledo.com.br/tocantins/estado-palmas-araguaina-gurupi-e-porto-transferem-ponto-facultativo-do-dia-do-servidor-para-sexta-feira/</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuGsdpZ_ghhUYJ9ORyixxGvDJhxB2tT3s8cbF5HZgLz46VZAe2VvNLsU1eqRM</ht:news_item_picture>
+				<ht:news_item_source>Cleber Toledo</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>Justiça Eleitoral transfere feriado do Dia do Servidor Público para sexta-feira (30)</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.tre-sc.jus.br/comunicacao/noticias/2026/Outubro/justica-eleitoral-transfere-feriado-do-dia-do-servidor-publico-para-sexta-feira-30</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRtAzkWu69BqScOBu0yMecBWK8YGRaTj-tmDquzetuqHm9s8tGrrlXaF8kGS1A</ht:news_item_picture>
+				<ht:news_item_source>Tribunal Regional Eleitoral de Santa Catarina</ht:news_item_source>
+			</ht:news_item>
+		</item>
+		<item>
+			<title>abilio brunini</title>
+			<ht:approx_traffic>100+</ht:approx_traffic>
+			<description/>
+			<link>https://trends.google.com/trending/rss?geo=BR</link>
+			<pubDate>Wed, 28 Oct 2026 03:40:00 -0700</pubDate>
+			<ht:picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTwpGaN1v0lu-QsjMhxPlx-SFgSQ3f6Xx7UnVfrsj9w9iYfft0-8fg_ZaKZCtM</ht:picture>
+			<ht:picture_source>MidiaNews</ht:picture_source>
+			<ht:news_item>
+				<ht:news_item_title>Abilio diz que direita não foi derrotada e cita força no Congresso</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.midianews.com.br/politica/abilio-diz-que-direita-nao-foi-derrotada-e-cita-forca-no-congresso/532467</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTwpGaN1v0lu-QsjMhxPlx-SFgSQ3f6Xx7UnVfrsj9w9iYfft0-8fg_ZaKZCtM</ht:news_item_picture>
+				<ht:news_item_source>MidiaNews</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>Abilio terá quatro anos para engolir as próprias palavras sobre Lula</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.diariodecuiaba.com.br/cuiaba-urgente/abilio-tera-quatro-anos-para-engolir-as-proprias-palavras-sobre-lula/760324</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT3j4bRaWmuSbSusuvy5GVJOjrdO6oD0EJsEebgBkJZtgbDTCnp2jpLSnh20MU</ht:news_item_picture>
+				<ht:news_item_source>Diario de Cuiabá</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>Abilio nega falha do PL em MT e diz que direita ampliou votação em 150 mil votos</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.olhardireto.com.br/noticias/abilio-nega-falha-do-pl-em-mt-e-diz-que-direita-ampliou-votacao-em-150-mil-votos</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ_1n4qlwRGXoxDeehnNfwvX4IO8axnt-XVCgrlauEZo0gJVui-7oB_0CMA4uk</ht:news_item_picture>
+				<ht:news_item_source>Olhar Direto</ht:news_item_source>
+			</ht:news_item>
+		</item>
+		<item>
+			<title>miguel meneses</title>
+			<ht:approx_traffic>100+</ht:approx_traffic>
+			<description/>
+			<link>https://trends.google.com/trending/rss?geo=BR</link>
+			<pubDate>Wed, 28 Oct 2026 03:40:00 -0700</pubDate>
+			<ht:picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_n9okhynFVnVh8EBK1jVV2aK9K_MaAw1waY9vdljF6OQTbuDLkUbSNLg-Pf0</ht:picture>
+			<ht:picture_source>G1</ht:picture_source>
+			<ht:news_item>
+				<ht:news_item_title>Goleiro de 14 anos morre após ficar internado na UTI por acidente de carro no Anel Viário de São José dos Campos</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/10/27/goleiro-de-14-anos-morre-apos-ficar-internado-na-uti-por-acidente-de-carro-no-anel-viario-de-sao-jose-dos-campos.ghtml</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_n9okhynFVnVh8EBK1jVV2aK9K_MaAw1waY9vdljF6OQTbuDLkUbSNLg-Pf0</ht:news_item_picture>
+				<ht:news_item_source>G1</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>Goleiro de 14 anos morre após acidente de carro no interior de São Paulo</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/10/28/goleiro-sao-jose-base-morte.ghtm</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0s9RB30NbHKh28NHAeioKhsGqV7-tsQodrCfIXnIdu6Rv5Bi2FDDle24cb7I</ht:news_item_picture>
 				<ht:news_item_source>UOL</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>Lua hoje: veja qual é a fase lunar desta segunda-feira, 26 de outubro de 2026</ht:news_item_title>
+				<ht:news_item_title>Corinthians lamenta morte de goleiro de 14 anos do São José</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://gauchazh.clicrbs.com.br/viral/noticia/2026/10/lua-hoje-veja-qual-e-a-fase-lunar-desta-segunda-feira-26-de-outubro-de-2026-cmvpdwftk003n016ngrkr4mos.html</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR12fc3-5ZX4bNh8fRNYvJtNnec1XWa_c-QGWdBRHSnI-otEAdeRRy4HZVXvaM</ht:news_item_picture>
-				<ht:news_item_source>GZH</ht:news_item_source>
+				<ht:news_item_url>https://www.meutimao.com.br/noticias-do-corinthians/542952/corinthians-lamenta-morte-de-goleiro-de-14-anos-do-sao-jose</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR3lkBZ8C3HR4XfL8NhrggdO1odPvkUT-uS67gxaP27dxLDixCfHLn8oJ6A19o</ht:news_item_picture>
+				<ht:news_item_source>Meu Timão</ht:news_item_source>
 			</ht:news_item>
 		</item>
 	</channel>
