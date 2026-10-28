@@ -5,7 +5,7 @@ import json, os, sys, urllib.request, urllib.parse, urllib.error
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-SEC = json.loads(os.environ.get("ALL_SECRETS") or "{}")
+SEC = os.environ
 CID, CSEC = SEC.get("YT_CLIENT_ID", ""), SEC.get("YT_CLIENT_SECRET", "")
 
 def refresh_token(canal):
