@@ -1,0 +1,32 @@
+# Publica Shorts no YouTube pela Data API v3.
+# Disparo: push de yt/jobs/<id>.json com "status": "pendente" (feito por pipeline/yt_post.sh).
+# Segredos: YT_CLIENT_ID, YT_CLIENT_SECRET, YT_REFRESH_TOKEN.
+name: yt-post
+on:
+  push:
+    paths: ["yt/jobs/*.json"]
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: yt-post
+  cancel-in-progress: false
+jobs:
+  post:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Enviar pendentes
+        env:
+          YT_CLIENT_ID: ${{ secrets.YT_CLIENT_ID }}
+          YT_CLIENT_SECRET: ${{ secrets.YT_CLIENT_SECRET }}
+          YT_REFRESH_TOKEN: ${{ secrets.YT_REFRESH_TOKEN }}
+        run: python3 pipeline/yt_api.py
+      - name: Salvar resultado
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add yt/
+          git diff --cached --quiet && exit 0
+          git commit -m "yt-post: resultado"
+          for i in 1 2 3; do git pull --rebase origin main && git push origin HEAD:main && break; sleep 5; done
