@@ -43,7 +43,18 @@ for jf in sorted((ROOT / "yt/jobs").glob("*.json")):
     try:
         nome, rtok = refresh_token(job.get("canal", ""))
         if not (CID and CSEC and rtok): raise RuntimeError(f"faltam segredos YT_CLIENT_ID / YT_CLIENT_SECRET / {nome}")
-        res = upload(job, token(rtok))
+        at = token(rtok)
+        if job.get("acao") == "checar":
+            job.update(status="ok", token="válido")
+            try:
+                req = urllib.request.Request("https://www.googleapis.com/youtube/v3/channels?part=snippet&mine=true", headers={"Authorization": "Bearer " + at})
+                with urllib.request.urlopen(req, timeout=60) as r: items = json.load(r).get("items", [])
+                if items: job["canal_nome"] = items[0]["snippet"]["title"]
+            except urllib.error.HTTPError as e:
+                job["canal_nome"] = f"(não deu para ler o nome: HTTP {e.code})"
+            print(jf.stem, "checagem ok", job.get("canal_nome"))
+            jf.write_text(json.dumps(job, ensure_ascii=False, indent=2)); continue
+        res = upload(job, at)
         job.update(status="postado", video_id=res["id"], url="https://youtube.com/shorts/" + res["id"],
                    privacidade=res.get("status", {}).get("privacyStatus"), canal_nome=res.get("snippet", {}).get("channelTitle"), canal_nome=res.get("snippet", {}).get("channelTitle"), canal_id=res.get("snippet", {}).get("channelId"), upload=res.get("status", {}).get("uploadStatus"))
         print(jf.stem, "ok", res["id"], job["privacidade"])
