@@ -1,14 +1,15 @@
 #!/usr/bin/env bash
 # Publica um Short no YouTube via GitHub Actions e espera o resultado.
-#   pipeline/yt_post.sh <id> <video relativo ao repo> <legenda.txt|-> [titulo]
+#   pipeline/yt_post.sh <id> <video relativo ao repo> <legenda.txt|-> [titulo] [canal]
+#   canal: vazio = mindloop (YT_REFRESH_TOKEN); outro = usa o segredo YT_REFRESH_TOKEN_<CANAL>
 #   Sem título, usa a 1ª linha da legenda. A descrição é a legenda + #Shorts.
 set -e
 cd "$(dirname "$0")/.."
-ID="$1"; VID="$2"; LEG="$3"; TIT="${4:-}"
+ID="$1"; VID="$2"; LEG="$3"; TIT="${4:-}"; CANAL="${5:-}"
 git pull -q --rebase origin main; mkdir -p yt/jobs
-python3 - "$ID" "$VID" "$LEG" "$TIT" <<'PY'
+python3 - "$ID" "$VID" "$LEG" "$TIT" "$CANAL" <<'PY'
 import json, re, sys
-i, vid, leg, tit = sys.argv[1:5]
+i, vid, leg, tit, canal = sys.argv[1:6]
 txt = sys.stdin.read() if leg == "-" else open(leg).read()
 tags = re.findall(r"#(\w+)", txt)
 first = txt.strip().splitlines()[0] if txt.strip() else i
@@ -17,7 +18,7 @@ title = re.sub(r"[^\w\s.,:;!?()'\"%$-–—/@áàâãéêíóôõúçÁÀÂÃÉ�
 if len(title) > 90: title = title[:87].rsplit(" ", 1)[0] + "…"
 desc = txt.strip() + ("" if "#shorts" in txt.lower() else "\n\n#Shorts")
 job = {"status": "pendente", "video": vid, "title": title + " #Shorts", "description": desc,
-       "tags": tags[:15] + ["Shorts"], "privacy": "public", "categoryId": 27}
+       "tags": tags[:15] + ["Shorts"], "privacy": "public", "categoryId": 27, "canal": canal}
 json.dump(job, open(f"yt/jobs/{i}.json", "w"), ensure_ascii=False, indent=2)
 print("título:", job["title"])
 PY

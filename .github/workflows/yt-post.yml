@@ -1,6 +1,6 @@
 # Publica Shorts no YouTube pela Data API v3.
 # Disparo: push de yt/jobs/<id>.json com "status": "pendente" (feito por pipeline/yt_post.sh).
-# Segredos: YT_CLIENT_ID, YT_CLIENT_SECRET, YT_REFRESH_TOKEN.
+# Segredos: YT_CLIENT_ID, YT_CLIENT_SECRET e um refresh token por canal: YT_REFRESH_TOKEN (mindloop) ou YT_REFRESH_TOKEN_<CANAL>.
 name: yt-post
 on:
   push:
@@ -18,9 +18,7 @@ jobs:
       - uses: actions/checkout@v4
       - name: Enviar pendentes
         env:
-          YT_CLIENT_ID: ${{ secrets.YT_CLIENT_ID }}
-          YT_CLIENT_SECRET: ${{ secrets.YT_CLIENT_SECRET }}
-          YT_REFRESH_TOKEN: ${{ secrets.YT_REFRESH_TOKEN }}
+          ALL_SECRETS: ${{ toJSON(secrets) }}
         run: python3 pipeline/yt_api.py
       - name: Salvar resultado
         run: |

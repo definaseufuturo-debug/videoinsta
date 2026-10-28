@@ -5,10 +5,16 @@ import json, os, sys, urllib.request, urllib.parse, urllib.error
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-CID, CSEC, RTOK = (os.environ.get(k, "") for k in ("YT_CLIENT_ID", "YT_CLIENT_SECRET", "YT_REFRESH_TOKEN"))
+SEC = json.loads(os.environ.get("ALL_SECRETS") or "{}")
+CID, CSEC = SEC.get("YT_CLIENT_ID", ""), SEC.get("YT_CLIENT_SECRET", "")
 
-def token():
-    data = urllib.parse.urlencode({"client_id": CID, "client_secret": CSEC, "refresh_token": RTOK, "grant_type": "refresh_token"}).encode()
+def refresh_token(canal):
+    # canal "" ou "mindloop" -> YT_REFRESH_TOKEN; outro canal -> YT_REFRESH_TOKEN_<CANAL>
+    nome = "YT_REFRESH_TOKEN" if canal in ("", "mindloop") else "YT_REFRESH_TOKEN_" + canal.upper()
+    return nome, SEC.get(nome, "")
+
+def token(rtok):
+    data = urllib.parse.urlencode({"client_id": CID, "client_secret": CSEC, "refresh_token": rtok, "grant_type": "refresh_token"}).encode()
     with urllib.request.urlopen(urllib.request.Request("https://oauth2.googleapis.com/token", data=data), timeout=60) as r:
         return json.load(r)["access_token"]
 
@@ -35,8 +41,9 @@ for jf in sorted((ROOT / "yt/jobs").glob("*.json")):
     job = json.loads(jf.read_text())
     if job.get("status") != "pendente": continue
     try:
-        if not (CID and CSEC and RTOK): raise RuntimeError("faltam segredos YT_CLIENT_ID / YT_CLIENT_SECRET / YT_REFRESH_TOKEN")
-        res = upload(job, token())
+        nome, rtok = refresh_token(job.get("canal", ""))
+        if not (CID and CSEC and rtok): raise RuntimeError(f"faltam segredos YT_CLIENT_ID / YT_CLIENT_SECRET / {nome}")
+        res = upload(job, token(rtok))
         job.update(status="postado", video_id=res["id"], url="https://youtube.com/shorts/" + res["id"],
                    privacidade=res.get("status", {}).get("privacyStatus"), upload=res.get("status", {}).get("uploadStatus"))
         print(jf.stem, "ok", res["id"], job["privacidade"])
