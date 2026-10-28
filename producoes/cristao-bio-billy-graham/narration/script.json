@@ -1,0 +1,19 @@
+{
+  "voice": "pm_alex",
+  "speed": 1.1,
+  "lang": "pt-br",
+  "_comment": "Biografia (formato colagem editorial, sem rostos): Billy Graham. Fontes: BGEA billygraham.org/about/biographies (nasceu 7/11/1918 numa fazenda de leite perto de Charlotte, NC; conversão em 1934 aos 15 anos; pregou ao vivo para cerca de 215 milhões de pessoas em mais de 185 países e territórios; 1,1 milhão em Yoido Plaza, Seul, junho de 1973; morreu em 21/2/2018), Christian History Institute (conversão no avivamento de Mordecai Ham em 1934; campanha de Los Angeles 1949 estendida para oito semanas), Billy Graham Library (3/6/1973, Seul, mais de 1,1 milhão), BGEA 'A Legacy of Ministry in Brazil' + Christianity Today 25/10/1974 'Rebirth in Brazil' (encerramento no Maracanã, Rio 1974: cerca de 250 mil pessoas).",
+  "say": {},
+  "fish": { "voice": "a7f67c4e2d94440aad9c5a82365d9d92", "speed": 1.12, "model": "s2.1-pro-free" },
+  "clips": [
+    { "id": "c1", "scene": 1, "minStart": 0.3, "gapAfterPrev": 0, "text": "Ele pregou ao vivo para cerca de duzentos e quinze milhões de pessoas. E tudo começou numa fazenda de leite." },
+    { "id": "c2", "scene": 2, "minStart": 0, "gapAfterPrev": 0.4, "text": "Billy Graham nasceu em mil novecentos e dezoito, perto de Charlotte, nos Estados Unidos. Aos quinze anos, numa reunião de avivamento, entregou a vida a Cristo." },
+    { "id": "c3", "scene": 3, "minStart": 0, "gapAfterPrev": 0.4, "text": "Em mil novecentos e quarenta e nove, uma campanha numa tenda em Los Angeles lotou tanto que foi estendida para oito semanas." },
+    { "id": "c4", "scene": 4, "minStart": 0, "gapAfterPrev": 0.4, "text": "Em setenta e três, em Seul, um único culto reuniu mais de um milhão de pessoas." },
+    { "id": "c5", "scene": 5, "minStart": 0, "gapAfterPrev": 0.4, "text": "No ano seguinte, ele veio ao Rio. No Maracanã, cerca de duzentas e cinquenta mil pessoas lotaram o encerramento." },
+    { "id": "c6", "scene": 6, "minStart": 0, "gapAfterPrev": 0.4, "text": "Foram mais de cento e oitenta e cinco países. Ele partiu em dois mil e dezoito, aos noventa e nove anos." },
+    { "id": "c7", "scene": 7, "minStart": 0, "gapAfterPrev": 0.45, "text": "Qual pregador marcou a sua fé? Comenta aqui. E segue pra conhecer mais histórias de quem levou o evangelho longe." }
+  ],
+  "tailAfterLastClip": 1.8,
+  "keywords": []
+}
