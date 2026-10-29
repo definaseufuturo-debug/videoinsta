@@ -1,0 +1,67 @@
+{
+  "voice": "pf_dora",
+  "speed": 1.12,
+  "lang": "pt-br",
+  "_comment": "Escala: Terra, Sol e uma das maiores estrelas conhecidas (UY Scuti). Fontes: Canaltech 'Quantas vezes o Sol é maior que a Terra' (diâmetro 109 vezes o da Terra; 1,3 milhão de Terras em volume), Canaltech 'Qual é a maior estrela do universo' (UY Scuti com raio quase 1.700 vezes o do Sol; volume quase 5 bilhões de vezes o do Sol; no lugar do Sol passaria da órbita de Júpiter), Olhar Digital 'Quais são as maiores estrelas do universo' (UY Scuti com raio 1.700 vezes o do Sol; fotosfera além da órbita de Júpiter). Obs.: há estimativas recentes de estrelas ainda maiores (Stephenson 2-18, Tiempo.com), por isso o roteiro diz 'uma das maiores'. Escala da bolinha: Terra 1 cm -> Sol 1,09 m -> UY Scuti 1.700 x 1,09 m = ~1,85 km.",
+  "say": {
+    "UY Scuti": "u ípsilon escúti"
+  },
+  "fish": {
+    "voice": "b1cab1f57b8d41aeb225d7d8bafc0806",
+    "speed": 1.18,
+    "model": "s2.1-pro-free"
+  },
+  "clips": [
+    {
+      "id": "c1",
+      "scene": 1,
+      "minStart": 0.3,
+      "gapAfterPrev": 0,
+      "text": "Se a Terra fosse uma bolinha de gude, o Sol seria uma bola de um metro. E ele nem é grande."
+    },
+    {
+      "id": "c2",
+      "scene": 2,
+      "minStart": 0,
+      "gapAfterPrev": 0.4,
+      "text": "O Sol é cento e nove vezes mais largo que a Terra. Lá dentro caberia um milhão e trezentas mil Terras."
+    },
+    {
+      "id": "c3",
+      "scene": 3,
+      "minStart": 0,
+      "gapAfterPrev": 0.4,
+      "text": "Mas perto das estrelas gigantes, o nosso Sol vira um grãozinho."
+    },
+    {
+      "id": "c4",
+      "scene": 4,
+      "minStart": 0,
+      "gapAfterPrev": 0.4,
+      "text": "Uma das maiores já medidas, a UY Scuti, tem o raio cerca de mil e setecentas vezes maior que o do Sol. Dentro dela caberiam quase cinco bilhões de Sóis."
+    },
+    {
+      "id": "c5",
+      "scene": 5,
+      "minStart": 0,
+      "gapAfterPrev": 0.4,
+      "text": "No lugar do Sol, ela engoliria Mercúrio, Vênus, a Terra, Marte, e passaria da órbita de Júpiter."
+    },
+    {
+      "id": "c6",
+      "scene": 6,
+      "minStart": 0,
+      "gapAfterPrev": 0.4,
+      "text": "Na escala da bolinha de gude, ela seria uma bola de quase dois quilômetros, do lado de uma bolinha de um centímetro."
+    },
+    {
+      "id": "c7",
+      "scene": 7,
+      "minStart": 0,
+      "gapAfterPrev": 0.45,
+      "text": "Você imaginava esse tamanho? Comenta. Amanhã: o mapa dos estados mais populosos do Brasil. Segue pra não perder."
+    }
+  ],
+  "tailAfterLastClip": 2.2,
+  "keywords": []
+}
