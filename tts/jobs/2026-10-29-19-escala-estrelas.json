@@ -1,5 +1,5 @@
 {
-  "status": "pronto",
+  "status": "pendente",
   "voice": "b1cab1f57b8d41aeb225d7d8bafc0806",
   "speed": 1.18,
   "model": "s2.1-pro-free",
@@ -19,7 +19,7 @@
     },
     {
       "id": "c4",
-      "text": "Uma das maiores já medidas, a u ípsilon escúti, tem o raio cerca de mil e setecentas vezes maior que o do Sol."
+      "text": "Uma das maiores já medidas, a u ípsilon escúti, tem o raio cerca de mil e setecentas vezes maior que o do Sol. Dentro dela caberiam quase cinco bilhões de Sóis."
     },
     {
       "id": "c5",
@@ -27,7 +27,7 @@
     },
     {
       "id": "c6",
-      "text": "Na escala da bolinha de gude, ela seria uma bola de quase dois quilômetros."
+      "text": "Na escala da bolinha de gude, ela seria uma bola de quase dois quilômetros, do lado de uma bolinha de um centímetro."
     },
     {
       "id": "c7",
