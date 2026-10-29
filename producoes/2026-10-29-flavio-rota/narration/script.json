@@ -1,0 +1,19 @@
+{
+  "voice": "pm_alex",
+  "speed": 1.12,
+  "lang": "pt-br",
+  "_comment": "Pedido do Jonas (29/10): infográfico da rota de Flávio Bolsonaro até os EUA (a matéria do g1 não abriu: site bloqueado para leitura automática). Fontes: Agência Pública 28/10/2026 'A fuga de Flávio Bolsonaro: a verdadeira rota...' (Moraes/STF mandou entregar passaportes; prazo venceu 11h de 27/10; PF cancelou; investigado no STF por lavagem de dinheiro e evasão de divisas; entrou na Argentina 22h50 de 27/10 pela Ponte Tancredo Neves com a esposa e as 2 filhas; voo privado Baires Fly, Gulfstream G400 LV-JQW, 23h30, destino declarado Guayaquil; Guayaquil ~5h40; pouso nos EUA 10h23 de Brasília segundo a Folha; 2º turno 25/10); Chequeado 28/10/2026 (comunicado da Migraciones: 22h50 e 23h30, 40 min depois; escala em Guayaquil 5:46 hora argentina para abastecer; pouso no aeroporto executivo de Opa-locka, Miami; ordem notificada em 26/10 de entregar passaportes e não sair do Brasil); El Día e Ámbito 28/10/2026 (comunicado da Migraciones; passaportes anulados pela PF; investigação de lavagem; Flávio questionou as medidas e disse que buscam intimidá-lo; 'suspeitas não equivalem a condenação'); Nexo 27-28/10 (investigado por lavagem, intimado a entregar passaportes). Distâncias calculadas em linha reta (Puerto Iguazú→Guayaquil ~3.780 km; Guayaquil→Miami ~3.120 km). Trajeto Brasília→Foz não divulgado pelas fontes.",
+  "say": {"STF": "ésse tê éfe", "PF": "pê éfe"},
+  "fish": {"voice": "a0a26a57cac94ea4918f05a2393b4259", "speed": 1.18, "model": "s2.1-pro-free"},
+  "clips": [
+    {"id": "c1", "scene": 1, "minStart": 0.3, "gapAfterPrev": 0, "text": "Da fronteira do Paraná até Miami em menos de doze horas. Esta é a rota de Flávio Bolsonaro."},
+    {"id": "c2", "scene": 2, "minStart": 0, "gapAfterPrev": 0.4, "text": "Derrotado no segundo turno, ele recebeu ordem do STF para entregar os passaportes. O prazo venceu, e a PF cancelou os documentos."},
+    {"id": "c3", "scene": 3, "minStart": 0, "gapAfterPrev": 0.4, "text": "Na terça, às dez e cinquenta da noite, ele cruzou a ponte de Foz do Iguaçu para a Argentina, com a esposa e as duas filhas."},
+    {"id": "c4", "scene": 4, "minStart": 0, "gapAfterPrev": 0.4, "text": "Quarenta minutos depois, embarcou num jato particular. No plano de voo, o destino declarado era Guayaquil, no Equador."},
+    {"id": "c5", "scene": 5, "minStart": 0, "gapAfterPrev": 0.4, "text": "Lá, o avião parou só para abastecer e seguiu para o norte."},
+    {"id": "c6", "scene": 6, "minStart": 0, "gapAfterPrev": 0.4, "text": "Na manhã de quarta, pousou num aeroporto executivo de Miami. Flávio é investigado por lavagem de dinheiro e diz que as medidas buscam intimidá-lo."},
+    {"id": "c7", "scene": 7, "minStart": 0, "gapAfterPrev": 0.4, "text": "Quase sete mil quilômetros de voo. Você acha que ele volta? Comenta aqui, e segue pra acompanhar os próximos capítulos."}
+  ],
+  "tailAfterLastClip": 1.8,
+  "keywords": []
+}
