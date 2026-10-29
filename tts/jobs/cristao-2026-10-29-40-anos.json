@@ -1,0 +1,37 @@
+{
+  "status": "pendente",
+  "voice": "a0a26a57cac94ea4918f05a2393b4259",
+  "speed": 1.12,
+  "model": "s2.1-pro-free",
+  "language": "pt",
+  "clips": [
+    {
+      "id": "c1",
+      "text": "Onze dias de caminhada separavam o Sinai da terra prometida. Mas o povo levou quarenta anos. Por quê?"
+    },
+    {
+      "id": "c2",
+      "text": "Saindo do Sinai, eles chegam a Cades-Barneia, na porta de Canaã. Dali, Moisés envia doze espias, um de cada tribo."
+    },
+    {
+      "id": "c3",
+      "text": "Por quarenta dias, eles percorrem a terra. E voltam com um cacho de uvas tão grande, que dois homens carregam numa vara."
+    },
+    {
+      "id": "c4",
+      "text": "Mas dez espias assustam o povo: cidades com muralhas, e gigantes. Parecíamos gafanhotos, dizem eles."
+    },
+    {
+      "id": "c5",
+      "text": "Só Josué e Calebe dizem: podemos entrar. Mas o povo chora, e quer voltar para o Egito."
+    },
+    {
+      "id": "c6",
+      "text": "Então vem a sentença: cada dia de espionagem vira um ano. Quarenta dias, quarenta anos no deserto."
+    },
+    {
+      "id": "c7",
+      "text": "Qual gigante tem feito você parar? Comenta aqui. E segue, porque a próxima parte é a travessia do Jordão e a queda de Jericó."
+    }
+  ]
+}
