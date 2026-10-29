@@ -26,7 +26,7 @@ Marque `[x]` quando o vídeo for produzido. A produção sempre pega o próximo 
 
 ### Manhã (raio-X)
 - [x] Geladeira: como ela "tira" o calor de dentro
-- [ ] Micro-ondas: por que esquenta a comida e não o prato
+- [x] Micro-ondas: por que esquenta a comida e não o prato
 - [ ] Bateria do celular: o que acontece quando ela carrega e vicia
 - [ ] Avião: como 400 toneladas ficam no ar
 - [ ] Ar-condicionado: por que pinga água
