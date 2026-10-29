@@ -41,3 +41,4 @@
 - 2026-10-28 20:45 | cristao-tire-a-venda | manual (pedido do Jonas, bonequinhos de palito) | ok 18607881754071757
 - 2026-10-29 00:30 | produção Tarefa B | 08:00 micro-ondas (voz Fish 3, 52 s, 24,9 MB) e 19:00 escala Terra/Sol/UY Scuti (voz Fish jovem, 39 s, 13,5 MB) na fila
 - 2026-10-29 06:56 | cristao-2026-10-29-ansiedade | cristao | ok 18110490701350083
+- 2026-10-29 07:54 | 2026-10-29-08-microondas | agendado | ok 18134184628809266 | yt quAi3x_PaxI
