@@ -1,0 +1,37 @@
+{
+  "status": "pendente",
+  "voice": "b1cab1f57b8d41aeb225d7d8bafc0806",
+  "speed": 1.18,
+  "model": "s2.1-pro-free",
+  "language": "pt",
+  "clips": [
+    {
+      "id": "c1",
+      "text": "Se a Terra fosse uma bolinha de gude, o Sol seria uma bola de um metro. E ele nem é grande."
+    },
+    {
+      "id": "c2",
+      "text": "O Sol é cento e nove vezes mais largo que a Terra. Lá dentro caberia um milhão e trezentas mil Terras."
+    },
+    {
+      "id": "c3",
+      "text": "Mas perto das estrelas gigantes, o nosso Sol vira um grãozinho."
+    },
+    {
+      "id": "c4",
+      "text": "Uma das maiores já medidas, a u ípsilon escúti, tem o raio cerca de mil e setecentas vezes maior que o do Sol."
+    },
+    {
+      "id": "c5",
+      "text": "No lugar do Sol, ela engoliria Mercúrio, Vênus, a Terra, Marte, e passaria da órbita de Júpiter."
+    },
+    {
+      "id": "c6",
+      "text": "Na escala da bolinha de gude, ela seria uma bola de quase dois quilômetros."
+    },
+    {
+      "id": "c7",
+      "text": "Você imaginava esse tamanho? Comenta. Amanhã: o mapa dos estados mais populosos do Brasil. Segue pra não perder."
+    }
+  ]
+}
