@@ -43,3 +43,4 @@
 - 2026-10-29 06:56 | cristao-2026-10-29-ansiedade | cristao | ok 18110490701350083
 - 2026-10-29 07:54 | 2026-10-29-08-microondas | agendado | ok 18134184628809266 | yt quAi3x_PaxI
 - 2026-10-29 09:03 | 2026-10-29-12-classico-mineiro | produção EM ALTA (Tarefa C) | fila 12:00 ok (clássico Atlético x Cruzeiro hoje 19h30, último de 2026: 'atletico x cruzeiro' 5000+ no Google Trends BR, de longe o maior do dia; formato 'em números' (5 clássicos de 2026, final com 23 expulsos, tabela, desde 1921), sem escudos, só cores; alternativas descartadas: auxílio-reclusão e listas de boicote (política), vacina meningite (local), concurso público (genérico); voz Fish masculina, 44 s, 18,8 MB)
+- 2026-10-29 12:08 | 2026-10-29-12-classico-mineiro | agendado (postado com atraso, a pedido do Jonas: a rodada das 11:55 não postou) | ok 18181586461433672 | yt j-I0QYBd12I
