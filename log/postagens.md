@@ -47,3 +47,4 @@
 - 2026-10-29 12:16 | — | rodada 11:50 (atrasada) | PULADO: horário das 12:00 já preenchido às 12:08 (2026-10-29-12-classico-mineiro); fila.py devolveu reserva-pix, não postada para não postar duas vezes no mesmo horário
 - 2026-10-29 18:52 | 2026-10-29-19-escala-estrelas | agendado | ok 17989393806078326 | yt op3rPAVBeJc
 - 2026-10-29 18:55 | cristao-2026-10-29-depois | cristao | ok 18110761826579448
+- 2026-10-29 20:57 | cristao-2026-10-29-40-anos | cristao (movido das 19h para as 21h, pedido do Jonas) | ok 18131086897698251
