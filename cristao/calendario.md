@@ -56,7 +56,7 @@ No estilo cinético, o que varia é a **paleta** (uma cor por cena, no bloco CON
 ## Fila do mapa (19:00, pegue o próximo [ ])
 - [x] O Êxodo: do Egito ao Mar Vermelho (Êx 12–14) — postado 27/10
 - [x] Do Mar Vermelho ao Sinai: Mara, Elim, o maná e Refidim (Êx 15–19) — 28/10
-- [ ] Por que 40 anos no deserto? Os espias e Cades-Barneia (Nm 13–14; Dt 1:2 "onze dias")
+- [x] Por que 40 anos no deserto? Os espias e Cades-Barneia (Nm 13–14; Dt 1:2 "onze dias") — 29/10
 - [ ] A travessia do Jordão e a queda de Jericó (Js 3–6)
 - [ ] As 12 tribos: onde cada uma ficou na terra prometida (Js 13–19)
 - [ ] Davi e Golias: o vale de Elá no mapa (1Sm 17)

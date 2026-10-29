@@ -1,0 +1,19 @@
+{
+  "voice": "pm_alex",
+  "speed": 1.12,
+  "lang": "pt-br",
+  "_comment": "Números 10:11-12; 13 – 14; Deuteronômio 1:2. 'Onze jornadas há desde Horebe, pelo caminho do monte Seir, até Cades-Barneia' (Dt 1:2). Saem do Sinai no 2º ano para o deserto de Parã (Nm 10:11-12). Moisés envia 12 homens, um de cada tribo (13:2-16), do deserto de Parã/Cades (13:3,26). Espiam a terra 40 dias (13:25), sobem pelo Neguebe até Hebrom (13:22) e até Reobe, perto de Hamate (13:21). No vale de Escol cortam um cacho de uvas e o levam numa vara entre dois (13:23). Terra que mana leite e mel, mas cidades fortificadas e muito grandes, filhos de Enaque (13:27-28); 'éramos aos nossos olhos como gafanhotos' (13:33). Calebe e Josué: 'subamos', podemos (13:30; 14:6-9). O povo chora e quer voltar ao Egito (14:1-4). 'Segundo o número dos dias em que espiastes a terra, quarenta dias, cada dia representando um ano, levareis sobre vós as vossas iniquidades quarenta anos' (14:34); só Calebe e Josué daquela geração entram (14:30). Cades-Barneia: localização tradicional Ein el-Qudeirat, NE do Sinai (Wikipedia 'Kadesh (biblical)'; Encyclopedia of the Bible/BibleGateway 'Kadesh-Barnea'). Monte Sinai tradicional = Jebel Musa. Locais debatidos: mostrados como tradicionais.",
+  "say": {},
+  "fish": { "voice": "a0a26a57cac94ea4918f05a2393b4259", "speed": 1.12, "model": "s2.1-pro-free" },
+  "clips": [
+    { "id": "c1", "scene": 1, "minStart": 0.3, "gapAfterPrev": 0, "text": "Onze dias de caminhada separavam o Sinai da terra prometida. Mas o povo levou quarenta anos. Por quê?" },
+    { "id": "c2", "scene": 2, "minStart": 0, "gapAfterPrev": 0.4, "text": "Saindo do Sinai, eles chegam a Cades-Barneia, na porta de Canaã. Dali, Moisés envia doze espias, um de cada tribo." },
+    { "id": "c3", "scene": 3, "minStart": 0, "gapAfterPrev": 0.4, "text": "Por quarenta dias, eles percorrem a terra. E voltam com um cacho de uvas tão grande, que dois homens carregam numa vara." },
+    { "id": "c4", "scene": 4, "minStart": 0, "gapAfterPrev": 0.4, "text": "Mas dez espias assustam o povo: cidades com muralhas, e gigantes. Parecíamos gafanhotos, dizem eles." },
+    { "id": "c5", "scene": 5, "minStart": 0, "gapAfterPrev": 0.4, "text": "Só Josué e Calebe dizem: podemos entrar. Mas o povo chora, e quer voltar para o Egito." },
+    { "id": "c6", "scene": 6, "minStart": 0, "gapAfterPrev": 0.4, "text": "Então vem a sentença: cada dia de espionagem vira um ano. Quarenta dias, quarenta anos no deserto." },
+    { "id": "c7", "scene": 7, "minStart": 0, "gapAfterPrev": 0.45, "text": "Qual gigante tem feito você parar? Comenta aqui. E segue, porque a próxima parte é a travessia do Jordão e a queda de Jericó." }
+  ],
+  "tailAfterLastClip": 1.8,
+  "keywords": []
+}
