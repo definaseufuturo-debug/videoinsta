@@ -40,3 +40,4 @@
 - 2026-10-27 21:01 | 2026-10-27-carrossel-mapa | manual | ok 18128925412789480 (1ª tentativa deu 'Media ID is not available'; 2ª publicou)
 - 2026-10-28 20:45 | cristao-tire-a-venda | manual (pedido do Jonas, bonequinhos de palito) | ok 18607881754071757
 - 2026-10-29 00:30 | produção Tarefa B | 08:00 micro-ondas (voz Fish 3, 52 s, 24,9 MB) e 19:00 escala Terra/Sol/UY Scuti (voz Fish jovem, 39 s, 13,5 MB) na fila
+- 2026-10-29 06:56 | cristao-2026-10-29-ansiedade | cristao | ok 18110490701350083
