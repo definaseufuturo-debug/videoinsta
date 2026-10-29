@@ -6,6 +6,36 @@
 		<link>https://trends.google.com/trending/rss?geo=BR</link>
 		<atom:link href="https://trends.google.com/trending/rss?geo=BR" rel="self" type="application/rss+xml"/>
 		<item>
+			<title>cetam</title>
+			<ht:approx_traffic>100+</ht:approx_traffic>
+			<description/>
+			<link>https://trends.google.com/trending/rss?geo=BR</link>
+			<pubDate>Thu, 29 Oct 2026 04:30:00 -0700</pubDate>
+			<ht:picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTJ9UD8QPn8bQn1GRuij1vpSUndoRJ7hR8TbgAKmd_enZMqpHNa073e98lH55k</ht:picture>
+			<ht:picture_source>A Crítica</ht:picture_source>
+			<ht:news_item>
+				<ht:news_item_title>Cetam lança edital de cursos on-line com 50.150 vagas gratuitas nesta quinta-feira</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.acritica.com/geral/cetam-lanca-edital-de-cursos-on-line-com-50-150-vagas-gratuitas-nesta-quinta-feira/</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTJ9UD8QPn8bQn1GRuij1vpSUndoRJ7hR8TbgAKmd_enZMqpHNa073e98lH55k</ht:news_item_picture>
+				<ht:news_item_source>A Crítica</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>Cetam anuncia mais de 50 mil vagas gratuitas em cursos on-line; inscrições abrem em novembro</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://ampost.com.br/amazonas/cetam-anuncia-mais-de-50-mil-vagas-gratuitas-em-cursos-on-line-inscricoes-abrem-em-novembro/</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQfSx8Hcoq2odwwl3l86bDn6c91QJ8mBJh8rCff0whZbsy2ltfMqcWXhySOkj8</ht:news_item_picture>
+				<ht:news_item_source>AM POST</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>Cetam abre 50 mil vagas gratuitas em cursos EaD no Amazonas; confira as opções e como se inscrever</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.portaldoholanda.com.br/amazonas/cetam-abre-50-mil-vagas-gratuitas-em-cursos-ead-no-amazonas-confira-as-opcoes-e-como-se-inscrever</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ0r6JbTpntOsQPR9B1ep_F0o7kk959VF0ZFmdtHcgpK--jx1YQVoq16M302rU</ht:news_item_picture>
+				<ht:news_item_source>Portal do Holanda</ht:news_item_source>
+			</ht:news_item>
+		</item>
+		<item>
 			<title>geração</title>
 			<ht:approx_traffic>200+</ht:approx_traffic>
 			<description/>
@@ -184,7 +214,7 @@
 		</item>
 		<item>
 			<title>29 de outubro</title>
-			<ht:approx_traffic>100+</ht:approx_traffic>
+			<ht:approx_traffic>200+</ht:approx_traffic>
 			<description/>
 			<link>https://trends.google.com/trending/rss?geo=BR</link>
 			<pubDate>Thu, 29 Oct 2026 03:30:00 -0700</pubDate>
@@ -210,36 +240,6 @@
 				<ht:news_item_url>https://www.terra.com.br/vida-e-estilo/horoscopo/astrologia/tarot-do-dia-previsao-para-os-12-signos-em-29102026,39b8da0a8f61d27992bdaf04834f4e295qqpi22h.html</ht:news_item_url>
 				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRS0MZdvU68XCIzrySw_mt1KvTgMTVQocUTttfLyF2Jfe1KG4pvSDZ8CnVd8so</ht:news_item_picture>
 				<ht:news_item_source>Terra</ht:news_item_source>
-			</ht:news_item>
-		</item>
-		<item>
-			<title>atletico x cruzeiro</title>
-			<ht:approx_traffic>5000+</ht:approx_traffic>
-			<description/>
-			<link>https://trends.google.com/trending/rss?geo=BR</link>
-			<pubDate>Thu, 29 Oct 2026 03:30:00 -0700</pubDate>
-			<ht:picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRnbEgiMv7ORcdFnOQOUeYpaJ9YD4W6jyMByNLUSxde8TlTFxLmNdz9wZpMkCM</ht:picture>
-			<ht:picture_source>ge</ht:picture_source>
-			<ht:news_item>
-				<ht:news_item_title>Escalação do Atlético-MG: Domínguez tem desfalques e segue com dúvida para o clássico</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://ge.globo.com/futebol/times/atletico-mg/noticia/2026/10/28/escalacao-do-atletico-mg-dominguez-tem-desfalques-e-segue-com-duvida-para-o-classico.ghtml</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRnbEgiMv7ORcdFnOQOUeYpaJ9YD4W6jyMByNLUSxde8TlTFxLmNdz9wZpMkCM</ht:news_item_picture>
-				<ht:news_item_source>ge</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>Atlético-MG e Cruzeiro fazem reencontro após decisão na Copa do Brasil de olho na Libertadores</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.uol.com.br/esporte/ultimas-noticias/agencia/2026/10/29/atletico-mg-e-cruzeiro-fazem-reencontro-apos-decisao-na-copa-do-brasil-de-olho-na-libertadores.htm</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSnlJlfDJ-xKwxBJglyOGar07zCOj8z8SqkzrMgsRpv1z4dDQZK1NdWEBAp4E</ht:news_item_picture>
-				<ht:news_item_source>UOL</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>Atlético e Cruzeiro passam por cenário parecido no gol antes de clássico pelo Brasileirão</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.cartacapital.com.br/esporte/atletico-e-cruzeiro-passam-por-cenario-parecido-no-gol-antes-de-classico-pelo-brasileirao/</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSDdrNFDWiWiac1nXjay6neqeP4gzH3fwkWdu8d6vBFVM4KUpIf7J9mM4LBfIQ</ht:news_item_picture>
-				<ht:news_item_source>CartaCapital</ht:news_item_source>
 			</ht:news_item>
 		</item>
 	</channel>
