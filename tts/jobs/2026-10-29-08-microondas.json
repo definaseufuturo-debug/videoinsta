@@ -1,0 +1,37 @@
+{
+  "status": "pendente",
+  "voice": "a7f67c4e2d94440aad9c5a82365d9d92",
+  "speed": 1.18,
+  "model": "s2.1-pro-free",
+  "language": "pt",
+  "clips": [
+    {
+      "id": "c1",
+      "text": "Dois minutos no micro-ondas: a comida sai pelando, e o prato quase frio. Como ele escolhe o que esquentar?"
+    },
+    {
+      "id": "c2",
+      "text": "Lá dentro tem uma peça chamada magnetron. Ela transforma a energia da tomada em ondas curtinhas: as micro-ondas."
+    },
+    {
+      "id": "c3",
+      "text": "Essas ondas viram de lado dois bilhões e meio de vezes por segundo. E as moléculas de água da comida tentam acompanhar, girando sem parar."
+    },
+    {
+      "id": "c4",
+      "text": "Esse giro faz uma molécula esfregar na outra. Atrito vira calor, e a comida esquenta."
+    },
+    {
+      "id": "c5",
+      "text": "O prato de vidro ou louça quase não tem água. As ondas atravessam ele direto. Se fica morno, é a comida quente passando calor."
+    },
+    {
+      "id": "c6",
+      "text": "E a grade da porta? Os furinhos são menores que as ondas, de doze centímetros. A luz passa, as micro-ondas voltam."
+    },
+    {
+      "id": "c7",
+      "text": "Qual aparelho você quer ver por dentro? Comenta. Amanhã: por que a bateria do celular vicia. Segue pra não perder."
+    }
+  ]
+}
