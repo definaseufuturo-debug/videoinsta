@@ -1,0 +1,37 @@
+{
+  "status": "pendente",
+  "voice": "a0a26a57cac94ea4918f05a2393b4259",
+  "speed": 1.18,
+  "model": "s2.1-pro-free",
+  "language": "pt",
+  "clips": [
+    {
+      "id": "c1",
+      "text": "Da fronteira do Paraná até Miami em menos de doze horas. Esta é a rota de Flávio Bolsonaro."
+    },
+    {
+      "id": "c2",
+      "text": "Derrotado no segundo turno, ele recebeu ordem do ésse tê éfe para entregar os passaportes. O prazo venceu, e a pê éfe cancelou os documentos."
+    },
+    {
+      "id": "c3",
+      "text": "Na terça, às dez e cinquenta da noite, ele cruzou a ponte de Foz do Iguaçu para a Argentina, com a esposa e as duas filhas."
+    },
+    {
+      "id": "c4",
+      "text": "Quarenta minutos depois, embarcou num jato particular. No plano de voo, o destino declarado era Guayaquil, no Equador."
+    },
+    {
+      "id": "c5",
+      "text": "Lá, o avião parou só para abastecer e seguiu para o norte."
+    },
+    {
+      "id": "c6",
+      "text": "Na manhã de quarta, pousou num aeroporto executivo de Miami. Flávio é investigado por lavagem de dinheiro e diz que as medidas buscam intimidá-lo."
+    },
+    {
+      "id": "c7",
+      "text": "Quase sete mil quilômetros de voo. Você acha que ele volta? Comenta aqui, e segue pra acompanhar os próximos capítulos."
+    }
+  ]
+}
