@@ -46,3 +46,4 @@
 - 2026-10-29 12:08 | 2026-10-29-12-classico-mineiro | agendado (postado com atraso, a pedido do Jonas: a rodada das 11:55 não postou) | ok 18181586461433672 | yt j-I0QYBd12I
 - 2026-10-29 12:16 | — | rodada 11:50 (atrasada) | PULADO: horário das 12:00 já preenchido às 12:08 (2026-10-29-12-classico-mineiro); fila.py devolveu reserva-pix, não postada para não postar duas vezes no mesmo horário
 - 2026-10-29 18:52 | 2026-10-29-19-escala-estrelas | agendado | ok 17989393806078326 | yt op3rPAVBeJc
+- 2026-10-29 18:55 | cristao-2026-10-29-depois | cristao | ok 18110761826579448
