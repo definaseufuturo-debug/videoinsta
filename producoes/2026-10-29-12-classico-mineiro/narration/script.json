@@ -1,0 +1,65 @@
+{
+  "voice": "pm_alex",
+  "speed": 1.12,
+  "lang": "pt-br",
+  "_comment": "EM ALTA 29/10: clássico Atlético-MG x Cruzeiro ('atletico x cruzeiro' 5000+ no Google Trends BR, o maior do dia, 10x o 2º). Fontes: Central da Toca 29/10/2026 e Olhar Digital 29/10/2026 (19h30 de Brasília, 33ª rodada, Cruzeiro 3º com 54 pts, Atlético 6º com 50) + futboltotal (mesmos dados); O Tempo 26/10/2026 'Cruzeiro busca melhorar retrospecto nos clássicos contra o Atlético em 2026' (5 clássicos em 2026: Cruzeiro perdeu 3, empatou 1, venceu 1; Mineiro 4ª rod. Atlético 2x1; final do Mineiro Cruzeiro 1x0; Atlético 3x1 no Mineirão; Copa do Brasil 1x1 e Atlético 2x1; quinta é o último clássico de 2026) + Wikipedia 'Clássico Mineiro' (2/5/2026 Série A Cruzeiro 1x3 Atlético); diariodopara 09/03/2026, Folha Vitória e Diario de Pernambuco (final do Mineiro 8/3/2026, Cruzeiro 1x0, 23 expulsos após briga, recorde do futebol brasileiro; anterior 22 em 1954); Wikipedia + 90min/Estado de Minas (100 anos do clássico em 2021; 1º jogo 1921). Sem escudos: só cores genéricas.",
+  "say": {},
+  "fish": {
+    "voice": "c9d3da0bdf61417d929dc67966e4befe",
+    "speed": 1.18,
+    "model": "s2.1-pro-free"
+  },
+  "clips": [
+    {
+      "id": "c1",
+      "scene": 1,
+      "minStart": 0.3,
+      "gapAfterPrev": 0,
+      "text": "Sexto clássico do ano, e o último de dois mil e vinte e seis. Hoje à noite, Atlético e Cruzeiro se enfrentam de novo."
+    },
+    {
+      "id": "c2",
+      "scene": 2,
+      "minStart": 0,
+      "gapAfterPrev": 0.4,
+      "text": "Em cinco jogos neste ano, o Atlético venceu três, o Cruzeiro venceu um, e teve um empate."
+    },
+    {
+      "id": "c3",
+      "scene": 3,
+      "minStart": 0,
+      "gapAfterPrev": 0.4,
+      "text": "Mas a vitória do Cruzeiro foi a que valeu taça: um a zero na final do Mineiro."
+    },
+    {
+      "id": "c4",
+      "scene": 4,
+      "minStart": 0,
+      "gapAfterPrev": 0.4,
+      "text": "E aquela final acabou em briga, com vinte e três expulsos. Recorde no futebol brasileiro."
+    },
+    {
+      "id": "c5",
+      "scene": 5,
+      "minStart": 0,
+      "gapAfterPrev": 0.4,
+      "text": "Na tabela, o Cruzeiro é terceiro, com cinquenta e quatro pontos. O Atlético é sexto, com cinquenta."
+    },
+    {
+      "id": "c6",
+      "scene": 6,
+      "minStart": 0,
+      "gapAfterPrev": 0.4,
+      "text": "Uma rivalidade que começou em mil novecentos e vinte e um. A bola rola às sete e meia da noite."
+    },
+    {
+      "id": "c7",
+      "scene": 7,
+      "minStart": 0,
+      "gapAfterPrev": 0.4,
+      "text": "E aí, quem leva o último clássico do ano? Comenta seu placar. E segue, que amanhã tem outro assunto do dia explicado."
+    }
+  ],
+  "tailAfterLastClip": 1.8,
+  "keywords": []
+}
