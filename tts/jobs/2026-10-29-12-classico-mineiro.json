@@ -1,0 +1,37 @@
+{
+  "status": "pendente",
+  "voice": "c9d3da0bdf61417d929dc67966e4befe",
+  "speed": 1.18,
+  "model": "s2.1-pro-free",
+  "language": "pt",
+  "clips": [
+    {
+      "id": "c1",
+      "text": "Sexto clássico do ano, e o último de dois mil e vinte e seis. Hoje à noite, Atlético e Cruzeiro se enfrentam de novo."
+    },
+    {
+      "id": "c2",
+      "text": "Em cinco jogos neste ano, o Atlético venceu três, o Cruzeiro venceu um, e teve um empate."
+    },
+    {
+      "id": "c3",
+      "text": "Mas a vitória do Cruzeiro foi a que valeu taça: um a zero na final do Mineiro."
+    },
+    {
+      "id": "c4",
+      "text": "E aquela final acabou em briga, com vinte e três expulsos. Recorde no futebol brasileiro."
+    },
+    {
+      "id": "c5",
+      "text": "Na tabela, o Cruzeiro é terceiro, com cinquenta e quatro pontos. O Atlético é sexto, com cinquenta."
+    },
+    {
+      "id": "c6",
+      "text": "Uma rivalidade que começou em mil novecentos e vinte e um. A bola rola às sete e meia da noite."
+    },
+    {
+      "id": "c7",
+      "text": "E aí, quem leva o último clássico do ano? Comenta seu placar. E segue, que amanhã tem outro assunto do dia explicado."
+    }
+  ]
+}
