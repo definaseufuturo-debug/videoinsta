@@ -4,6 +4,7 @@
 
 ## Horários (Brasília), todos os dias
 - **07:00: DEVOCIONAL "Palavra da Manhã".** Um versículo + contexto + aplicação, de 30 a 40 s. **Desde 29/10/2026: estilo TEXTO CINÉTICO** do exemplo `devocional-cinetico` (cor chapada por cena, palavras gigantes entrando no instante em que são faladas, destaques sublinhados, referência no rodapé, CTA "comenta amém" + botão seguir). O antigo `biblia-devocional` (pergaminho) não é mais usado no devocional.
+- **12:00: REFLEXÃO EM BONEQUINHOS (palito).** Animação sem narração, 30 s, trilha sintetizada própria. Estilo dos exemplos `palito-venda` ("Tire a venda", o melhor até agora) e `palito-depois`.
 - **19:00: MAPA "A Bíblia no mapa".** Série de histórias bíblicas em mapa de pergaminho (exemplos `biblia-exodo` e `biblia-paulo`).
 - Os dois são postados pela API oficial da Meta (`pipeline/ig_post.sh`), uns 8 min antes do horário.
 
@@ -52,6 +53,33 @@ No estilo cinético, o que varia é a **paleta** (uma cor por cena, no bloco CON
 - [ ] Ira: não se ponha o sol sobre a vossa ira (Ef 4:26)
 - [ ] Humildade: pratique a justiça, ame a misericórdia (Mq 6:8)
 - [ ] Novo dia: este é o dia que o Senhor fez (Sl 118:24)
+
+## Reflexão em bonequinhos (12:00): formato
+O que fez o "Tire a venda" render 3× mais que os outros: **metáfora visual que se entende sem som no 1º segundo**, **ação contínua** (gente caindo, andando, empurrando: nunca uma cena parada) e **tema universal**.
+1. 0–2 s: a cena-metáfora já em movimento + gancho no alto em 2 a 3 linhas (espaçado, branco/vermelho).
+2. 2–10 s: a multidão repete o erro (vários bonequinhos, profundidade com 2 fileiras).
+3. ~10 s: UM bonequinho percebe (luz sobre ele, "!" vermelho).
+4. 11–15 s: HEADLINE em tela escura, 4 pancadas, linha por linha, a última em vermelho.
+5. 15–24 s: a virada: ele age e muda os outros (dominó).
+6. 24–30 s: frase final gigante (branco + vermelho) + subfrase + "MARCA QUEM PRECISA VER ISSO".
+Visual fixo: fundo preto, bonequinhos brancos com brilho, UM elemento vermelho simbólico (venda, corrente, pedra, máscara, bola), sem rosto, sem emoji, sem texto além dos títulos. Trilha: copie `audio.py` do exemplo e ajuste os eventos (tensão → pancadas → virada esperançosa); -14 LUFS. Legenda: pergunta direta + 1 versículo que conversa com a metáfora + "Marca quem precisa ver isso 👇".
+
+## Fila dos bonequinhos (12:00, pegue o próximo [ ])
+- [x] Tire a venda: todos vendados caem no buraco; um tira a venda e segura a fila (Mt 15:14)
+- [x] Depois: o pai no celular, o filho cresce (Sl 127:3)
+- [x] A porta estreita (Mt 7:13-14)
+- [ ] As máscaras: todos sorrindo de máscara; ao tirar, estão chorando. "TODO MUNDO ESTÁ BEM. ATÉ TIRAR A MÁSCARA." (Gl 6:2)
+- [ ] A corrente: todos acorrentados ao celular-cadeado; um quebra a dele (Jo 8:36)
+- [ ] O peso: cada um carrega uma pedra (passado, culpa, opinião dos outros); um solta e fica leve (Mt 11:28)
+- [ ] A escada: todos pisam uns nos outros para subir; um desce e estende a mão (Fp 2:3-4)
+- [ ] A ponte: dois grupos separados por um abismo; um começa a construir sozinho (Mt 5:9)
+- [ ] O espelho: cada um só enxerga o próprio reflexo/celular; um olha para o lado e vê alguém caído (Lc 10:33)
+- [ ] A semente: todos desistem de regar; um continua, e a árvore cresce para todos (Gl 6:9)
+- [ ] A areia e a rocha: casas na areia caindo na tempestade; uma na rocha fica (Mt 7:24-27)
+- [ ] A ovelha perdida: a fila de 99 segue; um volta para buscar o que ficou para trás (Lc 15:4)
+- [ ] O filho pródigo: ele volta de cabeça baixa e o pai corre até ele (Lc 15:20)
+- [ ] A fila do "eu": todos com setas apontando para si; um vira a seta para o outro (Fp 2:4)
+- [ ] O barulho: todos com fones e telas gritando; um tira o fone e ouve o silêncio (Sl 46:10)
 
 ## Fila do mapa (19:00, pegue o próximo [ ])
 - [x] O Êxodo: do Egito ao Mar Vermelho (Êx 12–14) — postado 27/10
