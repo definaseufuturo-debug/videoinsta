@@ -6,240 +6,303 @@
 		<link>https://trends.google.com/trending/rss?geo=BR</link>
 		<atom:link href="https://trends.google.com/trending/rss?geo=BR" rel="self" type="application/rss+xml"/>
 		<item>
-			<title>cetam</title>
-			<ht:approx_traffic>100+</ht:approx_traffic>
-			<description/>
-			<link>https://trends.google.com/trending/rss?geo=BR</link>
-			<pubDate>Thu, 29 Oct 2026 04:30:00 -0700</pubDate>
-			<ht:picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTJ9UD8QPn8bQn1GRuij1vpSUndoRJ7hR8TbgAKmd_enZMqpHNa073e98lH55k</ht:picture>
-			<ht:picture_source>A Crítica</ht:picture_source>
-			<ht:news_item>
-				<ht:news_item_title>Cetam lança edital de cursos on-line com 50.150 vagas gratuitas nesta quinta-feira</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.acritica.com/geral/cetam-lanca-edital-de-cursos-on-line-com-50-150-vagas-gratuitas-nesta-quinta-feira/</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTJ9UD8QPn8bQn1GRuij1vpSUndoRJ7hR8TbgAKmd_enZMqpHNa073e98lH55k</ht:news_item_picture>
-				<ht:news_item_source>A Crítica</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>Cetam anuncia mais de 50 mil vagas gratuitas em cursos on-line; inscrições abrem em novembro</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://ampost.com.br/amazonas/cetam-anuncia-mais-de-50-mil-vagas-gratuitas-em-cursos-on-line-inscricoes-abrem-em-novembro/</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQfSx8Hcoq2odwwl3l86bDn6c91QJ8mBJh8rCff0whZbsy2ltfMqcWXhySOkj8</ht:news_item_picture>
-				<ht:news_item_source>AM POST</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>Cetam abre 50 mil vagas gratuitas em cursos EaD no Amazonas; confira as opções e como se inscrever</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.portaldoholanda.com.br/amazonas/cetam-abre-50-mil-vagas-gratuitas-em-cursos-ead-no-amazonas-confira-as-opcoes-e-como-se-inscrever</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ0r6JbTpntOsQPR9B1ep_F0o7kk959VF0ZFmdtHcgpK--jx1YQVoq16M302rU</ht:news_item_picture>
-				<ht:news_item_source>Portal do Holanda</ht:news_item_source>
-			</ht:news_item>
-		</item>
-		<item>
-			<title>geração</title>
+			<title>tribunal de justiça do estado do rio de janeiro</title>
 			<ht:approx_traffic>200+</ht:approx_traffic>
 			<description/>
 			<link>https://trends.google.com/trending/rss?geo=BR</link>
-			<pubDate>Thu, 29 Oct 2026 04:20:00 -0700</pubDate>
-			<ht:picture/>
-			<ht:picture_source/>
-		</item>
-		<item>
-			<title>vacina meningite</title>
-			<ht:approx_traffic>100+</ht:approx_traffic>
-			<description/>
-			<link>https://trends.google.com/trending/rss?geo=BR</link>
-			<pubDate>Thu, 29 Oct 2026 04:20:00 -0700</pubDate>
-			<ht:picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwEMhHPQsV_SLJb64zWJxZersWJRRRbwq-t2WQzOkKWSg6VCIViiPklJZAvsY</ht:picture>
+			<pubDate>Sat, 31 Oct 2026 04:20:00 -0700</pubDate>
+			<ht:picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSzyY51rJOqUcT5BSxncHmBRfjaV3uh09jrPLbiAv3K3pl99ZDrKWRkgfa4HYA</ht:picture>
 			<ht:picture_source>G1</ht:picture_source>
 			<ht:news_item>
-				<ht:news_item_title>Vacinação contra meningite tem doses extras disponíveis em Uberaba</ht:news_item_title>
+				<ht:news_item_title>Justiça penhora mansão de Renato Aragão por dívida de R$ 676 mil de IPTU</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://g1.globo.com/mg/triangulo-mineiro/mg1-uberaba/video/vacinacao-contra-meningite-tem-doses-extras-disponiveis-em-uberaba-15138621.ghtml</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwEMhHPQsV_SLJb64zWJxZersWJRRRbwq-t2WQzOkKWSg6VCIViiPklJZAvsY</ht:news_item_picture>
+				<ht:news_item_url>https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/10/30/justica-penhora-mansao.ghtml</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSzyY51rJOqUcT5BSxncHmBRfjaV3uh09jrPLbiAv3K3pl99ZDrKWRkgfa4HYA</ht:news_item_picture>
 				<ht:news_item_source>G1</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>Prefeitura amplia oferta da vacina meningocócica ACWY até quinta-feira, 29</ht:news_item_title>
+				<ht:news_item_title>Juíza determina penhora de mansão de Renato Aragão por dívida de IPTU</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.pmvc.ba.gov.br/prefeitura-amplia-oferta-da-vacina-meningococica-acwy-ate-quinta-feira-29/</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTMVOf4s84fYi40x3E41_nr8pMRY-Nhq9NWPrjZ8E3sJgdNilmM_aU2MtEiNDE</ht:news_item_picture>
-				<ht:news_item_source>Prefeitura Municipal de Vitória da Conquista - PMVC</ht:news_item_source>
+				<ht:news_item_url>https://www.migalhas.com.br/quentes/467627/juiza-determina-penhora-de-imovel-de-renato-aragao-por-divida-de-iptu</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQCe5SLHcQs0sGwL0c4nMawPJ9CTf4rU9HdLGyopMeIXxCRL50Blo6lpAtdNHU</ht:news_item_picture>
+				<ht:news_item_source>Migalhas</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>Saúde disponibiliza painel para monitorar vacinação contra meningite</ht:news_item_title>
+				<ht:news_item_title>As comodidades da mansão de Renato Aragão, que foi penhorada pela Justiça</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://agenciabrasil.ebc.com.br/radioagencia-nacional/saude/audio/2026-10/saude-disponibiliza-painel-para-monitorar-vacinacao-contra-meningite</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRD8REC2g2XkN-1GS_PYp5x0RPPCklOdeWEcT1wq2bue5Y71YZHZdTwtlVO_GI</ht:news_item_picture>
-				<ht:news_item_source>Agência Brasil</ht:news_item_source>
+				<ht:news_item_url>https://veja.abril.com.br/cultura/as-comodidades-da-mansao-de-renato-aragao-que-foi-penhorada-pela-justica/</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSw9xcd5X3LlqVVGVh59dkRJ-JvJd--JObe0Hfl8-xXJk3in4gIXpr3zHuOJ0k</ht:news_item_picture>
+				<ht:news_item_source>VEJA</ht:news_item_source>
 			</ht:news_item>
 		</item>
 		<item>
-			<title>vingadores doutor destino</title>
+			<title>dupla sena 3027</title>
 			<ht:approx_traffic>200+</ht:approx_traffic>
 			<description/>
 			<link>https://trends.google.com/trending/rss?geo=BR</link>
-			<pubDate>Thu, 29 Oct 2026 04:10:00 -0700</pubDate>
-			<ht:picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR4TYiJALAesEoOHZyuTxRSaFuoWiAEbE-gY71p9psciLVTVakaYaVqT43nQ_o</ht:picture>
-			<ht:picture_source>Omelete</ht:picture_source>
-			<ht:news_item>
-				<ht:news_item_title>Vingadores: Doutor Destino | Novo pôster destaca Doutor Destino e os Sentinelas; veja</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.omelete.com.br/filmes/vingadores-doutor-destino-novo-poster-destaca-doutor-destino-sentinelas</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR4TYiJALAesEoOHZyuTxRSaFuoWiAEbE-gY71p9psciLVTVakaYaVqT43nQ_o</ht:news_item_picture>
-				<ht:news_item_source>Omelete</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>Avengers: Doomsday ganha segundo trailer oficial</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://updateordie.com/2026/10/26/avengers-doomsday-ganha-segundo-trailer-oficial/</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTpqe-nG1HSd8IgS9C0M73OpRt_tLqbYlA_l0qwO7X1ui4S0nzXjaMVXIXLnoU</ht:news_item_picture>
-				<ht:news_item_source>Update or Die!</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>De volta às teorias da Marvel: Após novo teaser de Vingadores: Doutor Destino, fãs acreditam personagem foi cortado digitalmente</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.adorocinema.com/noticias/filmes/noticia-1000229438/</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReBx-8wwYkL3xwTBWDJA00d-FF-X0rIcrts9AZp1iD1avk_Dc_lK4JstftdVU</ht:news_item_picture>
-				<ht:news_item_source>AdoroCinema</ht:news_item_source>
-			</ht:news_item>
-		</item>
-		<item>
-			<title>mercado de trabalho</title>
-			<ht:approx_traffic>100+</ht:approx_traffic>
-			<description/>
-			<link>https://trends.google.com/trending/rss?geo=BR</link>
-			<pubDate>Thu, 29 Oct 2026 04:10:00 -0700</pubDate>
-			<ht:picture/>
-			<ht:picture_source/>
-		</item>
-		<item>
-			<title>associação brasileira de bares e restaurantes</title>
-			<ht:approx_traffic>200+</ht:approx_traffic>
-			<description/>
-			<link>https://trends.google.com/trending/rss?geo=BR</link>
-			<pubDate>Thu, 29 Oct 2026 04:00:00 -0700</pubDate>
-			<ht:picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX2gUi9Yyamy8Lfk4Tq_c4jcnhFMxlYBIoxBbiVrYYxQYuHvddpwnN0WAqau4</ht:picture>
+			<pubDate>Sat, 31 Oct 2026 04:20:00 -0700</pubDate>
+			<ht:picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRtvBX85AapWNJBTG-5yKw1flkUoFsVhiRdhzWIySwSoyGWP_3O8l3EuThKjs</ht:picture>
 			<ht:picture_source>UOL Notícias</ht:picture_source>
 			<ht:news_item>
-				<ht:news_item_title>Listas de boicote de bolsonaristas têm de Itaú e Ipiranga a comércio local</ht:news_item_title>
+				<ht:news_item_title>Dupla Sena: Prêmio acumula e sobe para R$ 11 milhões; confira dezenas</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://noticias.uol.com.br/politica/ultimas-noticias/2026/10/28/empresas-alvo-lista-boicote-bolsonaristas.ghtm</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX2gUi9Yyamy8Lfk4Tq_c4jcnhFMxlYBIoxBbiVrYYxQYuHvddpwnN0WAqau4</ht:news_item_picture>
+				<ht:news_item_url>https://noticias.uol.com.br/ultimas-noticias/redacao/2026/10/30/dupla-sena-concurso-3027-sorteio-30-de-outubro.htm</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRtvBX85AapWNJBTG-5yKw1flkUoFsVhiRdhzWIySwSoyGWP_3O8l3EuThKjs</ht:news_item_picture>
 				<ht:news_item_source>UOL Notícias</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>Empresários de cidade mineira reagem a lista que pede boicote a eleitores de Lula</ht:news_item_title>
+				<ht:news_item_title>Resultado da Dupla Sena 30/10/26: Números sorteados e ganhadores</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://iclnoticias.com.br/empresarios-reagem-a-boicote-eleitores-de-lula/</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTIK7V0jRyUvDSnyxAarDoPzcCYfgiIykt3KUPDwXYSdY1WwSZFg8ZfGdaUwps</ht:news_item_picture>
-				<ht:news_item_source>ICL Notícias</ht:news_item_source>
+				<ht:news_item_url>https://www.jornalcruzeiro.com.br/tendencias/resultado-da-dupla-sena-30-10-26-numeros-sorteados-e-ganhadores/</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRFKK6__wRp1jq8wiM203CYWu8ybY1WuNu2a6jLZ7hiFODoCSrPk4bDT5_z-y8</ht:news_item_picture>
+				<ht:news_item_source>www.jornalcruzeiro.com.br</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>Militantes de direita sugerem boicote até de igrejas no ES após eleição de Lula</ht:news_item_title>
+				<ht:news_item_title>Resultado da Dupla Sena de hoje: veja números e rateio do concurso 3027 (sexta, 30/10)</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://g1.globo.com/es/espirito-santo/noticia/2026/10/28/militantes-de-direita-sugerem-boicote-ate-de-igrejas-no-es-apos-eleicao-de-lula.ghtml</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRESFNWw3ghYotaAQuBx4zQizpOEkhXdgwG7Hhc3JN3IoVQTogZWhUn5vORAcM</ht:news_item_picture>
+				<ht:news_item_url>https://www.brasil247.com/tendencias/2026/10/30/resultado-da-dupla-sena-de-hoje-veja-numeros-e-rateio-do-concurso-3027-sexta-30-10/</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQjHZZHk8DhVZLoVXNlwwxJiTIZVj2d0VWvb2MQEHt5LEt0wWMZ-O_gVR0pIGs</ht:news_item_picture>
+				<ht:news_item_source>Brasil 247</ht:news_item_source>
+			</ht:news_item>
+		</item>
+		<item>
+			<title>blumenau</title>
+			<ht:approx_traffic>200+</ht:approx_traffic>
+			<description/>
+			<link>https://trends.google.com/trending/rss?geo=BR</link>
+			<pubDate>Sat, 31 Oct 2026 04:10:00 -0700</pubDate>
+			<ht:picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR6wfuuQAiRS1QdczZcYznTbqCI2L57YrafiE4mHvF9-4ZG9qaqsdBMlICPZJI</ht:picture>
+			<ht:picture_source>G1</ht:picture_source>
+			<ht:news_item>
+				<ht:news_item_title>Acidente na BR-470 deixa uma pessoa ferida em Blumenau</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://g1.globo.com/sc/santa-catarina/videos-jornal-do-almoco-sc-blumenau/video/acidente-na-br-470-deixa-uma-pessoa-ferida-em-blumenau-15146636.ghtml</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR6wfuuQAiRS1QdczZcYznTbqCI2L57YrafiE4mHvF9-4ZG9qaqsdBMlICPZJI</ht:news_item_picture>
 				<ht:news_item_source>G1</ht:news_item_source>
 			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>Acidente entre carro e caminhões deixa motorista gravemente ferido e bloqueia BR-470 em Blumenau</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.nsctotal.com.br/transito/acidente-entre-carro-e-caminhao-deixa-motorista-gravemente-ferido-e-bloqueia-br-470-em-blumenau</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRre-j5bMWo9bwUkg4XW80Ncv7oPs-pEYf69lzU5sdH4O4fG9jxhaeBZBP_Cps</ht:news_item_picture>
+				<ht:news_item_source>NSC Total</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>Motorista em estado grave recebe transfusão de sangue em após acidente gravíssimo na BR-470 em Blumenau</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://ndmais.com.br/transito/motorista-em-estado-grave-recebe-transfusao-de-sangue-em-apos-acidente-gravissimo-na-br-470-em-blumenau/</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTRKBpLgH2-icRvXQFNO3Qh-uiywAVzzFD21fgEINnfPnUgYXUjhU9bhO_wwyM</ht:news_item_picture>
+				<ht:news_item_source>ND Mais</ht:news_item_source>
+			</ht:news_item>
 		</item>
 		<item>
-			<title>concurso público</title>
-			<ht:approx_traffic>500+</ht:approx_traffic>
+			<title>selma blair</title>
+			<ht:approx_traffic>200+</ht:approx_traffic>
 			<description/>
 			<link>https://trends.google.com/trending/rss?geo=BR</link>
-			<pubDate>Thu, 29 Oct 2026 03:50:00 -0700</pubDate>
-			<ht:picture/>
-			<ht:picture_source/>
-		</item>
-		<item>
-			<title>jafar panahi</title>
-			<ht:approx_traffic>100+</ht:approx_traffic>
-			<description/>
-			<link>https://trends.google.com/trending/rss?geo=BR</link>
-			<pubDate>Thu, 29 Oct 2026 03:50:00 -0700</pubDate>
-			<ht:picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQDuEecixQOksuwgvNXwmbgRcaziHmhLVvU_idbudR0cpmE9unVp1f7MWGYJWk</ht:picture>
+			<pubDate>Sat, 31 Oct 2026 04:00:00 -0700</pubDate>
+			<ht:picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRNSP0jkLPPzczm3gGhkKi9DJ_ufKaRjanQGwBtk4K-uApcZA_IbqMPAy_PsLI</ht:picture>
 			<ht:picture_source>The Guardian</ht:picture_source>
 			<ht:news_item>
-				<ht:news_item_title>Iranian film-maker Jafar Panahi given new prison sentence</ht:news_item_title>
+				<ht:news_item_title>Selma Blair says she is ‘so sorry’ to those she alarmed following alleged air incident</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.theguardian.com/film/2026/oct/28/iran-film-maker-jafar-panahi-new-prison-sentence-assets-seized</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQDuEecixQOksuwgvNXwmbgRcaziHmhLVvU_idbudR0cpmE9unVp1f7MWGYJWk</ht:news_item_picture>
+				<ht:news_item_url>https://www.theguardian.com/film/2026/oct/31/selma-blair-says-she-is-so-sorry-to-those-she-alarmed-following-alleged-air-incident</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRNSP0jkLPPzczm3gGhkKi9DJ_ufKaRjanQGwBtk4K-uApcZA_IbqMPAy_PsLI</ht:news_item_picture>
 				<ht:news_item_source>The Guardian</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>Film Director Jafar Panahi Sentenced to Prison, Asset Confiscation, and Additional Penalties</ht:news_item_title>
+				<ht:news_item_title>After Her Arrest: Selma Blair Apologizes in a Video</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.en-hrana.org/film-director-jafar-panahi-sentenced-to-prison-asset-confiscation-and-additional-penalties/</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZOlb9eRWi5sxDNV1OROcRYQb5DbwuE1y6urli5uMCTBh5jRcrX8NKdVP9cFM</ht:news_item_picture>
-				<ht:news_item_source>Hrana</ht:news_item_source>
+				<ht:news_item_url>https://www.bluewin.ch/en/people/after-her-arrest-selma-blair-apologizes-in-a-video-li.3655730</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUkUQLxKUV4DqJtYOVfB6uLn7fviyY2f__9TkQHiiTg9nZK9QUuqzHlTfUmQc</ht:news_item_picture>
+				<ht:news_item_source>blue News</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>Iran&apos;s Revolutionary Court sentences Panahi to 5 years in jail</ht:news_item_title>
+				<ht:news_item_title>Selma Blair break silence after mid-flight incident and arrest</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://middle-east-online.com/en/irans-revolutionary-court-sentences-panahi-5-years-jail</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE6lWWrgNGlaY6Oorcc59LImXV3NCORwckgasPXSA1DewKgwMzRrWPTpFBqzg</ht:news_item_picture>
-				<ht:news_item_source>Middle East Online</ht:news_item_source>
-			</ht:news_item>
-		</item>
-		<item>
-			<title>auxilio reclusão</title>
-			<ht:approx_traffic>200+</ht:approx_traffic>
-			<description/>
-			<link>https://trends.google.com/trending/rss?geo=BR</link>
-			<pubDate>Thu, 29 Oct 2026 03:40:00 -0700</pubDate>
-			<ht:picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRLxp8KPxxIHdFWJQMEk51nYLpFEW9p86DDWPRbQ05TXRINcl9kapEXfoYs2EE</ht:picture>
-			<ht:picture_source>ND Mais</ht:picture_source>
-			<ht:news_item>
-				<ht:news_item_title>Lula cortou o auxílio-reclusão? Entenda o que mudou e quem terá direito ao benefício em 2027</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://ndmais.com.br/politica/lula-cortou-auxilio-reclusao-2027-quem-tem-direito/</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRLxp8KPxxIHdFWJQMEk51nYLpFEW9p86DDWPRbQ05TXRINcl9kapEXfoYs2EE</ht:news_item_picture>
-				<ht:news_item_source>ND Mais</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>Fake news pós-eleições: Gazeta checa 11 boatos sobre fraude nas urnas, prisões e comemorações de presos</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://gazetadoparana.com.br/publico/fake-news-pos-eleicoes-gazeta-checa-11-boatos-sobre-fraude-nas-urnas-prisoes-e-comemoracoes-de</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRWQloBz8AT1uDSglvgDBJTu0HZN2_TTOPvzqSQRen7f091z2HDDS8y9UFrJR8</ht:news_item_picture>
-				<ht:news_item_source>Gazeta do Paraná</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>Lula acabou com o auxílio-reclusão? Veja o que mudou com a Lei Antifacção</ht:news_item_title>
-				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.opiniaoce.com.br/politica/2026/10/28/lula-acabou-com-o-auxilio-reclusao-veja-o-que-mudou-com-a-lei-antifaccao/</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRr1wb8IWacBYyPG8WlDdecPQbyYkLpSg4yXMOGfNqpSYlXOO4eQNRapuwux54</ht:news_item_picture>
-				<ht:news_item_source>OpiniãoCE</ht:news_item_source>
+				<ht:news_item_url>https://www.independent.co.uk/bulletin/culture/selma-blair-court-flight-new-york-b3076771.html</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTD1ehWVIon-XT7h2Lzl25HE2lsfA9Qleaewzrig7_zWk2BFn84poWJgBAXld0</ht:news_item_picture>
+				<ht:news_item_source>The Independent</ht:news_item_source>
 			</ht:news_item>
 		</item>
 		<item>
-			<title>29 de outubro</title>
+			<title>marieta severo</title>
+			<ht:approx_traffic>500+</ht:approx_traffic>
+			<description/>
+			<link>https://trends.google.com/trending/rss?geo=BR</link>
+			<pubDate>Sat, 31 Oct 2026 03:50:00 -0700</pubDate>
+			<ht:picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT5rtVj9nn66vmllm3WntjuWzrMHcTU35tzUQkGaRFhS4pWjGLctM-zAuYO5Uk</ht:picture>
+			<ht:picture_source>O GLOBO</ht:picture_source>
+			<ht:news_item>
+				<ht:news_item_title>Marieta Severo fala da perda do marido e lembra exílio quando era casada com Chico Buarque: &apos;emagreci seis quilos no oitavo mês de gravidez&apos;</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://oglobo.globo.com/play/noticia/2026/10/31/marieta-severo-fala-da-perda-do-marido-e-lembra-exilio-quando-era-casada-com-chico-buarque-emagreci-seis-quilos-no-oitavo-mes-de-gravidez.ghtml</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT5rtVj9nn66vmllm3WntjuWzrMHcTU35tzUQkGaRFhS4pWjGLctM-zAuYO5Uk</ht:news_item_picture>
+				<ht:news_item_source>O GLOBO</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>Canal Brasil celebra os 80 anos de Marieta Severo com maratona de dez filmes de sua carreira</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.ouniversodatv.com/2026/10/canal-brasil-celebra-os-80-anos-de.html</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRI4SYw0BXkUXo7H8Ou3WPfjMVocVXjOKiLCg1-8X2PGXMJFCnEm7BnVgz_OpU</ht:news_item_picture>
+				<ht:news_item_source>O Universo da TV</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>Marieta Severo completa 80 anos e presenteia o teatro com acervo de mais de mil programas de espetáculos</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://oglobo.globo.com/blogs/ancelmo-gois/post/2026/10/marieta-severo-completa-80-anos-e-presenteia-o-teatro-com-acervo-de-mais-de-mil-programas-de-espetaculos.ghtml</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRCv8Sac7vfYHL3TXwyFNhnAEIuqPEdczf06fYKRqEZuNkQrcRK-W8HzYx3teE</ht:news_item_picture>
+				<ht:news_item_source>O GLOBO</ht:news_item_source>
+			</ht:news_item>
+		</item>
+		<item>
+			<title>maju coutinho</title>
+			<ht:approx_traffic>100+</ht:approx_traffic>
+			<description/>
+			<link>https://trends.google.com/trending/rss?geo=BR</link>
+			<pubDate>Sat, 31 Oct 2026 03:50:00 -0700</pubDate>
+			<ht:picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRMEqDbM3Ut5HG-b19Et-QxPHrYSbqsq8KBq_UWE-zhfCmtcbdb8Xzhpo2WzVk</ht:picture>
+			<ht:picture_source>O GLOBO</ht:picture_source>
+			<ht:news_item>
+				<ht:news_item_title>Saiba quem substituirá Maju Coutinho no ‘Fantástico’ durante licença-maternidade: &apos;chegando a hora de me recolher para o meu show da vida particular&apos;</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://oglobo.globo.com/play/noticia/2026/10/31/saiba-quem-substituira-maju-coutinho-no-fantastico-durante-licenca-maternidade-chegando-a-hora-de-me-recolher-para-o-meu-show-da-vida-particular.ghtml</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRMEqDbM3Ut5HG-b19Et-QxPHrYSbqsq8KBq_UWE-zhfCmtcbdb8Xzhpo2WzVk</ht:news_item_picture>
+				<ht:news_item_source>O GLOBO</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>Globo define substituto de Maju Coutinho no Fantástico durante licença-maternidade</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://noticiasdatv.uol.com.br/noticia/televisao/globo-define-substituto-de-maju-coutinho-no-fantastico-durante-licenca-maternidade-158830</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRS5KlA2w5wtIB7a7Mf_Pq2iHgsoEN-M0wZssiMD2mK1JEYXdmMuO6mRXk6kMo</ht:news_item_picture>
+				<ht:news_item_source>Notícias da TV</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>&apos;Todo mundo apaixonado&apos;: Poliana Abritta diz que gravidez de Maju Coutinho virou sensação no &apos;Fantástico&apos;</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://revistamarieclaire.globo.com/maes-e-filhos/noticia/2026/10/todo-mundo-apaixonado-poliana-abritta-diz-que-gravidez-de-maju-coutinho-virou-sensacao-no-fantastico.ghtml</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQPLCE5kHmF0p6QBx3LvoonjBnyUSG7KfoA_wq6tFzkCxAgAurXXwjC0hwokl8</ht:news_item_picture>
+				<ht:news_item_source>Globo</ht:news_item_source>
+			</ht:news_item>
+		</item>
+		<item>
+			<title>porta-aviões</title>
 			<ht:approx_traffic>200+</ht:approx_traffic>
 			<description/>
 			<link>https://trends.google.com/trending/rss?geo=BR</link>
-			<pubDate>Thu, 29 Oct 2026 03:30:00 -0700</pubDate>
-			<ht:picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTkW_8MsAmKo9d5GDdT2SAITKAOaICJAabw-t4bftdfOG3dNB89VxADmwpSSqw</ht:picture>
-			<ht:picture_source>Metrópoles</ht:picture_source>
+			<pubDate>Sat, 31 Oct 2026 03:40:00 -0700</pubDate>
+			<ht:picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTbyG_78SiBCvHV-CefLMsqVCzlD60ipTk8oprrnDGV2aYCcMiAgeNawsHDxpQ</ht:picture>
+			<ht:picture_source>O GLOBO</ht:picture_source>
 			<ht:news_item>
-				<ht:news_item_title>Horóscopo 2026: confira a previsão de hoje (29/10) para seu signo</ht:news_item_title>
+				<ht:news_item_title>&apos;Preferem culpar a vítima&apos;: Marinheiro que saltou de porta-aviões americano após meses de exaustão é punido pela Marinha</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.metropoles.com/vida-e-estilo/horoscopo-2026-confira-a-previsao-de-hoje-29-10-para-seu-signo</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTkW_8MsAmKo9d5GDdT2SAITKAOaICJAabw-t4bftdfOG3dNB89VxADmwpSSqw</ht:news_item_picture>
-				<ht:news_item_source>Metrópoles</ht:news_item_source>
+				<ht:news_item_url>https://oglobo.globo.com/mundo/noticia/2026/10/31/preferem-culpar-a-vitima-marinheiro-que-saltou-de-porta-avioes-americano-apos-meses-de-exaustao-e-punido-pela-marinha.ghtml</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTbyG_78SiBCvHV-CefLMsqVCzlD60ipTk8oprrnDGV2aYCcMiAgeNawsHDxpQ</ht:news_item_picture>
+				<ht:news_item_source>O GLOBO</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>Horóscopo do dia: previsão para os 12 signos em 29/10/2026</ht:news_item_title>
+				<ht:news_item_title>Pela primeira vez, um caça Rafale pousa num porta-aviões com rampa, antecipando a operação naval na Índia</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.cartacapital.com.br/astrologia/horoscopo-do-dia-previsao-para-os-12-signos-em-29-10-2026/</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsfJ3Nf7wA-aKicXsDgGOarCvZ_Jmsj_ODlV4Iez5QLlo8cWnF9KTeLIyNLZo</ht:news_item_picture>
-				<ht:news_item_source>CartaCapital</ht:news_item_source>
+				<ht:news_item_url>https://aeroin.net/pela-primeira-vez-um-caca-rafale-pousa-num-porta-avioes-com-rampa-antecipando-a-operacao-naval-na-india/</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSmJr5MESsqbk_ujH07hLQf2K5FZr0EGJF0OxFmYNcm7wQmFkAtqPfXq_g8AWE</ht:news_item_picture>
+				<ht:news_item_source>AEROIN</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>Tarot do dia: previsão para os 12 signos em 29/10/2026</ht:news_item_title>
+				<ht:news_item_title>Rafale M Realiza o Primeiro Pouso a Bordo do INS ‘Vikrant’</ht:news_item_title>
 				<ht:news_item_snippet/>
-				<ht:news_item_url>https://www.terra.com.br/vida-e-estilo/horoscopo/astrologia/tarot-do-dia-previsao-para-os-12-signos-em-29102026,39b8da0a8f61d27992bdaf04834f4e295qqpi22h.html</ht:news_item_url>
-				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRS0MZdvU68XCIzrySw_mt1KvTgMTVQocUTttfLyF2Jfe1KG4pvSDZ8CnVd8so</ht:news_item_picture>
-				<ht:news_item_source>Terra</ht:news_item_source>
+				<ht:news_item_url>https://www.defesaaereanaval.com.br/aviacao/rafale-m-realiza-o-primeiro-pouso-a-bordo-do-ins-vikrant</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQMLtTMEYjsG2FK-cPWPuLwq0xHbhN2QqajL7-wUVRBj6Nw5YVuLLI6ybuJu3U</ht:news_item_picture>
+				<ht:news_item_source>Defesa Aérea &amp; Naval</ht:news_item_source>
+			</ht:news_item>
+		</item>
+		<item>
+			<title>força aérea</title>
+			<ht:approx_traffic>100+</ht:approx_traffic>
+			<description/>
+			<link>https://trends.google.com/trending/rss?geo=BR</link>
+			<pubDate>Sat, 31 Oct 2026 03:40:00 -0700</pubDate>
+			<ht:picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRM2irOhFNnx4Agm441xvxPDli7PqiTYQviZc5pYe70NR5YEceOzNI5_fcEsDo</ht:picture>
+			<ht:picture_source>Revista Forca Aérea</ht:picture_source>
+			<ht:news_item>
+				<ht:news_item_title>USAF planeja uma frota com mais de 1.500 caças até 2035</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://forcaaerea.com.br/usaf-planeja-uma-frota-com-mais-de-1-500-cacas-ate-2035/</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRM2irOhFNnx4Agm441xvxPDli7PqiTYQviZc5pYe70NR5YEceOzNI5_fcEsDo</ht:news_item_picture>
+				<ht:news_item_source>Revista Forca Aérea</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>EUA avaliam dotar seus bombardeiros B-21 Raider de capacidade ar-ar diante da falta de caças</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.zona-militar.com/pt/2026/10/27/eua-avaliam-dotar-seus-bombardeiros-b-21-raider-de-capacidade-ar-ar-diante-da-falta-de-cacas/</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT5f0ds0ivw5SxYV4-FtPzGq3UrnX2Cl8eUhWeYy1lehPZwH09MBClqrx1GQBc</ht:news_item_picture>
+				<ht:news_item_source>Zona Militar</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>USAF estuda empregar bombardeiros em combate aéreo diante de limitações na compra de caças</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.aereo.jor.br/2026/10/26/usaf-estuda-empregar-bombardeiros-em-combate-aereo-diante-de-limitacoes-na-compra-de-cacas/</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDSfsBxFE8IgcYWTfX9BFAEbm4K_i8LyKuZyj4iemfkVXL5QV3NGnXKuCptCU</ht:news_item_picture>
+				<ht:news_item_source>Poder Aéreo</ht:news_item_source>
+			</ht:news_item>
+		</item>
+		<item>
+			<title>los angeles lakers</title>
+			<ht:approx_traffic>2000+</ht:approx_traffic>
+			<description/>
+			<link>https://trends.google.com/trending/rss?geo=BR</link>
+			<pubDate>Sat, 31 Oct 2026 03:40:00 -0700</pubDate>
+			<ht:picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRE2XK6EtkKQp5kZpsOwoAOg2_lMJ4fIzxxaF-id78w13E8TdqH-Y_qniEFQzk</ht:picture>
+			<ht:picture_source>Silver Screen and Roll</ht:picture_source>
+			<ht:news_item>
+				<ht:news_item_title>Lakers blow huge early lead in ugly loss to Warriors</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.silverscreenandroll.com/lakers-scores-results/128177/lakers-vs-warriors-recap-box-score-stats-final-austin-reaves-luka-doncic</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRE2XK6EtkKQp5kZpsOwoAOg2_lMJ4fIzxxaF-id78w13E8TdqH-Y_qniEFQzk</ht:news_item_picture>
+				<ht:news_item_source>Silver Screen and Roll</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>2026-2027 NBA Cup group match: Golden State Warriors vs. Los Angeles Lakers</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://english.news.cn/20261031/6bb6ab1d56ae4dada1c9398923648936/c.html</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQFVJD-5B5DIw_6-E2b3fHOB6D-zzrtaCDj3KPsTJnH9yDYjA56YktNmPtaU5Q</ht:news_item_picture>
+				<ht:news_item_source>Xinhua</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>Lakers make final decision on Ziaire Williams for Friday&apos;s game</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://lakerswire.usatoday.com/story/sports/nba/lakers/2026/10/30/lakers-make-final-decision-on-ziaire-williams-for-fridays-game/92524282007/</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRQxm6EKIFFs3WLa0GJ3vZsVWgq1WGW54Y39Nwt0Oo4hH1a1mHrxUXmDehRmj0</ht:news_item_picture>
+				<ht:news_item_source>Lakers Wire</ht:news_item_source>
+			</ht:news_item>
+		</item>
+		<item>
+			<title>resumo novelas quem ama cuida</title>
+			<ht:approx_traffic>500+</ht:approx_traffic>
+			<description/>
+			<link>https://trends.google.com/trending/rss?geo=BR</link>
+			<pubDate>Sat, 31 Oct 2026 03:40:00 -0700</pubDate>
+			<ht:picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQcyR5j7rxThUHC2iFt_2-N8bG0Swjp-QyMzsganoQJCP3Smfzc7suBntyNA1s</ht:picture>
+			<ht:picture_source>Gshow</ht:picture_source>
+			<ht:news_item>
+				<ht:news_item_title>Quem Ama Cuida: Pilar surta e parte para cima de Zeni</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://gshow.globo.com/novelas/quem-ama-cuida/vem-por-ai/noticia/quem-ama-cuida-pilar-surta-e-parte-para-cima-de-zeni.ghtml</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQcyR5j7rxThUHC2iFt_2-N8bG0Swjp-QyMzsganoQJCP3Smfzc7suBntyNA1s</ht:news_item_picture>
+				<ht:news_item_source>Gshow</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>Resumo de &quot;Quem Ama Cuida&quot;: leia os capítulos de 2 a 7 de novembro</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://www.cnnbrasil.com.br/pop/tv/resumo-de-quem-ama-cuida-leia-os-capitulos-de-2-a-7-de-novembro/</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRFRVXI4lf7f4Ks-qbPXCdtJ-Kso0ssPetTj3IcP7vIAQe3RuzT-ZdLinxJ0Is</ht:news_item_picture>
+				<ht:news_item_source>CNN Brasil</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>Pilar cria a própria destruição ao ensinar Adriana a ser vilã em Quem Ama Cuida</ht:news_item_title>
+				<ht:news_item_snippet/>
+				<ht:news_item_url>https://noticiasdatv.uol.com.br/noticia/novelas/pilar-cria-a-propria-destruicao-ao-ensinar-adriana-a-ser-vila-em-quem-ama-cuida-158757</ht:news_item_url>
+				<ht:news_item_picture>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTUIZteZFQi88ZkQkSekEtPbVFV5oFqX1PzoyHzaIwX8NTjJIAJWH-gj8s6Vwc</ht:news_item_picture>
+				<ht:news_item_source>Notícias da TV</ht:news_item_source>
 			</ht:news_item>
 		</item>
 	</channel>
