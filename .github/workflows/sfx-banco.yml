@@ -1,0 +1,31 @@
+# Monta o banco de efeitos sonoros CC0 (Kenney + Openverse) da skill efeitos-sonoros e salva em sfx-skill/banco/.
+# Roda no GitHub porque o ambiente do Claude não alcança kenney.nl nem api.openverse.org.
+name: sfx-banco
+on:
+  workflow_dispatch:
+  push:
+    paths: ["sfx-skill/pedido.txt"]
+permissions:
+  contents: write
+jobs:
+  banco:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - run: pip install --quiet numpy imageio-ffmpeg
+      - name: Montar banco
+        working-directory: sfx-skill
+        run: |
+          python sons.py kenney || true
+          python sons.py banco || true
+          python sons.py listar | tee listar.txt
+      - name: Salvar
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add sfx-skill/
+          git diff --cached --quiet && exit 0
+          git commit -m "sfx-banco: banco de efeitos CC0"
+          for i in 1 2 3; do git pull --rebase origin main && git push origin HEAD:main && break; sleep 5; done
