@@ -16,11 +16,11 @@ jobs:
         with: { python-version: "3.12" }
       - run: pip install --quiet numpy imageio-ffmpeg
       - name: Montar banco
-        working-directory: sfx-skill
+        working-directory: sfx-skill/scripts
         run: |
           python sons.py kenney || true
           python sons.py banco || true
-          python sons.py listar | tee listar.txt
+          python sons.py listar | tee ../listar.txt
       - name: Salvar
         run: |
           git config user.name "github-actions[bot]"
