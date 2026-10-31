@@ -1,0 +1,33 @@
+{
+  "status": "pendente",
+  "voice": "a0a26a57cac94ea4918f05a2393b4259",
+  "speed": 1.18,
+  "model": "s2.1-pro-free",
+  "language": "pt",
+  "clips": [
+    {
+      "id": "c1",
+      "text": "Por que o Halloween cai justo hoje, trinta e um de outubro? A resposta tem mais de mil anos."
+    },
+    {
+      "id": "c2",
+      "text": "Tudo começa com os celtas. Nessa data, eles comemoravam o Sáuin, o ano novo celta: fim do verão e fim da colheita."
+    },
+    {
+      "id": "c3",
+      "text": "Eles acreditavam que, nessa noite, o véu entre os vivos e os mortos ficava fino. Então acendiam fogueiras e passavam cinza no rosto, pra se disfarçar."
+    },
+    {
+      "id": "c4",
+      "text": "No século oito, o papa Gregório Terceiro fixou o Dia de Todos os Santos em primeiro de novembro. A véspera, em inglês, virou Halloween."
+    },
+    {
+      "id": "c5",
+      "text": "E a abóbora? Na Irlanda, eles esculpiam nabos. Nos Estados Unidos, os imigrantes trocaram pela abóbora, mais fácil de esculpir."
+    },
+    {
+      "id": "c6",
+      "text": "No Brasil, hoje também é o Dia do Saci, pra valorizar o nosso folclore. Você é time Halloween ou time Saci? Comenta. E segue, que amanhã tem outro assunto do dia explicado."
+    }
+  ]
+}
