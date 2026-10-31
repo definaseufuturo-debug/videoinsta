@@ -52,4 +52,4 @@
 - 2026-10-31 14:53 | - | cristao | nada na fila (nenhum post)
 - 2026-10-31 13:00 | 2026-10-31-13-halloween | agendado | ok 18654851191021093 | yt O7TjMEGPvCM
 - 2026-10-31 21:52 | - | cristao | nada na fila
-- 2026-10-31 22:52 | 2026-10-31-20-amanha-eu-comeco | agendado | ok 18075247634736941 | yt pendente
+- 2026-10-31 22:52 | 2026-10-31-20-amanha-eu-comeco | agendado | ok 18075247634736941 | yt wO2X7EvlW5E
