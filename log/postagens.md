@@ -50,3 +50,4 @@
 - 2026-10-29 20:57 | cristao-2026-10-29-40-anos | cristao (movido das 19h para as 21h, pedido do Jonas) | ok 18131086897698251
 - 2026-10-31 08:53 | 2026-10-31-13-halloween | produção EM ALTA (Tarefa C) | fila 13:00 ok (Halloween/Dia das Bruxas, data do dia: Trends BR de hoje fraco e sem assunto explicável seguro (Lakers, novela, famosos, Dupla Sena, penhora de famoso); Halloween é o assunto do dia com formato 'como funciona' (Samhain, Todos os Santos, nabo -> abóbora, Dia do Saci); alternativa descartada: Mega-Sena de R$ 324,8 mi (já de 28/10); voz Fish 4, 38 s, 16 MB)
 - 2026-10-31 14:53 | - | cristao | nada na fila (nenhum post)
+- 2026-10-31 13:00 | 2026-10-31-13-halloween | agendado | ok 18654851191021093 | yt O7TjMEGPvCM
