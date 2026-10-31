@@ -1,0 +1,556 @@
+{
+  "batida": {
+    "busca": null,
+    "max": 0.8,
+    "volume": 0.45,
+    "variacoes": [
+      {
+        "arquivo": "batida-1.wav",
+        "pico": 0.005,
+        "duracao": 0.115,
+        "titulo": "impactSoft_medium_000",
+        "autor": "Kenney impact-sounds",
+        "pagina": "https://kenney.nl/assets/impact-sounds",
+        "licenca": "CC0",
+        "id": "Kenney impact-sounds:impactSoft_medium_000.ogg"
+      },
+      {
+        "arquivo": "batida-2.wav",
+        "pico": 0.005,
+        "duracao": 0.18,
+        "titulo": "impactSoft_medium_001",
+        "autor": "Kenney impact-sounds",
+        "pagina": "https://kenney.nl/assets/impact-sounds",
+        "licenca": "CC0",
+        "id": "Kenney impact-sounds:impactSoft_medium_001.ogg"
+      },
+      {
+        "arquivo": "batida-3.wav",
+        "pico": 0.005,
+        "duracao": 0.132,
+        "titulo": "impactSoft_medium_002",
+        "autor": "Kenney impact-sounds",
+        "pagina": "https://kenney.nl/assets/impact-sounds",
+        "licenca": "CC0",
+        "id": "Kenney impact-sounds:impactSoft_medium_002.ogg"
+      },
+      {
+        "arquivo": "batida-4.wav",
+        "pico": 0.005,
+        "duracao": 0.137,
+        "titulo": "impactSoft_medium_003",
+        "autor": "Kenney impact-sounds",
+        "pagina": "https://kenney.nl/assets/impact-sounds",
+        "licenca": "CC0",
+        "id": "Kenney impact-sounds:impactSoft_medium_003.ogg"
+      }
+    ],
+    "descartados": []
+  },
+  "click": {
+    "busca": null,
+    "max": 0.4,
+    "volume": 0.55,
+    "variacoes": [
+      {
+        "arquivo": "click-1.wav",
+        "pico": 0.005,
+        "duracao": 0.065,
+        "titulo": "click_001",
+        "autor": "Kenney interface-sounds",
+        "pagina": "https://kenney.nl/assets/interface-sounds",
+        "licenca": "CC0",
+        "id": "Kenney interface-sounds:click_001.ogg"
+      },
+      {
+        "arquivo": "click-2.wav",
+        "pico": 0.005,
+        "duracao": 0.012,
+        "titulo": "click_002",
+        "autor": "Kenney interface-sounds",
+        "pagina": "https://kenney.nl/assets/interface-sounds",
+        "licenca": "CC0",
+        "id": "Kenney interface-sounds:click_002.ogg"
+      },
+      {
+        "arquivo": "click-3.wav",
+        "pico": 0.005,
+        "duracao": 0.022,
+        "titulo": "click_004",
+        "autor": "Kenney interface-sounds",
+        "pagina": "https://kenney.nl/assets/interface-sounds",
+        "licenca": "CC0",
+        "id": "Kenney interface-sounds:click_004.ogg"
+      }
+    ],
+    "descartados": []
+  },
+  "ding": {
+    "busca": null,
+    "max": 1.5,
+    "volume": 0.4,
+    "variacoes": [
+      {
+        "arquivo": "ding-1.wav",
+        "pico": 0.005,
+        "duracao": 0.238,
+        "titulo": "glass_001",
+        "autor": "Kenney interface-sounds",
+        "pagina": "https://kenney.nl/assets/interface-sounds",
+        "licenca": "CC0",
+        "id": "Kenney interface-sounds:glass_001.ogg"
+      },
+      {
+        "arquivo": "ding-2.wav",
+        "pico": 0.005,
+        "duracao": 0.122,
+        "titulo": "glass_002",
+        "autor": "Kenney interface-sounds",
+        "pagina": "https://kenney.nl/assets/interface-sounds",
+        "licenca": "CC0",
+        "id": "Kenney interface-sounds:glass_002.ogg"
+      },
+      {
+        "arquivo": "ding-3.wav",
+        "pico": 0.035,
+        "duracao": 0.108,
+        "titulo": "glass_003",
+        "autor": "Kenney interface-sounds",
+        "pagina": "https://kenney.nl/assets/interface-sounds",
+        "licenca": "CC0",
+        "id": "Kenney interface-sounds:glass_003.ogg"
+      },
+      {
+        "arquivo": "ding-4.wav",
+        "pico": 0.005,
+        "duracao": 0.568,
+        "titulo": "glass_004",
+        "autor": "Kenney interface-sounds",
+        "pagina": "https://kenney.nl/assets/interface-sounds",
+        "licenca": "CC0",
+        "id": "Kenney interface-sounds:glass_004.ogg"
+      }
+    ],
+    "descartados": []
+  },
+  "dinheiro": {
+    "busca": "cash register",
+    "max": 1.8,
+    "volume": 0.45,
+    "variacoes": [
+      {
+        "arquivo": "dinheiro-1.wav",
+        "pico": 0.265,
+        "duracao": 0.608,
+        "titulo": "Cash register",
+        "autor": "MaoDin204",
+        "pagina": "https://freesound.org/people/MaoDin204/sounds/721774",
+        "licenca": "CC0",
+        "id": "deafdf72-1f73-4d0a-a849-356212e09e83"
+      },
+      {
+        "arquivo": "dinheiro-2.wav",
+        "pico": 0.325,
+        "duracao": 1.317,
+        "titulo": "cash register chching",
+        "autor": "disman",
+        "pagina": "https://freesound.org/people/disman/sounds/728224",
+        "licenca": "CC0",
+        "id": "4999927c-74ba-46db-96ba-5b023c5f50a1"
+      },
+      {
+        "arquivo": "dinheiro-3.wav",
+        "pico": 0.405,
+        "duracao": 1.8,
+        "titulo": "Cash Register Print'n'Rip A1",
+        "autor": "unfa",
+        "pagina": "https://freesound.org/people/unfa/sounds/163592",
+        "licenca": "CC0",
+        "id": "4d97643c-bc1f-406b-8a83-bb7680177578"
+      }
+    ],
+    "descartados": []
+  },
+  "erro": {
+    "busca": null,
+    "max": 1.0,
+    "volume": 0.35,
+    "variacoes": [
+      {
+        "arquivo": "erro-1.wav",
+        "pico": 0.005,
+        "duracao": 0.162,
+        "titulo": "error_001",
+        "autor": "Kenney interface-sounds",
+        "pagina": "https://kenney.nl/assets/interface-sounds",
+        "licenca": "CC0",
+        "id": "Kenney interface-sounds:error_001.ogg"
+      },
+      {
+        "arquivo": "erro-2.wav",
+        "pico": 0.005,
+        "duracao": 0.165,
+        "titulo": "error_002",
+        "autor": "Kenney interface-sounds",
+        "pagina": "https://kenney.nl/assets/interface-sounds",
+        "licenca": "CC0",
+        "id": "Kenney interface-sounds:error_002.ogg"
+      },
+      {
+        "arquivo": "erro-3.wav",
+        "pico": 0.055,
+        "duracao": 0.353,
+        "titulo": "error_003",
+        "autor": "Kenney interface-sounds",
+        "pagina": "https://kenney.nl/assets/interface-sounds",
+        "licenca": "CC0",
+        "id": "Kenney interface-sounds:error_003.ogg"
+      },
+      {
+        "arquivo": "erro-4.wav",
+        "pico": 0.005,
+        "duracao": 0.104,
+        "titulo": "error_004",
+        "autor": "Kenney interface-sounds",
+        "pagina": "https://kenney.nl/assets/interface-sounds",
+        "licenca": "CC0",
+        "id": "Kenney interface-sounds:error_004.ogg"
+      }
+    ],
+    "descartados": []
+  },
+  "impacto": {
+    "busca": "impact",
+    "max": 2.0,
+    "volume": 0.5,
+    "variacoes": [
+      {
+        "arquivo": "impacto-1.wav",
+        "pico": 0.475,
+        "duracao": 2.0,
+        "titulo": "Impact",
+        "autor": "chriskalos",
+        "pagina": "https://freesound.org/people/chriskalos/sounds/172779",
+        "licenca": "CC0",
+        "id": "210a2965-2408-40d4-a1fc-97caed05f251"
+      },
+      {
+        "arquivo": "impacto-2.wav",
+        "pico": 0.295,
+        "duracao": 1.925,
+        "titulo": "BOOM IMPACT 2",
+        "autor": "XHALE303",
+        "pagina": "https://freesound.org/people/XHALE303/sounds/535592",
+        "licenca": "CC0",
+        "id": "4c99d7d3-4987-46f3-9637-bfd9b4cc66b9"
+      },
+      {
+        "arquivo": "impacto-3.wav",
+        "pico": 0.005,
+        "duracao": 1.366,
+        "titulo": "Metal Impact",
+        "autor": "Rickplayer",
+        "pagina": "https://freesound.org/people/Rickplayer/sounds/530486",
+        "licenca": "CC0",
+        "id": "39918cd2-10ee-45a1-affd-eac4b2ec571f"
+      }
+    ],
+    "descartados": []
+  },
+  "pop": {
+    "busca": null,
+    "max": 0.6,
+    "volume": 0.5,
+    "variacoes": [
+      {
+        "arquivo": "pop-1.wav",
+        "pico": 0.005,
+        "duracao": 0.103,
+        "titulo": "drop_001",
+        "autor": "Kenney interface-sounds",
+        "pagina": "https://kenney.nl/assets/interface-sounds",
+        "licenca": "CC0",
+        "id": "Kenney interface-sounds:drop_001.ogg"
+      },
+      {
+        "arquivo": "pop-2.wav",
+        "pico": 0.005,
+        "duracao": 0.13,
+        "titulo": "drop_002",
+        "autor": "Kenney interface-sounds",
+        "pagina": "https://kenney.nl/assets/interface-sounds",
+        "licenca": "CC0",
+        "id": "Kenney interface-sounds:drop_002.ogg"
+      },
+      {
+        "arquivo": "pop-3.wav",
+        "pico": 0.005,
+        "duracao": 0.131,
+        "titulo": "drop_003",
+        "autor": "Kenney interface-sounds",
+        "pagina": "https://kenney.nl/assets/interface-sounds",
+        "licenca": "CC0",
+        "id": "Kenney interface-sounds:drop_003.ogg"
+      },
+      {
+        "arquivo": "pop-4.wav",
+        "pico": 0.005,
+        "duracao": 0.159,
+        "titulo": "drop_004",
+        "autor": "Kenney interface-sounds",
+        "pagina": "https://kenney.nl/assets/interface-sounds",
+        "licenca": "CC0",
+        "id": "Kenney interface-sounds:drop_004.ogg"
+      }
+    ],
+    "descartados": []
+  },
+  "riser": {
+    "busca": "riser",
+    "max": 3.5,
+    "volume": 0.35,
+    "variacoes": [
+      {
+        "arquivo": "riser-1.wav",
+        "pico": 1.565,
+        "duracao": 1.62,
+        "titulo": "Riser",
+        "autor": "Rizzard",
+        "pagina": "https://freesound.org/people/Rizzard/sounds/561207",
+        "licenca": "CC0",
+        "id": "96a9062b-be8d-42ae-aacc-f64d3a34294a"
+      },
+      {
+        "arquivo": "riser-2.wav",
+        "pico": 2.945,
+        "duracao": 3.011,
+        "titulo": "reversed riser .wav",
+        "autor": "NOTOTO84",
+        "pagina": "https://freesound.org/people/NOTOTO84/sounds/275512",
+        "licenca": "CC0",
+        "id": "707a3106-ed0d-4cad-9f27-32d2f44dafb6"
+      },
+      {
+        "arquivo": "riser-3.wav",
+        "pico": 0.695,
+        "duracao": 1.334,
+        "titulo": "Energy Riser",
+        "autor": "magnuswaker",
+        "pagina": "https://freesound.org/people/magnuswaker/sounds/522095",
+        "licenca": "CC0",
+        "id": "dd07153a-ca3d-4693-a6c8-fbe1338bce06"
+      }
+    ],
+    "descartados": []
+  },
+  "sucesso": {
+    "busca": null,
+    "max": 2.0,
+    "volume": 0.4,
+    "variacoes": [
+      {
+        "arquivo": "sucesso-1.wav",
+        "pico": 0.005,
+        "duracao": 0.29,
+        "titulo": "confirmation_001",
+        "autor": "Kenney interface-sounds",
+        "pagina": "https://kenney.nl/assets/interface-sounds",
+        "licenca": "CC0",
+        "id": "Kenney interface-sounds:confirmation_001.ogg"
+      },
+      {
+        "arquivo": "sucesso-2.wav",
+        "pico": 0.005,
+        "duracao": 0.539,
+        "titulo": "confirmation_002",
+        "autor": "Kenney interface-sounds",
+        "pagina": "https://kenney.nl/assets/interface-sounds",
+        "licenca": "CC0",
+        "id": "Kenney interface-sounds:confirmation_002.ogg"
+      },
+      {
+        "arquivo": "sucesso-3.wav",
+        "pico": 0.005,
+        "duracao": 0.322,
+        "titulo": "confirmation_003",
+        "autor": "Kenney interface-sounds",
+        "pagina": "https://kenney.nl/assets/interface-sounds",
+        "licenca": "CC0",
+        "id": "Kenney interface-sounds:confirmation_003.ogg"
+      },
+      {
+        "arquivo": "sucesso-4.wav",
+        "pico": 0.165,
+        "duracao": 0.49,
+        "titulo": "confirmation_004",
+        "autor": "Kenney interface-sounds",
+        "pagina": "https://kenney.nl/assets/interface-sounds",
+        "licenca": "CC0",
+        "id": "Kenney interface-sounds:confirmation_004.ogg"
+      }
+    ],
+    "descartados": []
+  },
+  "swipe": {
+    "busca": null,
+    "max": 1.0,
+    "volume": 0.4,
+    "variacoes": [
+      {
+        "arquivo": "swipe-1.wav",
+        "pico": 0.155,
+        "duracao": 0.252,
+        "titulo": "maximize_001",
+        "autor": "Kenney interface-sounds",
+        "pagina": "https://kenney.nl/assets/interface-sounds",
+        "licenca": "CC0",
+        "id": "Kenney interface-sounds:maximize_001.ogg"
+      },
+      {
+        "arquivo": "swipe-2.wav",
+        "pico": 0.165,
+        "duracao": 0.253,
+        "titulo": "maximize_002",
+        "autor": "Kenney interface-sounds",
+        "pagina": "https://kenney.nl/assets/interface-sounds",
+        "licenca": "CC0",
+        "id": "Kenney interface-sounds:maximize_002.ogg"
+      },
+      {
+        "arquivo": "swipe-3.wav",
+        "pico": 0.155,
+        "duracao": 0.205,
+        "titulo": "maximize_003",
+        "autor": "Kenney interface-sounds",
+        "pagina": "https://kenney.nl/assets/interface-sounds",
+        "licenca": "CC0",
+        "id": "Kenney interface-sounds:maximize_003.ogg"
+      },
+      {
+        "arquivo": "swipe-4.wav",
+        "pico": 0.345,
+        "duracao": 0.394,
+        "titulo": "maximize_004",
+        "autor": "Kenney interface-sounds",
+        "pagina": "https://kenney.nl/assets/interface-sounds",
+        "licenca": "CC0",
+        "id": "Kenney interface-sounds:maximize_004.ogg"
+      }
+    ],
+    "descartados": []
+  },
+  "tick": {
+    "busca": null,
+    "max": 0.3,
+    "volume": 0.35,
+    "variacoes": [
+      {
+        "arquivo": "tick-1.wav",
+        "pico": 0.005,
+        "duracao": 0.045,
+        "titulo": "tick_001",
+        "autor": "Kenney interface-sounds",
+        "pagina": "https://kenney.nl/assets/interface-sounds",
+        "licenca": "CC0",
+        "id": "Kenney interface-sounds:tick_001.ogg"
+      },
+      {
+        "arquivo": "tick-2.wav",
+        "pico": 0.005,
+        "duracao": 0.02,
+        "titulo": "tick_002",
+        "autor": "Kenney interface-sounds",
+        "pagina": "https://kenney.nl/assets/interface-sounds",
+        "licenca": "CC0",
+        "id": "Kenney interface-sounds:tick_002.ogg"
+      }
+    ],
+    "descartados": []
+  },
+  "toggle": {
+    "busca": null,
+    "max": 0.5,
+    "volume": 0.45,
+    "variacoes": [
+      {
+        "arquivo": "toggle-1.wav",
+        "pico": 0.005,
+        "duracao": 0.136,
+        "titulo": "toggle_001",
+        "autor": "Kenney interface-sounds",
+        "pagina": "https://kenney.nl/assets/interface-sounds",
+        "licenca": "CC0",
+        "id": "Kenney interface-sounds:toggle_001.ogg"
+      },
+      {
+        "arquivo": "toggle-2.wav",
+        "pico": 0.005,
+        "duracao": 0.136,
+        "titulo": "toggle_002",
+        "autor": "Kenney interface-sounds",
+        "pagina": "https://kenney.nl/assets/interface-sounds",
+        "licenca": "CC0",
+        "id": "Kenney interface-sounds:toggle_002.ogg"
+      },
+      {
+        "arquivo": "toggle-3.wav",
+        "pico": 0.005,
+        "duracao": 0.139,
+        "titulo": "toggle_003",
+        "autor": "Kenney interface-sounds",
+        "pagina": "https://kenney.nl/assets/interface-sounds",
+        "licenca": "CC0",
+        "id": "Kenney interface-sounds:toggle_003.ogg"
+      },
+      {
+        "arquivo": "toggle-4.wav",
+        "pico": 0.005,
+        "duracao": 0.063,
+        "titulo": "toggle_004",
+        "autor": "Kenney interface-sounds",
+        "pagina": "https://kenney.nl/assets/interface-sounds",
+        "licenca": "CC0",
+        "id": "Kenney interface-sounds:toggle_004.ogg"
+      }
+    ],
+    "descartados": []
+  },
+  "whoosh": {
+    "busca": "whoosh",
+    "max": 1.6,
+    "volume": 0.45,
+    "variacoes": [
+      {
+        "arquivo": "whoosh-1.wav",
+        "pico": 0.375,
+        "duracao": 1.6,
+        "titulo": "Deep Whoosh #1",
+        "autor": "Kinoton",
+        "pagina": "https://freesound.org/people/Kinoton/sounds/351256",
+        "licenca": "CC0",
+        "id": "eab8a6e2-0ac8-4615-9e0d-ebde30523783"
+      },
+      {
+        "arquivo": "whoosh-2.wav",
+        "pico": 0.065,
+        "duracao": 0.484,
+        "titulo": "Swosh swoosh whoosh air sound, free, high quality",
+        "autor": "qubodup",
+        "pagina": "https://freesound.org/people/qubodup/sounds/60026",
+        "licenca": "CC0",
+        "id": "f1dc6045-7965-41de-87f8-4731d2583fd2"
+      },
+      {
+        "arquivo": "whoosh-3.wav",
+        "pico": 0.035,
+        "duracao": 0.388,
+        "titulo": "Swipe Whoosh",
+        "autor": "qubodup",
+        "pagina": "https://freesound.org/people/qubodup/sounds/60007",
+        "licenca": "CC0",
+        "id": "b7ae7822-8ec5-4a82-b6f8-d539b51caa61"
+      }
+    ],
+    "descartados": []
+  }
+}
