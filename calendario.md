@@ -4,10 +4,12 @@
 
 ## Horários (Brasília)
 
-| Dia | Manhã | Almoço | Noite |
-|---|---|---|---|
-| Seg a sex | **08:00** | **12:00** | **19:00** |
-| Sáb e dom | **10:00** | **13:00** | **20:00** |
+**Desde 31/10/2026: 2 Reels por dia** (o plano do Claude estourou com 3 por perfil). O horário da manhã (RAIO-X) está pausado; os temas de raio-X entram na noite de terça e quinta.
+
+| Dia | Almoço | Noite |
+|---|---|---|
+| Seg a sex | **12:00** | **19:00** |
+| Sáb e dom | **13:00** | **20:00** |
 
 Cada post é enviado uns 10 minutos antes do horário para entrar no ar a tempo.
 
@@ -15,9 +17,10 @@ Cada post é enviado uns 10 minutos antes do horário para entrar no ar a tempo.
 
 ## O que vai em cada horário
 
-- **Manhã: RAIO-X.** Um objeto ou tecnologia do dia a dia aberto por dentro (estilo do vídeo `motor`). É o vídeo que mais gera salvamento.
+- **(Pausado) Manhã: RAIO-X.** Um objeto ou tecnologia do dia a dia aberto por dentro (estilo do vídeo `motor`). Agora sai na **noite de terça e quinta**.
 - **Almoço: EM ALTA.** O assunto mais comentado do Brasil no dia, explicado de forma neutra e educativa (estilo dos vídeos `apuracao` e `caneta`). O tema é escolhido no dia, pesquisando as notícias. Não entram política partidária, tragédias com vítimas nem fofoca.
-- **Noite: CORPO, ESCALA, QUIZ ou MAPA.** Corpo humano, comparação de tamanho e escala, ou um quiz do tipo "você acertaria?". É o vídeo que mais gera comentário.
+- **Noite:** seg/qua/sex = MAPA; ter/qui = RAIO-X; sáb/dom = CORPO, ESCALA ou QUIZ.
+- **Noite (detalhe dos formatos): CORPO, ESCALA, QUIZ ou MAPA.** Corpo humano, comparação de tamanho e escala, ou um quiz do tipo "você acertaria?". É o vídeo que mais gera comentário.
   - **MAPA** é o formato de melhor resultado até agora: 8,6 mil visualizações e 146 envios no mapa da virada. Vai **3 vezes por semana (seg, qua, sex)** no lugar do tema da noite. Use o estilo dos exemplos `mapa`, `estados` e `capitais` (papel quadriculado, mapa real dos estados em `assets/br.json`, ranking em barras) e feche com o CTA "comenta a sigla do seu estado".
 
 ## Fila de temas

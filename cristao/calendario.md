@@ -2,10 +2,12 @@
 
 **Identidade:** "a Bíblia no mapa". Histórias bíblicas contadas como mapa animado em pergaminho, com rota, lugares, números do próprio texto e a referência bíblica. De 35 a 50 s, em 9:16 e em português.
 
-## Horários (Brasília), todos os dias
-- **07:00: DEVOCIONAL "Palavra da Manhã".** Um versículo + contexto + aplicação, de 30 a 40 s. **Desde 29/10/2026: estilo TEXTO CINÉTICO** do exemplo `devocional-cinetico` (cor chapada por cena, palavras gigantes entrando no instante em que são faladas, destaques sublinhados, referência no rodapé, CTA "comenta amém" + botão seguir). O antigo `biblia-devocional` (pergaminho) não é mais usado no devocional.
+## Horários (Brasília): 2 Reels por dia desde 31/10/2026
+- **Todo dia, 12:00: REFLEXÃO EM BONEQUINHOS** (o formato que mais rende).
+- **2º vídeo do dia:** seg/qua/sex = **19:00 MAPA** "A Bíblia no mapa"; ter/qui/sáb/dom = **07:00 DEVOCIONAL**.
+- **07:00 (ter/qui/sáb/dom): DEVOCIONAL "Palavra da Manhã".** Um versículo + contexto + aplicação, de 30 a 40 s. Estilo TEXTO CINÉTICO do exemplo `devocional-cinetico` (cor chapada por cena, palavras gigantes entrando no instante em que são faladas, destaques sublinhados, referência no rodapé, CTA "comenta amém" + botão seguir). O antigo `biblia-devocional` (pergaminho) não é mais usado.
 - **12:00: REFLEXÃO EM BONEQUINHOS (palito).** Animação sem narração, 30 s, trilha sintetizada própria. Estilo dos exemplos `palito-venda` ("Tire a venda", o melhor até agora) e `palito-depois`.
-- **19:00: MAPA "A Bíblia no mapa".** Série de histórias bíblicas em mapa de pergaminho (exemplos `biblia-exodo` e `biblia-paulo`).
+- **19:00 (seg/qua/sex): MAPA "A Bíblia no mapa".** Série de histórias bíblicas em mapa de pergaminho (exemplos `biblia-exodo` e `biblia-paulo`).
 - Os dois são postados pela API oficial da Meta (`pipeline/ig_post.sh`), uns 8 min antes do horário.
 
 ## Formato fixo

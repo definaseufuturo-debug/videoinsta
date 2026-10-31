@@ -35,10 +35,10 @@ Este repositório gera vídeos animados (desenhados por código), narrados com v
 5. Faça commit e push (`git pull --rebase` antes).
 6. Nunca poste duas vezes no mesmo horário. Nunca poste fora da fila.
 
-## Tarefa B: PRODUZIR (de madrugada, faz os 3 vídeos do dia)
-Para cada horário do dia (veja os horários em `calendario.md`):
+## Tarefa B: PRODUZIR (de madrugada, faz o vídeo da NOITE)
+Desde 31/10/2026 são 2 Reels por dia: a Tarefa B faz só a noite (19:00 dias úteis, 20:00 fim de semana; tema conforme o dia em `calendario.md`) e a Tarefa C faz o almoço. O horário da manhã está pausado.
 
-1. **Tema.** Pegue o próximo `[ ]` da coluna certa. A Tarefa B faz só a manhã e a noite. O almoço (EM ALTA) é feito de manhã pela Tarefa C, para pegar o assunto ainda quente.
+1. **Tema.** Pegue o próximo `[ ]` da coluna certa para a noite de hoje (seg/qua/sex MAPA, ter/qui RAIO-X, sáb/dom corpo/escala/quiz). O almoço (EM ALTA) é feito de manhã pela Tarefa C, para pegar o assunto ainda quente.
    - Pesquise e confira os fatos (2 ou mais fontes) e anote as fontes no `script.json` (`_comment`).
 2. **Roteiro.** Rode `pipeline/novo.sh AAAA-MM-DD-<slug>` e escreva o `narration/script.json`:
    - 6 a 7 clips, 45 a 55 s no total, com `speed` entre 1,10 e 1,15;
@@ -128,13 +128,13 @@ Para cada horário do dia (veja os horários em `calendario.md`):
 
 - **Conta:** Instagram `e_cosdafe`, id `17841451042007480`. **Não usa o Windsor.** Posta pela API oficial da Meta via GitHub Actions: `pipeline/ig_post.sh <job.json>` (workflow `ig-post.yml`, segredo `IG_TOKEN_CRISTAO`, token de usuário do sistema que não expira; vai pelo graph.facebook.com pela Página ligada à conta).
 - **Fila:** `fila_cristao.json`, sempre por `python3 pipeline/fila.py <comando> --conta cristao`. Vídeos em `videos/cristao/`.
-- **Calendário e regras:** `cristao/calendario.md` (3 Reels por dia: 07:00 devocional "Palavra da Manhã", 12:00 reflexão em bonequinhos de palito e 19:00 mapa "A Bíblia no mapa"; filas de temas e regras de conteúdo do perfil).
+- **Calendário e regras:** `cristao/calendario.md` (2 Reels por dia desde 31/10/2026: todo dia 12:00 bonequinhos; mais 19:00 mapa "A Bíblia no mapa" na seg/qua/sex ou 07:00 devocional "Palavra da Manhã" na ter/qui/sáb/dom; filas de temas e regras de conteúdo do perfil).
 - **Base:** `pipeline/novo.sh <slug> template_cristao`. Antes de escrever, leia inteiro o exemplo do formato: devocional = `pipeline/exemplos/devocional-cinetico/` (estilo TEXTO CINÉTICO desde 29/10/2026: copie o anim.js inteiro e edite só o bloco CONFIG — destaques, referência e paleta; apague os .json de `assets/`); mapa = `pipeline/exemplos/biblia-exodo/` e `biblia-paulo/`; bonequinhos = `pipeline/exemplos/palito-venda/` e `palito-depois/` (anim.js + audio.py + export_cues.js; sem narração: não usa fish/tts, roda `node export_cues.js && python3 audio.py && node render.js` com um `build/timeline.json` de `{"duration":30,"fps":30,"words":[],"clips":[]}`).
   - Mapa da região: `python3 pipeline/geo_regiao.py <lon0> <lon1> <lat0> <lat1> producoes/<slug>/assets/regiao.json` e, no anim.js, carregue esse arquivo e use `K = Math.cos(lat_ref * Math.PI / 180)` (o `lat_ref` vem no JSON). Para o Mediterrâneo inteiro, existe `assets/med.json` (K = cos 37°).
   - Os comandos de build da Tarefa B valem iguais (`pipeline/fish.sh`, `pipeline/build.sh`, folha de quadros obrigatória).
 
-## Tarefa E: PRODUZIR CRISTÃO (de madrugada, 3 vídeos: devocional 07:00, bonequinhos 12:00 e mapa 19:00 do dia)
-Faça cada um que ainda não estiver na fila (`fila.py status --conta cristao`). Comece pelo devocional (sai primeiro), depois os bonequinhos, depois o mapa. Commit e push depois de cada vídeo.
+## Tarefa E: PRODUZIR CRISTÃO (de madrugada, 2 vídeos do dia)
+Todo dia: bonequinhos 12:00. Mais um: seg/qua/sex = mapa 19:00; ter/qui/sáb/dom = devocional 07:00. Faça cada um que ainda não estiver na fila (`fila.py status --conta cristao`), começando pelo que sai primeiro. Commit e push depois de cada vídeo.
 1. Tema: o próximo `[ ]` da fila certa de `cristao/calendario.md` (devocional ou mapa). Confira no texto bíblico e em mais uma fonte (atlas/enciclopédia). Anote referências no `_comment`.
 2. Roteiro (`narration/script.json`): 6 a 7 clips. **Mapa:** 35 a 50 s, gancho com número do texto na 1ª frase, último clip com pergunta para comentar + gancho da série ("segue, porque a próxima parte é <próximo tema da fila>"). **Devocional:** 30 a 40 s, Fish `speed` ~1.05 (mais calmo), segue o formato de 6 passos do calendário. **Bonequinhos:** sem roteiro falado; siga o formato de 6 passos dos bonequinhos no calendário (30 s exatos).
 3. Voz Fish fixa por formato (identidade do perfil): **devocional = voz 3** (`a7f67c4e2d94440aad9c5a82365d9d92`), **mapa = voz 4** (`a0a26a57cac94ea4918f05a2393b4259`). Fallback Kokoro como na Tarefa B.
