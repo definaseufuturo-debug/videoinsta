@@ -15,36 +15,40 @@ Exemplos: `pipeline/exemplos/palito-venda`, `palito-depois`, `palito-abraco` e `
 **Legenda:** pergunta direta que pede resposta ("Qual desses é você? 1 ou 2?"), 1–2 frases, "🎨 Animação feita com IA.", "Marca quem precisa ver isso 👇 e segue a @mindloop_u", 5 a 7 hashtags (#reflexao #mentalidade #procrastinacao …). Sem versículo.
 
 ### Fila de temas "mente" (pegue o próximo [ ])
+Temas validados por perfis gringos de bonequinhos (dezenas de milhões de views), recriados com METÁFORA, CENA e TEXTO NOSSOS. Regra: nunca reproduza a cena de um vídeo de outro perfil (não use: muro de tijolos, trampolim, penhasco com degraus rotulados, tubulação de lucro, escada de madeira, casa sendo construída, mesa de amigos aos 18, bicicleta da semana, chuveiro/ampulheta com a morte). Use o tema, invente a imagem.
 - [x] Amanhã eu começo: um no sofá dizendo "amanhã", o outro sobe um degrau por dia (procrastinação)
-- [ ] Overthinking: um planeja 100 vezes e não sai do lugar; o outro tenta, erra e chega
+- [ ] PERFEITO × FEITO (perfeccionismo): um lixa o mesmo primeiro azulejo pra sempre; o outro assenta azulejos tortos e atravessa o rio. Rótulos "PERFEITO" / "FEITO".
+- [ ] PENSA DEMAIS × VAI (overthinking): os dois diante da mesma porta; em volta de um surgem 100 balões ("e se der errado?", "e se rirem?") até a porta sumir atrás deles; o outro gira a maçaneta.
+- [ ] MESMO PRAZO (procrastinação): calendário "30 DIAS" caindo folha por folha; um faz um pouquinho por dia, o outro faz tudo na última noite, sem dormir, café derramado.
+- [ ] O SUCESSO QUE NINGUÉM VIU (bastidores): no palco, aplausos e holofote; a cortina sobe e mostra 1.000 tentativas amassadas no chão atrás dele.
+- [ ] DIPLOMA × HABILIDADE: um ganha um troféu de papel que molha na chuva; o outro aprende a consertar o guarda-chuva e ajuda todo mundo.
+- [ ] RENDA × GASTOS: o salário entra pingando numa caneca; os gastos saem por uma torneira aberta embaixo. Um fecha a torneira, o outro compra outra caneca.
+- [ ] DINHEIRO × TEMPO: um junta moedas numa pilha cada vez mais alta, enquanto o relógio de areia da vida dele esvazia; o outro troca uma moeda por um passeio com quem ama.
+- [ ] MOTIVADO × DISCIPLINADO: dia 1 os dois correm; dia 7 chove: um volta pra cama, o outro calça o tênis. Contador de dias.
+- [ ] PAIS RÍGIDOS × PAIS QUE ESCUTAM: o filho chega com uma nota baixa; numa casa ele esconde o boletim, na outra ele mostra e recebe ajuda.
+- [ ] ANSIOSO × EVITATIVO (relacionamento): ele manda mensagem e fica olhando o "digitando..."; ela vê a notificação e vira o celular pra baixo.
+- [ ] A CABEÇA NA CAMA (overthinking à noite): luz apagada, e o teto se enche de pensamentos pendentes enquanto o outro dorme.
+- [ ] TODO MUNDO VAI × ELE ESCOLHE (seguir a manada): fila enorme entrando numa porta "TODO MUNDO FAZ"; um olha pro lado e vê uma trilha vazia.
+- [ ] QUEM DESISTE NO 99: ele cava atrás de água e desiste; o outro cava mais um pouco e a fonte jorra.
+- [ ] AMIGOS QUE SOBRAM: aos 18, uma roda de 12 cadeiras; aos 30, só 2 cadeiras ocupadas, e são as que importam.
+- [ ] O PAI QUE NUNCA DESCANSA: ele carrega a casa nas costas o dia todo; à noite, o filho cobre ele com uma manta.
+- [ ] DEPOIS DAS 18H: um rola o feed até 2h; o outro dá uma volta, lê, dorme. Gráfico de energia no dia seguinte.
+- [ ] O GUARDA-CHUVA (amizade): na chuva, um divide o guarda-chuva; um dia é ele que está sem, e o outro aparece.
+- [ ] O MURO QUE CONSTRUÍMOS (relacionamento): cada briga sem conversa vira um tijolo de silêncio entre os dois; um tira o primeiro tijolo.
+- [ ] O PREÇO DO "SIM" PRA TUDO: ele carrega o peso de todos e não sobra mão pra ele.
 - [ ] Comparação: todos olhando a tela do vizinho; ninguém vê a própria vida
 - [ ] Dopamina: a vida real em cinza, o celular colorido; um apaga a tela e a cor volta pro mundo
 - [ ] A plateia imaginária: ele não dança com medo; a plateia está vazia, cada um olhando o próprio celular
-- [ ] Motivação × disciplina: um espera a vontade chegar; o outro vai mesmo cansado
-- [ ] O salário que some: o dinheiro entra por uma porta e sai por 10 buracos (gastos invisíveis)
 - [ ] Ansiedade: ele carrega 10 problemas que ainda não aconteceram; só 1 acontece
-- [ ] O "sim" pra todo mundo: ele carrega o peso de todos e não sobra mão pra ele
 - [ ] Relacionamento no celular: o casal na mesma cama, cada um num mundo
-- [ ] Zona de conforto: o círculo quente e pequeno × o mundo lá fora
-- [ ] O fracasso que ensina: um cai e desiste; o outro cai 9 vezes e na 10ª passa
-- [ ] O que os outros vão pensar: ele vive pra aprovação e, no fim, ninguém lembrava
-- [ ] Trabalho × vida: subindo a escada da empresa, perdendo os momentos lá embaixo
-- [ ] O amigo que só aparece quando precisa
+- [ ] Trabalho × vida: subindo na empresa, perdendo os momentos lá embaixo
+- [ ] O crachá: ele vira noites; no dia em que sai, já tem outro na cadeira. "SUBSTITUÍVEL" no trabalho, "INSUBSTITUÍVEL" em casa
 - [ ] Hábito pequeno: 1% melhor por dia × 1% pior por dia, um ano depois
-- [ ] Rolagem infinita: o polegar desliza, as horas viram anos
-- [ ] Inveja: ele derruba o outro da escada e continua no mesmo degrau
-- [ ] Desculpas: a parede de desculpas que ele mesmo constrói, tijolo por tijolo
-- [ ] Ouvir × esperar a vez de falar
-- [ ] O medo de começar errado: ele espera o momento perfeito, que nunca vem
-- [ ] Gentileza em cadeia: um gesto pequeno que vai passando de mão em mão
-- [ ] O cansado que não descansa: celular na cama até 2h, e "por que eu tô sempre cansado?"
-- [ ] Pedir ajuda: todos carregando sozinhos o mesmo peso, até um pedir ajuda
-- [ ] Fofoca: a palavra que passa de boca em boca e chega distorcida
-- [ ] O orgulho: ele não pede desculpas e o muro entre os dois só cresce
-- [ ] Foco: 10 abas abertas na cabeça × uma coisa de cada vez
-- [ ] Gratidão: ele só vê o que falta; o outro, o que tem
-- [ ] Perdoar a si mesmo: carregando o erro de 10 anos atrás
-- [ ] Sozinho na multidão: 500 seguidores, ninguém pra ligar
+- [ ] Reclama × Resolve: o mesmo buraco na rua; um posta foto, o outro tapa
+- [ ] Mostra × Guarda: um gasta tudo pro feed; o outro rega uma plantinha que vira árvore
+
+### Formato curto (testar)
+Os contrastes "A × B" podem ter **15 a 20 s** (uma cena, uma virada, rótulos grandes em cima de cada bonequinho, legenda "Qual dos dois é você? 1 ou 2 👇"). As histórias continuam com 30 s.
 
 ---
 # (ARQUIVADO) Calendário antigo "como funciona"
