@@ -1,0 +1,18 @@
+{
+  "voice": "pm_alex",
+  "speed": 1.12,
+  "lang": "pt-br",
+  "_comment": "EM ALTA 31/10/2026 (sábado): Halloween / Dia das Bruxas, data do dia (Google Trends do dia sem assunto explicável seguro: Lakers, novela, famosos, loteria). Fontes: World History Encyclopedia (pt) 'História do Halloween' (Samhain = ano-novo celta, 'fim do verão', fim das colheitas, ~31/out; véu entre vivos e mortos mais fino; fogueiras; cinzas no rosto -> disfarces/máscaras; séc. VIII papa Gregório III muda Todos os Santos para 1º/nov; irlandeses esculpiam nabos e, nos EUA, após a fome de 1845-49, trocaram pela abóbora, mais fácil de esculpir; doces ou travessuras popular ~1950); Britannica 'Why do we celebrate Halloween' (All Hallows' Eve -> Halloween); Toda Matéria + SBT News 31/10/2024 (Dia do Saci: PL federal 2.762/2003 de Aldo Rebelo; Lei estadual SP 11.669/2004; para valorizar o folclore brasileiro).",
+  "say": { "Samhain": "Sáuin" },
+  "fish": { "voice": "a0a26a57cac94ea4918f05a2393b4259", "speed": 1.18, "model": "s2.1-pro-free" },
+  "clips": [
+    { "id": "c1", "scene": 1, "minStart": 0.3, "gapAfterPrev": 0, "text": "Por que o Halloween cai justo hoje, trinta e um de outubro? A resposta tem mais de mil anos." },
+    { "id": "c2", "scene": 2, "minStart": 0, "gapAfterPrev": 0.4, "text": "Tudo começa com os celtas. Nessa data, eles comemoravam o Samhain, o ano novo celta: fim do verão e fim da colheita." },
+    { "id": "c3", "scene": 3, "minStart": 0, "gapAfterPrev": 0.4, "text": "Eles acreditavam que, nessa noite, o véu entre os vivos e os mortos ficava fino. Então acendiam fogueiras e passavam cinza no rosto, pra se disfarçar." },
+    { "id": "c4", "scene": 4, "minStart": 0, "gapAfterPrev": 0.4, "text": "No século oito, o papa Gregório Terceiro fixou o Dia de Todos os Santos em primeiro de novembro. A véspera, em inglês, virou Halloween." },
+    { "id": "c5", "scene": 5, "minStart": 0, "gapAfterPrev": 0.4, "text": "E a abóbora? Na Irlanda, eles esculpiam nabos. Nos Estados Unidos, os imigrantes trocaram pela abóbora, mais fácil de esculpir." },
+    { "id": "c6", "scene": 6, "minStart": 0, "gapAfterPrev": 0.45, "text": "No Brasil, hoje também é o Dia do Saci, pra valorizar o nosso folclore. Você é time Halloween ou time Saci? Comenta. E segue, que amanhã tem outro assunto do dia explicado." }
+  ],
+  "tailAfterLastClip": 1.8,
+  "keywords": []
+}

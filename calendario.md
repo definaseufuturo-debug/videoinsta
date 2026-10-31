@@ -72,6 +72,7 @@ Marque `[x]` quando o vídeo for produzido. A produção sempre pega o próximo 
 ## Já publicados
 - 26/10: motor de F1 (teste), apuração (em alta), caneta emagrecedora (12h), elevador (19h)
 - 29/10 (em alta 12h): clássico Atlético x Cruzeiro em números
+- 31/10 (em alta 13h): por que o Halloween é 31 de outubro (Samhain, nabo → abóbora, Dia do Saci)
 
 ### Carrossel (ter e sáb, 16:00): alternar "guia pra salvar" e "ranking/mapa"
 - [ ] Guia: o que mais gasta energia na sua casa (ranking com custo por mês)
