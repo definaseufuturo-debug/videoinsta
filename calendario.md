@@ -1,5 +1,54 @@
 # Calendário de conteúdo da @mindloop_u
 
+## NOVA IDENTIDADE (desde 31/10/2026): "A MENTE EM BONEQUINHOS"
+**Mindloop = os loops da mente.** Reflexões curtas (30 s, sem narração) com bonequinhos de palito sobre padrões que todo mundo vive: procrastinação, ansiedade, comparação, celular, trabalho, dinheiro, relacionamentos, disciplina. **Sem religião** (fé e família ficam na @e_cosdafe; não repita temas de lá).
+Motivo: os bonequinhos fizeram 316 mil views e +1 mil inscritos num vídeo; o "como funciona" genérico não criava fã. O assunto EM ALTA e o carrossel estão pausados.
+
+### Horários (Brasília): 2 Reels por dia, ambos bonequinhos
+| Dia | Almoço | Noite |
+|---|---|---|
+| Seg a sex | **12:00** | **19:00** |
+| Sáb e dom | **13:00** | **20:00** |
+
+### Formato (igual ao dos bonequinhos da @e_cosdafe, ver `cristao/calendario.md`, seção "Reflexão em bonequinhos")
+Exemplos: `pipeline/exemplos/palito-venda`, `palito-depois`, `palito-abraco` e `palito-amanha` (o 1º da Mindloop). Metáfora visual que se entende sem som no 1º segundo, ação contínua, UM elemento vermelho, contraste entre dois bonequinhos (quem fica no loop × quem sai dele), headline de 4 pancadas no meio, frase final gigante + "MARCA QUEM …".
+**Legenda:** pergunta direta que pede resposta ("Qual desses é você? 1 ou 2?"), 1–2 frases, "🎨 Animação feita com IA.", "Marca quem precisa ver isso 👇 e segue a @mindloop_u", 5 a 7 hashtags (#reflexao #mentalidade #procrastinacao …). Sem versículo.
+
+### Fila de temas "mente" (pegue o próximo [ ])
+- [x] Amanhã eu começo: um no sofá dizendo "amanhã", o outro sobe um degrau por dia (procrastinação)
+- [ ] Overthinking: um planeja 100 vezes e não sai do lugar; o outro tenta, erra e chega
+- [ ] Comparação: todos olhando a tela do vizinho; ninguém vê a própria vida
+- [ ] Dopamina: a vida real em cinza, o celular colorido; um apaga a tela e a cor volta pro mundo
+- [ ] A plateia imaginária: ele não dança com medo; a plateia está vazia, cada um olhando o próprio celular
+- [ ] Motivação × disciplina: um espera a vontade chegar; o outro vai mesmo cansado
+- [ ] O salário que some: o dinheiro entra por uma porta e sai por 10 buracos (gastos invisíveis)
+- [ ] Ansiedade: ele carrega 10 problemas que ainda não aconteceram; só 1 acontece
+- [ ] O "sim" pra todo mundo: ele carrega o peso de todos e não sobra mão pra ele
+- [ ] Relacionamento no celular: o casal na mesma cama, cada um num mundo
+- [ ] Zona de conforto: o círculo quente e pequeno × o mundo lá fora
+- [ ] O fracasso que ensina: um cai e desiste; o outro cai 9 vezes e na 10ª passa
+- [ ] O que os outros vão pensar: ele vive pra aprovação e, no fim, ninguém lembrava
+- [ ] Trabalho × vida: subindo a escada da empresa, perdendo os momentos lá embaixo
+- [ ] O amigo que só aparece quando precisa
+- [ ] Hábito pequeno: 1% melhor por dia × 1% pior por dia, um ano depois
+- [ ] Rolagem infinita: o polegar desliza, as horas viram anos
+- [ ] Inveja: ele derruba o outro da escada e continua no mesmo degrau
+- [ ] Desculpas: a parede de desculpas que ele mesmo constrói, tijolo por tijolo
+- [ ] Ouvir × esperar a vez de falar
+- [ ] O medo de começar errado: ele espera o momento perfeito, que nunca vem
+- [ ] Gentileza em cadeia: um gesto pequeno que vai passando de mão em mão
+- [ ] O cansado que não descansa: celular na cama até 2h, e "por que eu tô sempre cansado?"
+- [ ] Pedir ajuda: todos carregando sozinhos o mesmo peso, até um pedir ajuda
+- [ ] Fofoca: a palavra que passa de boca em boca e chega distorcida
+- [ ] O orgulho: ele não pede desculpas e o muro entre os dois só cresce
+- [ ] Foco: 10 abas abertas na cabeça × uma coisa de cada vez
+- [ ] Gratidão: ele só vê o que falta; o outro, o que tem
+- [ ] Perdoar a si mesmo: carregando o erro de 10 anos atrás
+- [ ] Sozinho na multidão: 500 seguidores, ninguém pra ligar
+
+---
+# (ARQUIVADO) Calendário antigo "como funciona"
+
 **Identidade:** "como as coisas funcionam por dentro". Explicações curtas e animadas, de 35 a 55 s, em 9:16 e em português.
 
 ## Horários (Brasília)

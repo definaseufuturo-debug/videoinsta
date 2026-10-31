@@ -35,8 +35,16 @@ Este repositório gera vídeos animados (desenhados por código), narrados com v
 5. Faça commit e push (`git pull --rebase` antes).
 6. Nunca poste duas vezes no mesmo horário. Nunca poste fora da fila.
 
-## Tarefa B: PRODUZIR (de madrugada, faz o vídeo da NOITE)
-Desde 31/10/2026 são 2 Reels por dia: a Tarefa B faz só a noite (19:00 dias úteis, 20:00 fim de semana; tema conforme o dia em `calendario.md`) e a Tarefa C faz o almoço. O horário da manhã está pausado.
+## Tarefa B2: PRODUZIR MINDLOOP EM BONEQUINHOS (de madrugada, 2 vídeos do dia) — VALE DESDE 31/10/2026
+A @mindloop_u virou "a mente em bonequinhos" (ver o topo de `calendario.md`). Todo dia: almoço (12:00 dias úteis, 13:00 fim de semana) e noite (19:00 / 20:00), os dois em bonequinhos de palito, 30 s, sem narração.
+1. Tema: os 2 próximos `[ ]` da "Fila de temas mente" do `calendario.md`.
+2. Leia inteiros os exemplos `pipeline/exemplos/palito-amanha/`, `palito-venda/` e `palito-depois/` (anim.js, audio.py, export_cues.js). Crie com `pipeline/novo.sh AAAA-MM-DD-<slug> template_cristao` (o template serve para os dois perfis), apague os .json de `assets/`, escreva `src/anim.js` + `audio.py`, `build/timeline.json` = `{"duration":30,"fps":30,"words":[],"clips":[]}`, rode `node export_cues.js && python3 audio.py && node render.js`.
+3. Checagem visual obrigatória pela folha de quadros (bonecos grandes e visíveis, textos sem sobreposição, headline legível).
+4. Copie para `videos/<slug>.mp4`, legenda conforme o calendário, `python3 pipeline/fila.py adicionar <slug> <slug>.mp4 legenda.txt AAAA-MM-DDTHH:MM <thumb_ms>` (capa no quadro da headline inteira), marque `[x]`, apague `producoes/<slug>/build`, commit e push a cada vídeo.
+5. As Tarefas B (abaixo), C (EM ALTA) e D (CARROSSEL) estão PAUSADAS.
+
+## (PAUSADA) Tarefa B: PRODUZIR "como funciona"
+Pausada desde 31/10/2026.
 
 1. **Tema.** Pegue o próximo `[ ]` da coluna certa para a noite de hoje (seg/qua/sex MAPA, ter/qui RAIO-X, sáb/dom corpo/escala/quiz). O almoço (EM ALTA) é feito de manhã pela Tarefa C, para pegar o assunto ainda quente.
    - Pesquise e confira os fatos (2 ou mais fontes) e anote as fontes no `script.json` (`_comment`).
@@ -79,7 +87,7 @@ Desde 31/10/2026 são 2 Reels por dia: a Tarefa B faz só a noite (19:00 dias ú
 6. Faça commit e push depois de cada vídeo (não espere os 3). Apague `producoes/<slug>/build` antes do commit, porque ele já está no .gitignore.
 7. Se um vídeo falhar, deixe o horário vazio. A tarefa de postar usa a reserva.
 
-## Tarefa C: EM ALTA (de manhã, faz o vídeo do almoço com o assunto quente do dia)
+## (PAUSADA desde 31/10/2026) Tarefa C: EM ALTA
 1. Rode `pipeline/trends.sh`. Ele lista o que o Brasil mais está buscando agora (Google Trends), com a manchete de cada assunto. Complete com WebSearch das notícias de hoje.
 2. Escolha **um** assunto que esteja na boca do povo **e** que dê para explicar no formato "como funciona" ou com dados. Exemplos:
    - "por que o dólar subiu";
@@ -98,7 +106,7 @@ Desde 31/10/2026 são 2 Reels por dia: a Tarefa B faz só a noite (19:00 dias ú
 4. Confira os fatos em 2 ou mais fontes. Depois produza como na Tarefa B, com vídeo de 35 a 45 s. O horário é 12:00 nos dias úteis e 13:00 no fim de semana. Se o horário já tiver vídeo na fila, use `fila.py` para substituir só se o assunto novo for claramente mais quente.
 5. No log, registre qual assunto foi escolhido e por quê.
 
-## Tarefa D: CARROSSEL (2 por semana: terça e sábado às 16:00)
+## (PAUSADA desde 31/10/2026) Tarefa D: CARROSSEL
 1. Tema: pegue o próximo `[ ]` da seção "Carrossel" do `calendario.md`, alternando entre "guia pra salvar" e "ranking/mapa". Confira os fatos em 2 ou mais fontes.
 2. Crie `carrosseis/AAAA-MM-DD-<slug>/gerar.js` partindo de `pipeline/exemplos/carrossel-mapa/gerar.js`. Ele desenha os cards com @napi-rs/canvas, em 1080×1350, e salva JPEG `01.jpg`, `02.jpg`… Para rodar, ligue o `node_modules` da raiz com um symlink.
    - **Quantidade:** de 6 a 10 cards.
