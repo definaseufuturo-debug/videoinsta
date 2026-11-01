@@ -19,7 +19,7 @@ Exemplos: `pipeline/exemplos/palito-venda`, `palito-depois`, `palito-abraco` e `
 Temas validados por perfis gringos de bonequinhos (dezenas de milhões de views), recriados com METÁFORA, CENA e TEXTO NOSSOS. Regra: nunca reproduza a cena de um vídeo de outro perfil (não use: muro de tijolos, trampolim, penhasco com degraus rotulados, tubulação de lucro, escada de madeira, casa sendo construída, mesa de amigos aos 18, bicicleta da semana, chuveiro/ampulheta com a morte). Use o tema, invente a imagem.
 - [x] Amanhã eu começo: um no sofá dizendo "amanhã", o outro sobe um degrau por dia (procrastinação)
 - [x] PAIS RÍGIDOS × PAIS QUE ESCUTAM: o filho chega com uma nota baixa; numa casa ele esconde o boletim, na outra ele mostra e recebe ajuda.
-- [ ] SÓ MAIS 5 MINUTOS (pais e filhos): o filho chama pra brincar e o pai responde "só mais 5 minutos" no notebook; a cada chamada o filho está maior; no fim, o pai chama e o filho adulto responde "só mais 5 minutos" no celular. "ELE APRENDEU COM VOCÊ."
+- [x] SÓ MAIS 5 MINUTOS (pais e filhos): o filho chama pra brincar e o pai responde "só mais 5 minutos" no notebook; a cada chamada o filho está maior; no fim, o pai chama e o filho adulto responde "só mais 5 minutos" no celular. "ELE APRENDEU COM VOCÊ."
 - [ ] FILHO NÃO ESCUTA, FILHO COPIA (pais e filhos): o pai grita "larga esse celular!" com o celular na mão; o filho repete cada gesto dele como sombra. Um pai larga o celular e o filho larga junto.
 - [ ] O PAI QUE NUNCA DESCANSA: ele carrega a casa nas costas o dia todo; à noite, o filho cobre ele com uma manta.
 - [ ] ELE QUERIA VOCÊ (pais e filhos): o pai trabalha até tarde e traz um presente maior a cada noite; a pilha de caixas cresce no quarto, e o filho dorme abraçado num desenho "EU E O PAPAI".

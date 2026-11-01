@@ -53,3 +53,4 @@
 - 2026-10-31 13:00 | 2026-10-31-13-halloween | agendado | ok 18654851191021093 | yt O7TjMEGPvCM
 - 2026-10-31 21:52 | - | cristao | nada na fila
 - 2026-10-31 22:52 | 2026-10-31-20-amanha-eu-comeco | agendado | ok 18075247634736941 | yt wO2X7EvlW5E
+- 2026-11-01 00:25 | produção Tarefa B2 (bonequinhos) | fila 13:00 ok 2026-11-01-13-pais-que-escutam (pais rígidos × pais que escutam, 30 s, 2,6 MB) e 20:00 ok 2026-11-01-20-so-mais-5-minutos (30 s, 3,2 MB)
