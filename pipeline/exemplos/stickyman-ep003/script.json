@@ -1,0 +1,27 @@
+{
+  "voice": "pm_alex",
+  "speed": 1.12,
+  "lang": "pt-br",
+  "_comment": "Sticky Man Finanças, episódio 003: a parcelinha de R$ 49,90. Personagem, roteiro e storyboard do Jonas. Contas: 8 x 49,90 = 399,20 por mês; 399,20 x 12 = 4.790,40 por ano.",
+  "fish": {
+    "voice": "c9d3da0bdf61417d929dc67966e4befe",
+    "speed": 1.15,
+    "model": "s2.1-pro-free"
+  },
+  "say": {
+    "4.790": "quatro mil setecentos e noventa",
+    "49,90": "quarenta e nove e noventa",
+    "399": "trezentos e noventa e nove"
+  },
+  "clips": [
+    { "id": "c1", "scene": 1, "minStart": 0.3, "gapAfterPrev": 0, "text": "399 reais por mês. Parece pouco? Mas pode estar acabando com o seu salário!" },
+    { "id": "c2", "scene": 2, "minStart": 0, "gapAfterPrev": 0.3, "text": "Você compra uma coisa de 49,90. Depois outra. Mais uma. E, sem perceber, já tem oito parcelas no cartão!" },
+    { "id": "c3", "scene": 3, "minStart": 0, "gapAfterPrev": 0.3, "text": "O salário entra na conta, mas as parcelas comem quase tudo antes de você usar." },
+    { "id": "c4", "scene": 4, "minStart": 0, "gapAfterPrev": 0.3, "text": "No fim do ano, são 4.790 reais indo embora só nessas parcelinhas!" },
+    { "id": "c5", "scene": 5, "minStart": 0, "gapAfterPrev": 0.3, "text": "Então soma tudo, corta o que não é essencial e evita parcela nova." },
+    { "id": "c6", "scene": 6, "minStart": 0, "gapAfterPrev": 0.3, "text": "E agora me conta: quantas parcelas você tem hoje? Comenta aqui embaixo!" },
+    { "id": "c7", "scene": 7, "minStart": 0, "gapAfterPrev": 0.3, "text": "Segue o Sticky Man Finanças pra mais dicas!" }
+  ],
+  "tailAfterLastClip": 1.8,
+  "keywords": []
+}
