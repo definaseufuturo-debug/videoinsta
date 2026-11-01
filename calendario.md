@@ -2,7 +2,7 @@
 
 ## NOVA IDENTIDADE (desde 31/10/2026): "A MENTE EM BONEQUINHOS"
 **Mindloop = os loops da mente.** Reflexões curtas (30 s, sem narração) com bonequinhos de palito sobre padrões que todo mundo vive: procrastinação, ansiedade, comparação, celular, trabalho, dinheiro, relacionamentos, disciplina. **Sem religião** (fé fica na @e_cosdafe; não repita temas de lá).
-**PRIORIDADE (desde 01/11/2026): PAIS E FILHOS.** É o que mais dá resultado nos bonequinhos (Depois: 316 mil; O abraço). Pelo menos 1 dos 2 vídeos do dia é de pais e filhos enquanto houver tema na fila; o outro pode ser de mente.
+**PAIS E FILHOS SAIU DA MINDLOOP (desde 01/11/2026, decisão do Jonas):** os bonequinhos de pais e filhos agora são do perfil cristão (@e_cosdafe, Instagram + canal cristão no YouTube), na série FAMÍLIA de `cristao/calendario.md`. A Mindloop faz os outros temas da mente com os bonequinhos (procrastinação, ansiedade, dinheiro, trabalho, relacionamento, disciplina…). Não produza mais pais e filhos aqui.
 Motivo: os bonequinhos fizeram 316 mil views e +1 mil inscritos num vídeo; o "como funciona" genérico não criava fã. O assunto EM ALTA e o carrossel estão pausados.
 
 ### Horários (Brasília): 2 Reels por dia, ambos bonequinhos
@@ -20,10 +20,10 @@ Temas validados por perfis gringos de bonequinhos (dezenas de milhões de views)
 - [x] Amanhã eu começo: um no sofá dizendo "amanhã", o outro sobe um degrau por dia (procrastinação)
 - [x] PAIS RÍGIDOS × PAIS QUE ESCUTAM: o filho chega com uma nota baixa; numa casa ele esconde o boletim, na outra ele mostra e recebe ajuda.
 - [x] SÓ MAIS 5 MINUTOS (pais e filhos): o filho chama pra brincar e o pai responde "só mais 5 minutos" no notebook; a cada chamada o filho está maior; no fim, o pai chama e o filho adulto responde "só mais 5 minutos" no celular. "ELE APRENDEU COM VOCÊ."
-- [ ] FILHO NÃO ESCUTA, FILHO COPIA (pais e filhos): o pai grita "larga esse celular!" com o celular na mão; o filho repete cada gesto dele como sombra. Um pai larga o celular e o filho larga junto.
-- [ ] O PAI QUE NUNCA DESCANSA: ele carrega a casa nas costas o dia todo; à noite, o filho cobre ele com uma manta.
-- [ ] ELE QUERIA VOCÊ (pais e filhos): o pai trabalha até tarde e traz um presente maior a cada noite; a pilha de caixas cresce no quarto, e o filho dorme abraçado num desenho "EU E O PAPAI".
-- [ ] 18 VERÕES (pais e filhos): um pote com 18 bolinhas; a cada verão sai uma. Um pai deixa as bolinhas caírem olhando a tela; o outro usa cada uma (praia, pipa, bicicleta).
+- [→ cristão] FILHO NÃO ESCUTA, FILHO COPIA (pais e filhos): o pai grita "larga esse celular!" com o celular na mão; o filho repete cada gesto dele como sombra. Um pai larga o celular e o filho larga junto.
+- [→ cristão] O PAI QUE NUNCA DESCANSA: ele carrega a casa nas costas o dia todo; à noite, o filho cobre ele com uma manta.
+- [→ cristão] ELE QUERIA VOCÊ (pais e filhos): o pai trabalha até tarde e traz um presente maior a cada noite; a pilha de caixas cresce no quarto, e o filho dorme abraçado num desenho "EU E O PAPAI".
+- [→ cristão] 18 VERÕES (pais e filhos): um pote com 18 bolinhas; a cada verão sai uma. Um pai deixa as bolinhas caírem olhando a tela; o outro usa cada uma (praia, pipa, bicicleta).
 - [ ] PERFEITO × FEITO (perfeccionismo): um lixa o mesmo primeiro azulejo pra sempre; o outro assenta azulejos tortos e atravessa o rio. Rótulos "PERFEITO" / "FEITO".
 - [ ] PENSA DEMAIS × VAI (overthinking): os dois diante da mesma porta; em volta de um surgem 100 balões ("e se der errado?", "e se rirem?") até a porta sumir atrás deles; o outro gira a maçaneta.
 - [ ] MESMO PRAZO (procrastinação): calendário "30 DIAS" caindo folha por folha; um faz um pouquinho por dia, o outro faz tudo na última noite, sem dormir, café derramado.

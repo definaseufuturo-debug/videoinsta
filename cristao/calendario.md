@@ -72,10 +72,13 @@ Visual fixo: fundo preto, bonequinhos brancos com brilho, UM elemento vermelho s
 - [x] A porta estreita (Mt 7:13-14)
 - [x] O abraço: colo aos 2, 5 e 8 anos; aos 11 ele passa direto; 30 anos depois ele segura o pai (Sl 127:3) — feito 31/10, postado manual pelo Jonas
 
-> **Prioridade: série FAMÍLIA** (o "Depois" fez 316 mil views, +1 mil inscritos; público 25–44 anos). Faça estes antes dos demais:
+> **Prioridade: série FAMÍLIA (PAIS E FILHOS). Desde 01/11/2026 todo bonequinho de pais e filhos é deste perfil, e não mais da Mindloop.** (o "Depois" fez 316 mil views, +1 mil inscritos; público 25–44 anos). Faça estes antes dos demais:
 - [x] A mãe invisível: ela faz tudo e ninguém nota, até o dia em que ela falta (Pv 31:28) — 01/11
+- [ ] Filho não escuta, filho copia: o pai grita "larga esse celular!" com o celular na mão; o filho repete cada gesto dele como sombra. Um pai larga o celular e o filho larga junto (Pv 22:6) — veio da Mindloop
+- [ ] 18 verões: um pote com 18 bolinhas, sai uma a cada verão. Um pai deixa cair olhando a tela; o outro usa cada uma (praia, pipa, bicicleta) (Sl 90:12) — veio da Mindloop
+- [ ] Ele queria você: o pai trabalha até tarde e traz um presente maior a cada noite; a pilha de caixas cresce no quarto, e o filho dorme abraçado num desenho "EU E O PAPAI" (Pv 15:16) — veio da Mindloop
 - [ ] Os avós: a família no celular durante a visita, até a cadeira ficar vazia (Êx 20:12)
-- [ ] O pai cansado: chega exausto, mas brinca mesmo assim, e o filho guarda isso para sempre (Gl 6:9)
+- [ ] O pai cansado: carrega a casa nas costas o dia todo, chega exausto mas brinca mesmo assim; à noite, o filho cobre ele com uma manta (Gl 6:9) — junta com "O pai que nunca descansa" da Mindloop
 - [ ] As palavras: "você é burro" vira a voz interna do filho × "eu acredito em você" (Pv 18:21)
 - [ ] As máscaras: todos sorrindo de máscara; ao tirar, estão chorando. "TODO MUNDO ESTÁ BEM. ATÉ TIRAR A MÁSCARA." (Gl 6:2)
 - [ ] A corrente: todos acorrentados ao celular-cadeado; um quebra a dele (Jo 8:36)
