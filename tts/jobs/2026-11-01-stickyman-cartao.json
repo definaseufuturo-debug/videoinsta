@@ -1,5 +1,5 @@
 {
-  "status": "pronto",
+  "status": "pendente",
   "voice": "c9d3da0bdf61417d929dc67966e4befe",
   "speed": 1.15,
   "model": "s2.1-pro-free",
@@ -7,35 +7,35 @@
   "clips": [
     {
       "id": "c1",
-      "text": "Hoje você vai descobrir por que o cartão de crédito pode ser um grande aliado, mas também uma armadilha para o seu bolso!"
+      "text": "Por que o cartão de crédito pode ser um grande aliado, ou uma armadilha pro seu bolso?"
     },
     {
       "id": "c2",
-      "text": "Com o cartão, a gente compra agora, parcela, viaja e faz muitas coisas que parecem facilitar a nossa vida."
+      "text": "Com ele, você compra agora, parcela, viaja... e tudo parece mais fácil."
     },
     {
       "id": "c3",
-      "text": "O problema é que muitas pessoas se empolgam, gastam além do que podem e deixam a fatura para depois."
+      "text": "O problema: muita gente se empolga, gasta além do que pode e deixa a fatura pra depois."
     },
     {
       "id": "c4",
-      "text": "Quando a fatura chega, vem aquele susto! E, para não apertar o orçamento, muita gente paga apenas o valor mínimo."
+      "text": "Aí a fatura chega. Que susto! E, pra não apertar o orçamento, muita gente paga só o mínimo."
     },
     {
       "id": "c5",
-      "text": "O que muita gente não sabe é que o valor que fica em aberto entra no juro rotativo, um dos mais caros do mercado."
+      "text": "Só que o valor em aberto entra no juro rotativo, um dos mais caros do mercado."
     },
     {
       "id": "c6",
-      "text": "Assim, a dívida vai crescendo mês após mês, virando uma bola de neve, que pode levar anos para ser quitada."
+      "text": "E a dívida cresce mês após mês, uma bola de neve que pode levar anos pra quitar."
     },
     {
       "id": "c7",
-      "text": "A melhor forma de usar o cartão é com planejamento: gaste só o que cabe no orçamento, pague sempre o valor total da fatura e evite o rotativo."
+      "text": "Como usar direito? Gaste só o que cabe no orçamento, pague sempre o total da fatura e fuja do rotativo."
     },
     {
       "id": "c8",
-      "text": "Com disciplina, o cartão deixa de ser um problema e vira um aliado. Segue o Sticky Man Finanças pra mais dicas!"
+      "text": "Com disciplina, o cartão vira um aliado. Segue o Sticky Man Finanças pra mais dicas!"
     }
   ]
 }
