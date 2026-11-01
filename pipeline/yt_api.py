@@ -54,6 +54,13 @@ for jf in sorted((ROOT / "yt/jobs").glob("*.json")):
                 job["canal_nome"] = f"(não deu para ler o nome: HTTP {e.code})"
             print(jf.stem, "checagem ok", job.get("canal_nome"))
             jf.write_text(json.dumps(job, ensure_ascii=False, indent=2)); continue
+        # trava: um canal que não é o da Mindloop nunca pode postar no YouTube da Mindloop
+        if job.get("canal", "") not in ("", "mindloop"):
+            req = urllib.request.Request("https://www.googleapis.com/youtube/v3/channels?part=snippet&mine=true", headers={"Authorization": "Bearer " + at})
+            with urllib.request.urlopen(req, timeout=60) as r: items = json.load(r).get("items", [])
+            nome_canal = items[0]["snippet"]["title"] if items else ""
+            if "mindloop" in nome_canal.lower():
+                raise RuntimeError(f"token do canal {job.get('canal')} aponta para '{nome_canal}' (Mindloop). Gere o refresh token de novo escolhendo o canal certo.")
         res = upload(job, at)
         job.update(status="postado", video_id=res["id"], url="https://youtube.com/shorts/" + res["id"],
                    privacidade=res.get("status", {}).get("privacyStatus"), canal_nome=res.get("snippet", {}).get("channelTitle"), canal_id=res.get("snippet", {}).get("channelId"), upload=res.get("status", {}).get("uploadStatus"))
