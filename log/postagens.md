@@ -57,3 +57,4 @@
 - 2026-11-01 01:55 | produção Tarefa E (cristao) | fila 07:00 ok cristao-2026-11-01-medo (devocional Is 41:10, texto cinético, voz Fish 3, 36,9 s, 17,7 MB) e 12:00 ok cristao-2026-11-01-mae-invisivel (bonequinhos Pv 31:28, 30 s, 4,2 MB)
 - 2026-11-01 09:56 | cristao-2026-11-01-medo | cristao | ok 18127773907895178 | yt ERRO faltam segredos YT_CLIENT_ID / YT_CLIENT_SECRET / YT_REFRESH_TOKEN_CRISTAO
 - 2026-11-01 14:55 | cristao-2026-11-01-mae-invisivel | cristao | ok 17906461719666591 | yt ERRO faltam segredos YT_CLIENT_ID / YT_CLIENT_SECRET / YT_REFRESH_TOKEN_CRISTAO
+- 2026-11-01 13:00 | 2026-11-01-13-pais-que-escutam | agendado | ok 18171508618462495 | yt 8C3rbmt4N4A
