@@ -27,7 +27,7 @@ No estilo cinético, o que varia é a **paleta** (uma cor por cena, no bloco CON
 ## Fila do devocional (07:00, pegue o próximo [ ])
 - [x] Esperança: as misericórdias se renovam cada manhã (Lm 3:22-23) — 28/10
 - [x] Ansiedade: não andeis ansiosos (Fp 4:6-7; Paulo escreveu preso) — 29/10 (1º no estilo texto cinético)
-- [ ] Medo: não temas, eu sou contigo (Is 41:10)
+- [x] Medo: não temas, eu sou contigo (Is 41:10) — 01/11
 - [ ] Cansaço: vinde a mim, os cansados (Mt 11:28-30)
 - [ ] Propósito: pensamentos de paz, não de mal (Jr 29:11; carta aos exilados na Babilônia)
 - [ ] Preocupação com o sustento: olhai as aves do céu (Mt 6:26)
