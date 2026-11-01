@@ -1,0 +1,41 @@
+{
+  "status": "pendente",
+  "voice": "c9d3da0bdf61417d929dc67966e4befe",
+  "speed": 1.15,
+  "model": "s2.1-pro-free",
+  "language": "pt",
+  "clips": [
+    {
+      "id": "c1",
+      "text": "Hoje você vai descobrir por que o cartão de crédito pode ser um grande aliado, mas também uma armadilha para o seu bolso!"
+    },
+    {
+      "id": "c2",
+      "text": "Com o cartão, a gente compra agora, parcela, viaja e faz muitas coisas que parecem facilitar a nossa vida."
+    },
+    {
+      "id": "c3",
+      "text": "O problema é que muitas pessoas se empolgam, gastam além do que podem e deixam a fatura para depois."
+    },
+    {
+      "id": "c4",
+      "text": "Quando a fatura chega, vem aquele susto! E, para não apertar o orçamento, muita gente paga apenas o valor mínimo."
+    },
+    {
+      "id": "c5",
+      "text": "O que muita gente não sabe é que o valor que fica em aberto entra no juro rotativo, um dos mais caros do mercado."
+    },
+    {
+      "id": "c6",
+      "text": "Assim, a dívida vai crescendo mês após mês, virando uma bola de neve, que pode levar anos para ser quitada."
+    },
+    {
+      "id": "c7",
+      "text": "A melhor forma de usar o cartão é com planejamento: gaste só o que cabe no orçamento, pague sempre o valor total da fatura e evite o rotativo."
+    },
+    {
+      "id": "c8",
+      "text": "Com disciplina, o cartão deixa de ser um problema e vira um aliado. Segue o Sticky Man Finanças pra mais dicas!"
+    }
+  ]
+}
