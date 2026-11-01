@@ -1,7 +1,7 @@
 {
-  "status": "erro",
+  "status": "pendente",
   "video": "videos/cristao/cristao-2026-11-01-mae-invisivel.mp4",
-  "title": "Quando foi a última vez que você agradeceu a sua mãe? #Shorts",
+  "title": "A mãe invisível: ela faz tudo e ninguém nota #Shorts",
   "description": "Quando foi a última vez que você agradeceu a sua mãe? 👇\n\nEla faz tudo, o dia inteiro, e quase ninguém percebe. Ela não sumiu: a gente é que parou de enxergar.\n\n\"Levantam-se seus filhos e lhe chamam ditosa; seu marido a louva.\" (Provérbios 31:28)\n\n🎨 Animação feita com IA.\n\nDiga obrigado hoje. Marca quem precisa ver isso 👇 e segue a @e_cosdafe\n\n#mae #familia #gratidao #reflexao #fe #maternidade #biblia #proverbios31\n\n#Shorts",
   "tags": [
     "mae",
@@ -16,6 +16,5 @@
   ],
   "privacy": "public",
   "categoryId": 27,
-  "canal": "cristao",
-  "erro": "faltam segredos YT_CLIENT_ID / YT_CLIENT_SECRET / YT_REFRESH_TOKEN_CRISTAO"
+  "canal": "cristao"
 }
