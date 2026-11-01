@@ -59,3 +59,4 @@
 - 2026-11-01 14:55 | cristao-2026-11-01-mae-invisivel | cristao | ok 17906461719666591 | yt ERRO faltam segredos YT_CLIENT_ID / YT_CLIENT_SECRET / YT_REFRESH_TOKEN_CRISTAO
 - 2026-11-01 13:00 | 2026-11-01-13-pais-que-escutam | agendado | ok 18171508618462495 | yt 8C3rbmt4N4A
 - 2026-11-01 14:20 | cristao-2026-11-01-medo + cristao-2026-11-01-mae-invisivel | cristao (YouTube reenviado após configurar YT_REFRESH_TOKEN_CRISTAO, canal JesusIsLove) | yt CjaW0PfkgLA e 0Ydy8YYGW1I
+- 2026-11-01 21:53 | - | cristao+jesusislove | nada nas filas
