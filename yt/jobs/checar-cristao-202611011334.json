@@ -1,1 +1,7 @@
-{"status":"pendente","acao":"checar","canal":"cristao"}
+{
+  "status": "ok",
+  "acao": "checar",
+  "canal": "cristao",
+  "token": "válido",
+  "canal_nome": "Mindloop- Como Funciona ⭐️"
+}
