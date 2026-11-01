@@ -1,7 +1,8 @@
 # Calendário de conteúdo da @mindloop_u
 
 ## NOVA IDENTIDADE (desde 31/10/2026): "A MENTE EM BONEQUINHOS"
-**Mindloop = os loops da mente.** Reflexões curtas (30 s, sem narração) com bonequinhos de palito sobre padrões que todo mundo vive: procrastinação, ansiedade, comparação, celular, trabalho, dinheiro, relacionamentos, disciplina. **Sem religião** (fé e família ficam na @e_cosdafe; não repita temas de lá).
+**Mindloop = os loops da mente.** Reflexões curtas (30 s, sem narração) com bonequinhos de palito sobre padrões que todo mundo vive: procrastinação, ansiedade, comparação, celular, trabalho, dinheiro, relacionamentos, disciplina. **Sem religião** (fé fica na @e_cosdafe; não repita temas de lá).
+**PRIORIDADE (desde 01/11/2026): PAIS E FILHOS.** É o que mais dá resultado nos bonequinhos (Depois: 316 mil; O abraço). Pelo menos 1 dos 2 vídeos do dia é de pais e filhos enquanto houver tema na fila; o outro pode ser de mente.
 Motivo: os bonequinhos fizeram 316 mil views e +1 mil inscritos num vídeo; o "como funciona" genérico não criava fã. O assunto EM ALTA e o carrossel estão pausados.
 
 ### Horários (Brasília): 2 Reels por dia, ambos bonequinhos
@@ -17,6 +18,12 @@ Exemplos: `pipeline/exemplos/palito-venda`, `palito-depois`, `palito-abraco` e `
 ### Fila de temas "mente" (pegue o próximo [ ])
 Temas validados por perfis gringos de bonequinhos (dezenas de milhões de views), recriados com METÁFORA, CENA e TEXTO NOSSOS. Regra: nunca reproduza a cena de um vídeo de outro perfil (não use: muro de tijolos, trampolim, penhasco com degraus rotulados, tubulação de lucro, escada de madeira, casa sendo construída, mesa de amigos aos 18, bicicleta da semana, chuveiro/ampulheta com a morte). Use o tema, invente a imagem.
 - [x] Amanhã eu começo: um no sofá dizendo "amanhã", o outro sobe um degrau por dia (procrastinação)
+- [ ] PAIS RÍGIDOS × PAIS QUE ESCUTAM: o filho chega com uma nota baixa; numa casa ele esconde o boletim, na outra ele mostra e recebe ajuda.
+- [ ] SÓ MAIS 5 MINUTOS (pais e filhos): o filho chama pra brincar e o pai responde "só mais 5 minutos" no notebook; a cada chamada o filho está maior; no fim, o pai chama e o filho adulto responde "só mais 5 minutos" no celular. "ELE APRENDEU COM VOCÊ."
+- [ ] FILHO NÃO ESCUTA, FILHO COPIA (pais e filhos): o pai grita "larga esse celular!" com o celular na mão; o filho repete cada gesto dele como sombra. Um pai larga o celular e o filho larga junto.
+- [ ] O PAI QUE NUNCA DESCANSA: ele carrega a casa nas costas o dia todo; à noite, o filho cobre ele com uma manta.
+- [ ] ELE QUERIA VOCÊ (pais e filhos): o pai trabalha até tarde e traz um presente maior a cada noite; a pilha de caixas cresce no quarto, e o filho dorme abraçado num desenho "EU E O PAPAI".
+- [ ] 18 VERÕES (pais e filhos): um pote com 18 bolinhas; a cada verão sai uma. Um pai deixa as bolinhas caírem olhando a tela; o outro usa cada uma (praia, pipa, bicicleta).
 - [ ] PERFEITO × FEITO (perfeccionismo): um lixa o mesmo primeiro azulejo pra sempre; o outro assenta azulejos tortos e atravessa o rio. Rótulos "PERFEITO" / "FEITO".
 - [ ] PENSA DEMAIS × VAI (overthinking): os dois diante da mesma porta; em volta de um surgem 100 balões ("e se der errado?", "e se rirem?") até a porta sumir atrás deles; o outro gira a maçaneta.
 - [ ] MESMO PRAZO (procrastinação): calendário "30 DIAS" caindo folha por folha; um faz um pouquinho por dia, o outro faz tudo na última noite, sem dormir, café derramado.
@@ -25,13 +32,11 @@ Temas validados por perfis gringos de bonequinhos (dezenas de milhões de views)
 - [ ] RENDA × GASTOS: o salário entra pingando numa caneca; os gastos saem por uma torneira aberta embaixo. Um fecha a torneira, o outro compra outra caneca.
 - [ ] DINHEIRO × TEMPO: um junta moedas numa pilha cada vez mais alta, enquanto o relógio de areia da vida dele esvazia; o outro troca uma moeda por um passeio com quem ama.
 - [ ] MOTIVADO × DISCIPLINADO: dia 1 os dois correm; dia 7 chove: um volta pra cama, o outro calça o tênis. Contador de dias.
-- [ ] PAIS RÍGIDOS × PAIS QUE ESCUTAM: o filho chega com uma nota baixa; numa casa ele esconde o boletim, na outra ele mostra e recebe ajuda.
 - [ ] ANSIOSO × EVITATIVO (relacionamento): ele manda mensagem e fica olhando o "digitando..."; ela vê a notificação e vira o celular pra baixo.
 - [ ] A CABEÇA NA CAMA (overthinking à noite): luz apagada, e o teto se enche de pensamentos pendentes enquanto o outro dorme.
 - [ ] TODO MUNDO VAI × ELE ESCOLHE (seguir a manada): fila enorme entrando numa porta "TODO MUNDO FAZ"; um olha pro lado e vê uma trilha vazia.
 - [ ] QUEM DESISTE NO 99: ele cava atrás de água e desiste; o outro cava mais um pouco e a fonte jorra.
 - [ ] AMIGOS QUE SOBRAM: aos 18, uma roda de 12 cadeiras; aos 30, só 2 cadeiras ocupadas, e são as que importam.
-- [ ] O PAI QUE NUNCA DESCANSA: ele carrega a casa nas costas o dia todo; à noite, o filho cobre ele com uma manta.
 - [ ] DEPOIS DAS 18H: um rola o feed até 2h; o outro dá uma volta, lê, dorme. Gráfico de energia no dia seguinte.
 - [ ] O GUARDA-CHUVA (amizade): na chuva, um divide o guarda-chuva; um dia é ele que está sem, e o outro aparece.
 - [ ] O MURO QUE CONSTRUÍMOS (relacionamento): cada briga sem conversa vira um tijolo de silêncio entre os dois; um tira o primeiro tijolo.
