@@ -54,3 +54,4 @@
 - 2026-10-31 21:52 | - | cristao | nada na fila
 - 2026-10-31 22:52 | 2026-10-31-20-amanha-eu-comeco | agendado | ok 18075247634736941 | yt wO2X7EvlW5E
 - 2026-11-01 00:25 | produção Tarefa B2 (bonequinhos) | fila 13:00 ok 2026-11-01-13-pais-que-escutam (pais rígidos × pais que escutam, 30 s, 2,6 MB) e 20:00 ok 2026-11-01-20-so-mais-5-minutos (30 s, 3,2 MB)
+- 2026-11-01 01:55 | produção Tarefa E (cristao) | fila 07:00 ok cristao-2026-11-01-medo (devocional Is 41:10, texto cinético, voz Fish 3, 36,9 s, 17,7 MB) e 12:00 ok cristao-2026-11-01-mae-invisivel (bonequinhos Pv 31:28, 30 s, 4,2 MB)

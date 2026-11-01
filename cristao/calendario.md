@@ -73,7 +73,7 @@ Visual fixo: fundo preto, bonequinhos brancos com brilho, UM elemento vermelho s
 - [x] O abraço: colo aos 2, 5 e 8 anos; aos 11 ele passa direto; 30 anos depois ele segura o pai (Sl 127:3) — feito 31/10, postado manual pelo Jonas
 
 > **Prioridade: série FAMÍLIA** (o "Depois" fez 316 mil views, +1 mil inscritos; público 25–44 anos). Faça estes antes dos demais:
-- [ ] A mãe invisível: ela faz tudo e ninguém nota, até o dia em que ela falta (Pv 31:28)
+- [x] A mãe invisível: ela faz tudo e ninguém nota, até o dia em que ela falta (Pv 31:28) — 01/11
 - [ ] Os avós: a família no celular durante a visita, até a cadeira ficar vazia (Êx 20:12)
 - [ ] O pai cansado: chega exausto, mas brinca mesmo assim, e o filho guarda isso para sempre (Gl 6:9)
 - [ ] As palavras: "você é burro" vira a voz interna do filho × "eu acredito em você" (Pv 18:21)
