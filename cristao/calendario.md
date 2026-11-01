@@ -72,6 +72,28 @@ Visual fixo: fundo preto, bonequinhos brancos com brilho, UM elemento vermelho s
 - [x] A porta estreita (Mt 7:13-14)
 - [x] O abraço: colo aos 2, 5 e 8 anos; aos 11 ele passa direto; 30 anos depois ele segura o pai (Sl 127:3) — feito 31/10, postado manual pelo Jonas
 
+> **COMO FAZER PAIS E FILHOS QUE PEGA (para o canal JesusIsLove e o @e_cosdafe, desde 01/11/2026)**
+> - **Mexer no ego, sem humilhar:** o espectador tem que se reconhecer no pai/mãe que erra ("isso sou eu") e sentir o soco, mas o final sempre abre uma saída (dá tempo de mudar). Nunca culpe, nunca zombe.
+> - **Gancho que confronta no 1º segundo** (2 a 3 linhas no alto): frases como "SEU FILHO NÃO LEMBRA DO PRESENTE", "VOCÊ ACHA QUE ELE NÃO PERCEBE", "UM DIA VAI SER A ÚLTIMA VEZ".
+> - **O tempo é o vilão:** mostre o filho crescendo (cena repetida com o filho cada vez maior) e a conta chegando anos depois. É o que fez o "Depois" render 316 mil.
+> - **Virada com esperança:** um pai larga o celular, ajoelha, pede desculpa, abraça. O vermelho é o objeto do erro (celular, pedra, porta, relógio).
+> - **Frase final de print:** curta, gigante, que dá vontade de mandar pra alguém ("ELE APRENDEU COM VOCÊ", "PRESENÇA É O PRESENTE").
+> - **Legenda que puxa comentário:** pergunta que obriga a escolher ou a se expor ("Qual dos dois pais você é? 1 ou 2 👇", "Comenta EU QUEBRO O CICLO se você vai fazer diferente"), 1 versículo, "Marca quem precisa ver isso 👇", "🎨 Animação feita com IA.", 5 a 7 hashtags (#paisefilhos #familia #reflexao #fe #paternidade #maternidade).
+
+> **FILA FORTE DE PAIS E FILHOS (pegue estes ANTES dos demais, na ordem):**
+- [ ] O desenho: o filho desenha a família na escola; todos têm rosto, o pai é só um retângulo vermelho de celular. "NO DESENHO DELE, VOCÊ É UMA TELA." (Sl 127:3)
+- [ ] A última vez: o pai carrega o filho no colo, todo dia, sem saber qual será a última; um dia ele não pede mais colo. "VOCÊ NÃO VAI SABER QUE FOI A ÚLTIMA VEZ." (Ec 3:1)
+- [ ] Primeiros passos, últimos passos: o pai segura a mão do filho nos primeiros passos; 50 anos depois, o filho segura a mão do pai nos últimos. (Is 46:4)
+- [ ] Agora não: o filho corre com o desenho e ouve "agora não" (3 vezes, cada vez maior); anos depois o pai pede pra conversar e o filho adulto responde "agora não". (Gl 6:9)
+- [ ] A frase que ficou: o pai grita uma vez "você não serve pra nada" e esquece; a frase vira uma pedra vermelha que o filho carrega até adulto, até alguém dizer "eu acredito em você". (Ef 6:4)
+- [ ] Por que você não é igual ao seu irmão?: a cada comparação a criança encolhe; o outro pai olha cada filho pelo que ele é e ela volta a crescer. (Sl 139:14)
+- [ ] O pai que pede desculpa: um pai nunca admite erro e o filho aprende a esconder os dele; o outro se ajoelha e diz "o papai errou, me desculpa". "QUEM PEDE PERDÃO ENSINA A PERDOAR." (Cl 3:13)
+- [ ] A porta fechada: o adolescente tranca o quarto; um pai bate uma vez e vai embora; o outro senta no chão do lado de fora e espera, noite após noite, até a porta abrir. (Lc 15:20)
+- [ ] A oração do filho: a criança reza "Deus, faz o papai chegar cedo hoje"; o celular do pai mostra "chego tarde"; um dia ele lê o bilhete da oração e volta pra casa. (Mt 18:10)
+- [ ] O abraço que ele nunca recebeu: o pai que não foi abraçado não sabe abraçar; os braços dele são pesados (vermelhos); ele tenta mesmo assim, desajeitado, e o ciclo quebra. "O CICLO PARA EM VOCÊ." (2Co 5:17)
+- [ ] O telefone que parou de tocar: a mãe idosa liga, o filho adulto recusa ("depois eu ligo"), as ligações ficam mais raras até parar; ele liga de volta e ela atende sorrindo: ainda dá tempo. (Êx 20:12)
+- [ ] Ninguém nasce sabendo ser pai: o pai erra, cai, tenta de novo com um manual em branco; ele ajoelha, pede sabedoria e levanta com o filho no colo. (Tg 1:5)
+
 > **Prioridade: série FAMÍLIA (PAIS E FILHOS). Desde 01/11/2026 todo bonequinho de pais e filhos é deste perfil, e não mais da Mindloop.** (o "Depois" fez 316 mil views, +1 mil inscritos; público 25–44 anos). Faça estes antes dos demais:
 - [x] A mãe invisível: ela faz tudo e ninguém nota, até o dia em que ela falta (Pv 31:28) — 01/11
 - [ ] Filho não escuta, filho copia: o pai grita "larga esse celular!" com o celular na mão; o filho repete cada gesto dele como sombra. Um pai larga o celular e o filho larga junto (Pv 22:6) — veio da Mindloop
