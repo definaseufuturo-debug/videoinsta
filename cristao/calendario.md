@@ -2,13 +2,68 @@
 
 **Identidade:** "a Bíblia no mapa". Histórias bíblicas contadas como mapa animado em pergaminho, com rota, lugares, números do próprio texto e a referência bíblica. De 35 a 50 s, em 9:16 e em português.
 
-## Horários (Brasília): 2 Reels por dia desde 31/10/2026
-- **Todo dia, 12:00: REFLEXÃO EM BONEQUINHOS** (o formato que mais rende).
-- **2º vídeo do dia:** seg/qua/sex = **19:00 MAPA** "A Bíblia no mapa"; ter/qui/sáb/dom = **07:00 DEVOCIONAL**.
-- **07:00 (ter/qui/sáb/dom): DEVOCIONAL "Palavra da Manhã".** Um versículo + contexto + aplicação, de 30 a 40 s. Estilo TEXTO CINÉTICO do exemplo `devocional-cinetico` (cor chapada por cena, palavras gigantes entrando no instante em que são faladas, destaques sublinhados, referência no rodapé, CTA "comenta amém" + botão seguir). O antigo `biblia-devocional` (pergaminho) não é mais usado.
-- **12:00: REFLEXÃO EM BONEQUINHOS (palito).** Animação sem narração, 30 s, trilha sintetizada própria. Estilo dos exemplos `palito-venda` ("Tire a venda", o melhor até agora) e `palito-depois`.
-- **19:00 (seg/qua/sex): MAPA "A Bíblia no mapa".** Série de histórias bíblicas em mapa de pergaminho (exemplos `biblia-exodo` e `biblia-paulo`).
-- Os dois são postados pela API oficial da Meta (`pipeline/ig_post.sh`), uns 8 min antes do horário.
+## DIVISÃO DOS CANAIS (desde 02/11/2026, decisão do Jonas)
+| Canal | O que posta | Quando |
+|---|---|---|
+| **Instagram @e_cosdafe** | Conteúdo bíblico viral **sem bonequinhos**: devocional/reflexão, mapas, personagens, curiosidades e dados, estudo bíblico, quiz | 2 Reels por dia: **07:00** e **19:00** |
+| **YouTube JesusIsLove** (canal cristão) | **Só bonequinhos de pais e filhos**, temas fortes e emocionantes | 1 Short por dia: **12:00** |
+Os posts do Instagram **não vão mais para o YouTube**, e os bonequinhos **não vão mais para o Instagram**. Cada canal tem a sua fila: `--conta cristao` (Instagram, vídeos em `videos/cristao/`) e `--conta jesusislove` (YouTube, vídeos em `videos/jesusislove/`).
+
+## Instagram @e_cosdafe: o que vai em cada horário
+- **07:00 todo dia: PALAVRA DA MANHÃ** (devocional ou reflexão), estilo TEXTO CINÉTICO do exemplo `devocional-cinetico`, voz 3, 30 a 40 s, CTA "comenta amém".
+- **19:00, formato do dia:**
+  - **seg e qui: MAPA** "A Bíblia no mapa" (pergaminho, exemplos `biblia-exodo` e `biblia-paulo`, voz 4, série que puxa a próxima).
+  - **ter: PERSONAGEM BÍBLICO** "Quem foi X em 40 segundos": gancho com o fato mais chocante da vida dele, 3 viradas, lição final. Texto cinético (ou pergaminho com a rota da vida dele), voz 4.
+  - **qua e sáb: CURIOSIDADES E DADOS DA BÍBLIA:** números grandes na tela ("969 ANOS", "300 SOLDADOS"), gancho "você sabia que…", fecha com pergunta para comentar. Texto cinético, voz 4.
+  - **sex: ESTUDO BÍBLICO RÁPIDO** "o que significa…": uma palavra ou passagem explicada em 3 passos, com a referência. Texto cinético, voz 3.
+  - **dom: QUIZ "SÓ QUEM LÊ A BÍBLIA ACERTA":** 3 perguntas com contagem de 3 s e resposta na tela; CTA "comenta quantas você acertou". Texto cinético, voz 4.
+- **Regras para viralizar (todos):** gancho forte no 1º segundo (número, pergunta ou fato chocante), 30 a 45 s, uma ideia por vídeo, CTA que pede comentário com palavra fácil ("amém", "eu sabia", o número de acertos), "segue a @e_cosdafe" com motivo ("todo dia uma curiosidade da Bíblia"). Fato conferido no texto bíblico e em mais uma fonte; sem polêmica denominacional (se a contagem muda entre católicos e evangélicos, diga as duas).
+
+## YouTube JesusIsLove: bonequinhos de pais e filhos (12:00, 1 por dia)
+- Só temas de **pais e filhos / família** (fila forte e série FAMÍLIA abaixo). Os temas que não são de família ficam de fora por enquanto.
+- Formato dos bonequinhos e guia "COMO FAZER PAIS E FILHOS QUE PEGA" abaixo. 30 s, sem narração, trilha própria.
+- Título no YouTube: a frase que dói, curta e sem emoji ("Seu filho não lembra do presente"), até 80 caracteres.
+- Descrição: a mesma legenda (pergunta que obriga a escolher + versículo + "Marca quem precisa ver isso").
+
+## Fila do PERSONAGEM BÍBLICO (ter 19:00, pegue o próximo [ ])
+- [ ] Matusalém: o homem que viveu 969 anos (Gn 5:21-27)
+- [ ] José do Egito: de escravo a governador em 13 anos (Gn 37:2; 41:46)
+- [ ] Gideão: Deus mandou mandar embora 31.700 soldados e lutar com 300 (Jz 7)
+- [ ] Ester: a órfã que virou rainha e salvou o seu povo (Et 2; 4:14)
+- [ ] Sansão: a força, a traição e a última oração (Jz 16)
+- [ ] Pedro: negou 3 vezes e foi perguntado 3 vezes "tu me amas?" (Lc 22:61; Jo 21:15-17)
+- [ ] Rute: a estrangeira que virou bisavó do rei Davi (Rt 1:16; 4:17)
+- [ ] Daniel: orou 3 vezes por dia mesmo com a lei proibindo (Dn 6:10)
+- [ ] Zaqueu: o baixinho que subiu na árvore e mudou de vida no mesmo dia (Lc 19:1-10)
+- [ ] Moisés: 40 anos no Egito, 40 no deserto, 40 guiando o povo (At 7:23, 30, 36)
+
+## Fila de CURIOSIDADES E DADOS (qua e sáb 19:00, pegue o próximo [ ])
+- [ ] O versículo mais curto da Bíblia tem 2 palavras: "Jesus chorou" (Jo 11:35)
+- [ ] O livro da Bíblia que não cita o nome de Deus nenhuma vez (Ester)
+- [ ] Dois homens da Bíblia que não morreram (Enoque, Gn 5:24; Elias, 2Rs 2:11)
+- [ ] O maior e o menor capítulo da Bíblia (Sl 119 com 176 versículos; Sl 117 com 2)
+- [ ] Os únicos animais que falaram na Bíblia (a serpente, Gn 3; a jumenta de Balaão, Nm 22:28)
+- [ ] O tamanho real da arca de Noé: 300 côvados, uns 135 metros (Gn 6:15)
+- [ ] Quantos livros tem a Bíblia: 66 na evangélica, 73 na católica, e por quê
+- [ ] As 3 vezes em que a Bíblia diz que Jesus chorou (Jo 11:35; Lc 19:41; Hb 5:7)
+- [ ] Quanto valiam 30 moedas de prata (Mt 26:15; Êx 21:32)
+- [ ] O homem mais alto da Bíblia: Golias e os 6 côvados (1Sm 17:4)
+
+## Fila de ESTUDO BÍBLICO RÁPIDO (sex 19:00, pegue o próximo [ ])
+- [ ] O que significa "amém" de verdade
+- [ ] O que significa "Emanuel" (Is 7:14; Mt 1:23)
+- [ ] O grão de mostarda: a fé que move montanhas (Mt 17:20)
+- [ ] Os 9 frutos do Espírito (Gl 5:22-23)
+- [ ] A armadura de Deus peça por peça (Ef 6:13-17)
+- [ ] Por que Jesus falava em parábolas (Mt 13:10-13)
+- [ ] O que significa "aleluia"
+- [ ] O que é graça, em uma frase (Ef 2:8-9)
+
+## Fila do QUIZ (dom 19:00, 3 perguntas por vídeo, pegue o próximo [ ])
+- [ ] Quantos dias Jonas ficou no peixe? (3, Jn 1:17) · Quantos dias choveu no dilúvio? (40, Gn 7:12) · Qual foi o 1º milagre de Jesus? (água em vinho, Jo 2:1-11)
+- [ ] Quantos discípulos Jesus escolheu? (12) · Por quantas moedas Judas traiu Jesus? (30, Mt 26:15) · Quem foi jogado na cova dos leões? (Daniel, Dn 6)
+- [ ] Quantos livros tem o Novo Testamento? (27) · Quem construiu a arca? (Noé) · Quantos anos o povo andou no deserto? (40, Nm 14:33)
+- [ ] Quem venceu Golias? (Davi) · Quantas pragas caíram no Egito? (10) · Qual o primeiro livro da Bíblia? (Gênesis)
 
 ## Formato fixo
 - Estilo dos exemplos `biblia-exodo` e `biblia-paulo`: papel pergaminho, mapa real (Natural Earth), rota que anda junto com a narração, multidão/viajante, placas com os números do texto.
@@ -56,7 +111,7 @@ No estilo cinético, o que varia é a **paleta** (uma cor por cena, no bloco CON
 - [ ] Humildade: pratique a justiça, ame a misericórdia (Mq 6:8)
 - [ ] Novo dia: este é o dia que o Senhor fez (Sl 118:24)
 
-## Reflexão em bonequinhos (12:00): formato
+## Reflexão em bonequinhos (YouTube JesusIsLove, 12:00): formato
 O que fez o "Tire a venda" render 3× mais que os outros: **metáfora visual que se entende sem som no 1º segundo**, **ação contínua** (gente caindo, andando, empurrando: nunca uma cena parada) e **tema universal**.
 1. 0–2 s: a cena-metáfora já em movimento + gancho no alto em 2 a 3 linhas (espaçado, branco/vermelho).
 2. 2–10 s: a multidão repete o erro (vários bonequinhos, profundidade com 2 fileiras).
@@ -66,7 +121,7 @@ O que fez o "Tire a venda" render 3× mais que os outros: **metáfora visual que
 6. 24–30 s: frase final gigante (branco + vermelho) + subfrase + "MARCA QUEM PRECISA VER ISSO".
 Visual fixo: fundo preto, bonequinhos brancos com brilho, UM elemento vermelho simbólico (venda, corrente, pedra, máscara, bola), sem rosto, sem emoji, sem texto além dos títulos. Trilha: copie `audio.py` do exemplo e ajuste os eventos (tensão → pancadas → virada esperançosa); -14 LUFS. Legenda: pergunta direta + 1 versículo que conversa com a metáfora + "Marca quem precisa ver isso 👇".
 
-## Fila dos bonequinhos (12:00, pegue o próximo [ ])
+## Fila dos bonequinhos (YouTube JesusIsLove, 12:00, só pais e filhos, pegue o próximo [ ])
 - [x] Tire a venda: todos vendados caem no buraco; um tira a venda e segura a fila (Mt 15:14)
 - [x] Depois: o pai no celular, o filho cresce (Sl 127:3)
 - [x] A porta estreita (Mt 7:13-14)
@@ -115,7 +170,7 @@ Visual fixo: fundo preto, bonequinhos brancos com brilho, UM elemento vermelho s
 - [ ] A fila do "eu": todos com setas apontando para si; um vira a seta para o outro (Fp 2:4)
 - [ ] O barulho: todos com fones e telas gritando; um tira o fone e ouve o silêncio (Sl 46:10)
 
-## Fila do mapa (19:00, pegue o próximo [ ])
+## Fila do mapa (Instagram, seg e qui 19:00, pegue o próximo [ ])
 - [x] O Êxodo: do Egito ao Mar Vermelho (Êx 12–14) — postado 27/10
 - [x] Do Mar Vermelho ao Sinai: Mara, Elim, o maná e Refidim (Êx 15–19) — 28/10
 - [x] Por que 40 anos no deserto? Os espias e Cades-Barneia (Nm 13–14; Dt 1:2 "onze dias") — 29/10

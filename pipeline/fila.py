@@ -9,7 +9,8 @@
   python3 pipeline/fila.py proximo --so-carrossel   -> só carrosséis vencidos (nunca usa a reserva)
   python3 pipeline/fila.py para_reserva <id>       -> tira um agendado pendente do horário e põe no início da reserva
   python3 pipeline/fila.py status                  -> resumo
-  Qualquer comando + "--conta cristao" usa a fila do perfil cristão (fila_cristao.json, vídeos em videos/cristao/).
+  Qualquer comando + "--conta cristao" usa a fila do perfil cristão (fila_cristao.json, vídeos em videos/cristao/);
+  "--conta jesusislove" usa a fila do YouTube JesusIsLove (fila_jesusislove.json, vídeos em videos/jesusislove/).
 
 Regras do "proximo":
   1. item de "agendados" com status "pendente" e postar_em <= agora + 25 min (o mais antigo primeiro);
