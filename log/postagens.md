@@ -60,3 +60,4 @@
 - 2026-11-01 13:00 | 2026-11-01-13-pais-que-escutam | agendado | ok 18171508618462495 | yt 8C3rbmt4N4A
 - 2026-11-01 14:20 | cristao-2026-11-01-medo + cristao-2026-11-01-mae-invisivel | cristao (YouTube reenviado após configurar YT_REFRESH_TOKEN_CRISTAO, canal JesusIsLove) | yt CjaW0PfkgLA e 0Ydy8YYGW1I
 - 2026-11-01 21:53 | - | cristao+jesusislove | nada nas filas
+- 2026-11-01 22:55 | 2026-11-01-20-so-mais-5-minutos | agendado | ok 17915566923539295 | yt Uw32LEIM-X4
