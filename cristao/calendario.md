@@ -136,7 +136,7 @@ Visual fixo: fundo preto, bonequinhos brancos com brilho, UM elemento vermelho s
 > - **Legenda que puxa comentário:** pergunta que obriga a escolher ou a se expor ("Qual dos dois pais você é? 1 ou 2 👇", "Comenta EU QUEBRO O CICLO se você vai fazer diferente"), 1 versículo, "Marca quem precisa ver isso 👇", "🎨 Animação feita com IA.", 5 a 7 hashtags (#paisefilhos #familia #reflexao #fe #paternidade #maternidade).
 
 > **FILA FORTE DE PAIS E FILHOS (pegue estes ANTES dos demais, na ordem):**
-- [ ] O desenho: o filho desenha a família na escola; todos têm rosto, o pai é só um retângulo vermelho de celular. "NO DESENHO DELE, VOCÊ É UMA TELA." (Sl 127:3)
+- [x] O desenho: o filho desenha a família na escola; todos têm rosto, o pai é só um retângulo vermelho de celular. "NO DESENHO DELE, VOCÊ É UMA TELA." (Sl 127:3) — 02/11
 - [ ] A última vez: o pai carrega o filho no colo, todo dia, sem saber qual será a última; um dia ele não pede mais colo. "VOCÊ NÃO VAI SABER QUE FOI A ÚLTIMA VEZ." (Ec 3:1)
 - [ ] Primeiros passos, últimos passos: o pai segura a mão do filho nos primeiros passos; 50 anos depois, o filho segura a mão do pai nos últimos. (Is 46:4)
 - [ ] Agora não: o filho corre com o desenho e ouve "agora não" (3 vezes, cada vez maior); anos depois o pai pede pra conversar e o filho adulto responde "agora não". (Gl 6:9)
