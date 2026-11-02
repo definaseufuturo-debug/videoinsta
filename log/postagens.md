@@ -62,3 +62,4 @@
 - 2026-11-01 21:53 | - | cristao+jesusislove | nada nas filas
 - 2026-11-01 22:55 | 2026-11-01-20-so-mais-5-minutos | agendado | ok 17915566923539295 | yt Uw32LEIM-X4
 - 2026-11-02 00:24 | produção Tarefa B2 (bonequinhos) | fila 12:00 ok 2026-11-02-12-perfeito-feito (perfeccionismo, 30 s, 3,5 MB) e 19:00 ok 2026-11-02-19-pensa-demais (overthinking, 30 s, 6,8 MB)
+- 2026-11-02 02:05 | produção Tarefa E (cristao) | fila IG 07:00 ok cristao-2026-11-02-cansaco (devocional Mt 11:28, texto cinético, voz Fish 3, 34,8 s, 16 MB) · fila YT 12:00 ok jil-2026-11-02-o-desenho (bonequinhos pais e filhos "O desenho", Sl 127:3, 30 s, 3,6 MB) · fila IG 19:00 ok cristao-2026-11-02-jordao-jerico (mapa Js 3–6, voz Fish 4, 38,9 s, 6 MB; série puxa "as 12 tribos")

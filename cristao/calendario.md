@@ -174,7 +174,7 @@ Visual fixo: fundo preto, bonequinhos brancos com brilho, UM elemento vermelho s
 - [x] O Êxodo: do Egito ao Mar Vermelho (Êx 12–14) — postado 27/10
 - [x] Do Mar Vermelho ao Sinai: Mara, Elim, o maná e Refidim (Êx 15–19) — 28/10
 - [x] Por que 40 anos no deserto? Os espias e Cades-Barneia (Nm 13–14; Dt 1:2 "onze dias") — 29/10
-- [ ] A travessia do Jordão e a queda de Jericó (Js 3–6)
+- [x] A travessia do Jordão e a queda de Jericó (Js 3–6) — 02/11
 - [ ] As 12 tribos: onde cada uma ficou na terra prometida (Js 13–19)
 - [ ] Davi e Golias: o vale de Elá no mapa (1Sm 17)
 - [ ] Elias: do monte Carmelo ao Horebe, 40 dias de caminhada (1Rs 18–19)
