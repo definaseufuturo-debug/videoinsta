@@ -68,3 +68,4 @@
 - 2026-11-02 15:17 | cristao | nada na fila (Instagram)
 - 2026-11-02 15:17 | jil-2026-11-02-o-desenho | jesusislove | yt g6QflGCbiFI
 - 2026-11-02 15:30 | 2026-11-02-12-perfeito-feito | agendado | ok 18135530491782930 | yt 0ziCf4WMSEw
+- 2026-11-02 21:54 | 2026-11-02-19-pensa-demais | agendado | ok 18132750028741940 | yt tpRYU5JqA7M (descrição vazia: legenda indisponível após marcar)
