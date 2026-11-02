@@ -65,3 +65,5 @@
 - 2026-11-02 01:59 | produção Tarefa E (cristao) | fila IG 07:00 ok cristao-2026-11-02-cansaco (devocional Mt 11:28, texto cinético, voz Fish 3, 34,8 s, 16 MB) · fila YT 12:00 ok jil-2026-11-02-o-desenho (bonequinhos pais e filhos "O desenho", Sl 127:3, 30 s, 3,6 MB) · fila IG 19:00 ok cristao-2026-11-02-jordao-jerico (mapa Js 3–6, voz Fish 4, 38,9 s, 6 MB; série puxa "as 12 tribos")
 - 2026-11-02 09:55 | cristao-2026-11-02-cansaco | cristao | ok 18118680908044165
 - 2026-11-02 09:55 | jesusislove | nada na fila
+- 2026-11-02 15:17 | cristao | nada na fila (Instagram)
+- 2026-11-02 15:17 | jil-2026-11-02-o-desenho | jesusislove | yt g6QflGCbiFI
