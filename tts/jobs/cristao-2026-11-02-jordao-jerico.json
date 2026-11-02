@@ -1,0 +1,37 @@
+{
+  "status": "pendente",
+  "voice": "a0a26a57cac94ea4918f05a2393b4259",
+  "speed": 1.12,
+  "model": "s2.1-pro-free",
+  "language": "pt",
+  "clips": [
+    {
+      "id": "c1",
+      "text": "Treze voltas e um grito. Foi assim que caiu Jericó. Mas antes, um rio cheio parou de correr."
+    },
+    {
+      "id": "c2",
+      "text": "O povo sai de Sitim e chega ao Jordão. Mas o rio está transbordando: era tempo de colheita."
+    },
+    {
+      "id": "c3",
+      "text": "Os sacerdotes entram na água com a arca. E as águas param, num montão, lá longe, perto da cidade de Adã."
+    },
+    {
+      "id": "c4",
+      "text": "O povo atravessa em seco, de frente para Jericó. Doze pedras saem do meio do rio, uma por tribo, e viram memorial em Gilgal."
+    },
+    {
+      "id": "c5",
+      "text": "Em Jericó, a ordem é estranha: uma volta por dia, durante seis dias, com sete sacerdotes tocando trombetas."
+    },
+    {
+      "id": "c6",
+      "text": "No sétimo dia, sete voltas. A trombeta toca, o povo grita, e a muralha cai."
+    },
+    {
+      "id": "c7",
+      "text": "Qual muralha você precisa ver cair? Comenta aqui. E segue, porque a próxima parte é onde ficou cada uma das doze tribos."
+    }
+  ]
+}
