@@ -61,3 +61,4 @@
 - 2026-11-01 14:20 | cristao-2026-11-01-medo + cristao-2026-11-01-mae-invisivel | cristao (YouTube reenviado após configurar YT_REFRESH_TOKEN_CRISTAO, canal JesusIsLove) | yt CjaW0PfkgLA e 0Ydy8YYGW1I
 - 2026-11-01 21:53 | - | cristao+jesusislove | nada nas filas
 - 2026-11-01 22:55 | 2026-11-01-20-so-mais-5-minutos | agendado | ok 17915566923539295 | yt Uw32LEIM-X4
+- 2026-11-02 00:24 | produção Tarefa B2 (bonequinhos) | fila 12:00 ok 2026-11-02-12-perfeito-feito (perfeccionismo, 30 s, 3,5 MB) e 19:00 ok 2026-11-02-19-pensa-demais (overthinking, 30 s, 6,8 MB)

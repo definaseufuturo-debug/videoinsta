@@ -25,7 +25,7 @@ Temas validados por perfis gringos de bonequinhos (dezenas de milhões de views)
 - [→ cristão] ELE QUERIA VOCÊ (pais e filhos): o pai trabalha até tarde e traz um presente maior a cada noite; a pilha de caixas cresce no quarto, e o filho dorme abraçado num desenho "EU E O PAPAI".
 - [→ cristão] 18 VERÕES (pais e filhos): um pote com 18 bolinhas; a cada verão sai uma. Um pai deixa as bolinhas caírem olhando a tela; o outro usa cada uma (praia, pipa, bicicleta).
 - [x] PERFEITO × FEITO (perfeccionismo): um lixa o mesmo primeiro azulejo pra sempre; o outro assenta azulejos tortos e atravessa o rio. Rótulos "PERFEITO" / "FEITO".
-- [ ] PENSA DEMAIS × VAI (overthinking): os dois diante da mesma porta; em volta de um surgem 100 balões ("e se der errado?", "e se rirem?") até a porta sumir atrás deles; o outro gira a maçaneta.
+- [x] PENSA DEMAIS × VAI (overthinking): os dois diante da mesma porta; em volta de um surgem 100 balões ("e se der errado?", "e se rirem?") até a porta sumir atrás deles; o outro gira a maçaneta.
 - [ ] MESMO PRAZO (procrastinação): calendário "30 DIAS" caindo folha por folha; um faz um pouquinho por dia, o outro faz tudo na última noite, sem dormir, café derramado.
 - [ ] O SUCESSO QUE NINGUÉM VIU (bastidores): no palco, aplausos e holofote; a cortina sobe e mostra 1.000 tentativas amassadas no chão atrás dele.
 - [ ] DIPLOMA × HABILIDADE: um ganha um troféu de papel que molha na chuva; o outro aprende a consertar o guarda-chuva e ajuda todo mundo.
