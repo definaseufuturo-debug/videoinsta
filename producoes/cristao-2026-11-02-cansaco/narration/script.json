@@ -1,0 +1,20 @@
+{
+  "voice": "pf_dora",
+  "speed": 1.08,
+  "lang": "pt-br",
+  "_comment": "Devocional TEXTO CINÉTICO — Cansaço. Mateus 11:28 (ARA: 'Vinde a mim, todos os que estais cansados e sobrecarregados, e eu vos aliviarei'); v.30 'o meu jugo é suave, e o meu fardo é leve'. Contexto: palavras de Jesus no mesmo discurso em que agradece por revelar as coisas 'aos pequeninos' (Mt 11:25); contraste com os 'fardos pesados' postos sobre o povo (Mt 23:4). Conferido em Bíblia ARA (bibliaonline.com.br/ara/mt/11) e comentário Enduring Word ('O jugo suave e o fardo leve').",
+  "say": {},
+  "fish": { "voice": "a7f67c4e2d94440aad9c5a82365d9d92", "speed": 1.05, "model": "s2.1-pro-free" },
+  "accent": ["cansado", "cansados", "sobrecarregados", "aliviarei", "jesus", "peso", "vem", "leve", "sozinho", "cansaco", "amem"],
+  "clips": [
+    { "id": "c1", "scene": 1, "minStart": 0.3, "gapAfterPrev": 0, "text": "Acordou cansado antes mesmo de o dia começar?" },
+    { "id": "c2", "scene": 2, "minStart": 0, "gapAfterPrev": 0.5, "text": "Vinde a mim, todos os que estais cansados e sobrecarregados, e eu vos aliviarei." },
+    { "id": "c3", "scene": 3, "minStart": 0, "gapAfterPrev": 0.5, "text": "Quem disse isso foi Jesus, a gente simples, que vivia carregando peso demais." },
+    { "id": "c4", "scene": 4, "minStart": 0, "gapAfterPrev": 0.45, "text": "Ele não disse: se esforça mais. Ele disse: vem. E prometeu um fardo leve." },
+    { "id": "c5", "scene": 5, "minStart": 0, "gapAfterPrev": 0.45, "text": "Hoje, antes de carregar tudo sozinho de novo, para um minuto e entrega esse cansaço a ele." },
+    { "id": "c6", "scene": 6, "minStart": 0, "gapAfterPrev": 0.5, "text": "Se essa palavra é pra você, comenta amém. E segue, pra receber uma palavra toda manhã." }
+  ],
+  "ref": { "c2": "MATEUS 11:28" },
+  "tailAfterLastClip": 2.0,
+  "keywords": []
+}
