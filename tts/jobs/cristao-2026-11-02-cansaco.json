@@ -1,0 +1,33 @@
+{
+  "status": "pendente",
+  "voice": "a7f67c4e2d94440aad9c5a82365d9d92",
+  "speed": 1.05,
+  "model": "s2.1-pro-free",
+  "language": "pt",
+  "clips": [
+    {
+      "id": "c1",
+      "text": "Acordou cansado antes mesmo de o dia começar?"
+    },
+    {
+      "id": "c2",
+      "text": "Vinde a mim, todos os que estais cansados e sobrecarregados, e eu vos aliviarei."
+    },
+    {
+      "id": "c3",
+      "text": "Quem disse isso foi Jesus, a gente simples, que vivia carregando peso demais."
+    },
+    {
+      "id": "c4",
+      "text": "Ele não disse: se esforça mais. Ele disse: vem. E prometeu um fardo leve."
+    },
+    {
+      "id": "c5",
+      "text": "Hoje, antes de carregar tudo sozinho de novo, para um minuto e entrega esse cansaço a ele."
+    },
+    {
+      "id": "c6",
+      "text": "Se essa palavra é pra você, comenta amém. E segue, pra receber uma palavra toda manhã."
+    }
+  ]
+}
