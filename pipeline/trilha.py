@@ -77,15 +77,16 @@ def mixar(o):
     m = (f"[1:a]aresample=48000,atrim=duration={dur:.3f},asetpts=PTS-STARTPTS,volume={gain},"
          f"afade=t=in:d=0.6,afade=t=out:st={fo:.3f}:d=2[m]")
     if o.substituir or not tem_audio(o.video):
-        fc, mapa = m, "[m]"
+        fc = m + ";[m]anull[pre]"
     elif o.duck:
         # a voz (áudio do vídeo) comprime a música: ela abaixa ~8 dB quando alguém fala
         fc = (m + ";[0:a]aresample=48000,asplit=2[v][sc];[m][sc]sidechaincompress=threshold=0.03:ratio=6:attack=40:release=450[md];"
-              "[v][md]amix=inputs=2:duration=first:normalize=0,alimiter=limit=0.95[a]")
-        mapa = "[a]"
+              "[v][md]amix=inputs=2:duration=first:normalize=0[pre]")
     else:
-        fc = m + ";[0:a]aresample=48000[v];[v][m]amix=inputs=2:duration=first:normalize=0,alimiter=limit=0.95[a]"
-        mapa = "[a]"
+        fc = m + ";[0:a]aresample=48000[v];[v][m]amix=inputs=2:duration=first:normalize=0[pre]"
+    # volume final no padrão de Reels/Shorts (-14 LUFS, pico -1,5 dB)
+    fc += ";[pre]loudnorm=I=-14:TP=-1.5:LRA=11,aresample=48000[a]"
+    mapa = "[a]"
     subprocess.check_call(["ffmpeg", "-y", "-loglevel", "error", "-i", str(o.video), "-stream_loop", "-1", "-i", str(trilha),
                            "-filter_complex", fc, "-map", "0:v", "-map", mapa, "-c:v", "copy", "-c:a", "aac", "-b:a", "192k",
                            "-t", f"{dur:.3f}", str(o.saida)])
