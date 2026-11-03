@@ -1,0 +1,33 @@
+{
+  "status": "pendente",
+  "voice": "a7f67c4e2d94440aad9c5a82365d9d92",
+  "speed": 1.05,
+  "model": "s2.1-pro-free",
+  "language": "pt",
+  "clips": [
+    {
+      "id": "c1",
+      "text": "Sente que a sua vida saiu do lugar?"
+    },
+    {
+      "id": "c2",
+      "text": "Eu é que sei os pensamentos que tenho a vosso respeito: pensamentos de paz, e não de mal."
+    },
+    {
+      "id": "c3",
+      "text": "Deus mandou essa carta a um povo levado preso para a Babilônia, longe de casa, por setenta anos."
+    },
+    {
+      "id": "c4",
+      "text": "No meio do exílio, ele não disse: acabou. Ele disse: eu tenho um plano, e ele é de paz."
+    },
+    {
+      "id": "c5",
+      "text": "Hoje, mesmo que nada faça sentido, confia: quem escreve a sua história não perdeu o fio."
+    },
+    {
+      "id": "c6",
+      "text": "Se essa palavra é pra você, comenta amém. E segue, pra receber uma palavra toda manhã."
+    }
+  ]
+}
