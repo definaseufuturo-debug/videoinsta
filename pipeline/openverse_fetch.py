@@ -3,7 +3,7 @@
 Openverse (só licenças que podem ir em conta comercial), baixa os melhores resultados para
 openverse/out/<slug>/ e grava resultados.json com autor, licença e a linha de crédito.
 Segredos opcionais: OPENVERSE_CLIENT_ID e OPENVERSE_CLIENT_SECRET (sem eles usa o limite anônimo)."""
-import json, os, sys, urllib.parse, urllib.request, urllib.error
+import json, os, sys, time, urllib.parse, urllib.request, urllib.error
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -20,7 +20,12 @@ def token():
 def get(url, tok):
     h = dict(UA); 
     if tok: h["Authorization"] = "Bearer " + tok
-    with urllib.request.urlopen(urllib.request.Request(url, headers=h), timeout=60) as r: return r.read()
+    for i in range(4):
+        try:
+            with urllib.request.urlopen(urllib.request.Request(url, headers=h), timeout=90) as r: return r.read()
+        except urllib.error.HTTPError as e:
+            if e.code not in (429, 502, 503, 504) or i == 3: raise
+            time.sleep(8 * (i + 1))
 
 tok = None
 try: tok = token()
