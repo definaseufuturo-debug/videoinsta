@@ -1,17 +1,42 @@
 {
-  "_comment": "Clima da cena -> buscas no Openverse (inglês rende mais). Use com: pipeline/openverse.sh <slug> clima:<chave>. 'gain' = volume sugerido da trilha sob o áudio do vídeo.",
+  "_comment": "Clima da cena -> buscas no Openverse (inglês rende mais; '|' = OU). 'gain' = volume da trilha sob o áudio do vídeo. O banco de trilhas (trilhas/) é montado a partir daqui pelo pipeline/trilhas_fetch.py; escolha e mixagem com pipeline/trilha.py <grupo>/<clima>.",
   "pais_filhos": {
-    "saudade":      {"desc": "pai ou mãe sentindo falta, tempo que passou, 'a última vez'", "q": ["nostalgic piano", "melancholic piano", "sad piano instrumental"], "gain": 0.55},
-    "arrependimento": {"desc": "ausência, celular na mão, não ter dado atenção, 'depois'", "q": ["sad ambient piano", "emotional piano slow", "regret cinematic"], "gain": 0.5},
-    "ternura":      {"desc": "colo, abraço, cuidado, bebê, boa noite", "q": ["tender piano", "lullaby", "gentle music box", "soft acoustic guitar"], "gain": 0.5},
-    "gratidao":     {"desc": "gratidão, orgulho, 'obrigado pai/mãe'", "q": ["warm acoustic guitar", "grateful piano", "heartwarming instrumental"], "gain": 0.5},
-    "perdao":       {"desc": "briga e reconciliação, pedir desculpa, voltar pra casa", "q": ["hopeful piano", "forgiveness emotional piano", "reconciliation cinematic"], "gain": 0.5},
-    "esperanca":    {"desc": "recomeço, fé, o filho que volta, final de luz", "q": ["hopeful cinematic", "uplifting piano strings", "inspiring ambient"], "gain": 0.5},
-    "alegria":      {"desc": "brincar, riso, domingo em família", "q": ["happy ukulele", "playful acoustic", "cheerful family"], "gain": 0.45},
-    "tensao":       {"desc": "discussão, silêncio pesado, adolescente trancado no quarto", "q": ["tense ambient", "dark piano drone", "suspense minimal"], "gain": 0.45}
+    "saudade":        {"desc": "pai ou mãe sentindo falta, tempo que passou, 'a última vez'", "q": ["nostalgic piano", "melancholic piano", "sad piano instrumental", "memories piano"], "gain": 0.55},
+    "arrependimento": {"desc": "ausência, celular na mão, não ter dado atenção, 'depois'", "q": ["sad ambient piano", "emotional piano slow", "regret cinematic", "sorrow strings"], "gain": 0.5},
+    "ternura":        {"desc": "colo, abraço, cuidado, bebê, boa noite", "q": ["tender piano", "lullaby", "gentle music box", "soft acoustic guitar"], "gain": 0.5},
+    "gratidao":       {"desc": "gratidão, orgulho, 'obrigado pai/mãe'", "q": ["warm acoustic guitar", "grateful piano", "heartwarming instrumental", "warm strings"], "gain": 0.5},
+    "perdao":         {"desc": "briga e reconciliação, pedir desculpa, voltar pra casa", "q": ["hopeful piano", "forgiveness emotional piano", "reconciliation cinematic"], "gain": 0.5},
+    "esperanca":      {"desc": "recomeço, fé, o filho que volta, final de luz", "q": ["hopeful cinematic", "uplifting piano strings", "inspiring ambient"], "gain": 0.5},
+    "alegria":        {"desc": "brincar, riso, domingo em família", "q": ["happy ukulele", "playful acoustic", "cheerful family", "whistle happy"], "gain": 0.45},
+    "tensao":         {"desc": "discussão, silêncio pesado, adolescente trancado no quarto", "q": ["tense ambient", "dark piano drone", "suspense minimal"], "gain": 0.45}
   },
-  "devocional": {"calmo": {"q": ["calm piano", "peaceful ambient", "worship instrumental"], "gain": 0.3}},
-  "mapa":       {"viagem": {"q": ["ancient middle eastern", "desert ambient", "epic journey instrumental"], "gain": 0.3}},
-  "personagem": {"epico": {"q": ["biblical cinematic", "ancient cinematic ambient", "epic strings slow"], "gain": 0.3}},
-  "mente":      {"reflexivo": {"q": ["lofi chill", "ambient electronic soft", "minimal piano"], "gain": 0.4}}
+  "mente": {
+    "reflexivo":   {"desc": "reflexão calma, pensamento, rotina", "q": ["lofi chill", "ambient electronic soft", "minimal piano"], "gain": 0.4},
+    "melancolico": {"desc": "solidão, cansaço, ansiedade, noite", "q": ["sad lofi", "melancholic ambient", "rainy piano"], "gain": 0.45},
+    "inspirador":  {"desc": "virada, superação, disciplina, 'você consegue'", "q": ["inspiring piano", "motivational cinematic", "uplifting ambient"], "gain": 0.45},
+    "tensao":      {"desc": "pressão, comparação, redes sociais, vício", "q": ["tense electronic", "dark ambient pulse", "suspense minimal"], "gain": 0.4},
+    "leve":        {"desc": "humor, cotidiano, curiosidade", "q": ["quirky playful", "light pizzicato", "cute ukulele"], "gain": 0.4}
+  },
+  "devocional": {
+    "calmo":     {"desc": "Palavra da manhã, paz, oração", "q": ["calm piano", "peaceful ambient", "worship instrumental", "meditation piano"], "gain": 0.3},
+    "adoracao":  {"desc": "louvor, glória, gratidão a Deus", "q": ["worship pad", "hymn instrumental", "church organ soft", "ambient pad strings"], "gain": 0.3},
+    "esperanca": {"desc": "promessa, consolo, recomeço", "q": ["hopeful piano", "uplifting strings", "sunrise ambient"], "gain": 0.3}
+  },
+  "mapa":       {"viagem": {"desc": "rotas e lugares bíblicos", "q": ["ancient middle eastern", "desert ambient", "epic journey instrumental", "oud instrumental"], "gain": 0.3}},
+  "personagem": {"epico":  {"desc": "personagem bíblico, batalha, reino", "q": ["biblical cinematic", "ancient cinematic ambient", "epic strings slow", "epic orchestral"], "gain": 0.3}},
+  "cristao": {
+    "curiosidade": {"desc": "curiosidades e dados da Bíblia", "q": ["documentary ambient", "mysterious cinematic", "curious pizzicato"], "gain": 0.3},
+    "quiz":        {"desc": "quiz bíblico com contagem", "q": ["game show quiz", "thinking music", "light suspense loop"], "gain": 0.3},
+    "estudo":      {"desc": "estudo bíblico, ensino", "q": ["soft piano background", "study ambient", "calm acoustic"], "gain": 0.3}
+  },
+  "achadinhos": {
+    "animado": {"desc": "achadinhos, promo, review rápido", "q": ["upbeat pop", "happy electronic", "energetic funk", "upbeat corporate"], "gain": 0.35},
+    "chill":   {"desc": "casa, organização, beleza", "q": ["chill hop", "lofi beat", "soft house"], "gain": 0.35},
+    "tech":    {"desc": "gadgets, eletrônicos", "q": ["future bass", "tech electronic", "synthwave"], "gain": 0.35}
+  },
+  "stickyman": {
+    "leve":    {"desc": "explicação de finanças do dia a dia", "q": ["quirky playful", "light jazz", "funny pizzicato"], "gain": 0.35},
+    "tensao":  {"desc": "dívida, juros, cartão estourado", "q": ["tense pizzicato", "suspense comedic", "dark jazz"], "gain": 0.35},
+    "vitoria": {"desc": "saiu das dívidas, investiu, meta batida", "q": ["triumphant upbeat", "happy victory", "uplifting pop"], "gain": 0.35}
+  }
 }

@@ -41,6 +41,40 @@ CATALOGO = {
     'dinheiro': ('cash register', 1.8, 0.45),  # venda, faturamento
     'impacto': ('impact', 2.0, 0.5),           # batida grave (dramático, use pouco)
     'riser': ('riser', 3.5, 0.35),             # subida antes de uma virada (dramático, use pouco)
+    # ---- sons de cena (foley gravado de verdade), para os bonequinhos e vídeos de história ----
+    'porta': ('door close', 2.0, 0.55),
+    'porta_rangendo': ('door creak', 3.0, 0.45),
+    'passos': ('footsteps', 3.0, 0.45),
+    'relogio': ('clock ticking', 4.0, 0.35),
+    'coracao': ('heartbeat', 3.0, 0.5),
+    'celular': ('phone vibrate', 2.0, 0.45),
+    'notificacao': ('notification', 1.2, 0.4),
+    'chaves': ('keys jingle', 1.8, 0.45),
+    'copo': ('glass clink', 1.2, 0.4),
+    'papel': ('paper rustle', 1.8, 0.4),
+    'teclado': ('keyboard typing', 3.0, 0.35),
+    'camera': ('camera shutter', 1.0, 0.45),
+    'moedas': ('coins', 1.8, 0.45),
+    'bebe': ('baby laugh', 3.0, 0.45),
+    'criancas': ('children laughing', 3.5, 0.45),
+    'suspiro': ('sigh', 2.0, 0.5),
+    'aplausos': ('applause', 4.0, 0.4),
+    'sino_igreja': ('church bell', 4.0, 0.4),
+    'trovao': ('thunder', 4.0, 0.5),
+    'espada': ('sword', 1.5, 0.45),
+    'ovelhas': ('sheep', 2.5, 0.4),
+    'cavalo': ('horse gallop', 3.0, 0.4),
+    'carro': ('car pass by', 4.0, 0.4),
+    # ambientes (camas de fundo de 12 s; o sfx.py repete com crossfade): permitem 'ambience' no título
+    'amb_chuva': ('rain', 12.0, 0.25),
+    'amb_vento': ('wind', 12.0, 0.25),
+    'amb_passaros': ('birds chirping', 12.0, 0.2),
+    'amb_noite': ('crickets night', 12.0, 0.2),
+    'amb_cidade': ('city traffic ambience', 12.0, 0.2),
+    'amb_multidao': ('crowd murmur', 12.0, 0.2),
+    'amb_fogueira': ('campfire', 12.0, 0.25),
+    'amb_mar': ('ocean waves', 12.0, 0.25),
+    'amb_casa': ('room tone house', 12.0, 0.15),
 }
 
 # Kenney (CC0). pacote: {categoria: (volume, duração máxima, [arquivos])}
@@ -159,7 +193,11 @@ def candidatos(q, maximo, usados):
             titulo = (r.get('title') or '').lower()
             if r.get('license') != 'cc0' or not r.get('url') or r['id'] in usados:
                 continue
-            if not (0.04 <= dur <= maximo * 2.5) or any(p in titulo for p in EVITAR):
+            ambiente = maximo >= 10  # camas de ambiente: aceitam sons longos e 'ambience'/'atmos' no título
+            if ambiente:
+                if not (maximo * 0.8 <= dur <= 300) or any(p in titulo for p in ('music', 'song', 'melody', 'beat')):
+                    continue
+            elif not (0.04 <= dur <= maximo * 2.5) or any(p in titulo for p in EVITAR):
                 continue
             yield r
 

@@ -1,0 +1,35 @@
+# Monta o banco de trilhas por clima (pipeline/clima.json) a partir do Openverse.
+# Disparo: push de trilhas/pedido.txt (feito por pipeline/trilha.py pedir) ou manual.
+# Roda no GitHub porque o ambiente do Claude não alcança api.openverse.org.
+name: trilhas
+on:
+  push:
+    paths: ["trilhas/pedido.txt"]
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: trilhas
+  cancel-in-progress: false
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+      - name: Instalar ffmpeg
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg
+      - name: Buscar trilhas
+        env:
+          OPENVERSE_CLIENT_ID: ${{ secrets.OPENVERSE_CLIENT_ID }}
+          OPENVERSE_CLIENT_SECRET: ${{ secrets.OPENVERSE_CLIENT_SECRET }}
+        run: python3 pipeline/trilhas_fetch.py
+      - name: Salvar no repositório
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add trilhas/
+          git diff --cached --quiet && exit 0
+          git commit -m "trilhas: banco atualizado"
+          for i in 1 2 3; do git pull --rebase origin main && git push origin HEAD:main && break; sleep 5; done
