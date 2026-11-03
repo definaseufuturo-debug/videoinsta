@@ -79,3 +79,5 @@
 - 2026-11-03 14:55 | nada na fila cristao (Instagram @e_cosdafe)
 - 2026-11-03 14:55 | jil-2026-11-03-a-ultima-vez | jesusislove | yt dEB1h00ab4s
 - 2026-11-03 21:53 | 2026-11-03-19-sucesso-bastidores | agendado | ok 17979010161135215 | yt In7Txue3Mp8
+- 2026-11-03 21:56 | cristao-2026-11-03-matusalem | cristao | ok 18117002456276005
+- 2026-11-03 21:56 | jesusislove | nada na fila
