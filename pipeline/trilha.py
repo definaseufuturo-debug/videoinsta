@@ -96,6 +96,23 @@ def mixar(o):
         print(f"CREDITO: 🎵 {t['credito']}")
 
 
+def carregar(chave, slug, sr, n):
+    """Para o tools/audio.py dos vídeos narrados: escolhe a trilha do clima (rodízio) e devolve
+    (amostras estéreo float (n, 2) com fade, dict da trilha). Repete a trilha se o vídeo for mais longo."""
+    import numpy as np
+    t = escolher(chave, slug)
+    bruto = subprocess.run(["ffmpeg", "-v", "error", "-i", str(PASTA / t["arquivo"]), "-ac", "2", "-ar", str(sr), "-f", "f32le", "-"],
+                           check=True, capture_output=True).stdout
+    x = np.frombuffer(bruto, dtype=np.float32).reshape(-1, 2).astype(np.float64)
+    if len(x) < n:
+        x = np.concatenate([x] * (n // len(x) + 1))
+    x = x[:n].copy()
+    f_in, f_out = min(int(0.6 * sr), n // 4), min(int(2.0 * sr), n // 3)
+    x[:f_in] *= np.linspace(0, 1, f_in)[:, None]
+    x[-f_out:] *= np.linspace(1, 0, f_out)[:, None]
+    return x, t
+
+
 def listar(chave=None):
     banco = ler(BANCO, {})
     usos = {}

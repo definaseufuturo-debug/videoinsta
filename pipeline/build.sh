@@ -10,7 +10,7 @@ assert not bad, f"timeline fora de ordem: {bad[:3]}"
 print("timeline ok", t['duration'], "s")
 PY
 node tools/export-cues.js
-python3 tools/audio.py | tail -2
+python3 tools/audio.py | tail -5
 if [ "$1" = "--frames" ]; then node render.js --frames "$2"; exit 0; fi
 node render.js --workers "$(nproc)" | tail -1
 ls -la build/video.mp4

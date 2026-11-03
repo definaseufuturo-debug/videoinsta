@@ -240,6 +240,32 @@ H = {"engine": lambda c: engine(c["t"], c["dur"], c["f0"], c["f1"], c.get("gain"
      "minus": lambda c: minus(c["t"]), "plus": lambda c: plus(c["t"]), "stamp": lambda c: stamp(c["t"]), "bell": lambda c: bell(c["t"]), "confetti": lambda c: confetti(c["t"]), "music": lambda c: None}
 for c in CUES: H[c["type"]](c)
 
+# ============================ TRILHA REAL (desde 03/11/2026) ============================
+# Se narration/script.json tiver "clima": "<grupo>/<clima>" (pipeline/clima.json), a batida sintética acima é
+# trocada por uma trilha real do banco trilhas/ (rodízio sem repetir), no mesmo volume e com o mesmo abaixamento
+# sob a voz. Sem "clima" ou sem trilha no banco, fica a sintética.
+try:
+    _cl = json.loads((ROOT / "narration/script.json").read_text()).get("clima")
+except Exception:
+    _cl = None
+(ROOT / "build/credito.txt").unlink(missing_ok=True)
+if _cl:
+    import sys
+    sys.path.insert(0, str(ROOT.parent.parent / "pipeline"))
+    try:
+        import trilha as _tr
+        _real, _t = _tr.carregar(_cl, ROOT.name, SR, N)
+        _alvo = np.sqrt(np.mean(mus ** 2)) + 1e-9
+        mus = _real / (np.sqrt(np.mean(_real ** 2)) + 1e-9) * _alvo * 0.9
+        print(f"trilha real: {_t['arquivo']} | {_t['titulo']} ({_t['autor']}, {_t['licenca']})")
+        if _t.get("credito"):
+            (ROOT / "build/credito.txt").write_text("🎵 " + _t["credito"] + "\n")
+            print("CREDITO: 🎵 " + _t["credito"])
+    except SystemExit as e:
+        print(f"aviso: {e}; usando a trilha sintética")
+    except Exception as e:
+        print(f"aviso: trilha real falhou ({e}); usando a sintética")
+
 # ============================ MIX ============================
 voz, sr = sf.read(ROOT / "build/narracao.wav")
 if sr != SR: voz = signal.resample_poly(voz, SR, sr)
