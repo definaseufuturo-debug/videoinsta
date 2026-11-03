@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Motor de F1 por dentro</title>
+<style>
+  @font-face { font-family: Inter; src: url(../assets/fonts/Inter-Medium.otf); font-weight: 500; }
+  @font-face { font-family: Inter; src: url(../assets/fonts/Inter-SemiBold.otf); font-weight: 600; }
+  @font-face { font-family: Inter; src: url(../assets/fonts/Inter-Bold.otf); font-weight: 700; }
+  @font-face { font-family: Inter; src: url(../assets/fonts/Inter-ExtraBold.otf); font-weight: 800; }
+  @font-face { font-family: Inter; src: url(../assets/fonts/Inter-Black.otf); font-weight: 900; }
+  :root { --bg: #030817; --panel: #0b1f33; --teal: #32bcad; --gold: #ffc857; --txt: #e9f6fb; }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; height: 100%; background: var(--bg); color: var(--txt); font-family: Inter, system-ui, sans-serif; }
+  .wrap { height: 100%; display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 12px; padding: 12px 16px; }
+  canvas { height: calc(100vh - 120px); max-width: calc(100vw - 32px); aspect-ratio: 9 / 16; border-radius: 14px; box-shadow: 0 10px 50px rgba(50,188,173,.15); background: #000; cursor: pointer; object-fit: contain; }
+  .bar { width: min(560px, 100%); display: flex; align-items: center; gap: 10px; }
+  button { background: var(--panel); color: var(--txt); border: 1px solid rgba(50,188,173,.4); border-radius: 10px; padding: 8px 12px; font: 600 14px Inter, sans-serif; cursor: pointer; }
+  button:hover { border-color: var(--teal); }
+  .track { position: relative; flex: 1; height: 28px; }
+  input[type=range] { width: 100%; accent-color: var(--gold); margin: 0; position: absolute; top: 6px; }
+  .marks { position: absolute; inset: 22px 0 0 0; pointer-events: none; }
+  .marks span { position: absolute; top: 0; width: 2px; height: 6px; background: var(--teal); opacity: .7; }
+  .time { font: 600 13px Inter, sans-serif; min-width: 92px; text-align: right; font-variant-numeric: tabular-nums; }
+  .scene { font: 500 13px Inter, sans-serif; opacity: .8; height: 16px; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <canvas id="cv" width="1080" height="1920" title="Clique para reproduzir/pausar"></canvas>
+  <div class="scene" id="scene"></div>
+  <div class="bar">
+    <button id="play">▶ Reproduzir</button>
+    <button id="restart" title="Reiniciar">⟲</button>
+    <div class="track"><input id="seek" type="range" min="0" max="1000" value="0"><div class="marks" id="marks"></div></div>
+    <div class="time" id="time">0.0 / 0.0 s</div>
+  </div>
+</div>
+<audio id="au" src="../build/audio_final.wav" preload="auto"></audio>
+<script src="../build/timeline.js"></script>
+<script src="../src/anim.js"></script>
+<script>
+(async function () {
+  const cv = document.getElementById('cv'), ctx = cv.getContext('2d'), au = document.getElementById('au');
+  const $ = id => document.getElementById(id);
+  await document.fonts.load('800 60px Inter'); await document.fonts.load('900 60px Inter'); await document.fonts.load('600 30px Inter');
+  const produto = new Image(); produto.src = '../assets/produto_card.png'; await produto.decode().catch(() => {});
+  const anim = F1Anim.create(window.TIMELINE, { createCanvas: (w, h) => { const c = document.createElement('canvas'); c.width = w; c.height = h; return c; }, images: { produto } });
+  const D = anim.duration;
+  anim.scenes.forEach(s => { const m = document.createElement('span'); m.style.left = (s.t0 / D * 100) + '%'; m.title = s.name; $('marks').appendChild(m); });
+  // relógio: o áudio é a referência; se o áudio não carregar, usa relógio interno (sem som)
+  let audioOk = true, playing = false, t0 = 0, base = 0;
+  au.addEventListener('error', () => { audioOk = false; });
+  const now = () => (audioOk ? au.currentTime : playing ? base + (performance.now() - t0) / 1000 : base);
+  function setT(t) { t = Math.max(0, Math.min(D, t)); if (audioOk) au.currentTime = t; base = t; t0 = performance.now(); }
+  async function play() { if (now() >= D - 0.02) setT(0); playing = true; t0 = performance.now(); if (audioOk) { try { await au.play(); } catch (e) { audioOk = false; } } $('play').textContent = '❚❚ Pausar'; }
+  function pause() { base = now(); playing = false; if (audioOk) au.pause(); $('play').textContent = '▶ Reproduzir'; }
+  $('play').onclick = () => (playing ? pause() : play()); cv.onclick = $('play').onclick;
+  $('restart').onclick = () => { setT(0); play(); };
+  $('seek').oninput = e => setT(e.target.value / 1000 * D);
+  document.addEventListener('keydown', e => { if (e.code === 'Space') { e.preventDefault(); $('play').onclick(); } if (e.code === 'ArrowRight') setT(now() + 2); if (e.code === 'ArrowLeft') setT(now() - 2); });
+  au.addEventListener('ended', pause);
+  (function loop() {
+    let t = now(); if (playing && !audioOk && t >= D) { pause(); t = D; }
+    anim.draw(ctx, t);
+    $('seek').value = Math.round(t / D * 1000);
+    $('time').textContent = t.toFixed(1) + ' / ' + D.toFixed(1) + ' s';
+    const sc = anim.scenes.filter(s => t >= s.t0).pop(); $('scene').textContent = sc ? `Cena ${sc.n} — ${sc.name}` : '';
+    requestAnimationFrame(loop);
+  })();
+})();
+</script>
+</body>
+</html>

@@ -71,3 +71,4 @@
 - 2026-11-02 21:54 | 2026-11-02-19-pensa-demais | agendado | ok 18132750028741940 | yt tpRYU5JqA7M (descrição vazia: legenda indisponível após marcar)
 - 2026-11-02 21:55 | cristao-2026-11-02-jordao-jerico | cristao | ok 18254734864308459
 - 2026-11-02 21:55 | fila jesusislove | nada na fila
+- 2026-11-03 00:24 | produção B2 | mindloop | 2026-11-03-12-mesmo-prazo (12:00) e 2026-11-03-19-sucesso-bastidores (19:00) na fila

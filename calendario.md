@@ -27,7 +27,7 @@ Temas validados por perfis gringos de bonequinhos (dezenas de milhões de views)
 - [x] PERFEITO × FEITO (perfeccionismo): um lixa o mesmo primeiro azulejo pra sempre; o outro assenta azulejos tortos e atravessa o rio. Rótulos "PERFEITO" / "FEITO".
 - [x] PENSA DEMAIS × VAI (overthinking): os dois diante da mesma porta; em volta de um surgem 100 balões ("e se der errado?", "e se rirem?") até a porta sumir atrás deles; o outro gira a maçaneta.
 - [x] MESMO PRAZO (procrastinação): calendário "30 DIAS" caindo folha por folha; um faz um pouquinho por dia, o outro faz tudo na última noite, sem dormir, café derramado.
-- [ ] O SUCESSO QUE NINGUÉM VIU (bastidores): no palco, aplausos e holofote; a cortina sobe e mostra 1.000 tentativas amassadas no chão atrás dele.
+- [x] O SUCESSO QUE NINGUÉM VIU (bastidores): no palco, aplausos e holofote; a cortina sobe e mostra 1.000 tentativas amassadas no chão atrás dele.
 - [ ] DIPLOMA × HABILIDADE: um ganha um troféu de papel que molha na chuva; o outro aprende a consertar o guarda-chuva e ajuda todo mundo.
 - [ ] RENDA × GASTOS: o salário entra pingando numa caneca; os gastos saem por uma torneira aberta embaixo. Um fecha a torneira, o outro compra outra caneca.
 - [ ] DINHEIRO × TEMPO: um junta moedas numa pilha cada vez mais alta, enquanto o relógio de areia da vida dele esvazia; o outro troca uma moeda por um passeio com quem ama.
