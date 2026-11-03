@@ -1,0 +1,30 @@
+# Busca e baixa áudio do Openverse (segredos opcionais OPENVERSE_CLIENT_ID / OPENVERSE_CLIENT_SECRET).
+# Disparo: push de um arquivo em openverse/jobs/<slug>.json (feito por pipeline/openverse.sh).
+name: openverse
+on:
+  push:
+    paths: ["openverse/jobs/*.json"]
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: openverse
+  cancel-in-progress: false
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Buscar áudios pendentes
+        env:
+          OPENVERSE_CLIENT_ID: ${{ secrets.OPENVERSE_CLIENT_ID }}
+          OPENVERSE_CLIENT_SECRET: ${{ secrets.OPENVERSE_CLIENT_SECRET }}
+        run: python3 pipeline/openverse_fetch.py
+      - name: Salvar no repositório
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add openverse/
+          git diff --cached --quiet && exit 0
+          git commit -m "openverse: áudios baixados"
+          for i in 1 2 3; do git pull --rebase origin main && git push origin HEAD:main && break; sleep 5; done

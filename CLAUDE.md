@@ -163,3 +163,6 @@ Todo dia: **Instagram 07:00** Palavra da Manhã (devocional/reflexão) + **Insta
 2. Salve o `caption` num arquivo temporário SEM a 1ª linha `TITULO: …` e rode `bash pipeline/yt_post.sh <id> videos/jesusislove/<arquivo do video_url> <arquivo> "<título da linha TITULO>" cristao` (se não houver linha TITULO, crie um título curto e forte, até 80 caracteres, sem emoji).
 3. `postado` → `python3 pipeline/fila.py marcar <id> <video_id> --conta jesusislove` e `python3 pipeline/fila.py marcar_yt <id> <video_id> --conta jesusislove`. Erro → `fila.py falhou <id> "<erro>" --conta jesusislove`; se for `quotaExceeded`, deixe para o dia seguinte; senão tente de novo uma vez depois de 1 minuto.
 4. Linha no `log/postagens.md`: `- AAAA-MM-DD HH:MM | <id> | jesusislove | yt <video_id>` (ou `ERRO …`). Commit e push.
+
+## Música e sons livres (Openverse)
+`bash pipeline/openverse.sh <slug> "<busca>" [music|sound_effect] [min_s] [max_s] [n]` busca no Openverse via GitHub Actions (`openverse.yml`, segredos opcionais `OPENVERSE_CLIENT_ID` e `OPENVERSE_CLIENT_SECRET`) e traz os arquivos para `openverse/out/<slug>/`, com `resultados.json`. Só licenças cc0, pdm e by. Se a licença for BY, ponha o campo `credito` na legenda do Instagram e na descrição do YouTube. Ouça antes de usar.
