@@ -76,3 +76,5 @@
 - 2026-11-03 09:55 | cristao-2026-11-03-proposito | cristao | ok 18133689097689082
 - 2026-11-03 09:55 | fila jesusislove | nada na fila
 - 2026-11-03 14:55 | 2026-11-03-12-mesmo-prazo | agendado | ok 18104254862530551 | yt GdGeiwvJJ0g
+- 2026-11-03 14:55 | nada na fila cristao (Instagram @e_cosdafe)
+- 2026-11-03 14:55 | jil-2026-11-03-a-ultima-vez | jesusislove | yt dEB1h00ab4s
