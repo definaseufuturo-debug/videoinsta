@@ -1,4 +1,156 @@
 {
+  "amb_chuva": {
+    "busca": "rain",
+    "max": 12.0,
+    "volume": 0.25,
+    "variacoes": [
+      {
+        "arquivo": "amb_chuva-1.wav",
+        "pico": 10.105,
+        "duracao": 12.0,
+        "titulo": "Rain Sound and Rainforest.mp3",
+        "autor": "INNORECORDS",
+        "pagina": "https://freesound.org/people/INNORECORDS/sounds/457447",
+        "licenca": "CC0",
+        "id": "9df463a7-c243-4e7d-9251-20ca3b8f8cce"
+      },
+      {
+        "arquivo": "amb_chuva-2.wav",
+        "pico": 10.665,
+        "duracao": 12.0,
+        "titulo": "THUNDER / Rain low frequencies 4-CHANNEL-48kHz.wav",
+        "autor": "BlueDelta",
+        "pagina": "https://freesound.org/people/BlueDelta/sounds/367222",
+        "licenca": "CC0",
+        "id": "c48df7a7-3761-4c48-9a86-024496893316"
+      },
+      {
+        "arquivo": "amb_chuva-3.wav",
+        "pico": 10.355,
+        "duracao": 12.0,
+        "titulo": "1 Minute Rain (Medium)",
+        "autor": "yzhamua",
+        "pagina": "https://freesound.org/people/yzhamua/sounds/188655",
+        "licenca": "CC0",
+        "id": "a3fcc6d0-c4aa-4c1d-abfe-47287f48777e"
+      }
+    ],
+    "descartados": []
+  },
+  "amb_passaros": {
+    "busca": "birds chirping",
+    "max": 12.0,
+    "volume": 0.2,
+    "variacoes": [
+      {
+        "arquivo": "amb_passaros-1.wav",
+        "pico": 6.615,
+        "duracao": 12.0,
+        "titulo": "Birds Chirping on a Tree 2",
+        "autor": "freelibras",
+        "pagina": "https://freesound.org/people/freelibras/sounds/327445",
+        "licenca": "CC0",
+        "id": "41401047-ffc5-43be-b56c-6f6495598117"
+      },
+      {
+        "arquivo": "amb_passaros-2.wav",
+        "pico": 3.565,
+        "duracao": 12.0,
+        "titulo": "Birds Chirping 01 - Down small park lane",
+        "autor": "swiftoid",
+        "pagina": "https://freesound.org/people/swiftoid/sounds/182503",
+        "licenca": "CC0",
+        "id": "71d69c05-73b8-4676-ae47-c421f0ac6711"
+      },
+      {
+        "arquivo": "amb_passaros-3.wav",
+        "pico": 1.955,
+        "duracao": 12.0,
+        "titulo": "Bird Chirp City Park.wav",
+        "autor": "pawsound",
+        "pagina": "https://freesound.org/people/pawsound/sounds/154824",
+        "licenca": "CC0",
+        "id": "18001ace-5ebf-4cad-ba7d-523bee845e2f"
+      }
+    ],
+    "descartados": []
+  },
+  "amb_vento": {
+    "busca": "wind",
+    "max": 12.0,
+    "volume": 0.25,
+    "variacoes": [
+      {
+        "arquivo": "amb_vento-1.wav",
+        "pico": 0.155,
+        "duracao": 12.0,
+        "titulo": "wind in the trees",
+        "autor": "deleted_user_229898",
+        "pagina": "https://freesound.org/people/deleted_user_229898/sounds/150174",
+        "licenca": "CC0",
+        "id": "563956ed-e029-44d7-8079-3c30c066c137"
+      },
+      {
+        "arquivo": "amb_vento-2.wav",
+        "pico": 1.295,
+        "duracao": 12.0,
+        "titulo": "Wind chimes 1",
+        "autor": "giddster",
+        "pagina": "https://freesound.org/people/giddster/sounds/437337",
+        "licenca": "CC0",
+        "id": "a018190a-e4b9-463a-a790-04876a045e51"
+      },
+      {
+        "arquivo": "amb_vento-3.wav",
+        "pico": 2.965,
+        "duracao": 12.0,
+        "titulo": "Wind blowing in some metal door (Storage Boxes)",
+        "autor": "felix.blume",
+        "pagina": "https://freesound.org/people/felix.blume/sounds/171084",
+        "licenca": "CC0",
+        "id": "4b7536aa-38ed-4183-975c-89b4ed86e889"
+      }
+    ],
+    "descartados": []
+  },
+  "aplausos": {
+    "busca": "applause",
+    "max": 4.0,
+    "volume": 0.4,
+    "variacoes": [
+      {
+        "arquivo": "aplausos-1.wav",
+        "pico": 3.445,
+        "duracao": 4.0,
+        "titulo": "Applause 2.WAV",
+        "autor": "Sandermotions",
+        "pagina": "https://freesound.org/people/Sandermotions/sounds/277021",
+        "licenca": "CC0",
+        "id": "baf7990c-657a-47ab-83c0-4ec2437095c3"
+      },
+      {
+        "arquivo": "aplausos-2.wav",
+        "pico": 1.175,
+        "duracao": 4.0,
+        "titulo": "Applause 1.WAV",
+        "autor": "Sandermotions",
+        "pagina": "https://freesound.org/people/Sandermotions/sounds/277022",
+        "licenca": "CC0",
+        "id": "d7b70792-b273-4386-b719-48ce9b81fd31"
+      },
+      {
+        "arquivo": "aplausos-3.wav",
+        "pico": 3.545,
+        "duracao": 4.0,
+        "titulo": "Applause 4.WAV",
+        "autor": "Sandermotions",
+        "pagina": "https://freesound.org/people/Sandermotions/sounds/277019",
+        "licenca": "CC0",
+        "id": "a2936960-278a-4b59-9f36-b5edad671794"
+      }
+    ],
+    "descartados": []
+  },
   "batida": {
     "busca": null,
     "max": 0.8,
@@ -47,6 +199,234 @@
     ],
     "descartados": []
   },
+  "bebe": {
+    "busca": "baby laugh",
+    "max": 3.0,
+    "volume": 0.45,
+    "variacoes": [
+      {
+        "arquivo": "bebe-1.wav",
+        "pico": 1.825,
+        "duracao": 3.0,
+        "titulo": "Furby Baby Laugh",
+        "autor": "chinyyyere",
+        "pagina": "https://freesound.org/people/chinyyyere/sounds/722365",
+        "licenca": "CC0",
+        "id": "b7359e9e-4ddc-4280-8331-7213ae7da36f"
+      },
+      {
+        "arquivo": "bebe-2.wav",
+        "pico": 0.775,
+        "duracao": 1.755,
+        "titulo": "babygiggle.mp3",
+        "autor": "jamesmbock",
+        "pagina": "https://freesound.org/people/jamesmbock/sounds/458645",
+        "licenca": "CC0",
+        "id": "be840c63-d8a9-488a-b9a2-1660d9f3c70e"
+      },
+      {
+        "arquivo": "bebe-3.wav",
+        "pico": 0.485,
+        "duracao": 3.0,
+        "titulo": "C2_baby-laughing-04.mp3",
+        "autor": "Iamgiorgio",
+        "pagina": "https://freesound.org/people/Iamgiorgio/sounds/371302",
+        "licenca": "CC0",
+        "id": "e3e5f9fd-a23b-4d64-835b-73f08ba60af2"
+      }
+    ],
+    "descartados": []
+  },
+  "camera": {
+    "busca": "camera shutter",
+    "max": 1.0,
+    "volume": 0.45,
+    "variacoes": [
+      {
+        "arquivo": "camera-1.wav",
+        "pico": 0.095,
+        "duracao": 0.286,
+        "titulo": "Camera Shutter",
+        "autor": "roachpowder",
+        "pagina": "https://freesound.org/people/roachpowder/sounds/170229",
+        "licenca": "CC0",
+        "id": "3290f0e3-a217-48c9-bafb-06401b961c21"
+      },
+      {
+        "arquivo": "camera-2.wav",
+        "pico": 0.645,
+        "duracao": 0.991,
+        "titulo": "Camera Shutter Click",
+        "autor": "Kodack",
+        "pagina": "https://freesound.org/people/Kodack/sounds/271010",
+        "licenca": "CC0",
+        "id": "3b3d0256-4d25-442b-9d84-dc0bb191ede0"
+      },
+      {
+        "arquivo": "camera-3.wav",
+        "pico": 0.155,
+        "duracao": 0.281,
+        "titulo": "1/100 second camera shutter",
+        "autor": "FenrirFangs",
+        "pagina": "https://freesound.org/people/FenrirFangs/sounds/213180",
+        "licenca": "CC0",
+        "id": "a5cb320c-8121-4e60-aba9-cfec8bf9d119"
+      }
+    ],
+    "descartados": []
+  },
+  "carro": {
+    "busca": "car pass by",
+    "max": 4.0,
+    "volume": 0.4,
+    "variacoes": [
+      {
+        "arquivo": "carro-1.wav",
+        "pico": 1.455,
+        "duracao": 4.0,
+        "titulo": "Car passing by.wav",
+        "autor": "hinzebeat",
+        "pagina": "https://freesound.org/people/hinzebeat/sounds/171447",
+        "licenca": "CC0",
+        "id": "32ddca2a-1ac9-4336-98d4-ec4d659807eb"
+      },
+      {
+        "arquivo": "carro-2.wav",
+        "pico": 1.485,
+        "duracao": 4.0,
+        "titulo": "One car passing by",
+        "autor": "JPBILLINGSLEYJR",
+        "pagina": "https://freesound.org/people/JPBILLINGSLEYJR/sounds/465397",
+        "licenca": "CC0",
+        "id": "bcb3560f-6495-4944-984b-c592e7eecad2"
+      },
+      {
+        "arquivo": "carro-3.wav",
+        "pico": 1.085,
+        "duracao": 4.0,
+        "titulo": "Car passing by.wav",
+        "autor": "961_Studios",
+        "pagina": "https://freesound.org/people/961_Studios/sounds/244407",
+        "licenca": "CC0",
+        "id": "3a05634b-82bb-40f4-b4f6-d608abf14b37"
+      }
+    ],
+    "descartados": []
+  },
+  "cavalo": {
+    "busca": "horse gallop",
+    "max": 3.0,
+    "volume": 0.4,
+    "variacoes": [
+      {
+        "arquivo": "cavalo-1.wav",
+        "pico": 1.125,
+        "duracao": 3.0,
+        "titulo": "horse gallop 2.wav",
+        "autor": "SAMAMM101",
+        "pagina": "https://freesound.org/people/SAMAMM101/sounds/328819",
+        "licenca": "CC0",
+        "id": "bcd48cc9-9305-486e-8cec-188014f5cad9"
+      },
+      {
+        "arquivo": "cavalo-2.wav",
+        "pico": 1.235,
+        "duracao": 3.0,
+        "titulo": "Horse carriage in Vienna",
+        "autor": "Urkki69",
+        "pagina": "https://freesound.org/people/Urkki69/sounds/628351",
+        "licenca": "CC0",
+        "id": "320ec3e2-53cb-4589-adb0-d2cb4ea7989a"
+      },
+      {
+        "arquivo": "cavalo-3.wav",
+        "pico": 0.475,
+        "duracao": 1.669,
+        "titulo": "gallop2.mp3",
+        "autor": "maugusto_sfx",
+        "pagina": "https://freesound.org/people/maugusto_sfx/sounds/468030",
+        "licenca": "CC0",
+        "id": "277bd934-95fb-47aa-8b29-a57dbe2b3d6a"
+      }
+    ],
+    "descartados": []
+  },
+  "celular": {
+    "busca": "phone vibrate",
+    "max": 2.0,
+    "volume": 0.45,
+    "variacoes": [
+      {
+        "arquivo": "celular-1.wav",
+        "pico": 0.895,
+        "duracao": 1.06,
+        "titulo": "Phone vibration",
+        "autor": "Breviceps",
+        "pagina": "https://freesound.org/people/Breviceps/sounds/515295",
+        "licenca": "CC0",
+        "id": "b9eb1705-3921-4989-b5b0-0521c10dac02"
+      },
+      {
+        "arquivo": "celular-2.wav",
+        "pico": 0.195,
+        "duracao": 2.0,
+        "titulo": "phone vibration buzz sound",
+        "autor": "Sanderboah",
+        "pagina": "https://freesound.org/people/Sanderboah/sounds/615788",
+        "licenca": "CC0",
+        "id": "2fe0763d-9eaf-4598-bc5f-ba4b5457be5d"
+      },
+      {
+        "arquivo": "celular-3.wav",
+        "pico": 0.325,
+        "duracao": 1.015,
+        "titulo": "phone vibrate.wav",
+        "autor": "lartti",
+        "pagina": "https://freesound.org/people/lartti/sounds/529979",
+        "licenca": "CC0",
+        "id": "e2209148-6843-4445-86e0-367b846652e3"
+      }
+    ],
+    "descartados": []
+  },
+  "chaves": {
+    "busca": "keys jingle",
+    "max": 1.8,
+    "volume": 0.45,
+    "variacoes": [
+      {
+        "arquivo": "chaves-1.wav",
+        "pico": 1.515,
+        "duracao": 1.8,
+        "titulo": "Keys jingling",
+        "autor": "Lightnessko",
+        "pagina": "https://freesound.org/people/Lightnessko/sounds/390324",
+        "licenca": "CC0",
+        "id": "d5dc49c5-cc44-4039-bdcb-5a94cdcc07a9"
+      },
+      {
+        "arquivo": "chaves-2.wav",
+        "pico": 1.455,
+        "duracao": 1.779,
+        "titulo": "Keys Jingling 2_1",
+        "autor": "Joao_Janz",
+        "pagina": "https://freesound.org/people/Joao_Janz/sounds/485117",
+        "licenca": "CC0",
+        "id": "c459c61f-3ad5-45de-9f11-a38acbb67e34"
+      },
+      {
+        "arquivo": "chaves-3.wav",
+        "pico": 0.765,
+        "duracao": 1.8,
+        "titulo": "keys jingling and door opening",
+        "autor": "contramundum",
+        "pagina": "https://freesound.org/people/contramundum/sounds/266441",
+        "licenca": "CC0",
+        "id": "1aafb4ba-e12d-41e1-9935-e00eda31914d"
+      }
+    ],
+    "descartados": []
+  },
   "click": {
     "busca": null,
     "max": 0.4,
@@ -81,6 +461,89 @@
         "pagina": "https://kenney.nl/assets/interface-sounds",
         "licenca": "CC0",
         "id": "Kenney interface-sounds:click_004.ogg"
+      }
+    ],
+    "descartados": []
+  },
+  "copo": {
+    "busca": "glass clink",
+    "max": 1.2,
+    "volume": 0.4,
+    "variacoes": [
+      {
+        "arquivo": "copo-1.wav",
+        "pico": 0.005,
+        "duracao": 1.138,
+        "titulo": "Wine glass clink deeper.wav",
+        "autor": "lmr9",
+        "pagina": "https://freesound.org/people/lmr9/sounds/178178",
+        "licenca": "CC0",
+        "id": "e25560ac-4294-4268-9142-de3e37c4b089"
+      },
+      {
+        "arquivo": "copo-2.wav",
+        "pico": 0.945,
+        "duracao": 1.114,
+        "titulo": "Glass Clinking 2.mp3",
+        "autor": "antwash",
+        "pagina": "https://freesound.org/people/antwash/sounds/118563",
+        "licenca": "CC0",
+        "id": "d793a885-40d3-4af5-94b5-dc166c4694a1"
+      },
+      {
+        "arquivo": "copo-3.wav",
+        "pico": 0.945,
+        "duracao": 1.117,
+        "titulo": "Glass Clinking 2 - Amplified.mp3",
+        "autor": "antwash",
+        "pagina": "https://freesound.org/people/antwash/sounds/118562",
+        "licenca": "CC0",
+        "id": "b62177f6-ee3a-4d9d-9263-08a48a36e2b9"
+      }
+    ],
+    "descartados": []
+  },
+  "coracao": {
+    "busca": "heartbeat",
+    "max": 3.0,
+    "volume": 0.5,
+    "variacoes": [],
+    "descartados": []
+  },
+  "criancas": {
+    "busca": "children laughing",
+    "max": 3.5,
+    "volume": 0.45,
+    "variacoes": [
+      {
+        "arquivo": "criancas-1.wav",
+        "pico": 0.115,
+        "duracao": 3.5,
+        "titulo": "Giggling.wav",
+        "autor": "mrbriandesign",
+        "pagina": "https://freesound.org/people/mrbriandesign/sounds/86991",
+        "licenca": "CC0",
+        "id": "5d5f41a1-75c8-4026-a8f4-671c22217c4f"
+      },
+      {
+        "arquivo": "criancas-2.wav",
+        "pico": 0.225,
+        "duracao": 3.5,
+        "titulo": "Laugh Group of Children.wav",
+        "autor": "FunWithSound",
+        "pagina": "https://freesound.org/people/FunWithSound/sounds/416703",
+        "licenca": "CC0",
+        "id": "2dd8b2b1-f75a-40e7-befe-cde6c569ced4"
+      },
+      {
+        "arquivo": "criancas-3.wav",
+        "pico": 0.485,
+        "duracao": 1.791,
+        "titulo": "Laugh 01.wav",
+        "autor": "ANARKYA",
+        "pagina": "https://freesound.org/people/ANARKYA/sounds/388252",
+        "licenca": "CC0",
+        "id": "0d6a6cfb-5f92-4aac-ae61-b24bb3e40d25"
       }
     ],
     "descartados": []
@@ -219,6 +682,44 @@
     ],
     "descartados": []
   },
+  "espada": {
+    "busca": "sword",
+    "max": 1.5,
+    "volume": 0.45,
+    "variacoes": [
+      {
+        "arquivo": "espada-1.wav",
+        "pico": 0.125,
+        "duracao": 0.654,
+        "titulo": "sword-01.wav",
+        "autor": "audione",
+        "pagina": "https://freesound.org/people/audione/sounds/52458",
+        "licenca": "CC0",
+        "id": "1ddb9b5f-2ba7-41f0-9ca5-4dea05582d4b"
+      },
+      {
+        "arquivo": "espada-2.wav",
+        "pico": 0.015,
+        "duracao": 1.5,
+        "titulo": "My Sword Hit 1.wav.wav",
+        "autor": "freefire66",
+        "pagina": "https://freesound.org/people/freefire66/sounds/175949",
+        "licenca": "CC0",
+        "id": "702f6f31-4c97-44d6-82fb-7e2d1de5e8a7"
+      },
+      {
+        "arquivo": "espada-3.wav",
+        "pico": 0.065,
+        "duracao": 0.377,
+        "titulo": "Sword sound 1.wav",
+        "autor": "Merrick079",
+        "pagina": "https://freesound.org/people/Merrick079/sounds/568170",
+        "licenca": "CC0",
+        "id": "05deb51c-0382-4aea-883d-8a9f7f96856d"
+      }
+    ],
+    "descartados": []
+  },
   "impacto": {
     "busca": "impact",
     "max": 2.0,
@@ -253,6 +754,196 @@
         "pagina": "https://freesound.org/people/Rickplayer/sounds/530486",
         "licenca": "CC0",
         "id": "39918cd2-10ee-45a1-affd-eac4b2ec571f"
+      }
+    ],
+    "descartados": []
+  },
+  "moedas": {
+    "busca": "coins",
+    "max": 1.8,
+    "volume": 0.45,
+    "variacoes": [
+      {
+        "arquivo": "moedas-1.wav",
+        "pico": 0.005,
+        "duracao": 0.286,
+        "titulo": "Coin GET!",
+        "autor": "plasterbrain",
+        "pagina": "https://freesound.org/people/plasterbrain/sounds/242857",
+        "licenca": "CC0",
+        "id": "681fd988-e499-4a28-a01d-f09fd1ad4baf"
+      },
+      {
+        "arquivo": "moedas-2.wav",
+        "pico": 0.295,
+        "duracao": 0.794,
+        "titulo": "coin-up.aif",
+        "autor": "mattwasser",
+        "pagina": "https://freesound.org/people/mattwasser/sounds/58919",
+        "licenca": "CC0",
+        "id": "87834623-4b85-4e71-b2f2-af4c8a6d6ed2"
+      },
+      {
+        "arquivo": "moedas-3.wav",
+        "pico": 0.005,
+        "duracao": 0.443,
+        "titulo": "Retro, Coin 02.wav",
+        "autor": "MATRIXXX_",
+        "pagina": "https://freesound.org/people/MATRIXXX_/sounds/402288",
+        "licenca": "CC0",
+        "id": "e6462b90-b982-4577-b381-145dbf6633f3"
+      }
+    ],
+    "descartados": []
+  },
+  "notificacao": {
+    "busca": "notification",
+    "max": 1.2,
+    "volume": 0.4,
+    "variacoes": [
+      {
+        "arquivo": "notificacao-1.wav",
+        "pico": 0.105,
+        "duracao": 0.458,
+        "titulo": "Notification Sound",
+        "autor": "yfjesse",
+        "pagina": "https://freesound.org/people/yfjesse/sounds/235911",
+        "licenca": "CC0",
+        "id": "63ef9260-41de-44ee-822a-fe6e91af2fd5"
+      },
+      {
+        "arquivo": "notificacao-2.wav",
+        "pico": 0.025,
+        "duracao": 0.324,
+        "titulo": "Chime Notification",
+        "autor": "Jofae",
+        "pagina": "https://freesound.org/people/Jofae/sounds/380482",
+        "licenca": "CC0",
+        "id": "adb6e260-e493-43fd-a56e-8ceb4f477fe2"
+      },
+      {
+        "arquivo": "notificacao-3.wav",
+        "pico": 0.175,
+        "duracao": 0.668,
+        "titulo": "Doorbell Notification",
+        "autor": "TheBuilder15",
+        "pagina": "https://freesound.org/people/TheBuilder15/sounds/415763",
+        "licenca": "CC0",
+        "id": "a4d1a20f-5d88-4cf6-b724-ac3cd2fdac15"
+      }
+    ],
+    "descartados": []
+  },
+  "ovelhas": {
+    "busca": "sheep",
+    "max": 2.5,
+    "volume": 0.4,
+    "variacoes": [
+      {
+        "arquivo": "ovelhas-1.wav",
+        "pico": 0.105,
+        "duracao": 0.749,
+        "titulo": "sheep 3.mp3",
+        "autor": "esperar",
+        "pagina": "https://freesound.org/people/esperar/sounds/171149",
+        "licenca": "CC0",
+        "id": "7e2ef187-363d-4eeb-8bda-6fc624d1942e"
+      },
+      {
+        "arquivo": "ovelhas-2.wav",
+        "pico": 0.625,
+        "duracao": 0.994,
+        "titulo": "sheep 2.mp3",
+        "autor": "esperar",
+        "pagina": "https://freesound.org/people/esperar/sounds/171151",
+        "licenca": "CC0",
+        "id": "06173883-a9b2-4e44-8151-ebf59b44dd43"
+      },
+      {
+        "arquivo": "ovelhas-3.wav",
+        "pico": 0.235,
+        "duracao": 0.59,
+        "titulo": "sheep 1",
+        "autor": "esperar",
+        "pagina": "https://freesound.org/people/esperar/sounds/171152",
+        "licenca": "CC0",
+        "id": "808ea476-5cc7-4f7a-b3bf-6a70231f92fa"
+      }
+    ],
+    "descartados": []
+  },
+  "papel": {
+    "busca": "paper rustle",
+    "max": 1.8,
+    "volume": 0.4,
+    "variacoes": [
+      {
+        "arquivo": "papel-1.wav",
+        "pico": 0.595,
+        "duracao": 0.856,
+        "titulo": "Paper Rustle",
+        "autor": "BenjaminNelan",
+        "pagina": "https://freesound.org/people/BenjaminNelan/sounds/353125",
+        "licenca": "CC0",
+        "id": "910aa4c0-33ae-4002-ac78-f52b449a870c"
+      },
+      {
+        "arquivo": "papel-2.wav",
+        "pico": 0.195,
+        "duracao": 0.51,
+        "titulo": "rustle.paper_Tear_9.aif",
+        "autor": "batchku",
+        "pagina": "https://freesound.org/people/batchku/sounds/10428",
+        "licenca": "CC0",
+        "id": "72646164-3012-44d3-82e5-7a4eff094811"
+      },
+      {
+        "arquivo": "papel-3.wav",
+        "pico": 1.275,
+        "duracao": 1.8,
+        "titulo": "Papers Flapping; Intense.wav",
+        "autor": "RossBell",
+        "pagina": "https://freesound.org/people/RossBell/sounds/389440",
+        "licenca": "CC0",
+        "id": "066a17f8-50ba-471d-a022-684df142fa48"
+      }
+    ],
+    "descartados": []
+  },
+  "passos": {
+    "busca": "footsteps",
+    "max": 3.0,
+    "volume": 0.45,
+    "variacoes": [
+      {
+        "arquivo": "passos-1.wav",
+        "pico": 2.855,
+        "duracao": 3.0,
+        "titulo": "Footsteps on Wooden Floor.aif",
+        "autor": "ftpalad",
+        "pagina": "https://freesound.org/people/ftpalad/sounds/119914",
+        "licenca": "CC0",
+        "id": "010335f8-d647-4542-bac4-daf54d0feb04"
+      },
+      {
+        "arquivo": "passos-2.wav",
+        "pico": 0.025,
+        "duracao": 0.414,
+        "titulo": "concrete footstep 3",
+        "autor": "Yoyodaman234",
+        "pagina": "https://freesound.org/people/Yoyodaman234/sounds/166507",
+        "licenca": "CC0",
+        "id": "5aa539ef-19c9-4c5f-a420-eb61e11cb35b"
+      },
+      {
+        "arquivo": "passos-3.wav",
+        "pico": 0.015,
+        "duracao": 0.416,
+        "titulo": "concrete footstep 4",
+        "autor": "Yoyodaman234",
+        "pagina": "https://freesound.org/people/Yoyodaman234/sounds/166506",
+        "licenca": "CC0",
+        "id": "b7758ff8-0a90-4058-ba71-3faa0764b0b0"
       }
     ],
     "descartados": []
@@ -305,6 +996,120 @@
     ],
     "descartados": []
   },
+  "porta": {
+    "busca": "door close",
+    "max": 2.0,
+    "volume": 0.55,
+    "variacoes": [
+      {
+        "arquivo": "porta-1.wav",
+        "pico": 0.105,
+        "duracao": 0.578,
+        "titulo": "Door closing, door closed",
+        "autor": "steinhyrningur",
+        "pagina": "https://freesound.org/people/steinhyrningur/sounds/466864",
+        "licenca": "CC0",
+        "id": "aec0904a-4703-4303-88bb-879ec6031fa5"
+      },
+      {
+        "arquivo": "porta-2.wav",
+        "pico": 0.475,
+        "duracao": 1.617,
+        "titulo": "Door - Close 03.wav",
+        "autor": "JarredGibb",
+        "pagina": "https://freesound.org/people/JarredGibb/sounds/219495",
+        "licenca": "CC0",
+        "id": "03a6e3f8-4f31-4fc0-a631-0a140bd389e2"
+      },
+      {
+        "arquivo": "porta-3.wav",
+        "pico": 0.075,
+        "duracao": 0.413,
+        "titulo": "Cabinet Door Close",
+        "autor": "jackthemurray",
+        "pagina": "https://freesound.org/people/jackthemurray/sounds/433587",
+        "licenca": "CC0",
+        "id": "fe8a452e-b240-43ec-bc5f-1f1a9a7133e3"
+      }
+    ],
+    "descartados": []
+  },
+  "porta_rangendo": {
+    "busca": "door creak",
+    "max": 3.0,
+    "volume": 0.45,
+    "variacoes": [
+      {
+        "arquivo": "porta_rangendo-1.wav",
+        "pico": 0.465,
+        "duracao": 1.351,
+        "titulo": "Door - Creak 02.wav",
+        "autor": "JarredGibb",
+        "pagina": "https://freesound.org/people/JarredGibb/sounds/219492",
+        "licenca": "CC0",
+        "id": "83976ac4-3f07-47b5-b4c0-4efc75ebb628"
+      },
+      {
+        "arquivo": "porta_rangendo-2.wav",
+        "pico": 0.115,
+        "duracao": 3.0,
+        "titulo": "Wooden door creaking",
+        "autor": "TheBuilder15",
+        "pagina": "https://freesound.org/people/TheBuilder15/sounds/367052",
+        "licenca": "CC0",
+        "id": "668b58ba-9237-454d-acac-e1eb8d644603"
+      },
+      {
+        "arquivo": "porta_rangendo-3.wav",
+        "pico": 2.175,
+        "duracao": 2.972,
+        "titulo": "DOOR CREAKS CLOSES 2.wav",
+        "autor": "HowardV",
+        "pagina": "https://freesound.org/people/HowardV/sounds/393798",
+        "licenca": "CC0",
+        "id": "edea77c2-d283-485e-9726-a38426ce61f3"
+      }
+    ],
+    "descartados": []
+  },
+  "relogio": {
+    "busca": "clock ticking",
+    "max": 4.0,
+    "volume": 0.35,
+    "variacoes": [
+      {
+        "arquivo": "relogio-1.wav",
+        "pico": 3.675,
+        "duracao": 3.9,
+        "titulo": "Clock ticking",
+        "autor": "olver",
+        "pagina": "https://freesound.org/people/olver/sounds/130388",
+        "licenca": "CC0",
+        "id": "d4ea3ac7-2c73-44eb-9d80-e04d050a5d46"
+      },
+      {
+        "arquivo": "relogio-2.wav",
+        "pico": 2.145,
+        "duracao": 4.0,
+        "titulo": "Clock Tick",
+        "autor": "FlashTrauma",
+        "pagina": "https://freesound.org/people/FlashTrauma/sounds/398275",
+        "licenca": "CC0",
+        "id": "df939781-adb5-4a90-9bd7-a4e377bb3a90"
+      },
+      {
+        "arquivo": "relogio-3.wav",
+        "pico": 1.905,
+        "duracao": 4.0,
+        "titulo": "Clock Ticking",
+        "autor": "florianreichelt",
+        "pagina": "https://freesound.org/people/florianreichelt/sounds/459998",
+        "licenca": "CC0",
+        "id": "890ef7f9-3157-4545-9528-4430d1b11434"
+      }
+    ],
+    "descartados": []
+  },
   "riser": {
     "busca": "riser",
     "max": 3.5,
@@ -339,6 +1144,44 @@
         "pagina": "https://freesound.org/people/magnuswaker/sounds/522095",
         "licenca": "CC0",
         "id": "dd07153a-ca3d-4693-a6c8-fbe1338bce06"
+      }
+    ],
+    "descartados": []
+  },
+  "sino_igreja": {
+    "busca": "church bell",
+    "max": 4.0,
+    "volume": 0.4,
+    "variacoes": [
+      {
+        "arquivo": "sino_igreja-1.wav",
+        "pico": 0.055,
+        "duracao": 2.46,
+        "titulo": "Church Bell 1",
+        "autor": "nomiqbomi",
+        "pagina": "https://freesound.org/people/nomiqbomi/sounds/578543",
+        "licenca": "CC0",
+        "id": "53b7e133-c844-4fac-b71e-c3346e8afc26"
+      },
+      {
+        "arquivo": "sino_igreja-2.wav",
+        "pico": 0.065,
+        "duracao": 2.56,
+        "titulo": "Church Bell 4",
+        "autor": "nomiqbomi",
+        "pagina": "https://freesound.org/people/nomiqbomi/sounds/578540",
+        "licenca": "CC0",
+        "id": "22598fa3-b15b-4d92-906a-1a257a1045cb"
+      },
+      {
+        "arquivo": "sino_igreja-3.wav",
+        "pico": 0.195,
+        "duracao": 4.0,
+        "titulo": "Church Bell 12",
+        "autor": "nomiqbomi",
+        "pagina": "https://freesound.org/people/nomiqbomi/sounds/578551",
+        "licenca": "CC0",
+        "id": "0f15effc-7a6c-445e-8c5b-9581b10d60f5"
       }
     ],
     "descartados": []
@@ -391,6 +1234,44 @@
     ],
     "descartados": []
   },
+  "suspiro": {
+    "busca": "sigh",
+    "max": 2.0,
+    "volume": 0.5,
+    "variacoes": [
+      {
+        "arquivo": "suspiro-1.wav",
+        "pico": 0.115,
+        "duracao": 0.763,
+        "titulo": "woman sigh",
+        "autor": "threadzz",
+        "pagina": "https://freesound.org/people/threadzz/sounds/384992",
+        "licenca": "CC0",
+        "id": "42456a37-8b9b-43f8-bbb9-fd83fc4c002a"
+      },
+      {
+        "arquivo": "suspiro-2.wav",
+        "pico": 0.305,
+        "duracao": 2.0,
+        "titulo": "female sigh- medium distance",
+        "autor": "morganveilleux",
+        "pagina": "https://freesound.org/people/morganveilleux/sounds/389992",
+        "licenca": "CC0",
+        "id": "1f21fda8-d0cd-4eb1-a228-b672fa3b5ec2"
+      },
+      {
+        "arquivo": "suspiro-3.wav",
+        "pico": 0.695,
+        "duracao": 2.0,
+        "titulo": "Sigh #2.MP3",
+        "autor": "SoundsForHim",
+        "pagina": "https://freesound.org/people/SoundsForHim/sounds/399641",
+        "licenca": "CC0",
+        "id": "3cdf7e6e-2b78-4ca1-b1b9-dd19a5b65581"
+      }
+    ],
+    "descartados": []
+  },
   "swipe": {
     "busca": null,
     "max": 1.0,
@@ -435,6 +1316,44 @@
         "pagina": "https://kenney.nl/assets/interface-sounds",
         "licenca": "CC0",
         "id": "Kenney interface-sounds:maximize_004.ogg"
+      }
+    ],
+    "descartados": []
+  },
+  "teclado": {
+    "busca": "keyboard typing",
+    "max": 3.0,
+    "volume": 0.35,
+    "variacoes": [
+      {
+        "arquivo": "teclado-1.wav",
+        "pico": 0.915,
+        "duracao": 3.0,
+        "titulo": "Keyboard Typing Tapping.wav",
+        "autor": "Psykophobia",
+        "pagina": "https://freesound.org/people/Psykophobia/sounds/250390",
+        "licenca": "CC0",
+        "id": "39e8de14-1f16-4a21-baef-1eca318ac275"
+      },
+      {
+        "arquivo": "teclado-2.wav",
+        "pico": 1.535,
+        "duracao": 3.0,
+        "titulo": "Keyboard Typing 001.wav",
+        "autor": "ristooooo1",
+        "pagina": "https://freesound.org/people/ristooooo1/sounds/539146",
+        "licenca": "CC0",
+        "id": "4e2f59d9-3d72-4bdf-a854-8b37f815ad55"
+      },
+      {
+        "arquivo": "teclado-3.wav",
+        "pico": 1.505,
+        "duracao": 3.0,
+        "titulo": "Keyboard typing on Windows PC",
+        "autor": "praxis_bard",
+        "pagina": "https://freesound.org/people/praxis_bard/sounds/380066",
+        "licenca": "CC0",
+        "id": "b4fb7ac5-b183-447d-a872-03834063b75d"
       }
     ],
     "descartados": []
@@ -511,6 +1430,44 @@
         "pagina": "https://kenney.nl/assets/interface-sounds",
         "licenca": "CC0",
         "id": "Kenney interface-sounds:toggle_004.ogg"
+      }
+    ],
+    "descartados": []
+  },
+  "trovao": {
+    "busca": "thunder",
+    "max": 4.0,
+    "volume": 0.5,
+    "variacoes": [
+      {
+        "arquivo": "trovao-1.wav",
+        "pico": 1.925,
+        "duracao": 2.742,
+        "titulo": "Thunder rumbling, underwater, outdoors_Thunder rumbling.aif",
+        "autor": "carroll27",
+        "pagina": "https://freesound.org/people/carroll27/sounds/151854",
+        "licenca": "CC0",
+        "id": "cdf10133-eece-462c-b3a5-ec6d8262473d"
+      },
+      {
+        "arquivo": "trovao-2.wav",
+        "pico": 0.215,
+        "duracao": 4.0,
+        "titulo": "Distant Thunder 3",
+        "autor": "Fission9",
+        "pagina": "https://freesound.org/people/Fission9/sounds/581124",
+        "licenca": "CC0",
+        "id": "2de491df-8f44-4a0d-994a-07a5f25913ea"
+      },
+      {
+        "arquivo": "trovao-3.wav",
+        "pico": 1.125,
+        "duracao": 4.0,
+        "titulo": "long thunder edited.wav",
+        "autor": "Littlebrojay",
+        "pagina": "https://freesound.org/people/Littlebrojay/sounds/195436",
+        "licenca": "CC0",
+        "id": "a5b4df45-7c75-4cd0-ae2e-b27dcb0709b7"
       }
     ],
     "descartados": []
