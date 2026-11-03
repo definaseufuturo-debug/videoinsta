@@ -34,7 +34,10 @@ for jf in sorted((ROOT / "openverse/jobs").glob("*.json")):
         q = {"q": job["q"], "license": job.get("license", "cc0,pdm,by"), "category": job.get("category", "music"),
              "page_size": 20, "mature": "false"}
         if job.get("duration"): q["duration"] = job["duration"]   # short | medium | long
-        res = json.loads(get(API + "/audio/?" + urllib.parse.urlencode(q), tok))["results"]
+        resp = json.loads(get(API + "/audio/?" + urllib.parse.urlencode(q), tok))
+        res = resp["results"]
+        job["diag"] = {"total": resp.get("result_count"), "pagina": len(res), "duracoes_s": [round((r.get("duration") or 0) / 1000) for r in res],
+                       "sem_url": sum(1 for r in res if not r.get("url"))}
         mn, mx = job.get("min_s", 0) * 1000, job.get("max_s", 10**6) * 1000
         res = [r for r in res if r.get("url") and mn <= (r.get("duration") or 0) <= mx] if (job.get("min_s") or job.get("max_s")) else [r for r in res if r.get("url")]
         saida = []
