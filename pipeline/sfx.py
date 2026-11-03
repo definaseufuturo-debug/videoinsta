@@ -27,7 +27,7 @@ class Banco:
         self._cache, self._ultima = {}, {}
 
     def categorias(self):
-        return sorted(self.banco)
+        return sorted(k for k, v in self.banco.items() if v.get("variacoes"))
 
     def _ler(self, arq):
         if arq not in self._cache:
@@ -44,7 +44,7 @@ class Banco:
     def som(self, nome, variacao=None):
         """(amostras mono, instante do pico em s, volume padrão). Sorteia sem repetir a última variação."""
         cat = self.banco.get(nome)
-        if not cat:
+        if not cat or not cat.get("variacoes"):
             raise KeyError(f'som "{nome}" não está no banco. Existem: {", ".join(self.categorias())}')
         vs = cat["variacoes"]
         if variacao:

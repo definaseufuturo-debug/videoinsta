@@ -12,7 +12,7 @@ def put(x, t0, g=1.0, pan=0.0):
 B = Banco(SR, semente=1103)
 cats = set(B.categorias())
 def tem(*nomes): return next((n for n in nomes if n in cats), None)
-amb = tem("amb_casa", "amb_noite")
+amb = tem("amb_casa", "amb_noite", "amb_passaros")
 if amb: B.cama(put, amb, 0, DUR, g=0.8)
 tick_ini = None
 for c in doc["cues"]:

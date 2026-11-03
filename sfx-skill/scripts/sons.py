@@ -197,7 +197,7 @@ def candidatos(q, maximo, usados):
             if ambiente:
                 if not (maximo * 0.8 <= dur <= 300) or any(p in titulo for p in ('music', 'song', 'melody', 'beat')):
                     continue
-            elif not (0.04 <= dur <= maximo * 2.5) or any(p in titulo for p in EVITAR):
+            elif not (0.04 <= dur <= maximo * 2.5) or any(p in titulo.replace('heartbeat', 'heart') for p in EVITAR):
                 continue
             yield r
 
