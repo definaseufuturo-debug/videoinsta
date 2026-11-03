@@ -78,3 +78,4 @@
 - 2026-11-03 14:55 | 2026-11-03-12-mesmo-prazo | agendado | ok 18104254862530551 | yt GdGeiwvJJ0g
 - 2026-11-03 14:55 | nada na fila cristao (Instagram @e_cosdafe)
 - 2026-11-03 14:55 | jil-2026-11-03-a-ultima-vez | jesusislove | yt dEB1h00ab4s
+- 2026-11-03 21:53 | 2026-11-03-19-sucesso-bastidores | agendado | ok 17979010161135215 | yt In7Txue3Mp8
