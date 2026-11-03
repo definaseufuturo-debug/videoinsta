@@ -135,18 +135,6 @@
    "duracao_s": 54.4,
    "busca": "lullaby",
    "credito": "\"Lullaby (Johannes Brahms)\" by BrunoXe is licensed under CC BY 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/3.0/."
-  },
-  {
-   "arquivo": "pais_filhos/ternura/d5dc70c2.mp3",
-   "id": "d5dc70c2-d271-4fcf-807b-e0584229faea",
-   "titulo": "Lullaby [Oldskool Hardcore]",
-   "autor": "Hardcore Scm",
-   "licenca": "BY 3.0",
-   "fonte": "jamendo",
-   "pagina": "https://www.jamendo.com/track/1406200",
-   "duracao_s": 62,
-   "busca": "lullaby",
-   "credito": "\"Lullaby [Oldskool Hardcore]\" by Hardcore Scm is licensed under CC BY 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/3.0/."
   }
  ],
  "pais_filhos/gratidao": [
@@ -511,5 +499,8 @@
    "busca": "inspiring piano",
    "credito": "\"The Envelope\" by Blue Dot Sessions is licensed under CC BY 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/3.0/."
   }
+ ],
+ "_descartados": [
+  "d5dc70c2-d271-4fcf-807b-e0584229faea"
  ]
 }
