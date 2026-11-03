@@ -38,7 +38,7 @@ Este repositório gera vídeos animados (desenhados por código), narrados com v
 ## Tarefa B2: PRODUZIR MINDLOOP EM BONEQUINHOS (de madrugada, 2 vídeos do dia) — VALE DESDE 31/10/2026
 A @mindloop_u virou "a mente em bonequinhos" (ver o topo de `calendario.md`). Todo dia: almoço (12:00 dias úteis, 13:00 fim de semana) e noite (19:00 / 20:00), os dois em bonequinhos de palito, 30 s, sem narração.
 1. Tema: os 2 próximos `[ ]` da "Fila de temas mente" do `calendario.md`.
-2. Leia inteiros os exemplos `pipeline/exemplos/palito-amanha/`, `palito-venda/` e `palito-depois/` (anim.js, audio.py, export_cues.js). Crie com `pipeline/novo.sh AAAA-MM-DD-<slug> template_cristao` (o template serve para os dois perfis), apague os .json de `assets/`, escreva `src/anim.js` + `audio.py`, `build/timeline.json` = `{"duration":30,"fps":30,"words":[],"clips":[]}`, rode `node export_cues.js && python3 audio.py && node render.js`.
+2. Leia inteiros os exemplos `pipeline/exemplos/palito-amanha/`, `palito-venda/` e `palito-depois/` (anim.js, audio.py, export_cues.js). Crie com `pipeline/novo.sh AAAA-MM-DD-<slug> template_cristao` (o template serve para os dois perfis), apague os .json de `assets/`, escreva `src/anim.js` + `audio.py`, `build/timeline.json` = `{"duration":30,"fps":30,"words":[],"clips":[]}`, rode `node export_cues.js && python3 audio.py && node render.js`. O `audio.py` faz só sons de cena reais (`pipeline/sfx.py`) e a música entra depois com `pipeline/trilha.py mixar` pelo clima (ver "SOM DE CADA VÍDEO").
 3. Checagem visual obrigatória pela folha de quadros (bonecos grandes e visíveis, textos sem sobreposição, headline legível).
 4. Copie para `videos/<slug>.mp4`, legenda conforme o calendário, `python3 pipeline/fila.py adicionar <slug> <slug>.mp4 legenda.txt AAAA-MM-DDTHH:MM <thumb_ms>` (capa no quadro da headline inteira), marque `[x]`, apague `producoes/<slug>/build`, commit e push a cada vídeo.
 5. As Tarefas B (abaixo), C (EM ALTA) e D (CARROSSEL) estão PAUSADAS.
@@ -164,6 +164,28 @@ Todo dia: **Instagram 07:00** Palavra da Manhã (devocional/reflexão) + **Insta
 3. `postado` → `python3 pipeline/fila.py marcar <id> <video_id> --conta jesusislove` e `python3 pipeline/fila.py marcar_yt <id> <video_id> --conta jesusislove`. Erro → `fila.py falhou <id> "<erro>" --conta jesusislove`; se for `quotaExceeded`, deixe para o dia seguinte; senão tente de novo uma vez depois de 1 minuto.
 4. Linha no `log/postagens.md`: `- AAAA-MM-DD HH:MM | <id> | jesusislove | yt <video_id>` (ou `ERRO …`). Commit e push.
 
-## Música e sons livres (Openverse)
+## SOM DE CADA VÍDEO (desde 03/11/2026, vale para TODOS os formatos e perfis)
+Os vídeos estavam soando todos iguais porque a música era sempre o mesmo "piano" sintético (senoides em Am F C G) e os efeitos eram bipes sintetizados. Agora:
+1. **Música = trilha real escolhida pelo clima, nunca repetida.** Depois do `render.js`/`build.sh`, decida o clima do vídeo em `pipeline/clima.json` (bonequinhos: `pais_filhos/<saudade|arrependimento|ternura|gratidao|perdao|esperanca|alegria|tensao>`; mindloop: `mente/<reflexivo|melancolico|inspirador|tensao|leve>`; cristão: `devocional/…`, `mapa/viagem`, `personagem/epico`, `cristao/<curiosidade|quiz|estudo>`; achadinhos: `achadinhos/…`; Sticky Man: `stickyman/…`) e rode:
+   `python3 pipeline/trilha.py mixar build/video.mp4 <grupo>/<clima> <slug> build/video_trilha.mp4 [--duck]`
+   - `--duck` só em vídeo NARRADO (a música abaixa quando a voz entra). Bonequinhos sem narração: sem `--duck`.
+   - O rodízio é automático (`trilhas/usados.json`): a mesma música não volta nos últimos 15 vídeos de nenhum perfil. Faça commit de `trilhas/usados.json` junto com o vídeo.
+   - Se imprimir `CREDITO:`, essa linha vai na legenda do Instagram e na descrição do YouTube.
+   - Se der `SEM_TRILHA`, rode `python3 pipeline/trilha.py pedir <grupo>/<clima>` (GitHub Actions completa o banco) ou use outro clima próximo. Trilha ruim ao ouvir/olhar o título: `trilha.py descartar <arquivo>`.
+   - Por isso, no `audio.py` dos bonequinhos **não escreva mais a música sintética** (piano/pad): o audio.py faz só os sons de cena; a música entra pelo `trilha.py`.
+2. **Sons de cena = gravações reais do banco**, não senoides. No `audio.py`:
+   ```python
+   import sys; sys.path.insert(0, "../../pipeline")
+   from sfx import Banco
+   B = Banco(SR, semente=<qualquer número diferente por vídeo>)
+   B.put(put, "porta", t)          # o pico do som cai em t
+   B.cama(put, "amb_chuva", 0, DUR) # ambiente de fundo do cenário
+   ```
+   Categorias (`python3 sfx-skill/scripts/sons.py listar`): cena = porta, porta_rangendo, passos, relogio, coracao, celular, notificacao, chaves, copo, papel, teclado, camera, moedas, bebe, criancas, suspiro, aplausos, sino_igreja, trovao, espada, ovelhas, cavalo, carro; interface = pop, whoosh, swipe, click, ding, sucesso, erro, tick, toggle, batida, impacto, riser, dinheiro; ambientes = amb_chuva, amb_vento, amb_passaros, amb_noite, amb_cidade, amb_multidao, amb_fogueira, amb_mar, amb_casa.
+   - Todo vídeo de história tem **um ambiente** que combine com o cenário (casa à noite = amb_noite/amb_casa; chuva; deserto bíblico = amb_vento; cidade = amb_cidade) e **3 a 8 sons de cena** nos momentos de ação (porta batendo, passos indo embora, celular vibrando, relógio no "o tempo passou", coração na revelação). Não encha de efeito: o silêncio antes da headline vale mais.
+   - Faltou um som? `python3 sfx-skill/scripts/sons.py adicionar <categoria> "<busca em inglês>"` não alcança o Openverse daqui; acrescente a categoria em `CATALOGO` do `sons.py` e dispare o workflow `sfx-banco` mudando `sfx-skill/pedido.txt`.
+3. Os vídeos narrados (template com `tools/audio.py`) continuam com os efeitos de lá, mas a música de fundo também passa a vir do `trilha.py mixar … --duck`.
+
+## Música e sons livres (Openverse) — busca avulsa
 `bash pipeline/openverse.sh <slug> "<busca>" [music|sound_effect] [min_s] [max_s] [n]` busca no Openverse via GitHub Actions (`openverse.yml`, segredos opcionais `OPENVERSE_CLIENT_ID` e `OPENVERSE_CLIENT_SECRET`) e traz os arquivos para `openverse/out/<slug>/`, com `resultados.json`. Só licenças cc0, pdm e by. Se a licença for BY, ponha o campo `credito` na legenda do Instagram e na descrição do YouTube. Ouça antes de usar.
-- **Música por clima (desde 03/11/2026):** em TODO bonequinho, antes de publicar, pense o clima da cena na relação de pais e filhos (saudade, arrependimento, ternura, gratidão, perdão, esperança, alegria, tensão: ver `pipeline/clima.json`) e busque a trilha por ele: `bash pipeline/openverse.sh <slug> clima:pais_filhos/<clima>`. Escolha pelo título e pela duração (mínimo 30 s), mixe com `python3 pipeline/musica_mix.py build/video.mp4 openverse/out/<slug>/<arq> <saida.mp4> --gain <gain do clima>` (sem `--substituir`, para manter os sons de cena) e, se a licença for BY, ponha o `credito` na legenda e na descrição. Os outros formatos usam os grupos `devocional`, `mapa`, `personagem` e `mente` do mesmo arquivo. Se o Openverse falhar ou não houver faixa boa, siga com a trilha sintética do `audio.py`.
+- A música por clima agora sai do banco pronto (`pipeline/trilha.py`, seção "SOM DE CADA VÍDEO"). Use o `openverse.sh` só para buscar algo específico que o banco não tem.
