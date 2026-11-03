@@ -1,1 +1,7 @@
-{"status": "pendente", "q": "bird nest", "n": 3, "fonte": "commons"}
+{
+ "status": "pronto",
+ "q": "bird nest",
+ "n": 3,
+ "fonte": "commons",
+ "fonte_usada": "commons"
+}
