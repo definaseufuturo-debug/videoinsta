@@ -1,4 +1,42 @@
 {
+  "amb_casa": {
+    "busca": "room tone house",
+    "max": 12.0,
+    "volume": 0.15,
+    "variacoes": [
+      {
+        "arquivo": "amb_casa-1.wav",
+        "pico": 10.835,
+        "duracao": 12.0,
+        "titulo": "room tone house plane tram car neighborhood",
+        "autor": "PivanlaDbrouille",
+        "pagina": "https://freesound.org/people/PivanlaDbrouille/sounds/407423",
+        "licenca": "CC0",
+        "id": "06ccdb46-baf2-4a8d-ba68-7ceefefb6192"
+      },
+      {
+        "arquivo": "amb_casa-2.wav",
+        "pico": 0.175,
+        "duracao": 12.0,
+        "titulo": "indoor_ apartments_hall_noise 2",
+        "autor": "Kostrava",
+        "pagina": "https://freesound.org/people/Kostrava/sounds/333960",
+        "licenca": "CC0",
+        "id": "1a8b7356-ac4d-4632-98ed-c95ce7c90a25"
+      },
+      {
+        "arquivo": "amb_casa-3.wav",
+        "pico": 0.895,
+        "duracao": 12.0,
+        "titulo": "CFX-20130329-UK-DorsetRoomTone01.wav",
+        "autor": "Carlvus",
+        "pagina": "https://freesound.org/people/Carlvus/sounds/182600",
+        "licenca": "CC0",
+        "id": "3cd82cce-204a-4127-98b9-0ae1ecf6e183"
+      }
+    ],
+    "descartados": []
+  },
   "amb_chuva": {
     "busca": "rain",
     "max": 12.0,
@@ -33,6 +71,196 @@
         "pagina": "https://freesound.org/people/yzhamua/sounds/188655",
         "licenca": "CC0",
         "id": "a3fcc6d0-c4aa-4c1d-abfe-47287f48777e"
+      }
+    ],
+    "descartados": []
+  },
+  "amb_cidade": {
+    "busca": "city traffic ambience",
+    "max": 12.0,
+    "volume": 0.2,
+    "variacoes": [
+      {
+        "arquivo": "amb_cidade-1.wav",
+        "pico": 10.725,
+        "duracao": 12.0,
+        "titulo": "Hamburg City Traffic Ambience",
+        "autor": "Kinoton",
+        "pagina": "https://freesound.org/people/Kinoton/sounds/352152",
+        "licenca": "CC0",
+        "id": "a9339c75-5813-4277-9aee-5d589ddc36f3"
+      },
+      {
+        "arquivo": "amb_cidade-2.wav",
+        "pico": 10.745,
+        "duracao": 12.0,
+        "titulo": "citystreet3.wav",
+        "autor": "sagetyrtle",
+        "pagina": "https://freesound.org/people/sagetyrtle/sounds/36734",
+        "licenca": "CC0",
+        "id": "707a46ce-a664-42dc-8ad6-8ae6e2acc80a"
+      },
+      {
+        "arquivo": "amb_cidade-3.wav",
+        "pico": 11.675,
+        "duracao": 12.0,
+        "titulo": "busy city 05",
+        "autor": "rucisko",
+        "pagina": "https://freesound.org/people/rucisko/sounds/462494",
+        "licenca": "CC0",
+        "id": "a2591c85-1936-4386-98b5-62977d9aa4dc"
+      }
+    ],
+    "descartados": []
+  },
+  "amb_fogueira": {
+    "busca": "campfire",
+    "max": 12.0,
+    "volume": 0.25,
+    "variacoes": [
+      {
+        "arquivo": "amb_fogueira-1.wav",
+        "pico": 11.365,
+        "duracao": 12.0,
+        "titulo": "campfire in a forest at night.wav",
+        "autor": "Duophonic",
+        "pagina": "https://freesound.org/people/Duophonic/sounds/248303",
+        "licenca": "CC0",
+        "id": "d010452b-4d9c-4100-b690-f1f5f2764809"
+      },
+      {
+        "arquivo": "amb_fogueira-2.wav",
+        "pico": 5.735,
+        "duracao": 12.0,
+        "titulo": "Campfire deer camp - adding kindling - med wind - part 4.wav",
+        "autor": "Ambient-X",
+        "pagina": "https://freesound.org/people/Ambient-X/sounds/660298",
+        "licenca": "CC0",
+        "id": "4efe8120-c43d-4bc2-a9f3-e11050ec3226"
+      },
+      {
+        "arquivo": "amb_fogueira-3.wav",
+        "pico": 3.835,
+        "duracao": 12.0,
+        "titulo": "Fire, Campfire, Bonfire",
+        "autor": "yaros_nov",
+        "pagina": "https://freesound.org/people/yaros_nov/sounds/434026",
+        "licenca": "CC0",
+        "id": "82f3c7b3-3d8f-418d-a597-a39e6afa0d0d"
+      }
+    ],
+    "descartados": []
+  },
+  "amb_mar": {
+    "busca": "ocean waves",
+    "max": 12.0,
+    "volume": 0.25,
+    "variacoes": [
+      {
+        "arquivo": "amb_mar-1.wav",
+        "pico": 5.235,
+        "duracao": 12.0,
+        "titulo": "Zen Ocean Waves,Ocean Waves Ambience.mp3",
+        "autor": "INNORECORDS",
+        "pagina": "https://freesound.org/people/INNORECORDS/sounds/456899",
+        "licenca": "CC0",
+        "id": "b09fd453-95ae-4604-aab2-3b7c5cfb6b95"
+      },
+      {
+        "arquivo": "amb_mar-2.wav",
+        "pico": 5.835,
+        "duracao": 12.0,
+        "titulo": "ocean waves 01",
+        "autor": "rucisko",
+        "pagina": "https://freesound.org/people/rucisko/sounds/164767",
+        "licenca": "CC0",
+        "id": "6bc8401a-2a40-4cf5-a2e9-4dc3cf07345f"
+      },
+      {
+        "arquivo": "amb_mar-3.wav",
+        "pico": 11.515,
+        "duracao": 12.0,
+        "titulo": "Ocean waves crushing on the chilean shore.",
+        "autor": "felix.blume",
+        "pagina": "https://freesound.org/people/felix.blume/sounds/155641",
+        "licenca": "CC0",
+        "id": "9f3bbba0-b737-4cfa-bf1a-970bcd18b14c"
+      }
+    ],
+    "descartados": []
+  },
+  "amb_multidao": {
+    "busca": "crowd murmur",
+    "max": 12.0,
+    "volume": 0.2,
+    "variacoes": [
+      {
+        "arquivo": "amb_multidao-1.wav",
+        "pico": 1.115,
+        "duracao": 12.0,
+        "titulo": "Crowd Murmuring",
+        "autor": "DigestContent",
+        "pagina": "https://freesound.org/people/DigestContent/sounds/444900",
+        "licenca": "CC0",
+        "id": "93fc7f6c-a9d8-44b9-abe6-c8ff6634b727"
+      },
+      {
+        "arquivo": "amb_multidao-2.wav",
+        "pico": 6.065,
+        "duracao": 12.0,
+        "titulo": "R25-05-Crowd Murmurs and Gasps in Courtroom.wav",
+        "autor": "craigsmith",
+        "pagina": "https://freesound.org/people/craigsmith/sounds/480773",
+        "licenca": "CC0",
+        "id": "526fed3a-8898-4ad9-a5c8-d03189a42bba"
+      },
+      {
+        "arquivo": "amb_multidao-3.wav",
+        "pico": 4.685,
+        "duracao": 12.0,
+        "titulo": "airport Dorval waiting area at gate calm crowd murmur activity people pass +security walkie on right.flac",
+        "autor": "kyles",
+        "pagina": "https://freesound.org/people/kyles/sounds/450685",
+        "licenca": "CC0",
+        "id": "b22a8754-92b6-473e-8a22-ab8e25a988e8"
+      }
+    ],
+    "descartados": []
+  },
+  "amb_noite": {
+    "busca": "crickets night",
+    "max": 12.0,
+    "volume": 0.2,
+    "variacoes": [
+      {
+        "arquivo": "amb_noite-1.wav",
+        "pico": 11.815,
+        "duracao": 12.0,
+        "titulo": "crickets night forest with 2 sharp close cicadas back and forth.flac",
+        "autor": "kyles",
+        "pagina": "https://freesound.org/people/kyles/sounds/453862",
+        "licenca": "CC0",
+        "id": "6df69a63-9707-4985-9c2b-8b0003fd75c8"
+      },
+      {
+        "arquivo": "amb_noite-2.wav",
+        "pico": 7.995,
+        "duracao": 12.0,
+        "titulo": "crickets night urban park or residential backyard suburbs distant city skyline and owl India.flac",
+        "autor": "kyles",
+        "pagina": "https://freesound.org/people/kyles/sounds/451946",
+        "licenca": "CC0",
+        "id": "269a5307-0bad-4765-9d76-d6c2f52b0db2"
+      },
+      {
+        "arquivo": "amb_noite-3.wav",
+        "pico": 2.645,
+        "duracao": 12.0,
+        "titulo": "Crickets Night 2",
+        "autor": "PhilllChabbb",
+        "pagina": "https://freesound.org/people/PhilllChabbb/sounds/245834",
+        "licenca": "CC0",
+        "id": "965e8643-f8b4-40c1-8a81-b0c7a0eae0ec"
       }
     ],
     "descartados": []
@@ -507,7 +735,38 @@
     "busca": "heartbeat",
     "max": 3.0,
     "volume": 0.5,
-    "variacoes": [],
+    "variacoes": [
+      {
+        "arquivo": "coracao-1.wav",
+        "pico": 2.035,
+        "duracao": 2.602,
+        "titulo": "Human Heartbeat (60 BPM)",
+        "autor": "FenrirFangs",
+        "pagina": "https://freesound.org/people/FenrirFangs/sounds/213181",
+        "licenca": "CC0",
+        "id": "ab34832f-b3d7-4001-afd5-249c7ec82f72"
+      },
+      {
+        "arquivo": "coracao-2.wav",
+        "pico": 0.375,
+        "duracao": 1.0,
+        "titulo": "Heavy Heartbeat",
+        "autor": "MickBoere",
+        "pagina": "https://freesound.org/people/MickBoere/sounds/276578",
+        "licenca": "CC0",
+        "id": "1e4e76b3-a0d3-4f3a-bad6-f3c4f343988e"
+      },
+      {
+        "arquivo": "coracao-3.wav",
+        "pico": 1.775,
+        "duracao": 3.0,
+        "titulo": "Simple heartbeat",
+        "autor": "Bpianoholic",
+        "pagina": "https://freesound.org/people/Bpianoholic/sounds/493132",
+        "licenca": "CC0",
+        "id": "1d6c8dfa-136d-4d34-9f6b-013bfba431aa"
+      }
+    ],
     "descartados": []
   },
   "criancas": {
