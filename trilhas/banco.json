@@ -135,6 +135,18 @@
    "duracao_s": 54.4,
    "busca": "lullaby",
    "credito": "\"Lullaby (Johannes Brahms)\" by BrunoXe is licensed under CC BY 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/3.0/."
+  },
+  {
+   "arquivo": "pais_filhos/ternura/cf5f910d.mp3",
+   "id": "cf5f910d-e27d-4ad7-98d8-495a669b55f6",
+   "titulo": "Bad Country Lullaby",
+   "autor": "kbongos",
+   "licenca": "BY 3.0",
+   "fonte": "jamendo",
+   "pagina": "https://www.jamendo.com/track/1322700",
+   "duracao_s": 62,
+   "busca": "lullaby",
+   "credito": "\"Bad Country Lullaby\" by kbongos is licensed under CC BY 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/3.0/."
   }
  ],
  "pais_filhos/gratidao": [
@@ -502,5 +514,366 @@
  ],
  "_descartados": [
   "d5dc70c2-d271-4fcf-807b-e0584229faea"
+ ],
+ "mente/tensao": [],
+ "mente/leve": [],
+ "devocional/calmo": [
+  {
+   "arquivo": "devocional/calmo/14ebdf54.mp3",
+   "id": "14ebdf54-31ac-4be8-9cf0-2946708381f0",
+   "titulo": "DreamDance 31 [ambient]",
+   "autor": "Hardcore Scm",
+   "licenca": "BY 3.0",
+   "fonte": "jamendo",
+   "pagina": "https://www.jamendo.com/track/1196388",
+   "duracao_s": 62,
+   "busca": "peaceful ambient",
+   "credito": "\"DreamDance 31 [ambient]\" by Hardcore Scm is licensed under CC BY 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/3.0/."
+  },
+  {
+   "arquivo": "devocional/calmo/297e676f.mp3",
+   "id": "297e676f-18e5-478c-9a39-e707f56eb5be",
+   "titulo": "Ambient Voyager",
+   "autor": "Zeropage",
+   "licenca": "BY 3.0",
+   "fonte": "jamendo",
+   "pagina": "https://www.jamendo.com/track/20231",
+   "duracao_s": 62,
+   "busca": "peaceful ambient",
+   "credito": "\"Ambient Voyager\" by Zeropage is licensed under CC BY 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/3.0/."
+  },
+  {
+   "arquivo": "devocional/calmo/d39eedf7.mp3",
+   "id": "d39eedf7-29d4-4846-b068-b25e3572c50b",
+   "titulo": "DreamDance 38 [Ambient]",
+   "autor": "Hardcore Scm",
+   "licenca": "BY 3.0",
+   "fonte": "jamendo",
+   "pagina": "https://www.jamendo.com/track/1348202",
+   "duracao_s": 62,
+   "busca": "peaceful ambient",
+   "credito": "\"DreamDance 38 [Ambient]\" by Hardcore Scm is licensed under CC BY 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/3.0/."
+  },
+  {
+   "arquivo": "devocional/calmo/50140928.mp3",
+   "id": "50140928-a441-46cd-ab1f-db6731b9d1a7",
+   "titulo": "Ambient",
+   "autor": "Alexander Blu",
+   "licenca": "BY 3.0",
+   "fonte": "jamendo",
+   "pagina": "https://www.jamendo.com/track/1476529",
+   "duracao_s": 62,
+   "busca": "peaceful ambient",
+   "credito": "\"Ambient\" by Alexander Blu is licensed under CC BY 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/3.0/."
+  },
+  {
+   "arquivo": "devocional/calmo/48266e9e.mp3",
+   "id": "48266e9e-3864-4097-a9df-60123fdf4830",
+   "titulo": "A new world",
+   "autor": "zero-project",
+   "licenca": "BY 3.0",
+   "fonte": "jamendo",
+   "pagina": "https://www.jamendo.com/track/2185505",
+   "duracao_s": 62,
+   "busca": "calm piano",
+   "credito": "\"A new world\" by zero-project is licensed under CC BY 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/3.0/."
+  }
+ ],
+ "devocional/adoracao": [
+  {
+   "arquivo": "devocional/adoracao/e505798c.mp3",
+   "id": "e505798c-a148-4de3-80e8-947b74af5e13",
+   "titulo": "Cricket Hymn, Pt. III",
+   "autor": "BIPS",
+   "licenca": "BY 3.0",
+   "fonte": "jamendo",
+   "pagina": "https://www.jamendo.com/track/1357761",
+   "duracao_s": 62,
+   "busca": "hymn instrumental",
+   "credito": "\"Cricket Hymn, Pt. III\" by BIPS is licensed under CC BY 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/3.0/."
+  },
+  {
+   "arquivo": "devocional/adoracao/f9e92391.mp3",
+   "id": "f9e92391-a3bd-4153-898b-fb55a79e3d0f",
+   "titulo": "The Summiteer",
+   "autor": "FlauschGAU",
+   "licenca": "BY 3.0",
+   "fonte": "jamendo",
+   "pagina": "https://www.jamendo.com/track/1302034",
+   "duracao_s": 62,
+   "busca": "hymn instrumental",
+   "credito": "\"The Summiteer\" by FlauschGAU is licensed under CC BY 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/3.0/."
+  },
+  {
+   "arquivo": "devocional/adoracao/d359c5e4.mp3",
+   "id": "d359c5e4-7699-4d44-b574-a9b84dda7831",
+   "titulo": "Hymn for Her by Steven Booth",
+   "autor": "Steven Booth",
+   "licenca": "BY 3.0",
+   "fonte": "jamendo",
+   "pagina": "https://www.jamendo.com/track/1715523",
+   "duracao_s": 62,
+   "busca": "hymn instrumental",
+   "credito": "\"Hymn for Her by Steven Booth\" by Steven Booth is licensed under CC BY 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/3.0/."
+  },
+  {
+   "arquivo": "devocional/adoracao/20b0e540.mp3",
+   "id": "20b0e540-0c06-4633-bbe6-7c5cd7ffc57c",
+   "titulo": "Hymn",
+   "autor": "PequenasAlegrias",
+   "licenca": "BY 2.5",
+   "fonte": "jamendo",
+   "pagina": "https://www.jamendo.com/track/1166990",
+   "duracao_s": 62,
+   "busca": "hymn instrumental",
+   "credito": "\"Hymn\" by PequenasAlegrias is licensed under CC BY 2.5. To view a copy of this license, visit https://creativecommons.org/licenses/by/2.5/br/."
+  },
+  {
+   "arquivo": "devocional/adoracao/51b84b26.mp3",
+   "id": "51b84b26-10e4-42b8-9882-efea218db935",
+   "titulo": "Hymn To Gustaf Vasa",
+   "autor": "CHASMA",
+   "licenca": "BY 3.0",
+   "fonte": "jamendo",
+   "pagina": "https://www.jamendo.com/track/1338377",
+   "duracao_s": 62,
+   "busca": "hymn instrumental",
+   "credito": "\"Hymn To Gustaf Vasa\" by CHASMA is licensed under CC BY 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/3.0/."
+  }
+ ],
+ "devocional/esperanca": [
+  {
+   "arquivo": "devocional/esperanca/029d758b.mp3",
+   "id": "029d758b-56f0-4dfa-b4fe-aca3b53fe718",
+   "titulo": "Water",
+   "autor": "Rivers and Leaves",
+   "licenca": "BY 3.0",
+   "fonte": "jamendo",
+   "pagina": "https://www.jamendo.com/track/1665675",
+   "duracao_s": 62,
+   "busca": "uplifting strings",
+   "credito": "\"Water\" by Rivers and Leaves is licensed under CC BY 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/3.0/."
+  },
+  {
+   "arquivo": "devocional/esperanca/2d2669fa.mp3",
+   "id": "2d2669fa-2a8f-46e2-813d-033f27916f0c",
+   "titulo": "Breaking News Opening Countdown Music",
+   "autor": "E. Erkut",
+   "licenca": "BY 3.0",
+   "fonte": "jamendo",
+   "pagina": "https://www.jamendo.com/track/1160638",
+   "duracao_s": 46.1,
+   "busca": "uplifting strings",
+   "credito": "\"Breaking News Opening Countdown Music\" by E. Erkut is licensed under CC BY 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/3.0/."
+  },
+  {
+   "arquivo": "devocional/esperanca/0d150208.mp3",
+   "id": "0d150208-a3bf-4be6-8b85-00718803e304",
+   "titulo": "Power Trancemission (Original Mix)",
+   "autor": "DJ Fire-Black",
+   "licenca": "BY 2.0",
+   "fonte": "jamendo",
+   "pagina": "https://www.jamendo.com/track/591494",
+   "duracao_s": 62,
+   "busca": "uplifting strings",
+   "credito": "\"Power Trancemission (Original Mix)\" by DJ Fire-Black is licensed under CC BY 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/2.0/fr/."
+  }
+ ],
+ "mapa/viagem": [
+  {
+   "arquivo": "mapa/viagem/9d609cf4.mp3",
+   "id": "9d609cf4-c2ed-412e-bfa5-836ee94a6d63",
+   "titulo": "Creepy Happiness",
+   "autor": "FlauschGAU",
+   "licenca": "BY 3.0",
+   "fonte": "jamendo",
+   "pagina": "https://www.jamendo.com/track/1302012",
+   "duracao_s": 62,
+   "busca": "epic journey instrumental",
+   "credito": "\"Creepy Happiness\" by FlauschGAU is licensed under CC BY 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/3.0/."
+  },
+  {
+   "arquivo": "mapa/viagem/b29bedc9.mp3",
+   "id": "b29bedc9-03c8-4936-a13b-b77107a37ada",
+   "titulo": "Space Journey",
+   "autor": "E. Erkut",
+   "licenca": "BY 3.0",
+   "fonte": "jamendo",
+   "pagina": "https://www.jamendo.com/track/1406016",
+   "duracao_s": 62,
+   "busca": "epic journey instrumental",
+   "credito": "\"Space Journey\" by E. Erkut is licensed under CC BY 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/3.0/."
+  },
+  {
+   "arquivo": "mapa/viagem/ea8f2b60.mp3",
+   "id": "ea8f2b60-ef01-4e39-bcac-92a640b82dfb",
+   "titulo": "oud topoud",
+   "autor": "Patrick Sainton",
+   "licenca": "BY 3.0",
+   "fonte": "jamendo",
+   "pagina": "https://www.jamendo.com/track/810929",
+   "duracao_s": 53.7,
+   "busca": "oud instrumental",
+   "credito": "\"oud topoud\" by Patrick Sainton is licensed under CC BY 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/3.0/."
+  },
+  {
+   "arquivo": "mapa/viagem/eed6e524.mp3",
+   "id": "eed6e524-384f-4f0a-ab29-b99e6161b509",
+   "titulo": "Tramrail-Oude groente",
+   "autor": "Tramrail",
+   "licenca": "BY 3.0",
+   "fonte": "jamendo",
+   "pagina": "https://www.jamendo.com/track/1469697",
+   "duracao_s": 62,
+   "busca": "oud instrumental",
+   "credito": "\"Tramrail-Oude groente\" by Tramrail is licensed under CC BY 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/3.0/."
+  }
+ ],
+ "personagem/epico": [],
+ "cristao/curiosidade": [],
+ "cristao/quiz": [],
+ "cristao/estudo": [
+  {
+   "arquivo": "cristao/estudo/22fa0d8e.mp3",
+   "id": "22fa0d8e-aad1-4206-8a51-c65edd5d39bd",
+   "titulo": "Inspiring Soft Background",
+   "autor": "Soundrider/Dope",
+   "licenca": "BY 3.0",
+   "fonte": "jamendo",
+   "pagina": "https://www.jamendo.com/track/1670559",
+   "duracao_s": 62,
+   "busca": "soft piano background",
+   "credito": "\"Inspiring Soft Background\" by Soundrider/Dope is licensed under CC BY 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/3.0/."
+  }
+ ],
+ "achadinhos/animado": [
+  {
+   "arquivo": "achadinhos/animado/3b4580e1.mp3",
+   "id": "3b4580e1-1454-4b4c-a03a-e03bf4af0849",
+   "titulo": "Upbeat Corporate",
+   "autor": "Soundrider/Dope",
+   "licenca": "BY 3.0",
+   "fonte": "jamendo",
+   "pagina": "https://www.jamendo.com/track/1670486",
+   "duracao_s": 62,
+   "busca": "upbeat corporate",
+   "credito": "\"Upbeat Corporate\" by Soundrider/Dope is licensed under CC BY 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/3.0/."
+  },
+  {
+   "arquivo": "achadinhos/animado/27bbb433.mp3",
+   "id": "27bbb433-1b9c-40ee-a2ef-0087679b9118",
+   "titulo": "Ruslan Latypov - Corporate Music",
+   "autor": "Ruslan Latypov",
+   "licenca": "BY 3.0",
+   "fonte": "jamendo",
+   "pagina": "https://www.jamendo.com/track/1693123",
+   "duracao_s": 62,
+   "busca": "upbeat corporate",
+   "credito": "\"Ruslan Latypov - Corporate Music\" by Ruslan Latypov is licensed under CC BY 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/3.0/."
+  },
+  {
+   "arquivo": "achadinhos/animado/031b2262.mp3",
+   "id": "031b2262-fb12-4742-b412-6d1c0cc63d0c",
+   "titulo": "The Corporate Upbeat",
+   "autor": "Soundrider/Dope",
+   "licenca": "BY 3.0",
+   "fonte": "jamendo",
+   "pagina": "https://www.jamendo.com/track/1670594",
+   "duracao_s": 62,
+   "busca": "upbeat corporate",
+   "credito": "\"The Corporate Upbeat\" by Soundrider/Dope is licensed under CC BY 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/3.0/."
+  },
+  {
+   "arquivo": "achadinhos/animado/53d8a248.mp3",
+   "id": "53d8a248-3b2e-4928-96fa-353edbbb9a74",
+   "titulo": "Smooth Transmission - Rnb Electronic",
+   "autor": "Eddy J",
+   "licenca": "BY 3.0",
+   "fonte": "jamendo",
+   "pagina": "https://www.jamendo.com/track/1182867",
+   "duracao_s": 62,
+   "busca": "happy electronic",
+   "credito": "\"Smooth Transmission - Rnb Electronic\" by Eddy J is licensed under CC BY 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/3.0/."
+  },
+  {
+   "arquivo": "achadinhos/animado/a22ce6d2.mp3",
+   "id": "a22ce6d2-75cd-47d0-9afb-aae1ad133e59",
+   "titulo": "Electron Libre (Feat.Decko M16)",
+   "autor": "Eternel Rêveur",
+   "licenca": "BY 3.0",
+   "fonte": "jamendo",
+   "pagina": "https://www.jamendo.com/track/1611791",
+   "duracao_s": 62,
+   "busca": "happy electronic",
+   "credito": "\"Electron Libre (Feat.Decko M16)\" by Eternel Rêveur is licensed under CC BY 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/3.0/."
+  }
+ ],
+ "achadinhos/chill": [
+  {
+   "arquivo": "achadinhos/chill/57598aab.mp3",
+   "id": "57598aab-f53f-4e93-a64e-2e8ca1234a7a",
+   "titulo": "AleXZavesa - Man mountain (Electro House)",
+   "autor": "AlexZavesa",
+   "licenca": "BY 3.0",
+   "fonte": "jamendo",
+   "pagina": "https://www.jamendo.com/track/1336307",
+   "duracao_s": 62,
+   "busca": "soft house",
+   "credito": "\"AleXZavesa - Man mountain (Electro House)\" by AlexZavesa is licensed under CC BY 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/3.0/."
+  },
+  {
+   "arquivo": "achadinhos/chill/951f077d.mp3",
+   "id": "951f077d-4c8f-447b-b666-5ddf7bef2aa5",
+   "titulo": "Skipper [house]",
+   "autor": "Hardcore Scm",
+   "licenca": "BY 3.0",
+   "fonte": "jamendo",
+   "pagina": "https://www.jamendo.com/track/1196267",
+   "duracao_s": 62,
+   "busca": "soft house",
+   "credito": "\"Skipper [house]\" by Hardcore Scm is licensed under CC BY 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/3.0/."
+  }
+ ],
+ "achadinhos/tech": [
+  {
+   "arquivo": "achadinhos/tech/78e313d7.mp3",
+   "id": "78e313d7-2834-45d3-b404-e974745d170d",
+   "titulo": "Retro Futurism",
+   "autor": "Notorious Twins",
+   "licenca": "BY 3.0",
+   "fonte": "jamendo",
+   "pagina": "https://www.jamendo.com/track/1367851",
+   "duracao_s": 62,
+   "busca": "future bass",
+   "credito": "\"Retro Futurism\" by Notorious Twins is licensed under CC BY 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/3.0/."
+  },
+  {
+   "arquivo": "achadinhos/tech/c2a92afb.mp3",
+   "id": "c2a92afb-5338-43b8-b3cb-d1f814c93ef1",
+   "titulo": "Future Business",
+   "autor": "Marco Margna",
+   "licenca": "BY 3.0",
+   "fonte": "jamendo",
+   "pagina": "https://www.jamendo.com/track/1128518",
+   "duracao_s": 62,
+   "busca": "future bass",
+   "credito": "\"Future Business\" by Marco Margna is licensed under CC BY 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/3.0/."
+  }
+ ],
+ "stickyman/leve": [],
+ "stickyman/tensao": [],
+ "stickyman/vitoria": [
+  {
+   "arquivo": "stickyman/vitoria/cc074d14.mp3",
+   "id": "cc074d14-1d27-4c8b-8c85-e46147954a5a",
+   "titulo": "Victorious",
+   "autor": "A. Cooper",
+   "licenca": "BY 3.0",
+   "fonte": "jamendo",
+   "pagina": "https://www.jamendo.com/track/2217980",
+   "duracao_s": 62,
+   "busca": "happy victory",
+   "credito": "\"Victorious\" by A. Cooper is licensed under CC BY 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/3.0/."
+  }
  ]
 }
