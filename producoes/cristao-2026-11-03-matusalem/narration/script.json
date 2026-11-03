@@ -1,0 +1,20 @@
+{
+  "voice": "pm_alex",
+  "speed": 1.1,
+  "lang": "pt-br",
+  "_comment": "PERSONAGEM BÍBLICO (texto cinético) — Matusalém. Gênesis 5:21-27: Enoque gerou Matusalém aos 65; andou com Deus 300 anos e 'já não era, porque Deus o tomou' (5:24; Hb 11:5). Matusalém gerou Lameque aos 187 (5:25), viveu 969 anos e morreu (5:27). Lameque gerou Noé aos 182 (5:28-29); Noé tinha 600 anos quando veio o dilúvio (7:6) => 187+182+600 = 969: pelas contas do texto hebraico (massorético) ele morre no ano do dilúvio. É o maior número de anos citado na Bíblia. Conferido em Bíblia ARA (bibliaonline.com.br/ara/gn/5) e Enciclopédia Britannica (Methuselah).",
+  "say": { "969": "novecentos e sessenta e nove", "187": "cento e oitenta e sete", "300": "trezentos" },
+  "fish": { "voice": "a0a26a57cac94ea4918f05a2393b4259", "speed": 1.15, "model": "s2.1-pro-free" },
+  "accent": [],
+  "clips": [
+    { "id": "c1", "scene": 1, "minStart": 0.2, "gapAfterPrev": 0, "text": "969 anos. Esse é o homem que mais viveu em toda a Bíblia." },
+    { "id": "c2", "scene": 2, "minStart": 0, "gapAfterPrev": 0.55, "text": "O nome dele é Matusalém. E quase tudo o que a Bíblia conta dele cabe em três versículos." },
+    { "id": "c3", "scene": 3, "minStart": 0, "gapAfterPrev": 0.55, "text": "O pai dele, Enoque, andou com Deus 300 anos. E não morreu: Deus o tomou." },
+    { "id": "c4", "scene": 4, "minStart": 0, "gapAfterPrev": 0.55, "text": "E fazendo as contas de Gênesis, Matusalém morreu no mesmo ano em que veio o dilúvio." },
+    { "id": "c5", "scene": 5, "minStart": 0, "gapAfterPrev": 0.55, "text": "Do filho, a Bíblia guarda um número. Do pai, guarda com quem ele andou. O que conta não é quanto tempo você vive, é com quem você anda." },
+    { "id": "c6", "scene": 6, "minStart": 0, "gapAfterPrev": 0.6, "text": "Você já sabia disso? Comenta eu sabia ou não sabia. E segue, pra conhecer um personagem da Bíblia toda semana." }
+  ],
+  "ref": { "c1": "GÊNESIS 5:27", "c3": "GÊNESIS 5:24" },
+  "tailAfterLastClip": 2.6,
+  "keywords": []
+}
