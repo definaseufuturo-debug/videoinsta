@@ -1,0 +1,33 @@
+{
+  "status": "pendente",
+  "voice": "a0a26a57cac94ea4918f05a2393b4259",
+  "speed": 1.15,
+  "model": "s2.1-pro-free",
+  "language": "pt",
+  "clips": [
+    {
+      "id": "c1",
+      "text": "novecentos e sessenta e nove anos. Esse é o homem que mais viveu em toda a Bíblia."
+    },
+    {
+      "id": "c2",
+      "text": "O nome dele é Matusalém. E quase tudo o que a Bíblia conta dele cabe em três versículos."
+    },
+    {
+      "id": "c3",
+      "text": "O pai dele, Enoque, andou com Deus trezentos anos. E não morreu: Deus o tomou."
+    },
+    {
+      "id": "c4",
+      "text": "E fazendo as contas de Gênesis, Matusalém morreu no mesmo ano em que veio o dilúvio."
+    },
+    {
+      "id": "c5",
+      "text": "Do filho, a Bíblia guarda um número. Do pai, guarda com quem ele andou. O que conta não é quanto tempo você vive, é com quem você anda."
+    },
+    {
+      "id": "c6",
+      "text": "Você já sabia disso? Comenta eu sabia ou não sabia. E segue, pra conhecer um personagem da Bíblia toda semana."
+    }
+  ]
+}
