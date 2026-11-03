@@ -1,8 +1,0 @@
-{
-  "status": "erro",
-  "q": "piano",
-  "category": "music",
-  "license": "cc0,pdm,by",
-  "n": 3,
-  "erro": "HTTP Error 504: Gateway Timeout"
-}
