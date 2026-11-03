@@ -6,6 +6,11 @@
 set -e
 cd "$(dirname "$0")/.."
 S="$1"; Q="$2"; CAT="${3:-music}"; MIN="${4:-0}"; MAX="${5:-0}"; N="${6:-5}"
+# clima:<grupo>/<chave> (ex.: clima:pais_filhos/saudade) usa as buscas de pipeline/clima.json; a 1ª busca com resultado vale
+if [[ "$Q" == clima:* ]]; then
+  Q=$(python3 -c "import json,sys;g,k=sys.argv[1].split('/');print(' | '.join(json.load(open('pipeline/clima.json'))[g][k]['q']))" "${Q#clima:}")
+  [ "$MIN" = 0 ] && MIN=30
+fi
 python3 - "$S" "$Q" "$CAT" "$MIN" "$MAX" "$N" <<'PY'
 import json, sys
 s, q, cat, mn, mx, n = sys.argv[1:7]

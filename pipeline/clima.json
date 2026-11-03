@@ -1,0 +1,17 @@
+{
+  "_comment": "Clima da cena -> buscas no Openverse (inglês rende mais). Use com: pipeline/openverse.sh <slug> clima:<chave>. 'gain' = volume sugerido da trilha sob o áudio do vídeo.",
+  "pais_filhos": {
+    "saudade":      {"desc": "pai ou mãe sentindo falta, tempo que passou, 'a última vez'", "q": ["nostalgic piano", "melancholic piano", "sad piano instrumental"], "gain": 0.55},
+    "arrependimento": {"desc": "ausência, celular na mão, não ter dado atenção, 'depois'", "q": ["sad ambient piano", "emotional piano slow", "regret cinematic"], "gain": 0.5},
+    "ternura":      {"desc": "colo, abraço, cuidado, bebê, boa noite", "q": ["tender piano", "lullaby", "gentle music box", "soft acoustic guitar"], "gain": 0.5},
+    "gratidao":     {"desc": "gratidão, orgulho, 'obrigado pai/mãe'", "q": ["warm acoustic guitar", "grateful piano", "heartwarming instrumental"], "gain": 0.5},
+    "perdao":       {"desc": "briga e reconciliação, pedir desculpa, voltar pra casa", "q": ["hopeful piano", "forgiveness emotional piano", "reconciliation cinematic"], "gain": 0.5},
+    "esperanca":    {"desc": "recomeço, fé, o filho que volta, final de luz", "q": ["hopeful cinematic", "uplifting piano strings", "inspiring ambient"], "gain": 0.5},
+    "alegria":      {"desc": "brincar, riso, domingo em família", "q": ["happy ukulele", "playful acoustic", "cheerful family"], "gain": 0.45},
+    "tensao":       {"desc": "discussão, silêncio pesado, adolescente trancado no quarto", "q": ["tense ambient", "dark piano drone", "suspense minimal"], "gain": 0.45}
+  },
+  "devocional": {"calmo": {"q": ["calm piano", "peaceful ambient", "worship instrumental"], "gain": 0.3}},
+  "mapa":       {"viagem": {"q": ["ancient middle eastern", "desert ambient", "epic journey instrumental"], "gain": 0.3}},
+  "personagem": {"epico": {"q": ["biblical cinematic", "ancient cinematic ambient", "epic strings slow"], "gain": 0.3}},
+  "mente":      {"reflexivo": {"q": ["lofi chill", "ambient electronic soft", "minimal piano"], "gain": 0.4}}
+}
