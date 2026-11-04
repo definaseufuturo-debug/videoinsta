@@ -38,7 +38,7 @@ Os posts do Instagram **não vão mais para o YouTube**, e os bonequinhos **não
 - [ ] Moisés: 40 anos no Egito, 40 no deserto, 40 guiando o povo (At 7:23, 30, 36)
 
 ## Fila de CURIOSIDADES E DADOS (qua e sáb 19:00, pegue o próximo [ ])
-- [ ] O versículo mais curto da Bíblia tem 2 palavras: "Jesus chorou" (Jo 11:35)
+- [x] O versículo mais curto da Bíblia tem 2 palavras: "Jesus chorou" (Jo 11:35) — 04/11
 - [ ] O livro da Bíblia que não cita o nome de Deus nenhuma vez (Ester)
 - [ ] Dois homens da Bíblia que não morreram (Enoque, Gn 5:24; Elias, 2Rs 2:11)
 - [ ] O maior e o menor capítulo da Bíblia (Sl 119 com 176 versículos; Sl 117 com 2)
