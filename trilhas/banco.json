@@ -513,7 +513,8 @@
   }
  ],
  "_descartados": [
-  "d5dc70c2-d271-4fcf-807b-e0584229faea"
+  "d5dc70c2-d271-4fcf-807b-e0584229faea",
+  "2d2669fa-2a8f-46e2-813d-033f27916f0c"
  ],
  "mente/tensao": [],
  "mente/leve": [],
@@ -653,18 +654,6 @@
    "duracao_s": 62,
    "busca": "uplifting strings",
    "credito": "\"Water\" by Rivers and Leaves is licensed under CC BY 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/3.0/."
-  },
-  {
-   "arquivo": "devocional/esperanca/2d2669fa.mp3",
-   "id": "2d2669fa-2a8f-46e2-813d-033f27916f0c",
-   "titulo": "Breaking News Opening Countdown Music",
-   "autor": "E. Erkut",
-   "licenca": "BY 3.0",
-   "fonte": "jamendo",
-   "pagina": "https://www.jamendo.com/track/1160638",
-   "duracao_s": 46.1,
-   "busca": "uplifting strings",
-   "credito": "\"Breaking News Opening Countdown Music\" by E. Erkut is licensed under CC BY 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/3.0/."
   },
   {
    "arquivo": "devocional/esperanca/0d150208.mp3",
