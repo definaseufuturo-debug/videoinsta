@@ -29,7 +29,7 @@ Temas validados por perfis gringos de bonequinhos (dezenas de milhões de views)
 - [x] MESMO PRAZO (procrastinação): calendário "30 DIAS" caindo folha por folha; um faz um pouquinho por dia, o outro faz tudo na última noite, sem dormir, café derramado.
 - [x] O SUCESSO QUE NINGUÉM VIU (bastidores): no palco, aplausos e holofote; a cortina sobe e mostra 1.000 tentativas amassadas no chão atrás dele.
 - [x] DIPLOMA × HABILIDADE: um ganha um troféu de papel que molha na chuva; o outro aprende a consertar o guarda-chuva e ajuda todo mundo.
-- [ ] RENDA × GASTOS: o salário entra pingando numa caneca; os gastos saem por uma torneira aberta embaixo. Um fecha a torneira, o outro compra outra caneca.
+- [x] RENDA × GASTOS: o salário entra pingando numa caneca; os gastos saem por uma torneira aberta embaixo. Um fecha a torneira, o outro compra outra caneca.
 - [ ] DINHEIRO × TEMPO: um junta moedas numa pilha cada vez mais alta, enquanto o relógio de areia da vida dele esvazia; o outro troca uma moeda por um passeio com quem ama.
 - [ ] MOTIVADO × DISCIPLINADO: dia 1 os dois correm; dia 7 chove: um volta pra cama, o outro calça o tênis. Contador de dias.
 - [ ] ANSIOSO × EVITATIVO (relacionamento): ele manda mensagem e fica olhando o "digitando..."; ela vê a notificação e vira o celular pra baixo.
