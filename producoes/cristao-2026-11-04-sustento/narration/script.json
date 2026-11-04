@@ -1,0 +1,21 @@
+{
+  "voice": "pf_dora",
+  "speed": 1.08,
+  "lang": "pt-br",
+  "_comment": "Devocional TEXTO CINÉTICO — Preocupação com o sustento. Mateus 6:26 (ARA: 'Observai as aves do céu: não semeiam, não colhem, nem ajuntam em celeiros; contudo, vosso Pai celeste as sustenta. Porventura, não valeis vós muito mais do que as aves?'). Contexto: Sermão do Monte, dito às multidões (Mt 5:1; 7:28), no mesmo sermão da oração do 'pão nosso de cada dia' (6:11); logo antes, 'não andeis ansiosos pela vossa vida, quanto ao que haveis de comer' (6:25) e depois 'vosso Pai celeste sabe que necessitais de todas elas' (6:32). Conferido em Bíblia ARA (biblia.com bb-sbb-ra Mt 6:25-33) e bible.com (Mt 6:26).",
+  "say": {},
+  "clima": "devocional/calmo",
+  "fish": { "voice": "a7f67c4e2d94440aad9c5a82365d9d92", "speed": 1.05, "model": "s2.1-pro-free" },
+  "accent": [],
+  "clips": [
+    { "id": "c1", "scene": 1, "minStart": 0.3, "gapAfterPrev": 0, "text": "Acordou preocupado com as contas?" },
+    { "id": "c2", "scene": 2, "minStart": 0, "gapAfterPrev": 0.5, "text": "Observai as aves do céu: não semeiam, não colhem, nem ajuntam em celeiros; contudo, vosso Pai celeste as sustenta." },
+    { "id": "c3", "scene": 3, "minStart": 0, "gapAfterPrev": 0.5, "text": "Jesus disse isso a uma multidão que pedia a Deus o pão de cada dia." },
+    { "id": "c4", "scene": 4, "minStart": 0, "gapAfterPrev": 0.45, "text": "Ele não prometeu uma vida sem trabalho. Prometeu que você não carrega o sustento sozinho: o Pai sabe do que você precisa." },
+    { "id": "c5", "scene": 5, "minStart": 0, "gapAfterPrev": 0.45, "text": "Hoje, faz a sua parte e entrega o resto. Quem alimenta os pássaros não vai se esquecer de você." },
+    { "id": "c6", "scene": 6, "minStart": 0, "gapAfterPrev": 0.5, "text": "Se essa palavra é pra você, comenta amém. E segue, pra receber uma palavra toda manhã." }
+  ],
+  "ref": { "c2": "MATEUS 6:26" },
+  "tailAfterLastClip": 2.0,
+  "keywords": []
+}
