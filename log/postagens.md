@@ -87,3 +87,4 @@
 - 2026-11-04 07:23 | produção B2 | 2026-11-04-12-diploma-habilidade (12:00, mente/inspirador) e 2026-11-04-19-renda-gastos (19:00, mente/reflexivo) na fila
 - 2026-11-04 14:56 | - | cristao | nada na fila
 - 2026-11-04 14:56 | jil-2026-11-04-primeiros-passos | jesusislove | yt 8kDNaYwcMRk
+- 2026-11-04 21:55 | 2026-11-04-12-diploma-habilidade | agendado | ok 18642782299006306 | yt -G3QGz_lEqI (descrição do Short possivelmente vazia: arquivo de legenda saiu vazio)
