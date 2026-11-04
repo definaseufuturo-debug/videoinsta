@@ -1,28 +1,2 @@
-2026-11-03 18:43 UTC
-pais_filhos/saudade: já tem 5
-pais_filhos/arrependimento: 2/5
-pais_filhos/ternura: 5/5
-pais_filhos/gratidao: 4/5
-pais_filhos/perdao: 2/5
-pais_filhos/esperanca: já tem 5
-pais_filhos/alegria: já tem 5
-pais_filhos/tensao: 0/5
-mente/reflexivo: já tem 5
-mente/melancolico: 3/5
-mente/inspirador: já tem 5
-mente/tensao: 0/5
-mente/leve: 0/5
-devocional/calmo: 5/5
-devocional/adoracao: 5/5
-devocional/esperanca: 3/5
-mapa/viagem: 4/5
-personagem/epico: 0/5
+2026-11-04 04:49 UTC
 cristao/curiosidade: 0/5
-cristao/quiz: 0/5
-cristao/estudo: 1/5
-achadinhos/animado: 5/5
-achadinhos/chill: 2/5
-achadinhos/tech: 2/5
-stickyman/leve: 0/5
-stickyman/tensao: 0/5
-stickyman/vitoria: 1/5
