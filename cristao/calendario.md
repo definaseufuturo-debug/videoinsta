@@ -138,7 +138,7 @@ Visual fixo: fundo preto, bonequinhos brancos com brilho, UM elemento vermelho s
 > **FILA FORTE DE PAIS E FILHOS (pegue estes ANTES dos demais, na ordem):**
 - [x] O desenho: o filho desenha a família na escola; todos têm rosto, o pai é só um retângulo vermelho de celular. "NO DESENHO DELE, VOCÊ É UMA TELA." (Sl 127:3) — 02/11
 - [x] A última vez: o pai carrega o filho no colo, todo dia, sem saber qual será a última; um dia ele não pede mais colo. "VOCÊ NÃO VAI SABER QUE FOI A ÚLTIMA VEZ." (Ec 3:1) — 03/11
-- [ ] Primeiros passos, últimos passos: o pai segura a mão do filho nos primeiros passos; 50 anos depois, o filho segura a mão do pai nos últimos. (Is 46:4)
+- [x] Primeiros passos, últimos passos: o pai segura a mão do filho nos primeiros passos; 50 anos depois, o filho segura a mão do pai nos últimos. (Is 46:4) — 04/11
 - [ ] Agora não: o filho corre com o desenho e ouve "agora não" (3 vezes, cada vez maior); anos depois o pai pede pra conversar e o filho adulto responde "agora não". (Gl 6:9)
 - [ ] A frase que ficou: o pai grita uma vez "você não serve pra nada" e esquece; a frase vira uma pedra vermelha que o filho carrega até adulto, até alguém dizer "eu acredito em você". (Ef 6:4)
 - [ ] Por que você não é igual ao seu irmão?: a cada comparação a criança encolhe; o outro pai olha cada filho pelo que ele é e ela volta a crescer. (Sl 139:14)
