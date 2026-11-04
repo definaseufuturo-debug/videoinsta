@@ -1,5 +1,5 @@
 {
-  "status": "pronto",
+  "status": "pendente",
   "voice": "a0a26a57cac94ea4918f05a2393b4259",
   "speed": 1.15,
   "model": "s2.1-pro-free",
@@ -15,18 +15,22 @@
     },
     {
       "id": "c3",
-      "text": "Foi no túmulo de Lázaro, um amigo que estava sepultado havia quatro dias."
+      "text": "Foi em Betânia, no túmulo de Lázaro, um amigo que estava sepultado havia quatro dias."
     },
     {
       "id": "c4",
-      "text": "E o detalhe que quase ninguém percebe: Jesus já sabia que ia ressuscitar Lázaro poucos minutos depois. E chorou mesmo assim."
+      "text": "Maria chorava aos pés dele. E quando Jesus viu as lágrimas dela, ele se comoveu e chorou."
     },
     {
       "id": "c5",
-      "text": "Antes de resolver a dor, ele chorou junto. Ele não tem pressa com a sua dor."
+      "text": "E o detalhe que quase ninguém percebe: ele já sabia que ia ressuscitar Lázaro poucos minutos depois. E chorou mesmo assim."
     },
     {
       "id": "c6",
+      "text": "Antes de resolver a dor, ele chorou junto. Ele não tem pressa com a sua dor."
+    },
+    {
+      "id": "c7",
       "text": "Você já sabia disso? Comenta eu sabia ou não sabia. E segue, pra ver uma curiosidade da Bíblia toda semana."
     }
   ]
