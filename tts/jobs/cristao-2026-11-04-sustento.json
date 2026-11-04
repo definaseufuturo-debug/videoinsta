@@ -1,0 +1,33 @@
+{
+  "status": "pendente",
+  "voice": "a7f67c4e2d94440aad9c5a82365d9d92",
+  "speed": 1.05,
+  "model": "s2.1-pro-free",
+  "language": "pt",
+  "clips": [
+    {
+      "id": "c1",
+      "text": "Acordou preocupado com as contas?"
+    },
+    {
+      "id": "c2",
+      "text": "Observai as aves do céu: não semeiam, não colhem, nem ajuntam em celeiros; contudo, vosso Pai celeste as sustenta."
+    },
+    {
+      "id": "c3",
+      "text": "Jesus disse isso a uma multidão que pedia a Deus o pão de cada dia."
+    },
+    {
+      "id": "c4",
+      "text": "Ele não prometeu uma vida sem trabalho. Prometeu que você não carrega o sustento sozinho: o Pai sabe do que você precisa."
+    },
+    {
+      "id": "c5",
+      "text": "Hoje, faz a sua parte e entrega o resto. Quem alimenta os pássaros não vai se esquecer de você."
+    },
+    {
+      "id": "c6",
+      "text": "Se essa palavra é pra você, comenta amém. E segue, pra receber uma palavra toda manhã."
+    }
+  ]
+}
