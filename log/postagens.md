@@ -95,3 +95,4 @@
 - 2026-11-05 09:53 | cristao-2026-11-05-coragem | cristao | ok 18129658483858991
 - 2026-11-05 09:53 | - | jesusislove | nada na fila
 - 2026-11-05 14:52 | reserva-pix | reserva | ok 18127134046897903 | yt dEyw-cJc28s
+- 2026-11-05 21:55 | reserva-bacterias | reserva | ok 18111484718215637 | yt IfRY2crBS8U
