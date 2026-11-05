@@ -94,3 +94,4 @@
 - 2026-11-05 01:55 | produção Tarefa E (cristao) | fila IG 07:00 ok cristao-2026-11-05-coragem (devocional Js 1:9, texto cinético, voz Fish 3, 37,4 s, 17 MB; trilha devocional/adoracao — devocional/esperanca sorteou um trance, troquei) · fila YT 12:00 ok jil-2026-11-05-agora-nao (bonequinhos pais e filhos "Agora não", Gl 6:9, 30 s, 4,5 MB, pais_filhos/arrependimento) · fila IG 19:00 ok cristao-2026-11-05-12-tribos (mapa Js 13–21, voz Fish 4, 37,1 s, 6 MB, mapa/viagem; territórios aproximados; promete Davi e Golias)
 - 2026-11-05 09:53 | cristao-2026-11-05-coragem | cristao | ok 18129658483858991
 - 2026-11-05 09:53 | - | jesusislove | nada na fila
+- 2026-11-05 14:52 | reserva-pix | reserva | ok 18127134046897903 | yt dEyw-cJc28s
