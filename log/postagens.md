@@ -91,3 +91,4 @@
 - 2026-11-04 21:56 | cristao-2026-11-04-jesus-chorou | cristao | ok 18016370057958966
 - 2026-11-04 21:56 | - | jesusislove | nada na fila
 - 2026-11-04 21:50 | 2026-11-04-19-renda-gastos | agendado (postado manualmente a pedido do Jonas; rodada das 18:50 tinha postado o atrasado das 12:00) | ok 17880160827562135 | yt cEMqSpyrFbM
+- 2026-11-05 01:55 | produção Tarefa E (cristao) | fila IG 07:00 ok cristao-2026-11-05-coragem (devocional Js 1:9, texto cinético, voz Fish 3, 37,4 s, 17 MB; trilha devocional/adoracao — devocional/esperanca sorteou um trance, troquei) · fila YT 12:00 ok jil-2026-11-05-agora-nao (bonequinhos pais e filhos "Agora não", Gl 6:9, 30 s, 4,5 MB, pais_filhos/arrependimento) · fila IG 19:00 ok cristao-2026-11-05-12-tribos (mapa Js 13–21, voz Fish 4, 37,1 s, 6 MB, mapa/viagem; territórios aproximados; promete Davi e Golias)
