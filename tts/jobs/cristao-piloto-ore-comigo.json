@@ -1,0 +1,33 @@
+{
+  "status": "pendente",
+  "voice": "a7f67c4e2d94440aad9c5a82365d9d92",
+  "speed": 0.98,
+  "model": "s2.1-pro-free",
+  "language": "pt",
+  "clips": [
+    {
+      "id": "c1",
+      "text": "Para tudo por trinta segundos. Ore comigo."
+    },
+    {
+      "id": "c2",
+      "text": "Senhor, obrigado por mais um dia. Eu não sei tudo o que vai acontecer hoje,"
+    },
+    {
+      "id": "c3",
+      "text": "mas eu entrego nas tuas mãos a minha casa, o meu trabalho e a minha família."
+    },
+    {
+      "id": "c4",
+      "text": "Tira de mim a ansiedade. Onde houver medo, coloca a tua paz."
+    },
+    {
+      "id": "c5",
+      "text": "E guarda quem eu amo, onde eles estiverem. Em nome de Jesus."
+    },
+    {
+      "id": "c6",
+      "text": "Se você orou comigo, comenta amém. E manda pra quem precisa dessa oração hoje."
+    }
+  ]
+}
