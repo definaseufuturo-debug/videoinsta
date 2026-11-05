@@ -1,0 +1,37 @@
+{
+  "status": "pendente",
+  "voice": "a7f67c4e2d94440aad9c5a82365d9d92",
+  "speed": 1.05,
+  "model": "s2.1-pro-free",
+  "language": "pt",
+  "clips": [
+    {
+      "id": "c1",
+      "text": "Esse versículo foi escrito por um homem que sabia que ia morrer."
+    },
+    {
+      "id": "c2",
+      "text": "Era Paulo. Por anos, ele cruzou o Mediterrâneo: três naufrágios, açoites, prisões."
+    },
+    {
+      "id": "c3",
+      "text": "Agora, segundo a tradição, ele estava preso em Roma, acorrentado."
+    },
+    {
+      "id": "c4",
+      "text": "Quase todos o abandonaram. Só Lucas está comigo, ele escreve. E pede uma capa, porque fazia frio."
+    },
+    {
+      "id": "c5",
+      "text": "E, dessa cela, ele escreve a Timóteo: Combati o bom combate, acabei a carreira, guardei a fé."
+    },
+    {
+      "id": "c6",
+      "text": "Ele não escreveu: eu venci. Escreveu: eu não desisti. Talvez, hoje, a sua vitória seja só não largar a fé."
+    },
+    {
+      "id": "c7",
+      "text": "De qual versículo você quer saber a história? Comenta aqui."
+    }
+  ]
+}
