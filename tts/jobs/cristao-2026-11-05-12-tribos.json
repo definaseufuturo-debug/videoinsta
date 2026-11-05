@@ -1,0 +1,37 @@
+{
+  "status": "pendente",
+  "voice": "a0a26a57cac94ea4918f05a2393b4259",
+  "speed": 1.12,
+  "model": "s2.1-pro-free",
+  "language": "pt",
+  "clips": [
+    {
+      "id": "c1",
+      "text": "Doze tribos dividiram a terra prometida. Mas uma ficou sem terra nenhuma."
+    },
+    {
+      "id": "c2",
+      "text": "Josué divide a terra por sorteio. Rúben, Gade e meia tribo de Manassés ficam a leste do Jordão."
+    },
+    {
+      "id": "c3",
+      "text": "No sul, Judá. Tão grande que Simeão recebe cidades dentro dele. No centro, Benjamim, Efraim e a outra metade de Manassés."
+    },
+    {
+      "id": "c4",
+      "text": "No norte, Issacar, Zebulom, Aser e Naftali. E Dã, perto do mar, que depois se muda para o extremo norte."
+    },
+    {
+      "id": "c5",
+      "text": "E Levi não recebe território: o Senhor é a sua herança. Ganha quarenta e oito cidades no meio das outras."
+    },
+    {
+      "id": "c6",
+      "text": "Então como continuam doze? José conta por dois: Efraim e Manassés, os filhos dele."
+    },
+    {
+      "id": "c7",
+      "text": "De qual tribo você seria? Comenta aqui. E segue, porque a próxima parte é Davi e Golias."
+    }
+  ]
+}
