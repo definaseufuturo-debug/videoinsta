@@ -1,0 +1,19 @@
+{
+  "voice": "pm_alex",
+  "speed": 1.0,
+  "lang": "pt-br",
+  "_comment": "Piloto 'Ore comigo' (oração guiada da manhã). Base: Filipenses 4:6-7 (apresentar os pedidos a Deus; a paz de Deus guardará o coração). CTA: comenta amém + manda pra quem precisa.",
+  "clima": "devocional/calmo",
+  "fish": { "voice": "a7f67c4e2d94440aad9c5a82365d9d92", "speed": 0.98, "model": "s2.1-pro-free" },
+  "say": {},
+  "clips": [
+    { "id": "c1", "scene": 1, "minStart": 0.4, "gapAfterPrev": 0, "text": "Para tudo por trinta segundos. Ore comigo." },
+    { "id": "c2", "scene": 2, "minStart": 0, "gapAfterPrev": 0.8, "text": "Senhor, obrigado por mais um dia. Eu não sei tudo o que vai acontecer hoje," },
+    { "id": "c3", "scene": 2, "minStart": 0, "gapAfterPrev": 0.3, "text": "mas eu entrego nas tuas mãos a minha casa, o meu trabalho e a minha família." },
+    { "id": "c4", "scene": 3, "minStart": 0, "gapAfterPrev": 0.6, "text": "Tira de mim a ansiedade. Onde houver medo, coloca a tua paz." },
+    { "id": "c5", "scene": 3, "minStart": 0, "gapAfterPrev": 0.5, "text": "E guarda quem eu amo, onde eles estiverem. Em nome de Jesus." },
+    { "id": "c6", "scene": 4, "minStart": 0, "gapAfterPrev": 0.9, "text": "Se você orou comigo, comenta amém. E manda pra quem precisa dessa oração hoje." }
+  ],
+  "tailAfterLastClip": 2.4,
+  "keywords": []
+}
