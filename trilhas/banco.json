@@ -514,7 +514,8 @@
  ],
  "_descartados": [
   "d5dc70c2-d271-4fcf-807b-e0584229faea",
-  "2d2669fa-2a8f-46e2-813d-033f27916f0c"
+  "2d2669fa-2a8f-46e2-813d-033f27916f0c",
+  "0d150208-a3bf-4be6-8b85-00718803e304"
  ],
  "mente/tensao": [],
  "mente/leve": [],
@@ -654,18 +655,6 @@
    "duracao_s": 62,
    "busca": "uplifting strings",
    "credito": "\"Water\" by Rivers and Leaves is licensed under CC BY 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/3.0/."
-  },
-  {
-   "arquivo": "devocional/esperanca/0d150208.mp3",
-   "id": "0d150208-a3bf-4be6-8b85-00718803e304",
-   "titulo": "Power Trancemission (Original Mix)",
-   "autor": "DJ Fire-Black",
-   "licenca": "BY 2.0",
-   "fonte": "jamendo",
-   "pagina": "https://www.jamendo.com/track/591494",
-   "duracao_s": 62,
-   "busca": "uplifting strings",
-   "credito": "\"Power Trancemission (Original Mix)\" by DJ Fire-Black is licensed under CC BY 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/2.0/fr/."
   }
  ],
  "mapa/viagem": [
