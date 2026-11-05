@@ -90,3 +90,4 @@
 - 2026-11-04 21:55 | 2026-11-04-12-diploma-habilidade | agendado | ok 18642782299006306 | yt -G3QGz_lEqI (descrição do Short possivelmente vazia: arquivo de legenda saiu vazio)
 - 2026-11-04 21:56 | cristao-2026-11-04-jesus-chorou | cristao | ok 18016370057958966
 - 2026-11-04 21:56 | - | jesusislove | nada na fila
+- 2026-11-04 21:50 | 2026-11-04-19-renda-gastos | agendado (postado manualmente a pedido do Jonas; rodada das 18:50 tinha postado o atrasado das 12:00) | ok 17880160827562135 | yt cEMqSpyrFbM
