@@ -86,7 +86,7 @@ No estilo cinético, o que varia é a **paleta** (uma cor por cena, no bloco CON
 - [x] Cansaço: vinde a mim, os cansados (Mt 11:28-30) — 02/11
 - [x] Propósito: pensamentos de paz, não de mal (Jr 29:11; carta aos exilados na Babilônia) — 03/11
 - [x] Preocupação com o sustento: olhai as aves do céu (Mt 6:26) — 04/11
-- [ ] Coragem: sê forte e corajoso (Js 1:9)
+- [x] Coragem: sê forte e corajoso (Js 1:9) — 05/11
 - [ ] Espera: os que esperam no Senhor renovam as forças (Is 40:31)
 - [ ] Paz: a minha paz vos dou (Jo 14:27; dito na véspera da cruz)
 - [ ] Recomeço: se alguém está em Cristo, nova criatura é (2Co 5:17)
