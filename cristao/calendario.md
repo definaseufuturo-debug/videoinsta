@@ -175,7 +175,7 @@ Visual fixo: fundo preto, bonequinhos brancos com brilho, UM elemento vermelho s
 - [x] Do Mar Vermelho ao Sinai: Mara, Elim, o maná e Refidim (Êx 15–19) — 28/10
 - [x] Por que 40 anos no deserto? Os espias e Cades-Barneia (Nm 13–14; Dt 1:2 "onze dias") — 29/10
 - [x] A travessia do Jordão e a queda de Jericó (Js 3–6) — 02/11
-- [ ] As 12 tribos: onde cada uma ficou na terra prometida (Js 13–19)
+- [x] As 12 tribos: onde cada uma ficou na terra prometida (Js 13–19) — 05/11
 - [ ] Davi e Golias: o vale de Elá no mapa (1Sm 17)
 - [ ] Elias: do monte Carmelo ao Horebe, 40 dias de caminhada (1Rs 18–19)
 - [ ] Jonas: Nínive para um lado, Társis para o outro (Jn 1–3)

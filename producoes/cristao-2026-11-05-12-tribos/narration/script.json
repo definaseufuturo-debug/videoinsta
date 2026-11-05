@@ -1,0 +1,20 @@
+{
+  "voice": "pm_alex",
+  "speed": 1.12,
+  "lang": "pt-br",
+  "_comment": "Josué 13 – 21 (ARA). Divisão por sorte (Js 14:2; 18:10 em Siló). Rúben, Gade e a meia tribo de Manassés a leste do Jordão (Js 13:8, 15-31; 14:3). Judá (Js 15). Simeão recebe herança 'no meio da herança dos filhos de Judá', porque 'a porção dos filhos de Judá era demasiadamente grande para eles' (Js 19:1, 9). Efraim (Js 16), Manassés oeste (Js 17), Benjamim entre Judá e José (Js 18:11). Zebulom, Issacar, Aser, Naftali (Js 19:10-39). Dã perto da costa (Js 19:40-46) e depois sobe e toma Lesém, que passa a chamar Dã (Js 19:47; Jz 18). Levi sem herança: 'o Senhor, Deus de Israel, é a sua herança' (Js 13:33); 48 cidades no meio da herança dos filhos de Israel (Js 21:41). 'Os filhos de José foram duas tribos, Manassés e Efraim' (Js 14:4). Fronteiras do mapa: aproximadas, a partir de atlas bíblicos tradicionais (seeds por região). Conferido também em biblestudytools.com/kjvstudy.org (Js 14:4).",
+  "say": {},
+  "clima": "mapa/viagem",
+  "fish": { "voice": "a0a26a57cac94ea4918f05a2393b4259", "speed": 1.12, "model": "s2.1-pro-free" },
+  "clips": [
+    { "id": "c1", "scene": 1, "minStart": 0.3, "gapAfterPrev": 0, "text": "Doze tribos dividiram a terra prometida. Mas uma ficou sem terra nenhuma." },
+    { "id": "c2", "scene": 2, "minStart": 0, "gapAfterPrev": 0.4, "text": "Josué divide a terra por sorteio. Rúben, Gade e meia tribo de Manassés ficam a leste do Jordão." },
+    { "id": "c3", "scene": 3, "minStart": 0, "gapAfterPrev": 0.4, "text": "No sul, Judá. Tão grande que Simeão recebe cidades dentro dele. No centro, Benjamim, Efraim e a outra metade de Manassés." },
+    { "id": "c4", "scene": 4, "minStart": 0, "gapAfterPrev": 0.4, "text": "No norte, Issacar, Zebulom, Aser e Naftali. E Dã, perto do mar, que depois se muda para o extremo norte." },
+    { "id": "c5", "scene": 5, "minStart": 0, "gapAfterPrev": 0.4, "text": "E Levi não recebe território: o Senhor é a sua herança. Ganha quarenta e oito cidades no meio das outras." },
+    { "id": "c6", "scene": 6, "minStart": 0, "gapAfterPrev": 0.4, "text": "Então como continuam doze? José conta por dois: Efraim e Manassés, os filhos dele." },
+    { "id": "c7", "scene": 7, "minStart": 0, "gapAfterPrev": 0.45, "text": "De qual tribo você seria? Comenta aqui. E segue, porque a próxima parte é Davi e Golias." }
+  ],
+  "tailAfterLastClip": 1.8,
+  "keywords": []
+}
