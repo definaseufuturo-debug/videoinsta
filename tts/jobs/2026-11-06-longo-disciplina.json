@@ -1,7 +1,7 @@
 {
-  "status": "pronto",
+  "status": "pendente",
   "voice": "c9d3da0bdf61417d929dc67966e4befe",
-  "speed": 1.06,
+  "speed": 1.02,
   "model": "s2.1-pro-free",
   "language": "pt",
   "clips": [
@@ -23,34 +23,42 @@
     },
     {
       "id": "c5",
-      "text": "Não é preguiça. É que você só cumpre o que promete quando está com vontade. E a vontade vai e vem."
+      "text": "E aí vem a culpa. Você olha para quem acorda cedo, para quem treina todo dia, e conclui: eu sou fraco."
     },
     {
       "id": "c6",
-      "text": "Motivação é faísca: acende rápido e apaga mais rápido ainda. Disciplina é lenha. Não é bonita, mas é ela que mantém o fogo aceso."
+      "text": "Não é preguiça. É que você só cumpre o que promete quando está com vontade. E a vontade vai e vem."
     },
     {
       "id": "c7",
-      "text": "Então, um dia, você faz diferente. Você não promete mudar de vida. Promete uma coisa pequena. Dez minutos. Só dez."
+      "text": "Motivação é faísca: acende rápido e apaga mais rápido ainda. Disciplina é lenha. Não é bonita, mas é ela que mantém o fogo aceso."
     },
     {
       "id": "c8",
-      "text": "No primeiro dia, é horrível. No quinto, ainda é difícil. No décimo segundo, você percebe que parou de negociar com você mesmo."
+      "text": "Então, um dia, você faz diferente. Você não promete mudar de vida. Promete uma coisa pequena. Dez minutos. Só dez."
     },
     {
       "id": "c9",
-      "text": "Os dias ruins continuam vindo. A diferença é que agora você aparece mesmo neles. Cansado, sem vontade, mas aparece."
+      "text": "No primeiro dia, é horrível. No quinto, ainda é difícil. No décimo segundo, você percebe que parou de negociar com você mesmo."
     },
     {
       "id": "c10",
-      "text": "E, devagar, você volta a confiar em você. Cada promessa cumprida é um voto em quem você está se tornando."
+      "text": "Os dias ruins continuam vindo. A diferença é que agora você aparece mesmo neles. Cansado, sem vontade, mas aparece."
     },
     {
       "id": "c11",
-      "text": "Disciplina não é se castigar. É se respeitar o bastante para cumprir o que você mesmo prometeu."
+      "text": "E, devagar, você volta a confiar em você. Cada promessa cumprida é um voto em quem você está se tornando."
     },
     {
       "id": "c12",
+      "text": "Um mês depois, você olha para trás e quase não reconhece quem você era. Não porque ficou perfeito. Mas porque não desistiu de você."
+    },
+    {
+      "id": "c13",
+      "text": "Disciplina não é se castigar. É se respeitar o bastante para cumprir o que você mesmo prometeu."
+    },
+    {
+      "id": "c14",
       "text": "Comenta aqui: qual é a sua promessa de dez minutos? E se inscreve, porque o próximo é sobre dopamina."
     }
   ]
