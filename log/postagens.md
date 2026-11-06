@@ -102,3 +102,4 @@
 - 2026-11-06 09:53 | cristao-2026-11-06-espera | cristao | ok 17936156496145139
 - 2026-11-06 09:53 | (fila) | jesusislove | nada na fila
 - 2026-11-06 07:45 | produção B2 | 2026-11-06-12-dinheiro-tempo (12:00, mente/reflexivo) e 2026-11-06-19-motivado-disciplinado (19:00, mente/inspirador) na fila
+- 2026-11-06 | ajuste (pedido do dono) | trilhas reais desativadas; CTA final de 3 s (pipeline/cta.py) em todos os vídeos; refeitos os 4 pendentes (12-dinheiro-tempo, 19-motivado-disciplinado, cristao-2026-11-06-amem, jil-2026-11-06-a-frase-que-ficou)

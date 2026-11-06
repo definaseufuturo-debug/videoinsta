@@ -4,7 +4,6 @@
   "lang": "pt-br",
   "_comment": "ESTUDO BÍBLICO RÁPIDO (texto cinético) — O que significa 'amém'. 1) Palavra hebraica (אָמֵן) da raiz a-m-n: firme, seguro, digno de confiança (mesma raiz de 'emunah', fidelidade/fé); usada como resposta do povo (Dt 27:15-26; Ne 8:6). 2) Jesus a usava no início das frases: 'Em verdade vos digo' traduz o grego 'amēn legō hymin' (ex.: Mt 5:18; Jo 3:3). 3) Ap 3:14 (ARA): 'Estas coisas diz o Amém, a testemunha fiel e verdadeira'. Conferido em Bíblia ARA (Ap 3:14; Dt 27:15), bible.com (REV.3.14.ARA), GotQuestions PT ('O que significa amém') e Lírio Católico (enciclopédia, 'amém'). Uso comum a católicos e evangélicos.",
   "say": {"@e_cosdafe": "arroba é cos da fé"},
-  "clima": "cristao/estudo",
   "fish": { "voice": "a7f67c4e2d94440aad9c5a82365d9d92", "speed": 1.1, "model": "s2.1-pro-free" },
   "accent": [],
   "clips": [

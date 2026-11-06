@@ -245,7 +245,7 @@ for c in CUES: H[c["type"]](c)
 # trocada por uma trilha real do banco trilhas/ (rodízio sem repetir), no mesmo volume e com o mesmo abaixamento
 # sob a voz. Sem "clima" ou sem trilha no banco, fica a sintética.
 try:
-    _cl = json.loads((ROOT / "narration/script.json").read_text()).get("clima")
+    _cl = None  # TRILHA REAL DESATIVADA em 06/11/2026 (pedido do dono): fica só a sintética + efeitos. Para reativar: ler "clima" do script.json.
 except Exception:
     _cl = None
 (ROOT / "build/credito.txt").unlink(missing_ok=True)
