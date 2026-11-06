@@ -1,0 +1,33 @@
+{
+  "status": "pendente",
+  "voice": "a7f67c4e2d94440aad9c5a82365d9d92",
+  "speed": 1.05,
+  "model": "s2.1-pro-free",
+  "language": "pt",
+  "clips": [
+    {
+      "id": "c1",
+      "text": "Cansou de esperar?"
+    },
+    {
+      "id": "c2",
+      "text": "Os que esperam no Senhor renovam as suas forças, sobem com asas como águias, correm e não se cansam, caminham e não se fatigam."
+    },
+    {
+      "id": "c3",
+      "text": "Deus disse isso a um povo que reclamava: o meu caminho está escondido do Senhor. Eles achavam que tinham sido esquecidos."
+    },
+    {
+      "id": "c4",
+      "text": "Esperar em Deus não é ficar parado. É continuar andando, porque a força vem dele no caminho."
+    },
+    {
+      "id": "c5",
+      "text": "Se a resposta ainda não chegou, não desiste hoje. Demora não é esquecimento."
+    },
+    {
+      "id": "c6",
+      "text": "Se essa palavra é pra você, comenta amém. E segue, pra receber uma palavra toda manhã."
+    }
+  ]
+}
