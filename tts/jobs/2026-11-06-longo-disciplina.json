@@ -1,0 +1,57 @@
+{
+  "status": "pendente",
+  "voice": "c9d3da0bdf61417d929dc67966e4befe",
+  "speed": 1.06,
+  "model": "s2.1-pro-free",
+  "language": "pt",
+  "clips": [
+    {
+      "id": "c1",
+      "text": "Você não precisa de mais motivação. Você precisa parar de esperar por ela."
+    },
+    {
+      "id": "c2",
+      "text": "Toda segunda-feira, você promete: agora vai. Academia, dieta, estudo. Você até baixa o aplicativo."
+    },
+    {
+      "id": "c3",
+      "text": "Na terça, o despertador toca. E uma voz baixinha diz: só hoje. Amanhã você compensa."
+    },
+    {
+      "id": "c4",
+      "text": "Na quarta, você já esqueceu por que começou. E, na sexta, está de volta ao sofá, rolando a tela, com aquele peso no peito."
+    },
+    {
+      "id": "c5",
+      "text": "Não é preguiça. É que você só cumpre o que promete quando está com vontade. E a vontade vai e vem."
+    },
+    {
+      "id": "c6",
+      "text": "Motivação é faísca: acende rápido e apaga mais rápido ainda. Disciplina é lenha. Não é bonita, mas é ela que mantém o fogo aceso."
+    },
+    {
+      "id": "c7",
+      "text": "Então, um dia, você faz diferente. Você não promete mudar de vida. Promete uma coisa pequena. Dez minutos. Só dez."
+    },
+    {
+      "id": "c8",
+      "text": "No primeiro dia, é horrível. No quinto, ainda é difícil. No décimo segundo, você percebe que parou de negociar com você mesmo."
+    },
+    {
+      "id": "c9",
+      "text": "Os dias ruins continuam vindo. A diferença é que agora você aparece mesmo neles. Cansado, sem vontade, mas aparece."
+    },
+    {
+      "id": "c10",
+      "text": "E, devagar, você volta a confiar em você. Cada promessa cumprida é um voto em quem você está se tornando."
+    },
+    {
+      "id": "c11",
+      "text": "Disciplina não é se castigar. É se respeitar o bastante para cumprir o que você mesmo prometeu."
+    },
+    {
+      "id": "c12",
+      "text": "Comenta aqui: qual é a sua promessa de dez minutos? E se inscreve, porque o próximo é sobre dopamina."
+    }
+  ]
+}
