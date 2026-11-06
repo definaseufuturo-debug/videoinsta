@@ -1,0 +1,33 @@
+{
+  "status": "pendente",
+  "voice": "a7f67c4e2d94440aad9c5a82365d9d92",
+  "speed": 1.1,
+  "model": "s2.1-pro-free",
+  "language": "pt",
+  "clips": [
+    {
+      "id": "c1",
+      "text": "Você diz amém. Mas sabe o que significa?"
+    },
+    {
+      "id": "c2",
+      "text": "Primeiro: amém é hebraico. Vem de uma raiz que quer dizer firme, seguro, digno de confiança."
+    },
+    {
+      "id": "c3",
+      "text": "Segundo: Jesus começava frases com amém. Quando você lê em verdade vos digo, no original está amém."
+    },
+    {
+      "id": "c4",
+      "text": "Terceiro: no Apocalipse, o próprio Jesus é chamado de o Amém, a testemunha fiel e verdadeira."
+    },
+    {
+      "id": "c5",
+      "text": "Então amém não é só assim seja. É dizer: eu confio, isso é firme."
+    },
+    {
+      "id": "c6",
+      "text": "Se você aprendeu algo hoje, comenta amém. E segue, pra entender a Bíblia toda sexta."
+    }
+  ]
+}
