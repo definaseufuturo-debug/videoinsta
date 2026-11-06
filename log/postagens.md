@@ -101,3 +101,4 @@
 - 2026-11-06 01:55 | produção Tarefa E (cristao) | fila IG 07:00 ok cristao-2026-11-06-espera (devocional Is 40:31, texto cinético, voz Fish 3, 37,2 s, 17 MB, devocional/esperanca) · fila YT 12:00 ok jil-2026-11-06-a-frase-que-ficou (bonequinhos pais e filhos "A frase que ficou", Ef 6:4, 30 s, 4,9 MB, pais_filhos/arrependimento) · fila IG 19:00 ok cristao-2026-11-06-amem (estudo "o que significa amém", Ap 3:14, texto cinético, voz Fish 3, 36,7 s, 16 MB, cristao/estudo)
 - 2026-11-06 09:53 | cristao-2026-11-06-espera | cristao | ok 17936156496145139
 - 2026-11-06 09:53 | (fila) | jesusislove | nada na fila
+- 2026-11-06 07:45 | produção B2 | 2026-11-06-12-dinheiro-tempo (12:00, mente/reflexivo) e 2026-11-06-19-motivado-disciplinado (19:00, mente/inspirador) na fila
