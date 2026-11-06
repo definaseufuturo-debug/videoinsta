@@ -50,7 +50,7 @@ Os posts do Instagram **não vão mais para o YouTube**, e os bonequinhos **não
 - [ ] O homem mais alto da Bíblia: Golias e os 6 côvados (1Sm 17:4)
 
 ## Fila de ESTUDO BÍBLICO RÁPIDO (sex 19:00, pegue o próximo [ ])
-- [ ] O que significa "amém" de verdade
+- [x] O que significa "amém" de verdade — 06/11
 - [ ] O que significa "Emanuel" (Is 7:14; Mt 1:23)
 - [ ] O grão de mostarda: a fé que move montanhas (Mt 17:20)
 - [ ] Os 9 frutos do Espírito (Gl 5:22-23)

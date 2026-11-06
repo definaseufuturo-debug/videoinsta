@@ -1,0 +1,20 @@
+{
+  "voice": "pf_dora",
+  "speed": 1.1,
+  "lang": "pt-br",
+  "_comment": "ESTUDO BÍBLICO RÁPIDO (texto cinético) — O que significa 'amém'. 1) Palavra hebraica (אָמֵן) da raiz a-m-n: firme, seguro, digno de confiança (mesma raiz de 'emunah', fidelidade/fé); usada como resposta do povo (Dt 27:15-26; Ne 8:6). 2) Jesus a usava no início das frases: 'Em verdade vos digo' traduz o grego 'amēn legō hymin' (ex.: Mt 5:18; Jo 3:3). 3) Ap 3:14 (ARA): 'Estas coisas diz o Amém, a testemunha fiel e verdadeira'. Conferido em Bíblia ARA (Ap 3:14; Dt 27:15), bible.com (REV.3.14.ARA), GotQuestions PT ('O que significa amém') e Lírio Católico (enciclopédia, 'amém'). Uso comum a católicos e evangélicos.",
+  "say": {"@e_cosdafe": "arroba é cos da fé"},
+  "clima": "cristao/estudo",
+  "fish": { "voice": "a7f67c4e2d94440aad9c5a82365d9d92", "speed": 1.1, "model": "s2.1-pro-free" },
+  "accent": [],
+  "clips": [
+    { "id": "c1", "scene": 1, "minStart": 0.3, "gapAfterPrev": 0, "text": "Você diz amém. Mas sabe o que significa?" },
+    { "id": "c2", "scene": 2, "minStart": 0, "gapAfterPrev": 0.45, "text": "Primeiro: amém é hebraico. Vem de uma raiz que quer dizer firme, seguro, digno de confiança." },
+    { "id": "c3", "scene": 3, "minStart": 0, "gapAfterPrev": 0.45, "text": "Segundo: Jesus começava frases com amém. Quando você lê em verdade vos digo, no original está amém." },
+    { "id": "c4", "scene": 4, "minStart": 0, "gapAfterPrev": 0.45, "text": "Terceiro: no Apocalipse, o próprio Jesus é chamado de o Amém, a testemunha fiel e verdadeira." },
+    { "id": "c5", "scene": 5, "minStart": 0, "gapAfterPrev": 0.45, "text": "Então amém não é só assim seja. É dizer: eu confio, isso é firme." },
+    { "id": "c6", "scene": 6, "minStart": 0, "gapAfterPrev": 0.5, "text": "Se você aprendeu algo hoje, comenta amém. E segue, pra entender a Bíblia toda sexta." }
+  ],
+  "tailAfterLastClip": 2.0,
+  "keywords": []
+}

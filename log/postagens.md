@@ -98,3 +98,4 @@
 - 2026-11-05 21:55 | reserva-bacterias | reserva | ok 18111484718215637 | yt IfRY2crBS8U
 - 2026-11-05 18:57 | cristao-2026-11-05-12-tribos | cristao | ok 18103752887559579
 - 2026-11-05 18:58 | jil-2026-11-05-agora-nao | jesusislove | yt FGKKhnESDIs
+- 2026-11-06 01:55 | produção Tarefa E (cristao) | fila IG 07:00 ok cristao-2026-11-06-espera (devocional Is 40:31, texto cinético, voz Fish 3, 37,2 s, 17 MB, devocional/esperanca) · fila YT 12:00 ok jil-2026-11-06-a-frase-que-ficou (bonequinhos pais e filhos "A frase que ficou", Ef 6:4, 30 s, 4,9 MB, pais_filhos/arrependimento) · fila IG 19:00 ok cristao-2026-11-06-amem (estudo "o que significa amém", Ap 3:14, texto cinético, voz Fish 3, 36,7 s, 16 MB, cristao/estudo)
