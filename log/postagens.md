@@ -112,3 +112,4 @@
 - 2026-11-07 12:58 | jil-2026-11-07-chamadas-perdidas | jesusislove | yt fZEhS4BcGL4 (produzido e postado na hora a pedido do Jonas; produção da madrugada falhou por limite de uso)
 - 2026-11-07 15:52 | 2026-11-06-19-motivado-disciplinado | agendado | ok 18122391050056668 | yt ACtVxefsZNw
 - 2026-11-07 21:53 | nada nas filas (cristao e jesusislove)
+- 2026-11-07 22:53 | reserva-hiperinflacao | reserva | ok 18011853212776657 | yt CcEECTMzYTA
