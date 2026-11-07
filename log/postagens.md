@@ -109,3 +109,4 @@
 - 2026-11-07 09:55 | cristao-2026-11-06-amem | cristao | ok 18119251819811811 (atrasado do slot 06/11 19:00)
 - 2026-11-07 09:55 | (fila) | jesusislove | nada na fila
 - 2026-11-07 14:53 | nada nas filas (cristao e jesusislove)
+- 2026-11-07 12:58 | jil-2026-11-07-chamadas-perdidas | jesusislove | yt fZEhS4BcGL4 (produzido e postado na hora a pedido do Jonas; produção da madrugada falhou por limite de uso)
