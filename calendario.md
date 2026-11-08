@@ -1,6 +1,111 @@
 # Calendário de conteúdo da @mindloop_u
 
-## NOVA IDENTIDADE (desde 31/10/2026): "A MENTE EM BONEQUINHOS"
+## NOVA IDENTIDADE (desde 09/11/2026, decisão do Jonas): "O MUNDO EXPLICADO EM MAPAS E DADOS"
+**Mindloop = o mundo explicado com mapas animados, gráficos, comparações e linhas do tempo.** Vale para o Instagram @mindloop_u e para o YouTube da Mindloop. Os bonequinhos "da mente" foram ENCERRADOS na Mindloop (o arquivo antigo está mais abaixo). Pais e filhos continua só no YouTube JesusIsLove.
+
+### Horário (Brasília): 1 vídeo por dia
+| Dia | Horário |
+|---|---|
+| Seg a sex | **19:00** |
+| Sáb e dom | **20:00** |
+(O almoço saiu: a produção cabe no plano com 1 por dia.)
+
+### Os 5 pilares, um por dia da semana
+| Dia | Pilar | Fila |
+|---|---|---|
+| Seg | GEOPOLÍTICA E CONFLITOS | Fila 1 |
+| Ter | CURIOSIDADES GEOGRÁFICAS | Fila 2 |
+| Qua | ECONOMIA MUNDIAL E DINHEIRO | Fila 3 |
+| Qui | PODER MILITAR (só dados públicos) | Fila 4 |
+| Sex | MAPAS E TRANSFORMAÇÕES TERRITORIAIS | Fila 5 |
+| Sáb | HISTÓRIA MUNDIAL | Fila 6 |
+| Dom | COMÉRCIO, ENERGIA E RECURSOS | Fila 7 |
+
+### Formato
+- **Narrado**, vertical 9:16, **35 a 45 s**, voz Fish alternando masculina e jovem; legenda queimada palavra a palavra.
+- **Mapa sempre que der:** países com contorno real (`pipeline/geo_paises.py`, Natural Earth, nomes em português) que acendem, rotas que andam, setas, bolhas de tamanho, ranking em barras que crescem, linha do tempo.
+- **Gancho no 1º segundo** com número ou pergunta ("Uma ilha menor que o RJ controla 60% dos chips do mundo.").
+- **Dado com data e fonte na tela** ("dados de 2025 · FMI"), discreto no rodapé.
+- **CTA de série:** pergunta para comentar + "amanhã: <próximo tema>, segue pra não perder".
+- **Legenda:** gancho + 2 frases + "📊 Fontes: …" + "🎨 Animação e narração feitas com IA." + CTA + 6 a 8 hashtags.
+
+### Regras (sempre)
+- **Neutralidade:** explicar como e por quê, sem torcer por país, governo ou partido. Em conflito, mostrar os argumentos de cada lado e os fatos verificáveis. Sem rosto de líder, sem bandeira caricaturada, sem vítimas ou imagens de violência.
+- **Fatos conferidos em 2 fontes confiáveis** (FMI, Banco Mundial, ONU, SIPRI, IISS, CIA World Factbook, IBGE, Reuters, BBC, enciclopédias). Anote as fontes no `_comment` do `script.json`. Número que muda com o tempo leva o ano.
+- **Poder militar:** só números públicos e comparações gerais (efetivo, orçamento, quantidade de navios/aviões, rankings). Nada de detalhe técnico ou operacional de armas além do nível de enciclopédia.
+- **Assunto em andamento** (guerra, eleição): só o que está confirmado por agências, com a data.
+
+### Fila 1: GEOPOLÍTICA E CONFLITOS (seg)
+- [ ] Por que Taiwan é tão importante para o mundo? (chips, estreito, rotas)
+- [ ] Quem controla as principais rotas marítimas? (Malaca, Ormuz, Suez, Panamá)
+- [ ] As principais alianças militares do mundo (OTAN e outras, no mapa)
+- [ ] Como a OTAN mudou o mapa da Europa (expansão por ano)
+- [ ] A disputa entre China e Estados Unidos (comércio, tecnologia, Pacífico)
+- [ ] A disputa pelo Oriente Médio (petróleo, estreitos, potências)
+- [ ] Rússia e Ucrânia: como chegou à guerra (linha do tempo neutra)
+- [ ] Como uma guerra pode mudar a economia mundial (petróleo, trigo, preços)
+
+### Fila 2: CURIOSIDADES GEOGRÁFICAS (ter)
+- [ ] Países sem acesso ao mar
+- [ ] As fronteiras mais estranhas do mundo
+- [ ] Países dentro de outros países
+- [ ] Os menores países do planeta
+- [ ] Os lugares mais isolados do planeta
+- [ ] Os países com maior território (e o tamanho real no mapa)
+- [ ] Os países mais populosos do mundo
+- [ ] Países com maior expectativa de vida
+
+### Fila 3: ECONOMIA MUNDIAL E DINHEIRO (qua)
+- [ ] Por que o dólar domina o mundo?
+- [ ] As 10 maiores economias do mundo (ranking animado)
+- [ ] Países com as maiores reservas de ouro
+- [ ] Os países mais endividados do planeta
+- [ ] Como a China virou potência econômica
+- [ ] Onde está concentrada a riqueza do mundo
+- [ ] O que aconteceria se o dólar perdesse valor?
+- [ ] Como funciona a inflação (no mapa dos preços)
+
+### Fila 4: PODER MILITAR (qui, só dados públicos)
+- [ ] Os 10 exércitos mais poderosos do mundo (ranking público)
+- [ ] Os países que têm armas nucleares (mapa e quantidade estimada, SIPRI)
+- [ ] Porta-aviões: quem tem e quantos
+- [ ] Quanto custa manter um exército (orçamento por país)
+- [ ] Os maiores navios militares do mundo
+- [ ] Como os satélites são usados hoje (GPS, comunicação, observação)
+- [ ] Bases militares fora do próprio território: quem tem mais
+
+### Fila 5: MAPAS E TRANSFORMAÇÕES (sex)
+- [ ] Como o mapa do mundo mudou nos últimos 100 anos
+- [ ] Países que desapareceram do mapa
+- [ ] Como surgiram as fronteiras do Brasil
+- [ ] Como a União Soviética virou 15 países
+- [ ] Como a África foi dividida pelas potências europeias
+- [ ] Países que mudaram de nome
+- [ ] Os maiores impérios da história (no mapa)
+
+### Fila 6: HISTÓRIA MUNDIAL (sáb)
+- [ ] A expansão e a queda do Império Romano
+- [ ] Como começou a Primeira Guerra Mundial
+- [ ] A Guerra Fria em 45 segundos
+- [ ] A ascensão e a queda do Império Otomano
+- [ ] Como os EUA viraram potência
+- [ ] As batalhas que mudaram a história
+- [ ] Como surgiu o Brasil (1500 a 1822 no mapa)
+
+### Fila 7: COMÉRCIO, ENERGIA E RECURSOS (dom)
+- [ ] Como funciona o Canal do Panamá
+- [ ] A importância do Canal de Suez
+- [ ] Como os cabos submarinos levam a internet pelo mundo
+- [ ] Como um produto sai da China e chega ao Brasil
+- [ ] Por que o lítio é tão importante
+- [ ] Os países que mais produzem petróleo
+- [ ] Os maiores portos do mundo
+- [ ] O que aconteceria se o estreito de Ormuz fechasse
+
+---
+# (ARQUIVADO desde 09/11/2026) A MENTE EM BONEQUINHOS
+
+## IDENTIDADE ANTIGA (31/10 a 08/11/2026): "A MENTE EM BONEQUINHOS"
 **Mindloop = os loops da mente.** Reflexões curtas (30 s, sem narração) com bonequinhos de palito sobre padrões que todo mundo vive: procrastinação, ansiedade, comparação, celular, trabalho, dinheiro, relacionamentos, disciplina. **Sem religião** (fé fica na @e_cosdafe; não repita temas de lá).
 **PAIS E FILHOS SAIU DA MINDLOOP (desde 01/11/2026, decisão do Jonas):** os bonequinhos de pais e filhos agora são do perfil cristão (@e_cosdafe, Instagram + canal cristão no YouTube), na série FAMÍLIA de `cristao/calendario.md`. A Mindloop faz os outros temas da mente com os bonequinhos (procrastinação, ansiedade, dinheiro, trabalho, relacionamento, disciplina…). Não produza mais pais e filhos aqui.
 Motivo: os bonequinhos fizeram 316 mil views e +1 mil inscritos num vídeo; o "como funciona" genérico não criava fã. O assunto EM ALTA e o carrossel estão pausados.

@@ -1,5 +1,7 @@
 # videoinsta: produção e postagem automática da @mindloop_u
 
+> **Desde 09/11/2026 a Mindloop (Instagram e YouTube) faz "o mundo explicado em mapas e dados", 1 vídeo por dia (Tarefa B3). Os bonequinhos da Mindloop (B2) estão pausados.**
+
 Este repositório gera vídeos animados (desenhados por código), narrados com voz neural e sincronizados palavra a palavra, e os publica como Reels na @mindloop_u pelo Windsor.ai e como Shorts no YouTube (`pipeline/yt_post.sh`, workflow `yt-post.yml`, segredos `YT_CLIENT_ID`, `YT_CLIENT_SECRET` e `YT_REFRESH_TOKEN`). O canal cristão do YouTube (**JesusIsLove**, `yt_post.sh` com canal `cristao`, segredo `YT_REFRESH_TOKEN_CRISTAO`) tem fila própria (`--conta jesusislove`) e só posta bonequinhos de pais e filhos; os Reels do @e_cosdafe não vão mais para o YouTube (desde 02/11/2026).
 
 - **Dono:** Jonas, que fala português.
@@ -35,7 +37,15 @@ Este repositório gera vídeos animados (desenhados por código), narrados com v
 5. Faça commit e push (`git pull --rebase` antes).
 6. Nunca poste duas vezes no mesmo horário. Nunca poste fora da fila.
 
-## Tarefa B2: PRODUZIR MINDLOOP EM BONEQUINHOS (de madrugada, 2 vídeos do dia) — VALE DESDE 31/10/2026
+## Tarefa B3: PRODUZIR MINDLOOP "O MUNDO EM MAPAS E DADOS" (de madrugada, 1 vídeo do dia) — VALE DESDE 09/11/2026
+A @mindloop_u (Instagram e YouTube) virou "o mundo explicado em mapas e dados" (topo de `calendario.md`). **1 vídeo por dia: 19:00 de seg a sex, 20:00 sáb e dom.**
+1. Tema: o próximo `[ ]` da fila do pilar do dia (tabela "Os 5 pilares" do `calendario.md`: seg geopolítica, ter curiosidades geográficas, qua economia, qui poder militar, sex mapas e transformações, sáb história, dom comércio/energia). Confira os fatos em 2 fontes confiáveis e anote no `_comment`. Siga as "Regras (sempre)" do calendário (neutralidade, dado com ano e fonte, poder militar só com números públicos).
+2. Roteiro: `pipeline/novo.sh AAAA-MM-DD-<slug>` e `narration/script.json` com 6 a 7 clips, **35 a 45 s**, gancho com número ou pergunta na 1ª frase, último clip com pergunta para comentar + gancho de série ("amanhã: <próximo tema>, segue pra não perder"). Voz Fish alternando masculina (`c9d3da0bdf61417d929dc67966e4befe`) e jovem (`b1cab1f57b8d41aeb225d7d8bafc0806`), `speed` ~1.15. Sem `"clima"` (música real desativada).
+3. Mapa: `python3 pipeline/geo_paises.py <lon0> <lon1> <lat0> <lat1> producoes/<slug>/assets/paises.json` (ou `mundo`) dá os países com contorno e nome em português; pinte/acenda por ISO, desenhe rotas, setas, bolhas e rankings. Para o estilo de mapa coroplético e ranking, leia inteiro `pipeline/exemplos/estados/` antes de escrever. Fonte e ano no rodapé da tela.
+4. Build e checagem como na Tarefa B (`pipeline/fish.sh`, `pipeline/build.sh --frames` com 15 a 20 instantes, folha de quadros com Read, depois `pipeline/build.sh`). Último passo: `python3 pipeline/cta.py build/video.mp4 ../../videos/<slug>.mp4 mindloop`.
+5. Legenda (gancho + 2 frases + "📊 Fontes: …" + "🎨 Animação e narração feitas com IA." + CTA de comentar e seguir a @mindloop_u + 6 a 8 hashtags), `python3 pipeline/fila.py adicionar <slug> <slug>.mp4 legenda.txt AAAA-MM-DDT<19:00|20:00> <thumb_ms>` (capa no quadro do título/número da cena 1 inteiro), marque `[x]`, apague `producoes/<slug>/build`, commit e push.
+
+## (PAUSADA desde 09/11/2026) Tarefa B2: PRODUZIR MINDLOOP EM BONEQUINHOS (de madrugada, 2 vídeos do dia) — VALE DESDE 31/10/2026
 A @mindloop_u virou "a mente em bonequinhos" (ver o topo de `calendario.md`). Todo dia: almoço (12:00 dias úteis, 13:00 fim de semana) e noite (19:00 / 20:00), os dois em bonequinhos de palito, 30 s, sem narração.
 1. Tema: os 2 próximos `[ ]` da "Fila de temas mente" do `calendario.md`.
 2. Leia inteiros os exemplos `pipeline/exemplos/palito-amanha/`, `palito-venda/` e `palito-depois/` (anim.js, audio.py, export_cues.js). Crie com `pipeline/novo.sh AAAA-MM-DD-<slug> template_cristao` (o template serve para os dois perfis), apague os .json de `assets/`, escreva `src/anim.js` + `audio.py`, `build/timeline.json` = `{"duration":30,"fps":30,"words":[],"clips":[]}`, rode `node export_cues.js && python3 audio.py && node render.js`. O `audio.py` faz só sons de cena reais (`pipeline/sfx.py`) sem música (ver "SOM DE CADA VÍDEO"); no fim rode `pipeline/cta.py` (ver "CTA FINAL EM TODO VÍDEO").
