@@ -36,7 +36,7 @@
 - **Assunto em andamento** (guerra, eleição): só o que está confirmado por agências, com a data.
 
 ### Fila 1: GEOPOLÍTICA E CONFLITOS (seg)
-- [ ] Por que Taiwan é tão importante para o mundo? (chips, estreito, rotas)
+- [x] Por que Taiwan é tão importante para o mundo? (chips, estreito, rotas)
 - [ ] Quem controla as principais rotas marítimas? (Malaca, Ormuz, Suez, Panamá)
 - [ ] As principais alianças militares do mundo (OTAN e outras, no mapa)
 - [ ] Como a OTAN mudou o mapa da Europa (expansão por ano)
