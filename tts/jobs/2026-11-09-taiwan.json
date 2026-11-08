@@ -1,7 +1,7 @@
 {
-  "status": "pronto",
+  "status": "pendente",
   "voice": "c9d3da0bdf61417d929dc67966e4befe",
-  "speed": 1.15,
+  "speed": 1.2,
   "model": "s2.1-pro-free",
   "language": "pt",
   "clips": [
@@ -11,7 +11,7 @@
     },
     {
       "id": "c2",
-      "text": "Cerca de noventa por cento dos chips de ponta, que vão em celulares, computadores e inteligência artificial, saem de lá."
+      "text": "Cerca de noventa por cento dos chips de ponta, de celulares a computadores e inteligência artificial, saem de lá."
     },
     {
       "id": "c3",
@@ -19,15 +19,15 @@
     },
     {
       "id": "c4",
-      "text": "Desde 1949, Taiwan tem governo, eleições e exército próprios. Já a China considera a ilha parte do seu território e defende a reunificação."
+      "text": "Desde 1949, Taiwan tem governo, eleições e exército próprios. Já a China considera a ilha parte do seu território."
     },
     {
       "id": "c5",
-      "text": "Só doze países reconhecem Taiwan oficialmente. Os Estados Unidos não reconhecem, mas vendem armas para a defesa da ilha."
+      "text": "Só doze países reconhecem Taiwan oficialmente. Os Estados Unidos não, mas vendem armas para a defesa da ilha."
     },
     {
       "id": "c6",
-      "text": "Por isso, qualquer tensão ali mexe com o preço do seu celular e com a economia do planeta. Você sabia disso? Comenta. Amanhã: os países sem acesso ao mar. Segue pra não perder."
+      "text": "Por isso, qualquer tensão ali mexe com o preço do seu celular. Você sabia? Comenta. Amanhã: os países sem acesso ao mar."
     }
   ]
 }
