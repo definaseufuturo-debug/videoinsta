@@ -33,7 +33,7 @@ Temas validados por perfis gringos de bonequinhos (dezenas de milhões de views)
 - [x] DINHEIRO × TEMPO: um junta moedas numa pilha cada vez mais alta, enquanto o relógio de areia da vida dele esvazia; o outro troca uma moeda por um passeio com quem ama.
 - [x] MOTIVADO × DISCIPLINADO: dia 1 os dois correm; dia 7 chove: um volta pra cama, o outro calça o tênis. Contador de dias.
 - [x] ANSIOSO × EVITATIVO (relacionamento): ele manda mensagem e fica olhando o "digitando..."; ela vê a notificação e vira o celular pra baixo.
-- [ ] A CABEÇA NA CAMA (overthinking à noite): luz apagada, e o teto se enche de pensamentos pendentes enquanto o outro dorme.
+- [x] A CABEÇA NA CAMA (overthinking à noite): luz apagada, e o teto se enche de pensamentos pendentes enquanto o outro dorme.
 - [ ] TODO MUNDO VAI × ELE ESCOLHE (seguir a manada): fila enorme entrando numa porta "TODO MUNDO FAZ"; um olha pro lado e vê uma trilha vazia.
 - [ ] QUEM DESISTE NO 99: ele cava atrás de água e desiste; o outro cava mais um pouco e a fonte jorra.
 - [ ] AMIGOS QUE SOBRAM: aos 18, uma roda de 12 cadeiras; aos 30, só 2 cadeiras ocupadas, e são as que importam.
