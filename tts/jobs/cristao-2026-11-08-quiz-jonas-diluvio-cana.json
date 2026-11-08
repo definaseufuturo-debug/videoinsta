@@ -1,0 +1,41 @@
+{
+  "status": "pendente",
+  "voice": "a0a26a57cac94ea4918f05a2393b4259",
+  "speed": 1.15,
+  "model": "s2.1-pro-free",
+  "language": "pt",
+  "clips": [
+    {
+      "id": "c1",
+      "text": "Só quem lê a Bíblia acerta as três. Valendo!"
+    },
+    {
+      "id": "c2",
+      "text": "Pergunta um: quantos dias Jonas ficou dentro do peixe?"
+    },
+    {
+      "id": "c3",
+      "text": "Três dias e três noites."
+    },
+    {
+      "id": "c4",
+      "text": "Pergunta dois: quantos dias choveu no dilúvio?"
+    },
+    {
+      "id": "c5",
+      "text": "Quarenta dias e quarenta noites."
+    },
+    {
+      "id": "c6",
+      "text": "Pergunta três: qual foi o primeiro milagre de Jesus?"
+    },
+    {
+      "id": "c7",
+      "text": "Transformou água em vinho, num casamento em Caná."
+    },
+    {
+      "id": "c8",
+      "text": "Comenta quantas você acertou: uma, duas ou três. E segue, pra ter um quiz da Bíblia todo domingo."
+    }
+  ]
+}
