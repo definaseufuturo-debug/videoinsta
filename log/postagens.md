@@ -115,3 +115,4 @@
 - 2026-11-07 22:53 | reserva-hiperinflacao | reserva | ok 18011853212776657 | yt CcEECTMzYTA
 - 2026-11-08 00:26 | produção B2 | 2026-11-08-13-ansioso-evitativo (13:00, ansioso × evitativo) e 2026-11-08-20-cabeca-na-cama (20:00, overthinking à noite) na fila
 - 2026-11-08 09:53 | nada nas filas (cristao e jesusislove)
+- 2026-11-08 11:28 | produção Tarefa E (cristao) | fila YT 12:00 ok jil-2026-11-08-igual-ao-irmao (bonequinhos pais e filhos "Por que você não é igual ao seu irmão?", Sl 139:14, régua vermelha, 30 s + CTA) · fila IG 07:00 ok cristao-2026-11-08-paz (devocional Jo 14:27, texto cinético, voz Fish 3; entrou na fila só às 11:23 porque a sessão ficou parada entre ~01:50 e 11:20, sai atrasado na rodada das 11:52) · fila IG 19:00 ok cristao-2026-11-08-quiz-jonas-diluvio-cana (quiz Jonas/dilúvio/Caná, texto cinético com contagem de 3 s, voz Fish 4)

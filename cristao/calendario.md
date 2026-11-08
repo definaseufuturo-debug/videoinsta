@@ -60,7 +60,7 @@ Os posts do Instagram **não vão mais para o YouTube**, e os bonequinhos **não
 - [ ] O que é graça, em uma frase (Ef 2:8-9)
 
 ## Fila do QUIZ (dom 19:00, 3 perguntas por vídeo, pegue o próximo [ ])
-- [ ] Quantos dias Jonas ficou no peixe? (3, Jn 1:17) · Quantos dias choveu no dilúvio? (40, Gn 7:12) · Qual foi o 1º milagre de Jesus? (água em vinho, Jo 2:1-11)
+- [x] Quantos dias Jonas ficou no peixe? (3, Jn 1:17) · Quantos dias choveu no dilúvio? (40, Gn 7:12) · Qual foi o 1º milagre de Jesus? (água em vinho, Jo 2:1-11) — 08/11
 - [ ] Quantos discípulos Jesus escolheu? (12) · Por quantas moedas Judas traiu Jesus? (30, Mt 26:15) · Quem foi jogado na cova dos leões? (Daniel, Dn 6)
 - [ ] Quantos livros tem o Novo Testamento? (27) · Quem construiu a arca? (Noé) · Quantos anos o povo andou no deserto? (40, Nm 14:33)
 - [ ] Quem venceu Golias? (Davi) · Quantas pragas caíram no Egito? (10) · Qual o primeiro livro da Bíblia? (Gênesis)
