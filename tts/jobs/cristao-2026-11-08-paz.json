@@ -1,0 +1,33 @@
+{
+  "status": "pendente",
+  "voice": "a7f67c4e2d94440aad9c5a82365d9d92",
+  "speed": 1.05,
+  "model": "s2.1-pro-free",
+  "language": "pt",
+  "clips": [
+    {
+      "id": "c1",
+      "text": "Cadê a sua paz?"
+    },
+    {
+      "id": "c2",
+      "text": "Deixo-vos a paz, a minha paz vos dou. Não se turbe o vosso coração, nem se atemorize."
+    },
+    {
+      "id": "c3",
+      "text": "Jesus disse isso na noite antes da cruz. Horas depois, ele seria preso. Os discípulos estavam com medo."
+    },
+    {
+      "id": "c4",
+      "text": "A paz dele não é a ausência de problema. É ter Deus com você no meio do problema."
+    },
+    {
+      "id": "c5",
+      "text": "Hoje, antes de resolver tudo, entrega o seu coração. A paz vem antes da resposta."
+    },
+    {
+      "id": "c6",
+      "text": "Se essa palavra é pra você, comenta amém. E segue, pra receber uma palavra toda manhã."
+    }
+  ]
+}
