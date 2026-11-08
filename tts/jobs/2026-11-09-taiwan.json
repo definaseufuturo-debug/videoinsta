@@ -1,0 +1,33 @@
+{
+  "status": "pendente",
+  "voice": "c9d3da0bdf61417d929dc67966e4befe",
+  "speed": 1.15,
+  "model": "s2.1-pro-free",
+  "language": "pt",
+  "clips": [
+    {
+      "id": "c1",
+      "text": "Uma ilha menor que o estado do Rio de Janeiro faz quase todos os chips mais avançados do mundo. É Taiwan."
+    },
+    {
+      "id": "c2",
+      "text": "Cerca de noventa por cento dos chips de ponta, que vão em celulares, computadores e inteligência artificial, saem de lá."
+    },
+    {
+      "id": "c3",
+      "text": "E a ilha fica a uns cento e trinta quilômetros da China, num estreito por onde passou quase metade dos navios de contêiner do mundo em 2022."
+    },
+    {
+      "id": "c4",
+      "text": "Desde 1949, Taiwan tem governo, eleições e exército próprios. Já a China considera a ilha parte do seu território e defende a reunificação."
+    },
+    {
+      "id": "c5",
+      "text": "Só doze países reconhecem Taiwan oficialmente. Os Estados Unidos não reconhecem, mas vendem armas para a defesa da ilha."
+    },
+    {
+      "id": "c6",
+      "text": "Por isso, qualquer tensão ali mexe com o preço do seu celular e com a economia do planeta. Você sabia disso? Comenta. Amanhã: os países sem acesso ao mar. Segue pra não perder."
+    }
+  ]
+}
