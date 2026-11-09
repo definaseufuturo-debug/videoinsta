@@ -1,0 +1,37 @@
+{
+  "status": "pendente",
+  "voice": "a0a26a57cac94ea4918f05a2393b4259",
+  "speed": 1.12,
+  "model": "s2.1-pro-free",
+  "language": "pt",
+  "clips": [
+    {
+      "id": "c1",
+      "text": "Quase três metros de altura. E quarenta dias desafiando um exército inteiro."
+    },
+    {
+      "id": "c2",
+      "text": "Primeiro Samuel dezessete. Os filisteus acampam entre Socó e Azeca. Israel, do outro lado do vale de Elá."
+    },
+    {
+      "id": "c3",
+      "text": "Golias, de Gate. Só a couraça pesava cinco mil siclos de bronze, uns cinquenta e sete quilos. Ninguém em Israel tem coragem."
+    },
+    {
+      "id": "c4",
+      "text": "De Belém, a uns vinte e cinco quilômetros dali, chega Davi, o mais novo, levando comida para os irmãos."
+    },
+    {
+      "id": "c5",
+      "text": "Ele pega cinco pedras lisas do ribeiro. Precisou de uma só."
+    },
+    {
+      "id": "c6",
+      "text": "Golias cai. E os filisteus fogem até Gate e Ecrom."
+    },
+    {
+      "id": "c7",
+      "text": "Qual gigante você está enfrentando hoje? Comenta aqui. E segue, porque a próxima parte é Elias: quarenta dias de caminhada até o Horebe."
+    }
+  ]
+}
