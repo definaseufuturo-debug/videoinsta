@@ -1,5 +1,5 @@
 {
-  "status": "pronto",
+  "status": "pendente",
   "voice": "b1cab1f57b8d41aeb225d7d8bafc0806",
   "speed": 1.15,
   "model": "s2.1-pro-free",
@@ -43,6 +43,14 @@
     },
     {
       "id": "c10",
+      "text": "E atenção: pra concorrer no ProUni e no Fies, a média precisa ser de pelo menos quatrocentos e cinquenta pontos, e a redação não pode ser zero."
+    },
+    {
+      "id": "c11",
+      "text": "Dica pro próximo domingo: garanta as questões fáceis primeiro, porque errar fácil derruba a coerência. E não deixe nenhuma em branco: em branco é erro certo."
+    },
+    {
+      "id": "c12",
       "text": "Quer calcular a sua, com ou sem pesos? Comenta calculadora, que eu te mando o link. E segue a Mindloop pra não perder: por que tirar oitocentos é tão difícil."
     }
   ]
