@@ -1,0 +1,20 @@
+{
+  "voice": "pf_dora",
+  "speed": 1.08,
+  "lang": "pt-br",
+  "_comment": "Devocional TEXTO CINÉTICO — Recomeço. 2 Coríntios 5:17 (ARA: 'E, assim, se alguém está em Cristo, é nova criatura; as coisas antigas já passaram; eis que se fizeram novas.'). Contexto: quem escreveu foi Paulo (2Co 1:1), que antes perseguia a igreja (At 9:1-2; 1Co 15:9 'persegui a igreja de Deus'; Gl 1:13). Conferido em Bíblia ARA (2Co 5:17; At 9; 1Co 15:9) e bible.com (2Co 5:17).",
+  "say": {},
+  "fish": { "voice": "a7f67c4e2d94440aad9c5a82365d9d92", "speed": 1.05, "model": "s2.1-pro-free" },
+  "accent": [],
+  "clips": [
+    { "id": "c1", "scene": 1, "minStart": 0.3, "gapAfterPrev": 0, "text": "Queria poder começar de novo?" },
+    { "id": "c2", "scene": 2, "minStart": 0, "gapAfterPrev": 0.5, "text": "Se alguém está em Cristo, é nova criatura. As coisas antigas já passaram; eis que se fizeram novas." },
+    { "id": "c3", "scene": 3, "minStart": 0, "gapAfterPrev": 0.5, "text": "Quem escreveu isso foi Paulo. Antes, ele perseguia os cristãos. Deus fez dele um homem novo." },
+    { "id": "c4", "scene": 4, "minStart": 0, "gapAfterPrev": 0.45, "text": "O seu passado não é a sua sentença. Em Cristo, a última palavra não é o seu erro." },
+    { "id": "c5", "scene": 5, "minStart": 0, "gapAfterPrev": 0.45, "text": "Hoje, entrega o que passou. Deus não remenda a sua vida. Ele faz nova." },
+    { "id": "c6", "scene": 6, "minStart": 0, "gapAfterPrev": 0.5, "text": "Se essa palavra é pra você, comenta amém. E segue, pra receber uma palavra toda manhã." }
+  ],
+  "ref": { "c2": "2 CORÍNTIOS 5:17" },
+  "tailAfterLastClip": 2.0,
+  "keywords": []
+}

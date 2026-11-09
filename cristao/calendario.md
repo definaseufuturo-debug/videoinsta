@@ -89,7 +89,7 @@ No estilo cinético, o que varia é a **paleta** (uma cor por cena, no bloco CON
 - [x] Coragem: sê forte e corajoso (Js 1:9) — 05/11
 - [x] Espera: os que esperam no Senhor renovam as forças (Is 40:31) — 06/11
 - [x] Paz: a minha paz vos dou (Jo 14:27; dito na véspera da cruz) — 08/11
-- [ ] Recomeço: se alguém está em Cristo, nova criatura é (2Co 5:17)
+- [x] Recomeço: se alguém está em Cristo, nova criatura é (2Co 5:17) — 09/11
 - [ ] Solidão: não te deixarei nem te desampararei (Dt 31:6)
 - [ ] Confiança: confia no Senhor de todo o coração (Pv 3:5-6)
 - [ ] Cuidado: o Senhor é o meu pastor (Sl 23:1)
