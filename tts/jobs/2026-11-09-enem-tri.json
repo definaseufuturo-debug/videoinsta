@@ -1,0 +1,33 @@
+{
+  "status": "pendente",
+  "voice": "b1cab1f57b8d41aeb225d7d8bafc0806",
+  "speed": 1.15,
+  "model": "s2.1-pro-free",
+  "language": "pt",
+  "clips": [
+    {
+      "id": "c1",
+      "text": "Imagine duas pessoas que acertaram exatamente trinta questões no Enem. Você acha que elas tiram a mesma nota? A resposta pode surpreender."
+    },
+    {
+      "id": "c2",
+      "text": "Neste ano, mais de cinco milhões de pessoas se inscreveram no exame, aplicado em cerca de mil e novecentos municípios."
+    },
+    {
+      "id": "c3",
+      "text": "O segredo está na TRI, a Teoria de Resposta ao Item. Ela olha a coerência das suas respostas."
+    },
+    {
+      "id": "c4",
+      "text": "Quem acerta as fáceis e as médias mostra um padrão coerente. Quem erra muitas fáceis e acerta difíceis parece chute, e a nota cai."
+    },
+    {
+      "id": "c5",
+      "text": "Depois vem a média simples das cinco notas. Neste exemplo, dá seiscentos e sessenta pontos. Mas atenção: muitas faculdades usam pesos diferentes."
+    },
+    {
+      "id": "c6",
+      "text": "Você sabia disso? Comenta aqui. E segue pra não perder: por que tirar oitocentos no Enem é tão difícil."
+    }
+  ]
+}
