@@ -1,0 +1,33 @@
+{
+  "status": "pendente",
+  "voice": "a7f67c4e2d94440aad9c5a82365d9d92",
+  "speed": 1.05,
+  "model": "s2.1-pro-free",
+  "language": "pt",
+  "clips": [
+    {
+      "id": "c1",
+      "text": "Queria poder começar de novo?"
+    },
+    {
+      "id": "c2",
+      "text": "Se alguém está em Cristo, é nova criatura. As coisas antigas já passaram; eis que se fizeram novas."
+    },
+    {
+      "id": "c3",
+      "text": "Quem escreveu isso foi Paulo. Antes, ele perseguia os cristãos. Deus fez dele um homem novo."
+    },
+    {
+      "id": "c4",
+      "text": "O seu passado não é a sua sentença. Em Cristo, a última palavra não é o seu erro."
+    },
+    {
+      "id": "c5",
+      "text": "Hoje, entrega o que passou. Deus não remenda a sua vida. Ele faz nova."
+    },
+    {
+      "id": "c6",
+      "text": "Se essa palavra é pra você, comenta amém. E segue, pra receber uma palavra toda manhã."
+    }
+  ]
+}
