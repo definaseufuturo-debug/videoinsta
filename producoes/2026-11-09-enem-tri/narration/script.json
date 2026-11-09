@@ -1,0 +1,22 @@
+{
+  "voice": "pf_dora",
+  "speed": 1.12,
+  "lang": "pt-br",
+  "_comment": "ENEM e TRI (roteiro do Jonas, ajustado). Fontes: 5.055.818 inscrições confirmadas e aplicação em ~1.900 municípios, provas em 8 e 15/11/2026 (MEC via Vestibulando Web, Band, A Tarde, Agência Brasil); TRI considera coerência: acertar fáceis/médias e errar difíceis é coerente, errar fáceis e acertar difíceis é tratado como possível chute e vale menos, então o mesmo número de acertos pode dar notas diferentes; redação 0 a 1000 sem TRI; nota usada no Sisu/ProUni/Fies é a média simples das 4 objetivas + redação, e instituições podem aplicar pesos no Sisu (Estado de Minas, jan/2026; Inep). Exemplo de notas fictício.",
+  "fish": {
+    "voice": "b1cab1f57b8d41aeb225d7d8bafc0806",
+    "speed": 1.15,
+    "model": "s2.1-pro-free"
+  },
+  "say": {},
+  "clips": [
+    {"id": "c1", "scene": 1, "minStart": 0.3, "gapAfterPrev": 0, "text": "Imagine duas pessoas que acertaram exatamente trinta questões no Enem. Você acha que elas tiram a mesma nota? A resposta pode surpreender."},
+    {"id": "c2", "scene": 2, "minStart": 0, "gapAfterPrev": 0.4, "text": "Neste ano, mais de cinco milhões de pessoas se inscreveram no exame, aplicado em cerca de mil e novecentos municípios."},
+    {"id": "c3", "scene": 3, "minStart": 0, "gapAfterPrev": 0.4, "text": "O segredo está na TRI, a Teoria de Resposta ao Item. Ela olha a coerência das suas respostas."},
+    {"id": "c4", "scene": 4, "minStart": 0, "gapAfterPrev": 0.35, "text": "Quem acerta as fáceis e as médias mostra um padrão coerente. Quem erra muitas fáceis e acerta difíceis parece chute, e a nota cai."},
+    {"id": "c5", "scene": 5, "minStart": 0, "gapAfterPrev": 0.4, "text": "Depois vem a média simples das cinco notas. Neste exemplo, dá seiscentos e sessenta pontos. Mas atenção: muitas faculdades usam pesos diferentes."},
+    {"id": "c6", "scene": 6, "minStart": 0, "gapAfterPrev": 0.45, "text": "Você sabia disso? Comenta aqui. E segue pra não perder: por que tirar oitocentos no Enem é tão difícil."}
+  ],
+  "tailAfterLastClip": 1.8,
+  "keywords": []
+}
