@@ -27,7 +27,7 @@
     let ctx = null;
     const clip = id => TL.clips.find(c => c.id === id);
     function wt(cid, w, occ = 0) { const n = normWord(w); let k = 0; for (const x of TL.words) if (x.clip === cid && x.norm.startsWith(n)) { if (k === occ) return x.start; k++; } throw new Error('palavra não encontrada: ' + cid + ':' + w); }
-    const END = TL.duration, NS = 10;
+    const END = TL.duration, NS = 12;
     const B = [0]; for (let k = 2; k <= NS; k++) B.push(clip('c' + k).start - 0.35); B.push(END);
     const cues = []; const cue = (t, type, o = {}) => cues.push(Object.assign({ t: +Math.max(0, t).toFixed(3), type }, o));
 
@@ -83,7 +83,9 @@
     const s7 = { zer: wt('c7', 'zero'), mil: wt('c7', 'mil'), min: wt('c7', 'minimo'), max: wt('c7', 'maximo'), are: wt('c7', 'area'), ano: wt('c7', 'ano') };
     const s8 = { red: wt('c8', 'redacao'), cin: wt('c8', 'cinco'), duz: wt('c8', 'duzentos'), doi: wt('c8', 'dois'), dis: wt('c8', 'discordarem'), ter: wt('c8', 'terceiro') };
     const s9 = { cin: wt('c9', 'cinco'), sim: wt('c9', 'simples'), sei: wt('c9', 'seiscentos'), sis: wt('c9', 'sisu'), pes: wt('c9', 'pesos'), tud: wt('c9', 'tudo') };
-    const s10 = { cal: wt('c10', 'calcular'), com: wt('c10', 'comenta'), cad: wt('c10', 'calculadora'), lin: wt('c10', 'link'), seg: wt('c10', 'segue'), oit: wt('c10', 'oitocentos'), dif: wt('c10', 'dificil') };
+    const s10 = { ate: wt('c10', 'atencao'), pro: wt('c10', 'prouni'), fie: wt('c10', 'fies'), qua: wt('c10', 'quatrocentos'), red: wt('c10', 'redacao'), zer: wt('c10', 'zero') };
+    const s11 = { dic: wt('c11', 'dica'), gar: wt('c11', 'garanta'), fac: wt('c11', 'faceis'), der: wt('c11', 'derruba'), bra: wt('c11', 'branco'), err: wt('c11', 'erro') };
+    const s12 = { cal: wt('c12', 'calcular'), com: wt('c12', 'comenta'), cad: wt('c12', 'calculadora'), lin: wt('c12', 'link'), seg: wt('c12', 'segue'), oit: wt('c12', 'oitocentos'), dif: wt('c12', 'dificil') };
     cue(0, 'music', { part: 'intro' }); cue(s1.dua, 'whoosh', { dur: 0.5 }); cue(s1.tri, 'pop'); cue(s1.tri + 0.2, 'pop'); cue(s1.dif, 'impact', { gain: 0.8 }); cue(s1.cal, 'sparkle');
     cue(B[1], 'music', { part: 'groove' }); cue(s2.cin, 'ding'); cue(s2.mil, 'sparkle'); cue(s2.oit, 'pop'); cue(s2.qui, 'pop');
     cue(s3.qua, 'pop'); cue(s3.cen, 'riser', { dur: 0.5 }); cue(s3.cen + 0.5, 'stamp'); cue(s3.red, 'pop');
@@ -93,7 +95,9 @@
     cue(s7.zer, 'tick', { dur: 0.4 }); cue(s7.min, 'pop'); cue(s7.max, 'pop'); cue(s7.ano, 'swoosh');
     cue(s8.cin, 'tick', { dur: 0.5 }); cue(s8.doi, 'pop'); cue(s8.ter, 'ding');
     cue(s9.sim, 'tick', { dur: 0.5 }); cue(s9.sei, 'riser', { dur: 0.5 }); cue(s9.sei + 0.5, 'stamp'); cue(s9.pes, 'ding');
-    cue(B[9], 'music', { part: 'outro' }); cue(s10.cad, 'notif'); cue(s10.lin, 'plus'); cue(s10.dif + 0.6, 'tap'); cue(s10.dif + 0.65, 'success');
+    cue(s10.pro, 'pop'); cue(s10.fie, 'pop'); cue(s10.qua, 'riser', { dur: 0.5 }); cue(s10.qua + 0.5, 'stamp'); cue(s10.zer, 'buzz', { dur: 0.3, gain: 0.5 });
+    cue(s11.dic, 'ding'); cue(s11.gar, 'success'); cue(s11.bra, 'swoosh'); cue(s11.err, 'impact', { gain: 0.5 });
+    cue(B[11], 'music', { part: 'outro' }); cue(s12.cad, 'notif'); cue(s12.lin, 'plus'); cue(s12.dif + 0.6, 'tap'); cue(s12.dif + 0.65, 'success');
     for (let k = 1; k < NS; k++) cue(B[k] - 0.15, 'whoosh', { dur: 0.3, gain: 0.5 });
 
     // ---------- cenas ----------
@@ -145,8 +149,8 @@
       header(); fonte('Inep · Teoria de Resposta ao Item');
     }
     function scene5(t) {
-      rtxt('3 MEDIDAS', 540, 330, 96, { color: AMB, scale: sm(t, s5.tre - 0.2, s5.tre + 0.15, outBack) });
-      txt('cada questão é testada antes', 540, 420, 34, { w: 700, color: MU, a: prog(t, s5.tes - 0.2, s5.tes + 0.2) });
+      rtxt('3 MEDIDAS', 540, 330, 96, { color: AMB, scale: sm(t, B[4], B[4] + 0.5, outBack) });
+      txt('cada questão é testada antes', 540, 420, 34, { w: 700, color: MU, a: prog(t, B[4] + 0.2, B[4] + 0.6) });
       const cards = [[s5.dif, 'DIFICULDADE', AMB], [s5.sep, 'DISCRIMINAÇÃO', TEAL], [s5.chu, 'CHANCE DE CHUTE', RED]];
       cards.forEach(([tt, n, c], i) => { const y = 620 + i * 280, k = sm(t, tt - 0.25, tt + 0.1, outBack); if (k <= 0) return; ctx.save(); ctx.translate(540, y); ctx.scale(k, k); panel(-430, -115, 860, 230, 1, c);
         txt(n, -380, -60, 40, { w: 900, color: c, align: 'left' });
@@ -230,17 +234,42 @@
       ctx.beginPath(); ctx.arc(0, 230, 110, Math.PI, 0); ctx.lineWidth = 22; ctx.strokeStyle = 'rgba(255,255,255,0.1)'; ctx.stroke(); ctx.beginPath(); ctx.arc(0, 230, 110, Math.PI, Math.PI * (1 + 0.66)); ctx.strokeStyle = AMB; ctx.stroke();
       txt('660', 0, 210, 64, { w: 900, color: AMB }); txt('SUA MÉDIA', 0, 262, 20, { w: 900, color: MU }); ctx.restore(); }
     function scene10(t) {
-      const pk = sm(t, s10.cal - 0.3, s10.cal + 0.2, outBack), cta = prog(t, s10.seg - 0.3, s10.seg);
+      rtxt('ATENÇÃO', 540, 330, 100, { color: RED, scale: sm(t, s10.ate - 0.25, s10.ate + 0.1, outBack) });
+      [[s10.pro, 'PROUNI', 300], [s10.fie, 'FIES', 780]].forEach(([tt, n, x]) => chip(n, x, 520, 54, AMB, prog(t, tt - 0.2, tt + 0.15)));
+      const gk = sm(t, s10.qua - 0.3, s10.qua + 0.2, outBack);
+      if (gk > 0) { ctx.save(); ctx.translate(540, 870); ctx.scale(gk, gk);
+        ctx.beginPath(); ctx.arc(0, 90, 260, Math.PI, 0); ctx.lineWidth = 46; ctx.strokeStyle = 'rgba(255,255,255,0.08)'; ctx.stroke();
+        const fill = 0.45 * outC(prog(t, s10.qua - 0.2, s10.qua + 0.6)); ctx.beginPath(); ctx.arc(0, 90, 260, Math.PI, Math.PI * (1 + fill)); ctx.strokeStyle = GRN; ctx.stroke();
+        rtxt(String(Math.round(1000 * fill)) + '+', 0, 40, 130, { color: GRN }); txt('MÉDIA MÍNIMA', 0, 130, 36, { w: 900, color: WH }); ctx.restore(); }
+      const rk = sm(t, s10.red - 0.2, s10.red + 0.15, outBack);
+      if (rk > 0) { ctx.save(); ctx.translate(540, 1270); ctx.scale(rk, rk); panel(-400, -80, 800, 160, 1, RED); txt('REDAÇÃO', -170, 0, 46, { w: 900 }); circ(160, 0, 54, RED); txt('0', 160, 4, 64, { w: 900 }); const zk = prog(t, s10.zer - 0.1, s10.zer + 0.2); if (zk > 0) cross(160, 0, 130 * zk, WH); txt('ZERO', 290, 0, 32, { w: 900, color: RED, align: 'left', a: zk }); ctx.restore(); }
+      header(); fonte('Editais ProUni e Fies 2026 · requisitos de nota');
+    }
+    function scene11(t) {
+      chip('DICA PRO DIA 15/11', 540, 320, 44, AMB, prog(t, s11.dic - 0.2, s11.dic + 0.15));
+      const k1 = sm(t, s11.gar - 0.25, s11.gar + 0.1, outBack);
+      if (k1 > 0) { ctx.save(); ctx.translate(540, 620); ctx.scale(k1, k1); panel(-430, -150, 860, 300, 1, GRN); txt('1', -350, -80, 70, { w: 900, color: GRN });
+        txt('GARANTA AS FÁCEIS', 30, -80, 50, { w: 900 }); for (let i = 0; i < 5; i++) { const kk = prog(t, s11.fac + i * 0.1, s11.fac + 0.2 + i * 0.1); rr(-240 + i * 100, 0, 76, 76, 14); ctx.fillStyle = 'rgba(61,220,132,0.18)'; ctx.fill(); if (kk > 0) { ga(kk); check(-202 + i * 100, 38, 40, GRN); ga(1); } }
+        txt('errar fácil derruba a coerência', 30, 115, 30, { w: 700, color: MU, a: prog(t, s11.der - 0.2, s11.der + 0.2) }); ctx.restore(); }
+      const k2 = sm(t, s11.bra - 0.4, s11.bra, outBack);
+      if (k2 > 0) { ctx.save(); ctx.translate(540, 1050); ctx.scale(k2, k2); panel(-430, -150, 860, 300, 1, RED); txt('2', -350, -80, 70, { w: 900, color: RED });
+        txt('NADA EM BRANCO', 30, -80, 50, { w: 900 }); ['A', 'B', 'C', 'D', 'E'].forEach((l, i) => { circ(-200 + i * 100, 30, 34, null, 5, 'rgba(255,255,255,0.5)'); txt(l, -200 + i * 100, 32, 30, { w: 900, color: MU }); });
+        const ek = prog(t, s11.err - 0.2, s11.err + 0.2); if (ek > 0) { chip('EM BRANCO = ERRO CERTO', 30, 120, 30, RED, ek, { tc: WH }); } ctx.restore(); }
+      header(); fonte('Estratégias de prova · Inep (TRI)');
+    }
+    function scene12(t) {
+      const pk = sm(t, B[11], B[11] + 0.5, outBack), cta = prog(t, s12.seg - 0.3, s12.seg);
       if (pk > 0) phone(t, 540, 760, 0.95 * pk * (1 - 0.25 * cta));
-      const ck = sm(t, s10.cad - 0.25, s10.cad + 0.1, outBack);
+      const ck = sm(t, s12.cad - 0.25, s12.cad + 0.1, outBack);
       if (ck > 0) { ctx.save(); ctx.translate(540, 1250); ctx.scale(ck, ck); panel(-440, -110, 880, 220, 1, AMB); txt('COMENTA', 0, -45, 46, { w: 900, color: WH }); rtxt('CALCULADORA', 0, 35, 92, { color: AMB, glow: 'rgba(242,184,75,0.5)' }); ctx.restore(); }
-      chip('TE MANDO O LINK NA DM', 540, 1430, 34, GRN, prog(t, s10.lin - 0.2, s10.lin + 0.15));
-      const bk = sm(t, s10.seg - 0.1, s10.seg + 0.3, outBack), press = t > s10.dif + 0.6; if (bk > 0) { ctx.save(); ctx.translate(540, 300); const pr = bk * (1 - 0.06 * pulse(t, s10.dif + 0.6, 0.03, 0.15)); ctx.scale(pr, pr); rr(-240, -60, 480, 120, 60); ctx.fillStyle = press ? WH : AMB; ctx.fill(); txt(press ? 'SEGUINDO ✓' : '+ SEGUIR', 0, 4, 52, { w: 900, color: INK }); ctx.restore(); }
+      chip('TE MANDO O LINK NA DM', 540, 1430, 34, GRN, prog(t, s12.lin - 0.2, s12.lin + 0.15));
+      const bk = sm(t, s12.seg - 0.1, s12.seg + 0.3, outBack), press = t > s12.dif + 0.6; if (bk > 0) { ctx.save(); ctx.translate(540, 300); const pr = bk * (1 - 0.06 * pulse(t, s12.dif + 0.6, 0.03, 0.15)); ctx.scale(pr, pr); rr(-240, -60, 480, 120, 60); ctx.fillStyle = press ? WH : AMB; ctx.fill(); txt(press ? 'SEGUINDO ✓' : '+ SEGUIR', 0, 4, 52, { w: 900, color: INK }); ctx.restore(); }
+      txt('PRÓXIMO: POR QUE TIRAR 800 É TÃO DIFÍCIL', 540, 1530, 30, { w: 900, color: MU, a: prog(t, s12.oit - 0.3, s12.oit) });
       header();
     }
 
     // ---------- legendas ----------
-    const HL = new Set(['calculadora', 'injusto', 'explicacao', 'oito', 'quinze', 'quatro', 'quarenta', 'cento', 'oitenta', 'redacao', 'contando', 'tres', 'dificil', 'separa', 'logico', 'valem', 'zero', 'minimo', 'maximo', 'duzentos', 'terceiro', 'sisu', 'link', 'trinta', 'mesma', 'nota', 'surpreender', 'cinco', 'milhoes', 'mil', 'novecentos', 'municipios', 'tri', 'coerencia', 'faceis', 'medias', 'coerente', 'dificeis', 'chute', 'cai', 'media', 'seiscentos', 'sessenta', 'pesos', 'comenta', 'segue', 'oitocentos']);
+    const HL = new Set(['prouni', 'fies', 'quatrocentos', 'cinquenta', 'garanta', 'derruba', 'branco', 'erro', 'calculadora', 'injusto', 'explicacao', 'oito', 'quinze', 'quatro', 'quarenta', 'cento', 'oitenta', 'redacao', 'contando', 'tres', 'dificil', 'separa', 'logico', 'valem', 'zero', 'minimo', 'maximo', 'duzentos', 'terceiro', 'sisu', 'link', 'trinta', 'mesma', 'nota', 'surpreender', 'cinco', 'milhoes', 'mil', 'novecentos', 'municipios', 'tri', 'coerencia', 'faceis', 'medias', 'coerente', 'dificeis', 'chute', 'cai', 'media', 'seiscentos', 'sessenta', 'pesos', 'comenta', 'segue', 'oitocentos']);
     const groups = []; { let cur = []; const flush = () => { if (cur.length) groups.push(cur); cur = []; };
       for (const w of TL.words) { if (cur.length && (cur[0].clip !== w.clip || cur.length >= 4 || (cur.map(x => x.text).join(' ') + ' ' + w.text).length > 22)) flush(); cur.push(w); if (/[.,!?:]$/.test(w.text)) flush(); } flush();
       groups.forEach((g, i) => { g.t0 = g[0].start - 0.05; const nx = groups[i + 1]; g.t1 = nx && nx[0].clip === g[0].clip ? nx[0].start - 0.05 : g[g.length - 1].end + 0.25; }); }
@@ -249,7 +278,7 @@
       for (const w of g) { const s = w.text.toUpperCase() + ' ', ww = tw(s, size, 900), said = t >= w.start - 0.02, hl = HL.has(w.norm); ctx.font = font; ctx.lineWidth = 16; ctx.strokeStyle = '#000'; ctx.strokeText(s, x, 0); ctx.fillStyle = said ? (hl ? AMB : '#ffffff') : 'rgba(255,255,255,0.6)'; ctx.fillText(s, x, 0); x += ww; }
       ctx.restore(); ctx.globalAlpha = 1; }
 
-    const sceneFns = [scene1, scene2, scene3, scene4, scene5, scene6, scene7, scene8, scene9, scene10];
+    const sceneFns = [scene1, scene2, scene3, scene4, scene5, scene6, scene7, scene8, scene9, scene10, scene11, scene12];
     function draw(c, t) { t = clamp(t, 0, END); ctx = c; scr(); ctx.globalAlpha = 1; bg(t);
       let i = 0; for (let k = 1; k < NS; k++) if (t >= B[k]) i = k;
       ctx.save(); sceneFns[i](t); ctx.restore(); scr(); ctx.globalAlpha = 1;
