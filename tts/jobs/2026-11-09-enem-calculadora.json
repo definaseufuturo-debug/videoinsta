@@ -1,0 +1,49 @@
+{
+  "status": "pendente",
+  "voice": "b1cab1f57b8d41aeb225d7d8bafc0806",
+  "speed": 1.15,
+  "model": "s2.1-pro-free",
+  "language": "pt",
+  "clips": [
+    {
+      "id": "c1",
+      "text": "Duas pessoas acertaram exatamente trinta questões no Enem, e tiraram notas diferentes. Parece injusto, mas tem explicação. E fica até o final, que eu te dou uma calculadora da média."
+    },
+    {
+      "id": "c2",
+      "text": "Neste ano, mais de cinco milhões de pessoas se inscreveram, em cerca de mil e novecentos municípios. São dois domingos de prova: oito e quinze de novembro."
+    },
+    {
+      "id": "c3",
+      "text": "São quatro áreas, com quarenta e cinco questões cada. Cento e oitenta no total, mais a redação."
+    },
+    {
+      "id": "c4",
+      "text": "Só que a nota não sai contando acertos. Quem calcula é a TRI, a Teoria de Resposta ao Item."
+    },
+    {
+      "id": "c5",
+      "text": "Cada questão é testada antes e ganha três medidas: o quanto ela é difícil, o quanto separa quem sabe de quem não sabe, e a chance de acertar no chute."
+    },
+    {
+      "id": "c6",
+      "text": "Aí entra a coerência. Quem acerta as fáceis e as médias mostra um padrão lógico. Quem erra muitas fáceis e acerta difíceis parece chute, e esses acertos valem menos."
+    },
+    {
+      "id": "c7",
+      "text": "Por isso, nas provas objetivas, a nota não vai de zero a mil. O mínimo e o máximo mudam em cada área e em cada ano."
+    },
+    {
+      "id": "c8",
+      "text": "Já a redação vai até mil: cinco competências de até duzentos pontos, com dois corretores. Se eles discordarem muito, entra um terceiro."
+    },
+    {
+      "id": "c9",
+      "text": "Com as cinco notas, você faz a média simples. Neste exemplo, dá seiscentos e sessenta. Mas no Sisu cada curso pode usar pesos diferentes, e isso muda tudo."
+    },
+    {
+      "id": "c10",
+      "text": "Quer calcular a sua, com ou sem pesos? Comenta calculadora, que eu te mando o link. E segue a Mindloop pra não perder: por que tirar oitocentos é tão difícil."
+    }
+  ]
+}
