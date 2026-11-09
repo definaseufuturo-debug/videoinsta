@@ -142,7 +142,7 @@ Visual fixo: fundo preto, bonequinhos brancos com brilho, UM elemento vermelho s
 - [x] Agora não: o filho corre com o desenho e ouve "agora não" (3 vezes, cada vez maior); anos depois o pai pede pra conversar e o filho adulto responde "agora não". (Gl 6:9) — 05/11
 - [x] A frase que ficou: o pai grita uma vez "você não serve pra nada" e esquece; a frase vira uma pedra vermelha que o filho carrega até adulto, até alguém dizer "eu acredito em você". (Ef 6:4) — 06/11
 - [x] Por que você não é igual ao seu irmão?: a cada comparação a criança encolhe; o outro pai olha cada filho pelo que ele é e ela volta a crescer. (Sl 139:14) — 08/11
-- [ ] O pai que pede desculpa: um pai nunca admite erro e o filho aprende a esconder os dele; o outro se ajoelha e diz "o papai errou, me desculpa". "QUEM PEDE PERDÃO ENSINA A PERDOAR." (Cl 3:13)
+- [x] O pai que pede desculpa: um pai nunca admite erro e o filho aprende a esconder os dele; o outro se ajoelha e diz "o papai errou, me desculpa". "QUEM PEDE PERDÃO ENSINA A PERDOAR." (Cl 3:13) — 09/11
 - [ ] A porta fechada: o adolescente tranca o quarto; um pai bate uma vez e vai embora; o outro senta no chão do lado de fora e espera, noite após noite, até a porta abrir. (Lc 15:20)
 - [ ] A oração do filho: a criança reza "Deus, faz o papai chegar cedo hoje"; o celular do pai mostra "chego tarde"; um dia ele lê o bilhete da oração e volta pra casa. (Mt 18:10)
 - [ ] O abraço que ele nunca recebeu: o pai que não foi abraçado não sabe abraçar; os braços dele são pesados (vermelhos); ele tenta mesmo assim, desajeitado, e o ciclo quebra. "O CICLO PARA EM VOCÊ." (2Co 5:17)
