@@ -124,3 +124,5 @@
 - 2026-11-09 01:59 | produção Tarefa E (cristao) | fila IG 07:00 ok cristao-2026-11-09-recomeco (devocional 2Co 5:17, texto cinético, voz Fish 3) · fila YT 12:00 ok jil-2026-11-09-pai-pede-desculpa (bonequinhos "O pai que pede desculpa", Cl 3:13, copo vermelho, 30 s + CTA) · fila IG 19:00 ok cristao-2026-11-09-davi-golias (mapa vale de Elá, 1Sm 17, voz Fish 4, promete Elias)
 - 2026-11-09 09:56 | cristao-2026-11-09-recomeco | cristao | ok 18102907934547368
 - 2026-11-09 09:56 | - | jesusislove | nada na fila
+- 2026-11-09 14:56 | cristao | nada na fila
+- 2026-11-09 14:56 | jil-2026-11-09-pai-pede-desculpa | jesusislove | yt ApDZbdYKiVA
