@@ -121,3 +121,4 @@
 - 2026-11-08 21:55 | cristao-2026-11-08-quiz-jonas-diluvio-cana | cristao | ok 17883874623588018
 - 2026-11-08 21:55 | jesusislove | nada na fila
 - 2026-11-08 19:55 | 2026-11-08-20-cabeca-na-cama | agendado | ok 18147634825600537 | yt 0QISidoxgZs
+- 2026-11-09 01:59 | produção Tarefa E (cristao) | fila IG 07:00 ok cristao-2026-11-09-recomeco (devocional 2Co 5:17, texto cinético, voz Fish 3) · fila YT 12:00 ok jil-2026-11-09-pai-pede-desculpa (bonequinhos "O pai que pede desculpa", Cl 3:13, copo vermelho, 30 s + CTA) · fila IG 19:00 ok cristao-2026-11-09-davi-golias (mapa vale de Elá, 1Sm 17, voz Fish 4, promete Elias)
