@@ -1,0 +1,37 @@
+{
+  "status": "pendente",
+  "voice": "a0a26a57cac94ea4918f05a2393b4259",
+  "speed": 1.12,
+  "model": "s2.1-pro-free",
+  "language": "pt",
+  "clips": [
+    {
+      "id": "c1",
+      "text": "Segundo a Bíblia, a cidade do céu tem mais de dois mil quilômetros de altura. Você imaginava esse tamanho?"
+    },
+    {
+      "id": "c2",
+      "text": "Apocalipse vinte e um diz que a Nova Jerusalém mede doze mil estádios de comprimento, de largura e de altura."
+    },
+    {
+      "id": "c3",
+      "text": "Um estádio tinha uns cento e oitenta e cinco metros. Ou seja: cerca de dois mil e duzentos quilômetros pra cada lado."
+    },
+    {
+      "id": "c4",
+      "text": "Em cima do mapa do Brasil, ela iria do Rio Grande do Sul até a Bahia, e cobriria mais da metade do país."
+    },
+    {
+      "id": "c5",
+      "text": "E pra cima? Mais de cinco vezes a altura da Estação Espacial, que voa a uns quatrocentos quilômetros."
+    },
+    {
+      "id": "c6",
+      "text": "Lá, a rua é de ouro puro como vidro, as doze portas são pérolas, e não tem sol: a glória de Deus é a luz."
+    },
+    {
+      "id": "c7",
+      "text": "E o melhor: sem morte, sem choro e sem dor. Comenta amém, e manda pra quem precisa ver isso."
+    }
+  ]
+}
