@@ -1,0 +1,33 @@
+{
+  "status": "pendente",
+  "voice": "b1cab1f57b8d41aeb225d7d8bafc0806",
+  "speed": 1.18,
+  "model": "s2.1-pro-free",
+  "language": "pt",
+  "clips": [
+    {
+      "id": "c1",
+      "text": "Quarenta e quatro países do mundo não têm nenhum pedaço de litoral. Nenhuma praia, nenhum porto."
+    },
+    {
+      "id": "c2",
+      "text": "A África tem dezesseis deles, mais que qualquer continente. E a Etiópia é o mais populoso de todos."
+    },
+    {
+      "id": "c3",
+      "text": "O maior em área é o Cazaquistão: dois vírgula sete milhões de quilômetros quadrados, sem saída pro oceano."
+    },
+    {
+      "id": "c4",
+      "text": "Na América do Sul, só dois: Paraguai e Bolívia. A Bolívia perdeu o litoral para o Chile na Guerra do Pacífico, no século dezenove."
+    },
+    {
+      "id": "c5",
+      "text": "E dois são duplamente sem mar: Liechtenstein e Uzbequistão. Todos os vizinhos deles também não têm litoral."
+    },
+    {
+      "id": "c6",
+      "text": "Qual desses te surpreendeu? Comenta aí. Amanhã: as fronteiras mais estranhas do mundo, segue pra não perder."
+    }
+  ]
+}
