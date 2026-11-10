@@ -133,3 +133,5 @@
 - 2026-11-10 02:03 | produção Tarefa E (cristao) | fila IG 07:00 ok cristao-2026-11-10-solidao (devocional Dt 31:6, texto cinético, voz Fish 3) · fila YT 12:00 ok jil-2026-11-10-a-porta-fechada (bonequinhos "A porta fechada", Lc 15:20, porta vermelha, 30 s + CTA) · fila IG 19:00 ok cristao-2026-11-10-jose-do-egito (personagem José do Egito, Gn 37–50, texto cinético, voz Fish 4)
 - 2026-11-10 09:56 | cristao-2026-11-10-solidao | cristao | ok 18130322606476173
 - 2026-11-10 09:56 | - | jesusislove | nada na fila
+- 2026-11-10 14:55 | cristao | nada na fila
+- 2026-11-10 14:55 | jil-2026-11-10-a-porta-fechada | jesusislove | yt _Rxn22rycyY
