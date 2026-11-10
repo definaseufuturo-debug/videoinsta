@@ -1,0 +1,33 @@
+{
+  "status": "pendente",
+  "voice": "a7f67c4e2d94440aad9c5a82365d9d92",
+  "speed": 1.05,
+  "model": "s2.1-pro-free",
+  "language": "pt",
+  "clips": [
+    {
+      "id": "c1",
+      "text": "Se sentindo sozinho hoje?"
+    },
+    {
+      "id": "c2",
+      "text": "O Senhor, vosso Deus, é quem vai convosco; não vos deixará, nem vos desamparará."
+    },
+    {
+      "id": "c3",
+      "text": "Moisés disse isso aos cento e vinte anos, se despedindo do povo. Eles iam perder o líder. Mas não iam perder Deus."
+    },
+    {
+      "id": "c4",
+      "text": "Pessoas vão embora. Mas quem anda com Deus nunca anda sozinho."
+    },
+    {
+      "id": "c5",
+      "text": "Hoje, quando o silêncio pesar, lembra: ele já está aí com você."
+    },
+    {
+      "id": "c6",
+      "text": "Se essa palavra é pra você, comenta amém. E segue, pra receber uma palavra toda manhã."
+    }
+  ]
+}
