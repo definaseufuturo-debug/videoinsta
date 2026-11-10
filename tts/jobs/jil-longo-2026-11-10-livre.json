@@ -1,0 +1,65 @@
+{
+  "status": "pendente",
+  "voice": "a7f67c4e2d94440aad9c5a82365d9d92",
+  "speed": 1.0,
+  "model": "s2.1-pro-free",
+  "language": "pt",
+  "clips": [
+    {
+      "id": "c1",
+      "text": "São duas da manhã. A casa está em silêncio. E você promete, de novo: essa foi a última vez."
+    },
+    {
+      "id": "c2",
+      "text": "Ninguém sabe. Nem a sua família, nem a igreja. Por fora, tudo normal. Por dentro, uma prisão que ninguém vê."
+    },
+    {
+      "id": "c3",
+      "text": "Começou pequeno. Uma curiosidade, um clique. Depois virou o seu jeito de fugir do cansaço, da solidão e da ansiedade."
+    },
+    {
+      "id": "c4",
+      "text": "E toda vez que acontece, vem a mesma voz: você não presta. Deus cansou de você. Melhor nem orar hoje."
+    },
+    {
+      "id": "c5",
+      "text": "Mas essa voz não é de Deus. A Bíblia diz: nenhuma condenação há para os que estão em Cristo Jesus."
+    },
+    {
+      "id": "c6",
+      "text": "A vergonha empurra você pra longe de Deus. A graça puxa você de volta. Ele não te ama menos no dia em que você cai."
+    },
+    {
+      "id": "c7",
+      "text": "Só que graça não é desculpa pra continuar. É força pra levantar. E levantar começa com passos pequenos."
+    },
+    {
+      "id": "c8",
+      "text": "Primeiro: tira a oportunidade. Celular fora do quarto à noite, filtro no aparelho. A Bíblia não manda negociar com a tentação. Manda fugir."
+    },
+    {
+      "id": "c9",
+      "text": "Segundo: conta pra alguém. Um pastor, um amigo de confiança, um psicólogo. O que fica no escuro cresce. O que vem pra luz perde a força."
+    },
+    {
+      "id": "c10",
+      "text": "Terceiro: conheça o seu gatilho. Quase sempre é cansaço, tédio ou solidão. Quando ele chegar, ora, levanta, sai do quarto, liga pra alguém."
+    },
+    {
+      "id": "c11",
+      "text": "E se você cair? Não volta pro buraco da culpa. Confessa, levanta e continua. Se confessarmos os nossos pecados, ele é fiel e justo para nos perdoar."
+    },
+    {
+      "id": "c12",
+      "text": "Um dia livre vira uma semana. A semana vira um mês. E você percebe: não é você contra você. É Deus lutando com você."
+    },
+    {
+      "id": "c13",
+      "text": "Deus não quer te ver escondido. Ele quer te ver livre."
+    },
+    {
+      "id": "c14",
+      "text": "Se esse vídeo falou com você, comenta: eu quero ser livre. Compartilha com quem precisa ouvir isso, e se inscreve no canal."
+    }
+  ]
+}
