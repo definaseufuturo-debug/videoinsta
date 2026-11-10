@@ -135,3 +135,4 @@
 - 2026-11-10 09:56 | - | jesusislove | nada na fila
 - 2026-11-10 14:55 | cristao | nada na fila
 - 2026-11-10 14:55 | jil-2026-11-10-a-porta-fechada | jesusislove | yt _Rxn22rycyY
+- 2026-11-10 19:00 | 2026-11-10-sem-mar | agendado | ok 17879137794650795 | yt 4-8bvVGbmK8 (descrição do YT saiu só com #Shorts)
