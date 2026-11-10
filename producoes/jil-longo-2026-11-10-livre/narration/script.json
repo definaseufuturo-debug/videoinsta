@@ -1,0 +1,26 @@
+{
+  "voice": "pm_alex",
+  "speed": 1.05,
+  "lang": "pt-br",
+  "_comment": "Vídeo LONGO (16:9, ~2,5 min) para o YouTube JesusIsLove: vício em pornografia sob a ótica cristã, sem nenhuma imagem ou descrição explícita (o vício aparece só como o brilho do celular de costas para a câmera). Tom de graça, não de condenação, com passos práticos e incentivo a buscar ajuda (pastor, amigo, psicólogo). Versículos (ARA): Romanos 8:1; 2 Timóteo 2:22; 1 João 1:9. Personagem próprio Loop.",
+  "fish": {"voice": "a7f67c4e2d94440aad9c5a82365d9d92", "speed": 1.0, "model": "s2.1-pro-free"},
+  "say": {},
+  "clips": [
+    {"id": "c1", "scene": 1, "minStart": 0.5, "gapAfterPrev": 0, "text": "São duas da manhã. A casa está em silêncio. E você promete, de novo: essa foi a última vez."},
+    {"id": "c2", "scene": 2, "minStart": 0, "gapAfterPrev": 0.8, "text": "Ninguém sabe. Nem a sua família, nem a igreja. Por fora, tudo normal. Por dentro, uma prisão que ninguém vê."},
+    {"id": "c3", "scene": 3, "minStart": 0, "gapAfterPrev": 0.8, "text": "Começou pequeno. Uma curiosidade, um clique. Depois virou o seu jeito de fugir do cansaço, da solidão e da ansiedade."},
+    {"id": "c4", "scene": 4, "minStart": 0, "gapAfterPrev": 0.8, "text": "E toda vez que acontece, vem a mesma voz: você não presta. Deus cansou de você. Melhor nem orar hoje."},
+    {"id": "c5", "scene": 5, "minStart": 0, "gapAfterPrev": 0.8, "text": "Mas essa voz não é de Deus. A Bíblia diz: nenhuma condenação há para os que estão em Cristo Jesus."},
+    {"id": "c6", "scene": 6, "minStart": 0, "gapAfterPrev": 0.8, "text": "A vergonha empurra você pra longe de Deus. A graça puxa você de volta. Ele não te ama menos no dia em que você cai."},
+    {"id": "c7", "scene": 7, "minStart": 0, "gapAfterPrev": 0.8, "text": "Só que graça não é desculpa pra continuar. É força pra levantar. E levantar começa com passos pequenos."},
+    {"id": "c8", "scene": 8, "minStart": 0, "gapAfterPrev": 0.8, "text": "Primeiro: tira a oportunidade. Celular fora do quarto à noite, filtro no aparelho. A Bíblia não manda negociar com a tentação. Manda fugir."},
+    {"id": "c9", "scene": 9, "minStart": 0, "gapAfterPrev": 0.8, "text": "Segundo: conta pra alguém. Um pastor, um amigo de confiança, um psicólogo. O que fica no escuro cresce. O que vem pra luz perde a força."},
+    {"id": "c10", "scene": 10, "minStart": 0, "gapAfterPrev": 0.8, "text": "Terceiro: conheça o seu gatilho. Quase sempre é cansaço, tédio ou solidão. Quando ele chegar, ora, levanta, sai do quarto, liga pra alguém."},
+    {"id": "c11", "scene": 11, "minStart": 0, "gapAfterPrev": 0.8, "text": "E se você cair? Não volta pro buraco da culpa. Confessa, levanta e continua. Se confessarmos os nossos pecados, ele é fiel e justo para nos perdoar."},
+    {"id": "c12", "scene": 12, "minStart": 0, "gapAfterPrev": 0.8, "text": "Um dia livre vira uma semana. A semana vira um mês. E você percebe: não é você contra você. É Deus lutando com você."},
+    {"id": "c13", "scene": 13, "minStart": 0, "gapAfterPrev": 0.9, "text": "Deus não quer te ver escondido. Ele quer te ver livre."},
+    {"id": "c14", "scene": 14, "minStart": 0, "gapAfterPrev": 0.9, "text": "Se esse vídeo falou com você, comenta: eu quero ser livre. Compartilha com quem precisa ouvir isso, e se inscreve no canal."}
+  ],
+  "tailAfterLastClip": 2.5,
+  "keywords": []
+}
