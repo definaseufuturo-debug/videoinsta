@@ -1,0 +1,18 @@
+{
+  "voice": "pf_dora",
+  "speed": 1.12,
+  "lang": "pt-br",
+  "_comment": "Curiosidades geográficas: países sem acesso ao mar. Fontes: 44 países sem litoral (16 na África, 12 na Ásia, 14 na Europa, 2 na América do Sul) e os 2 duplamente sem mar, Liechtenstein e Uzbequistão (Britannica, 'landlocked country'; Wikipedia 'Landlocked country'; WorldAtlas); Etiópia é o mais populoso sem litoral (WorldAtlas; Wikipedia); Cazaquistão, maior país sem litoral, 2.724.900 km² (Guinness World Records; CIA World Factbook); Bolívia perdeu o litoral para o Chile na Guerra do Pacífico (1879-1884, tratado de 1904) (Britannica; Wikipedia). Tom neutro.",
+  "fish": { "voice": "b1cab1f57b8d41aeb225d7d8bafc0806", "speed": 1.18, "model": "s2.1-pro-free" },
+  "say": {},
+  "clips": [
+    { "id": "c1", "scene": 1, "minStart": 0.3, "gapAfterPrev": 0, "text": "Quarenta e quatro países do mundo não têm nenhum pedaço de litoral. Nenhuma praia, nenhum porto." },
+    { "id": "c2", "scene": 2, "minStart": 0, "gapAfterPrev": 0.55, "text": "A África tem dezesseis deles, mais que qualquer continente. E a Etiópia é o mais populoso de todos." },
+    { "id": "c3", "scene": 3, "minStart": 0, "gapAfterPrev": 0.55, "text": "O maior em área é o Cazaquistão: dois vírgula sete milhões de quilômetros quadrados, sem saída pro oceano." },
+    { "id": "c4", "scene": 4, "minStart": 0, "gapAfterPrev": 0.55, "text": "Na América do Sul, só dois: Paraguai e Bolívia. A Bolívia perdeu o litoral para o Chile na Guerra do Pacífico, no século dezenove." },
+    { "id": "c5", "scene": 5, "minStart": 0, "gapAfterPrev": 0.55, "text": "E dois são duplamente sem mar: Liechtenstein e Uzbequistão. Todos os vizinhos deles também não têm litoral." },
+    { "id": "c6", "scene": 6, "minStart": 0, "gapAfterPrev": 0.555, "text": "Qual desses te surpreendeu? Comenta aí. Amanhã: as fronteiras mais estranhas do mundo, segue pra não perder." }
+  ],
+  "tailAfterLastClip": 2.3,
+  "keywords": []
+}

@@ -129,3 +129,4 @@
 - 2026-11-09 21:55 | 2026-11-09-taiwan | agendado | ok 18122859994973038 | yt UAl4Vf4HoTM
 - 2026-11-09 21:55 | cristao-2026-11-09-davi-golias | cristao | ok 18189821464420692
 - 2026-11-09 21:55 | jesusislove | nada na fila
+- 2026-11-10 00:22 | produção B3 | mindloop | 2026-11-10-sem-mar (curiosidades geográficas: países sem acesso ao mar, voz Fish jovem, 38 s com CTA) na fila 19:00

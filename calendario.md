@@ -46,7 +46,7 @@
 - [ ] Como uma guerra pode mudar a economia mundial (petróleo, trigo, preços)
 
 ### Fila 2: CURIOSIDADES GEOGRÁFICAS (ter)
-- [ ] Países sem acesso ao mar
+- [x] Países sem acesso ao mar
 - [ ] As fronteiras mais estranhas do mundo
 - [ ] Países dentro de outros países
 - [ ] Os menores países do planeta
