@@ -1,0 +1,20 @@
+{
+  "voice": "pf_dora",
+  "speed": 1.08,
+  "lang": "pt-br",
+  "_comment": "Devocional TEXTO CINÉTICO — Solidão. Deuteronômio 31:6 (ARA: 'Sede fortes e corajosos, não temais, nem vos atemorizeis diante deles, porque o SENHOR, vosso Deus, é quem vai convosco; não vos deixará, nem vos desamparará.'). Contexto: Moisés fala ao povo antes da travessia do Jordão, dizendo que está com 120 anos e que não passará o Jordão (Dt 31:1-2); Josué assume (31:3, 7). Conferido em Bíblia ARA (bibliaonline.com.br/ara/dt/31) e bible.com (Dt 31:6; Hb 13:5 repete a promessa).",
+  "say": { "120": "cento e vinte" },
+  "fish": { "voice": "a7f67c4e2d94440aad9c5a82365d9d92", "speed": 1.05, "model": "s2.1-pro-free" },
+  "accent": [],
+  "clips": [
+    { "id": "c1", "scene": 1, "minStart": 0.3, "gapAfterPrev": 0, "text": "Se sentindo sozinho hoje?" },
+    { "id": "c2", "scene": 2, "minStart": 0, "gapAfterPrev": 0.5, "text": "O Senhor, vosso Deus, é quem vai convosco; não vos deixará, nem vos desamparará." },
+    { "id": "c3", "scene": 3, "minStart": 0, "gapAfterPrev": 0.5, "text": "Moisés disse isso aos 120 anos, se despedindo do povo. Eles iam perder o líder. Mas não iam perder Deus." },
+    { "id": "c4", "scene": 4, "minStart": 0, "gapAfterPrev": 0.45, "text": "Pessoas vão embora. Mas quem anda com Deus nunca anda sozinho." },
+    { "id": "c5", "scene": 5, "minStart": 0, "gapAfterPrev": 0.45, "text": "Hoje, quando o silêncio pesar, lembra: ele já está aí com você." },
+    { "id": "c6", "scene": 6, "minStart": 0, "gapAfterPrev": 0.5, "text": "Se essa palavra é pra você, comenta amém. E segue, pra receber uma palavra toda manhã." }
+  ],
+  "ref": { "c2": "DEUTERONÔMIO 31:6" },
+  "tailAfterLastClip": 2.0,
+  "keywords": []
+}
