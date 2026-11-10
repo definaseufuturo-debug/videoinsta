@@ -27,7 +27,7 @@ Os posts do Instagram **não vão mais para o YouTube**, e os bonequinhos **não
 
 ## Fila do PERSONAGEM BÍBLICO (ter 19:00, pegue o próximo [ ])
 - [x] Matusalém: o homem que viveu 969 anos (Gn 5:21-27) — 03/11
-- [ ] José do Egito: de escravo a governador em 13 anos (Gn 37:2; 41:46)
+- [x] José do Egito: de escravo a governador em 13 anos (Gn 37:2; 41:46) — 10/11
 - [ ] Gideão: Deus mandou mandar embora 31.700 soldados e lutar com 300 (Jz 7)
 - [ ] Ester: a órfã que virou rainha e salvou o seu povo (Et 2; 4:14)
 - [ ] Sansão: a força, a traição e a última oração (Jz 16)

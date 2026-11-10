@@ -130,3 +130,4 @@
 - 2026-11-09 21:55 | cristao-2026-11-09-davi-golias | cristao | ok 18189821464420692
 - 2026-11-09 21:55 | jesusislove | nada na fila
 - 2026-11-10 00:22 | produção B3 | mindloop | 2026-11-10-sem-mar (curiosidades geográficas: países sem acesso ao mar, voz Fish jovem, 38 s com CTA) na fila 19:00
+- 2026-11-10 02:03 | produção Tarefa E (cristao) | fila IG 07:00 ok cristao-2026-11-10-solidao (devocional Dt 31:6, texto cinético, voz Fish 3) · fila YT 12:00 ok jil-2026-11-10-a-porta-fechada (bonequinhos "A porta fechada", Lc 15:20, porta vermelha, 30 s + CTA) · fila IG 19:00 ok cristao-2026-11-10-jose-do-egito (personagem José do Egito, Gn 37–50, texto cinético, voz Fish 4)

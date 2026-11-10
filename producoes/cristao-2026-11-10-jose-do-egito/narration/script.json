@@ -1,0 +1,20 @@
+{
+  "voice": "pm_alex",
+  "speed": 1.1,
+  "lang": "pt-br",
+  "_comment": "PERSONAGEM BÍBLICO (texto cinético) — José do Egito. Gn 37:2 (José com 17 anos); Gn 37:28 (vendido aos ismaelitas por 20 siclos de prata); Gn 39:1, 39:17-20 (escravo na casa de Potifar, acusado falsamente, posto no cárcere); Gn 40:23 e 41:1 (o copeiro se esqueceu dele; 'passados dois anos completos'); Gn 41:25-41 (interpreta os sonhos de Faraó e é posto sobre toda a terra do Egito no mesmo encontro); Gn 41:46 (tinha 30 anos quando se apresentou a Faraó) => 13 anos; Gn 42:6 (os irmãos se prostram diante dele); Gn 50:20 (ARA: 'Vós, na verdade, intentastes o mal contra mim; porém Deus o tornou em bem'). Conferido em Bíblia ARA (bibliaonline.com.br/ara/gn/37, 41, 50) e Enciclopédia Britannica (Joseph, Hebrew patriarch).",
+  "say": { "17": "dezessete", "30": "trinta", "20": "vinte" },
+  "fish": { "voice": "a0a26a57cac94ea4918f05a2393b4259", "speed": 1.15, "model": "s2.1-pro-free" },
+  "accent": [],
+  "clips": [
+    { "id": "c1", "scene": 1, "minStart": 0.2, "gapAfterPrev": 0, "text": "Vendido pelos próprios irmãos aos 17 anos. Aos 30, governava o Egito." },
+    { "id": "c2", "scene": 2, "minStart": 0, "gapAfterPrev": 0.55, "text": "O nome dele é José. Os irmãos o venderam por 20 moedas de prata." },
+    { "id": "c3", "scene": 3, "minStart": 0, "gapAfterPrev": 0.55, "text": "No Egito, virou escravo. Foi acusado injustamente e jogado na prisão. E lá ainda foi esquecido por dois anos." },
+    { "id": "c4", "scene": 4, "minStart": 0, "gapAfterPrev": 0.55, "text": "Até que o Faraó teve um sonho que ninguém sabia explicar. José explicou, e no mesmo dia virou governador do Egito." },
+    { "id": "c5", "scene": 5, "minStart": 0, "gapAfterPrev": 0.55, "text": "Anos depois, os irmãos se curvaram diante dele. E José disse: vocês planejaram o mal, mas Deus o tornou em bem." },
+    { "id": "c6", "scene": 6, "minStart": 0, "gapAfterPrev": 0.6, "text": "O que te derrubou pode virar caminho. Comenta eu creio. E segue, pra conhecer um personagem da Bíblia toda semana." }
+  ],
+  "ref": { "c1": "GÊNESIS 37:2; 41:46", "c5": "GÊNESIS 50:20" },
+  "tailAfterLastClip": 2.6,
+  "keywords": []
+}
