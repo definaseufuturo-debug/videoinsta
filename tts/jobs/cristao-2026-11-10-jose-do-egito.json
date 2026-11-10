@@ -1,0 +1,33 @@
+{
+  "status": "pendente",
+  "voice": "a0a26a57cac94ea4918f05a2393b4259",
+  "speed": 1.15,
+  "model": "s2.1-pro-free",
+  "language": "pt",
+  "clips": [
+    {
+      "id": "c1",
+      "text": "Vendido pelos próprios irmãos aos dezessete anos. Aos trinta, governava o Egito."
+    },
+    {
+      "id": "c2",
+      "text": "O nome dele é José. Os irmãos o venderam por vinte moedas de prata."
+    },
+    {
+      "id": "c3",
+      "text": "No Egito, virou escravo. Foi acusado injustamente e jogado na prisão. E lá ainda foi esquecido por dois anos."
+    },
+    {
+      "id": "c4",
+      "text": "Até que o Faraó teve um sonho que ninguém sabia explicar. José explicou, e no mesmo dia virou governador do Egito."
+    },
+    {
+      "id": "c5",
+      "text": "Anos depois, os irmãos se curvaram diante dele. E José disse: vocês planejaram o mal, mas Deus o tornou em bem."
+    },
+    {
+      "id": "c6",
+      "text": "O que te derrubou pode virar caminho. Comenta eu creio. E segue, pra conhecer um personagem da Bíblia toda semana."
+    }
+  ]
+}
