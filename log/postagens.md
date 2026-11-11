@@ -138,3 +138,4 @@
 - 2026-11-10 19:00 | 2026-11-10-sem-mar | agendado | ok 17879137794650795 | yt 4-8bvVGbmK8 (descrição do YT saiu só com #Shorts)
 - 2026-11-10 21:58 | cristao-2026-11-10-jose-do-egito | cristao | ok 17996013903108110
 - 2026-11-10 21:58 | jesusislove | nada na fila
+- 2026-11-11 00:26 | 2026-11-11-dolar | produzido B3 (economia) | fila 2026-11-11T19:00 | voz masculina Fish | 45,7 s + CTA

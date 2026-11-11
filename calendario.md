@@ -56,7 +56,7 @@
 - [ ] Países com maior expectativa de vida
 
 ### Fila 3: ECONOMIA MUNDIAL E DINHEIRO (qua)
-- [ ] Por que o dólar domina o mundo?
+- [x] Por que o dólar domina o mundo?
 - [ ] As 10 maiores economias do mundo (ranking animado)
 - [ ] Países com as maiores reservas de ouro
 - [ ] Os países mais endividados do planeta
