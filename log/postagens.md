@@ -142,3 +142,5 @@
 - 2026-11-11 01:49 | produção Tarefa E (cristao) | fila IG 07:00 ok cristao-2026-11-11-confianca (devocional Pv 3:5-6, texto cinético, voz Fish 3, 36 s + CTA) · YT 12:00 (jil-2026-11-11-leite-derramado) e IG 19:00 (cristao-2026-11-11-tamanho-do-ceu) já estavam na fila
 - 2026-11-11 09:57 | cristao-2026-11-11-confianca | cristao | ok 18074466503734199
 - 2026-11-11 09:57 | - | jesusislove | nada na fila
+- 2026-11-11 14:55 | cristao | nada na fila do Instagram
+- 2026-11-11 14:55 | jil-2026-11-11-leite-derramado | jesusislove | yt If5BT57GK64
