@@ -6,7 +6,7 @@
 | Canal | O que posta | Quando |
 |---|---|---|
 | **Instagram @e_cosdafe** | Conteúdo bíblico viral **sem bonequinhos**: devocional/reflexão, mapas, personagens, curiosidades e dados, estudo bíblico, quiz | 2 Reels por dia: **07:00** e **19:00** |
-| **YouTube JesusIsLove** (canal cristão) | **Só bonequinhos de pais e filhos**, temas fortes e emocionantes | 1 Short por dia: **12:00** |
+| **YouTube JesusIsLove** (canal cristão) | **Bonequinhos em TELA DIVIDIDA, vida humana inteira (desde 11/11/2026)**: dinheiro, ambição, preguiça, amor, ódio, sucesso, fracasso, esforço, família. Temas fortes, sem frescura | 1 Short por dia: **12:00** |
 Os posts do Instagram **não vão mais para o YouTube**, e os bonequinhos **não vão mais para o Instagram**. Cada canal tem a sua fila: `--conta cristao` (Instagram, vídeos em `videos/cristao/`) e `--conta jesusislove` (YouTube, vídeos em `videos/jesusislove/`).
 
 ## Instagram @e_cosdafe: o que vai em cada horário
@@ -23,7 +23,7 @@ Os posts do Instagram **não vão mais para o YouTube**, e os bonequinhos **não
 - **Regras para viralizar (todos):** gancho forte no 1º segundo (número, pergunta ou fato chocante), **60 a 90 s** (concorrentes que crescem fazem histórias de mais de 1 minuto; 35 s fica corrido), uma ideia por vídeo, ritmo de contar história, CTA que pede comentário com palavra fácil ("amém", "eu sabia", o número de acertos), "segue a @e_cosdafe" com motivo ("todo dia uma curiosidade da Bíblia"). Fato conferido no texto bíblico e em mais uma fonte; sem polêmica denominacional (se a contagem muda entre católicos e evangélicos, diga as duas).
 
 ## YouTube JesusIsLove: bonequinhos de pais e filhos (12:00, 1 por dia)
-- Só temas de **pais e filhos / família** (fila forte e série FAMÍLIA abaixo). Os temas que não são de família ficam de fora por enquanto.
+- **Desde 11/11/2026 (pedido do Jonas, depois do "leite derramado"):** a prioridade é a fila **TELA DIVIDIDA — VIDA INTEIRA** abaixo (dois lados da mesma situação, tema forte que gera comentário e compartilhamento). Pais e filhos continua valendo, mas intercalado: no máximo 1 em cada 3 vídeos.
 - Formato dos bonequinhos e guia "COMO FAZER PAIS E FILHOS QUE PEGA" abaixo. 30 s, sem narração, trilha própria.
 - Título no YouTube: a frase que dói, curta e sem emoji ("Seu filho não lembra do presente"), até 80 caracteres.
 - Descrição: a mesma legenda (pergunta que obriga a escolher + versículo + "Marca quem precisa ver isso").
@@ -166,6 +166,29 @@ Visual fixo: fundo preto, bonequinhos brancos com brilho, UM elemento vermelho s
 > - **Virada com esperança:** um pai larga o celular, ajoelha, pede desculpa, abraça. O vermelho é o objeto do erro (celular, pedra, porta, relógio).
 > - **Frase final de print:** curta, gigante, que dá vontade de mandar pra alguém ("ELE APRENDEU COM VOCÊ", "PRESENÇA É O PRESENTE").
 > - **Legenda que puxa comentário:** pergunta que obriga a escolher ou a se expor ("Qual dos dois pais você é? 1 ou 2 👇", "Comenta EU QUEBRO O CICLO se você vai fazer diferente"), 1 versículo, "Marca quem precisa ver isso 👇", "🎨 Animação feita com IA.", 5 a 7 hashtags (#paisefilhos #familia #reflexao #fe #paternidade #maternidade).
+
+> **FILA TELA DIVIDIDA — VIDA INTEIRA (PRIORIDADE desde 11/11/2026; pegue ANTES das filas de pais e filhos).**
+> Formato do "leite derramado": tela dividida ao meio, **ESQUERDA = o caminho comum/errado, DIREITA = o caminho certo**, a mesma situação nos dois lados; no fim a consequência de cada um aparece. Regras: (1) o espectador tem que se reconhecer e sentir o soco no 1º segundo, sem humilhar; (2) gancho de confronto em 2 a 3 linhas no alto; (3) o tempo/a consequência é o vilão (mostrar "1 ano depois", "10 anos depois"); (4) frase final de print, curta e gigante; (5) legenda com pergunta que obriga a escolher lado ("Qual lado é você? ESQUERDA ou DIREITA 👇") + 1 versículo + "Marca quem precisa ver isso 👇". Um vermelho simbólico por vídeo. 30 s, sem narração.
+- [ ] Dinheiro: um gasta tudo o que ganha e o outro guarda um pouco todo mês; 10 anos depois um pede emprestado e o outro empresta. "QUEM NÃO GUARDA, UM DIA PEDE." (Pv 21:20)
+- [ ] Ambição: um passa por cima de todo mundo pra subir e chega ao topo sozinho; o outro sobe puxando gente e chega ao topo cercado. "ALTO DEMAIS PRA ENXERGAR QUEM FICOU." (Mc 8:36)
+- [ ] Preguiça: um "começa amanhã" todo dia e o outro faz 1% hoje; o calendário passa 365 dias. "AMANHÃ É O ENDEREÇO DE QUEM NUNCA CHEGA." (Pv 6:6-11)
+- [ ] Esforço: um desiste no 3º dia e o outro continua no 300º, sem ninguém aplaudir; só o segundo vê a colheita. (Gl 6:9)
+- [ ] Ódio: um guarda a mágoa e ela vira uma pedra vermelha cada vez maior nas costas; o outro perdoa e solta, e anda leve. "ODIAR É BEBER VENENO ESPERANDO O OUTRO MORRER." (Ef 4:31-32)
+- [ ] Amor: um ama quando recebe, o outro ama quando custa; nos dois lados o parceiro fica doente, só um tem alguém ao lado. (1Co 13:4-7)
+- [ ] Fracasso: um cai e fica no chão culpando; o outro cai, levanta com o joelho sangrando e tenta de novo. "O FRACASSO NÃO ACABA COM VOCÊ. FICAR NO CHÃO ACABA." (Pv 24:16)
+- [ ] Sucesso: um comemora no topo e perde a família no caminho; o outro cresce sem soltar a mão de ninguém. "DE QUE ADIANTA GANHAR TUDO E CHEGAR SOZINHO?" (Mc 8:36)
+- [ ] Inveja: um olha o jardim do vizinho até o próprio secar; o outro rega o seu e floresce. (Pv 14:30)
+- [ ] Orgulho: um nunca admite que errou e perde todos um a um; o outro diz "eu errei" e ganha todos de volta. (Pv 16:18)
+- [ ] Mentira: um mente "só uma vez" e precisa de dez para sustentar, a teia o prende; o outro fala a verdade, dói 1 dia e liberta. (Jo 8:32)
+- [ ] Fofoca: uma palavra jogada vira uma bola de neve vermelha que esmaga quem a jogou; o outro engole e protege. (Pv 18:8)
+- [ ] Vício no celular: um passa a vida rolando a tela e o relógio corre; o outro vive e o relógio o espera. "VOCÊ VIU 4 HORAS DE VIDA DOS OUTROS. E A SUA?" (Ef 5:15-16)
+- [ ] Ajuda: um passa reto pelo caído "não é problema meu"; o outro para. Anos depois o caído é quem aparece na hora da queda dele. (Lc 10:33)
+- [ ] Trabalho: um trabalha 16 h pra provar valor e perde o crescimento da família; o outro trabalha bem, volta pra casa e está presente. (Ec 4:6)
+- [ ] Gratidão: um tem tudo e reclama; o outro tem pouco e agradece. Quando tudo falta ao primeiro, ele só então enxerga. (1Ts 5:18)
+- [ ] Palavras no casamento: um discute pra vencer e ganha uma casa vazia; o outro cede pra ganhar a paz. (Pv 15:1)
+- [ ] Amizade: um tem 1000 seguidores e ninguém na hora do problema; o outro tem 1 amigo que aparece às 3 da manhã. (Pv 17:17)
+- [ ] Coragem: um espera "estar pronto" pra sempre; o outro começa com medo mesmo e chega. (Js 1:9)
+- [ ] Corte da raiz: um vive de aparência (casa, carro, selfie) e por dentro tem vazio; o outro vive com pouco e por dentro é inteiro. (Mt 6:19-21)
 
 > **FILA FORTE DE PAIS E FILHOS (pegue estes ANTES dos demais, na ordem):**
 - [x] O desenho: o filho desenha a família na escola; todos têm rosto, o pai é só um retângulo vermelho de celular. "NO DESENHO DELE, VOCÊ É UMA TELA." (Sl 127:3) — 02/11
