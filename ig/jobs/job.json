@@ -5,5 +5,9 @@
   "conta": "cristao",
   "tipo": "video",
   "share_to_feed": true,
-  "status": "pendente"
+  "status": "postado",
+  "usuario": "e_cosdafe",
+  "host": "graph.facebook.com",
+  "media_id": "18074466503734199",
+  "processado_em": "2026-11-11T09:58:20Z"
 }
