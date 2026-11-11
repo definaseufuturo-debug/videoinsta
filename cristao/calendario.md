@@ -10,7 +10,8 @@
 Os posts do Instagram **não vão mais para o YouTube**, e os bonequinhos **não vão mais para o Instagram**. Cada canal tem a sua fila: `--conta cristao` (Instagram, vídeos em `videos/cristao/`) e `--conta jesusislove` (YouTube, vídeos em `videos/jesusislove/`).
 
 ## Instagram @e_cosdafe: o que vai em cada horário
-- **07:00 todo dia: PALAVRA DA MANHÃ** (devocional ou reflexão), estilo TEXTO CINÉTICO do exemplo `devocional-cinetico`, voz 3, 30 a 40 s, CTA "comenta amém".
+- **07:00 todo dia: HISTÓRIA BÍBLICA QUE SURPREENDE** (desde 11/11/2026, decisão do Jonas: o devocional teve pouco engajamento e **está suspenso**). Uma história da Bíblia contada em animação (cenas desenhadas por código: pergaminho/mapa, silhuetas, números e objetos grandes, sem rosto realista), narrada, 35 a 45 s, voz 4. Estrutura: (1) gancho com um fato chocante ou pergunta que o povo não sabe ("Deus mandou embora 31.700 soldados. Por quê?"), (2) contexto em 1 frase, (3) 2 a 3 viradas que surpreendem, (4) o que a história ensina em 1 frase, com a referência, (5) CTA de pergunta que gera comentário ("você sabia disso? comenta EU SABIA ou NÃO SABIA") + gancho da série ("amanhã: <próxima história>, segue pra não perder"). Deve ENSINAR algo concreto ou SURPREENDER; nada de frase genérica de conforto. Fato conferido no texto bíblico e em mais uma fonte.
+  - Fila (pegue o próximo [ ]): ver "Fila das HISTÓRIAS QUE SURPREENDEM" abaixo.
 - **19:00, formato do dia:**
   - **seg e qui: MAPA** "A Bíblia no mapa" (pergaminho, exemplos `biblia-exodo` e `biblia-paulo`, voz 4, série que puxa a próxima).
   - **ter: PERSONAGEM BÍBLICO** "Quem foi X em 40 segundos": gancho com o fato mais chocante da vida dele, 3 viradas, lição final. Texto cinético (ou pergaminho com a rota da vida dele), voz 4.
@@ -24,6 +25,22 @@ Os posts do Instagram **não vão mais para o YouTube**, e os bonequinhos **não
 - Formato dos bonequinhos e guia "COMO FAZER PAIS E FILHOS QUE PEGA" abaixo. 30 s, sem narração, trilha própria.
 - Título no YouTube: a frase que dói, curta e sem emoji ("Seu filho não lembra do presente"), até 80 caracteres.
 - Descrição: a mesma legenda (pergunta que obriga a escolher + versículo + "Marca quem precisa ver isso").
+
+## Fila das HISTÓRIAS QUE SURPREENDEM (todo dia 07:00, pegue o próximo [ ])
+- [ ] Gideão: Deus mandou embora 31.700 soldados e a vitória veio com 300, jarros e tochas (Jz 7)
+- [ ] O dia em que o sol parou: Josué e o dia mais longo da história (Js 10:12-14)
+- [ ] Jonas e o peixe: a cidade de 120 mil pessoas que se arrependeu em 3 dias (Jn 3-4)
+- [ ] Daniel na cova dos leões: a lei que nem o rei podia mudar (Dn 6)
+- [ ] Os muros de Jericó: 7 dias, 7 voltas, nenhuma flecha (Js 6)
+- [ ] O burro que falou: Balaão e a jumenta que viu o anjo (Nm 22)
+- [ ] Davi e Golias: o gigante de 6 côvados e as 5 pedras (1Sm 17)
+- [ ] Elias e o fogo do céu: 450 profetas contra 1 (1Rs 18)
+- [ ] Os 3 jovens na fornalha 7 vezes mais quente, e o quarto homem (Dn 3)
+- [ ] Noé: o tamanho real da arca e quanto tempo levou (Gn 6-8)
+- [ ] José: vendido pelos irmãos por 20 moedas de prata e depois governador (Gn 37-45)
+- [ ] A travessia do Mar Vermelho: o que o texto diz de verdade (Êx 14)
+- [ ] Lázaro: 4 dias no túmulo (Jo 11)
+- [ ] A torre de Babel: por que 70 línguas (Gn 11)
 
 ## Fila do PERSONAGEM BÍBLICO (ter 19:00, pegue o próximo [ ])
 - [x] Matusalém: o homem que viveu 969 anos (Gn 5:21-27) — 03/11
