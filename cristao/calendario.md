@@ -181,7 +181,7 @@ Visual fixo: fundo preto, bonequinhos brancos com brilho, UM elemento vermelho s
 - [ ] Orgulho: um nunca admite que errou e perde todos um a um; o outro diz "eu errei" e ganha todos de volta. (Pv 16:18)
 - [ ] Mentira: um mente "só uma vez" e precisa de dez para sustentar, a teia o prende; o outro fala a verdade, dói 1 dia e liberta. (Jo 8:32)
 - [ ] Fofoca: uma palavra jogada vira uma bola de neve vermelha que esmaga quem a jogou; o outro engole e protege. (Pv 18:8)
-- [ ] Vício no celular: um passa a vida rolando a tela e o relógio corre; o outro vive e o relógio o espera. "VOCÊ VIU 4 HORAS DE VIDA DOS OUTROS. E A SUA?" (Ef 5:15-16)
+- [x] Vício no celular (feito 11/11, "jil-2026-11-11-celular"): um passa a vida rolando a tela e o relógio corre; o outro vive e o relógio o espera. "VOCÊ VIU 4 HORAS DE VIDA DOS OUTROS. E A SUA?" (Ef 5:15-16)
 - [ ] Ajuda: um passa reto pelo caído "não é problema meu"; o outro para. Anos depois o caído é quem aparece na hora da queda dele. (Lc 10:33)
 - [ ] Trabalho: um trabalha 16 h pra provar valor e perde o crescimento da família; o outro trabalha bem, volta pra casa e está presente. (Ec 4:6)
 - [ ] Gratidão: um tem tudo e reclama; o outro tem pouco e agradece. Quando tudo falta ao primeiro, ele só então enxerga. (1Ts 5:18)
