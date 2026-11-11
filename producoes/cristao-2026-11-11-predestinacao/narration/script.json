@@ -1,0 +1,202 @@
+{
+ "voice": "pf_dora",
+ "speed": 1.08,
+ "lang": "pt-br",
+ "_comment": "Predestinação (TESTE >2min). Rm 8:29-30; Ef 1:4-5; 1Tm 2:4 (Deus deseja que todos sejam salvos); 2Pe 3:9; Js 24:15; Ef 2:8-9 (ARA). 'proorizo' ocorre 6 vezes no NT (At 4:28; Rm 8:29,30; 1Co 2:7; Ef 1:5,11). Leituras: reformada (Agostinho/Calvino), arminiana (Armínio/Wesley), católica (CIC 600, 1037: Deus não predestina ninguém ao inferno; graça precede e exige resposta livre). Sínodo de Dort: nov/1618 a mai/1619. Neutro: sem dizer qual é a certa. Rm 9:11-16 (Jacó e Esaú; terei misericórdia); 1Pe 1:2 (eleitos segundo a presciência); Jo 6:37; Mt 11:28; Fp 2:12-13 (ARA).",
+ "say": {},
+ "fish": {
+  "voice": "a0a26a57cac94ea4918f05a2393b4259",
+  "speed": 1.05,
+  "model": "s2.1-pro-free"
+ },
+ "accent": [
+  "predestinar",
+  "proorizo",
+  "seis",
+  "escolheu",
+  "escolhidos",
+  "filhos",
+  "jesus",
+  "todos",
+  "liberdade",
+  "escolhei",
+  "graca",
+  "presente",
+  "merecimento",
+  "calvino",
+  "arminio",
+  "dort",
+  "comenta",
+  "segue",
+  "deus",
+  "salvar",
+  "jaco",
+  "esau",
+  "presciencia",
+  "misterio",
+  "soberano",
+  "operai"
+ ],
+ "clips": [
+  {
+   "id": "c1",
+   "scene": 1,
+   "minStart": 0.3,
+   "gapAfterPrev": 0,
+   "text": "Deus já escolheu quem vai se salvar antes de você nascer? Ou você decide o seu próprio destino?"
+  },
+  {
+   "id": "c2",
+   "scene": 2,
+   "minStart": 0,
+   "gapAfterPrev": 0.5,
+   "text": "Essa é uma das perguntas mais debatidas da história do cristianismo. E tem gente boa, que ama a Bíblia, em todos os lados."
+  },
+  {
+   "id": "c3",
+   "scene": 3,
+   "minStart": 0,
+   "gapAfterPrev": 0.5,
+   "text": "Tudo começa com uma palavra: predestinar. Em grego, proorizo. Ela aparece só seis vezes no Novo Testamento."
+  },
+  {
+   "id": "c4",
+   "scene": 4,
+   "minStart": 0,
+   "gapAfterPrev": 0.5,
+   "text": "Os que dantes conheceu, também os predestinou para serem conformes à imagem de seu Filho. E aos que predestinou, a esses também chamou; e aos que chamou, a esses também justificou; e aos que justificou, a esses também glorificou."
+  },
+  {
+   "id": "c5",
+   "scene": 5,
+   "minStart": 0,
+   "gapAfterPrev": 0.5,
+   "text": "Nos escolheu nele antes da fundação do mundo. Em amor nos predestinou para filhos de adoção por meio de Jesus Cristo."
+  },
+  {
+   "id": "c6",
+   "scene": 6,
+   "minStart": 0,
+   "gapAfterPrev": 0.5,
+   "text": "Repare no que o texto diz. Escolhidos antes da fundação do mundo, mas escolhidos para quê? Para serem santos, para serem filhos, para serem parecidos com Jesus."
+  },
+  {
+   "id": "c7",
+   "scene": 7,
+   "minStart": 0,
+   "gapAfterPrev": 0.5,
+   "text": "Agora o outro lado. A Bíblia também diz que Deus deseja que todos os homens sejam salvos. E que ele não quer que ninguém se perca."
+  },
+  {
+   "id": "c8",
+   "scene": 8,
+   "minStart": 0,
+   "gapAfterPrev": 0.5,
+   "text": "E Josué disse ao povo: escolhei hoje a quem sirvais. Se a escolha fosse só de Deus, por que mandar o povo escolher?"
+  },
+  {
+   "id": "c9",
+   "scene": 9,
+   "minStart": 0,
+   "gapAfterPrev": 0.5,
+   "text": "Romanos nove é o texto que mais pesa para um lado. Paulo fala de Jacó e Esaú, escolhidos antes mesmo de nascerem. E cita Deus dizendo: terei misericórdia de quem eu quiser ter misericórdia."
+  },
+  {
+   "id": "c10",
+   "scene": 10,
+   "minStart": 0,
+   "gapAfterPrev": 0.5,
+   "text": "Do outro lado, Pedro escreve a cristãos eleitos, segundo a presciência de Deus Pai. Para quem lê assim, Deus escolhe conhecendo de antemão."
+  },
+  {
+   "id": "c11",
+   "scene": 11,
+   "minStart": 0,
+   "gapAfterPrev": 0.5,
+   "text": "E os dois lados citam Jesus. Ele disse: todo o que o Pai me dá virá a mim. E também: vinde a mim, todos os que estais cansados."
+  },
+  {
+   "id": "c12",
+   "scene": 12,
+   "minStart": 0,
+   "gapAfterPrev": 0.5,
+   "text": "Por isso, ao longo dos séculos, surgiram leituras diferentes. E nenhuma delas é invenção de ontem."
+  },
+  {
+   "id": "c13",
+   "scene": 13,
+   "minStart": 0,
+   "gapAfterPrev": 0.5,
+   "text": "A leitura reformada, ligada a nomes como Agostinho e Calvino, diz que Deus escolhe por pura graça, sem olhar para mérito nenhum, e que essa escolha não falha."
+  },
+  {
+   "id": "c14",
+   "scene": 14,
+   "minStart": 0,
+   "gapAfterPrev": 0.5,
+   "text": "A leitura arminiana, de Armínio e depois dos metodistas, diz que Deus conhece de antemão quem vai crer, e que a liberdade do ser humano é real."
+  },
+  {
+   "id": "c15",
+   "scene": 15,
+   "minStart": 0,
+   "gapAfterPrev": 0.5,
+   "text": "A Igreja Católica ensina que Deus quer salvar todos, que a graça vem sempre primeiro, e que a pessoa precisa responder a ela livremente."
+  },
+  {
+   "id": "c16",
+   "scene": 16,
+   "minStart": 0,
+   "gapAfterPrev": 0.5,
+   "text": "Em mil seiscentos e dezoito, na Holanda, o Sínodo de Dort passou meses debatendo exatamente isso. E a discussão nunca acabou."
+  },
+  {
+   "id": "c17",
+   "scene": 17,
+   "minStart": 0,
+   "gapAfterPrev": 0.5,
+   "text": "Por isso muitos estudiosos falam em mistério. A Bíblia afirma que Deus é soberano e que o ser humano é responsável, e nem sempre explica como as duas coisas se encaixam."
+  },
+  {
+   "id": "c18",
+   "scene": 18,
+   "minStart": 0,
+   "gapAfterPrev": 0.5,
+   "text": "E repare: Paulo nunca usa a predestinação para deixar ninguém acomodado. Ele diz: operai a vossa salvação, porque Deus é quem opera em vós tanto o querer como o efetuar."
+  },
+  {
+   "id": "c19",
+   "scene": 19,
+   "minStart": 0,
+   "gapAfterPrev": 0.5,
+   "text": "Mas quase todos concordam numa coisa: a salvação é graça. É presente de Deus, e ninguém é salvo por merecimento."
+  },
+  {
+   "id": "c20",
+   "scene": 20,
+   "minStart": 0,
+   "gapAfterPrev": 0.5,
+   "text": "Agora me diz: qual dessas leituras você aprendeu na sua igreja? Comenta aqui embaixo, com respeito. O debate é antigo, mas a conversa pode ser boa."
+  },
+  {
+   "id": "c21",
+   "scene": 21,
+   "minStart": 0,
+   "gapAfterPrev": 0.5,
+   "text": "Segue a @e_cosdafe pra não perder o próximo mistério da Bíblia."
+  }
+ ],
+ "ref": {
+  "c4": "ROMANOS 8:29-30",
+  "c5": "EFÉSIOS 1:4-5",
+  "c7": "1 TIM 2:4 · 2 PED 3:9",
+  "c8": "JOSUÉ 24:15",
+  "c9": "ROMANOS 9:11-16",
+  "c10": "1 PEDRO 1:2",
+  "c11": "JOÃO 6:37 · MATEUS 11:28",
+  "c18": "FILIPENSES 2:12-13",
+  "c19": "EFÉSIOS 2:8"
+ },
+ "tailAfterLastClip": 2.0,
+ "keywords": []
+}
