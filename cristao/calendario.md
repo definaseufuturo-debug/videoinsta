@@ -91,7 +91,7 @@ No estilo cinético, o que varia é a **paleta** (uma cor por cena, no bloco CON
 - [x] Paz: a minha paz vos dou (Jo 14:27; dito na véspera da cruz) — 08/11
 - [x] Recomeço: se alguém está em Cristo, nova criatura é (2Co 5:17) — 09/11
 - [x] Solidão: não te deixarei nem te desampararei (Dt 31:6) — 10/11
-- [ ] Confiança: confia no Senhor de todo o coração (Pv 3:5-6)
+- [x] Confiança: confia no Senhor de todo o coração (Pv 3:5-6) — 11/11
 - [ ] Cuidado: o Senhor é o meu pastor (Sl 23:1)
 - [ ] Proteção: aquele que habita no esconderijo do Altíssimo (Sl 91:1-2)
 - [ ] Dor e luto: perto está o Senhor dos que têm o coração quebrantado (Sl 34:18)

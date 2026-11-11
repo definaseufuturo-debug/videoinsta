@@ -1,0 +1,20 @@
+{
+  "voice": "pf_dora",
+  "speed": 1.08,
+  "lang": "pt-br",
+  "_comment": "Devocional TEXTO CINÉTICO — Confiança. Provérbios 3:5-6 (ARA: 'Confia no SENHOR de todo o teu coração e não te estribes no teu próprio entendimento. Reconhece-o em todos os teus caminhos, e ele endireitará as tuas veredas.'). Contexto: Provérbios de Salomão (Pv 1:1), instrução de um pai ao filho ('Filho meu', Pv 3:1). Conferido em Bíblia ARA (bibliaonline.com.br/ara/pv/3) e Enciclopédia Britannica (Book of Proverbs, tradição atribui a Salomão).",
+  "say": {},
+  "fish": { "voice": "a7f67c4e2d94440aad9c5a82365d9d92", "speed": 1.05, "model": "s2.1-pro-free" },
+  "accent": [],
+  "clips": [
+    { "id": "c1", "scene": 1, "minStart": 0.3, "gapAfterPrev": 0, "text": "Tentando entender tudo sozinho?" },
+    { "id": "c2", "scene": 2, "minStart": 0, "gapAfterPrev": 0.5, "text": "Confia no Senhor de todo o teu coração, e não te estribes no teu próprio entendimento." },
+    { "id": "c3", "scene": 3, "minStart": 0, "gapAfterPrev": 0.5, "text": "Quem escreveu isso foi Salomão, o rei famoso pela sabedoria. E ele ensinou o filho: não confie só no que você entende." },
+    { "id": "c4", "scene": 4, "minStart": 0, "gapAfterPrev": 0.45, "text": "Você não precisa ver o caminho inteiro. Reconhece a Deus em cada passo, e ele endireita as tuas veredas." },
+    { "id": "c5", "scene": 5, "minStart": 0, "gapAfterPrev": 0.45, "text": "Hoje, antes de decidir, entrega primeiro. Depois dá o passo." },
+    { "id": "c6", "scene": 6, "minStart": 0, "gapAfterPrev": 0.5, "text": "Se essa palavra é pra você, comenta amém. E segue, pra receber uma palavra toda manhã." }
+  ],
+  "ref": { "c2": "PROVÉRBIOS 3:5", "c4": "PROVÉRBIOS 3:6" },
+  "tailAfterLastClip": 2.0,
+  "keywords": []
+}
