@@ -1,0 +1,33 @@
+{
+  "status": "pendente",
+  "voice": "a7f67c4e2d94440aad9c5a82365d9d92",
+  "speed": 1.05,
+  "model": "s2.1-pro-free",
+  "language": "pt",
+  "clips": [
+    {
+      "id": "c1",
+      "text": "Tentando entender tudo sozinho?"
+    },
+    {
+      "id": "c2",
+      "text": "Confia no Senhor de todo o teu coração, e não te estribes no teu próprio entendimento."
+    },
+    {
+      "id": "c3",
+      "text": "Quem escreveu isso foi Salomão, o rei famoso pela sabedoria. E ele ensinou o filho: não confie só no que você entende."
+    },
+    {
+      "id": "c4",
+      "text": "Você não precisa ver o caminho inteiro. Reconhece a Deus em cada passo, e ele endireita as tuas veredas."
+    },
+    {
+      "id": "c5",
+      "text": "Hoje, antes de decidir, entrega primeiro. Depois dá o passo."
+    },
+    {
+      "id": "c6",
+      "text": "Se essa palavra é pra você, comenta amém. E segue, pra receber uma palavra toda manhã."
+    }
+  ]
+}
