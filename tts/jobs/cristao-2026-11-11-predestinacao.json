@@ -1,5 +1,5 @@
 {
-  "status": "pronto",
+  "status": "pendente",
   "voice": "a0a26a57cac94ea4918f05a2393b4259",
   "speed": 1.05,
   "model": "s2.1-pro-free",
@@ -39,34 +39,54 @@
     },
     {
       "id": "c9",
-      "text": "Por isso, ao longo dos séculos, surgiram leituras diferentes. E nenhuma delas é invenção de ontem."
+      "text": "Romanos nove é o texto que mais pesa para um lado. Paulo fala de Jacó e Esaú, escolhidos antes mesmo de nascerem. E cita Deus dizendo: terei misericórdia de quem eu quiser ter misericórdia."
     },
     {
       "id": "c10",
-      "text": "A leitura reformada, ligada a nomes como Agostinho e Calvino, diz que Deus escolhe por pura graça, sem olhar para mérito nenhum, e que essa escolha não falha."
+      "text": "Do outro lado, Pedro escreve a cristãos eleitos, segundo a presciência de Deus Pai. Para quem lê assim, Deus escolhe conhecendo de antemão."
     },
     {
       "id": "c11",
-      "text": "A leitura arminiana, de Armínio e depois dos metodistas, diz que Deus conhece de antemão quem vai crer, e que a liberdade do ser humano é real."
+      "text": "E os dois lados citam Jesus. Ele disse: todo o que o Pai me dá virá a mim. E também: vinde a mim, todos os que estais cansados."
     },
     {
       "id": "c12",
-      "text": "A Igreja Católica ensina que Deus quer salvar todos, que a graça vem sempre primeiro, e que a pessoa precisa responder a ela livremente."
+      "text": "Por isso, ao longo dos séculos, surgiram leituras diferentes. E nenhuma delas é invenção de ontem."
     },
     {
       "id": "c13",
-      "text": "Em mil seiscentos e dezoito, na Holanda, o Sínodo de Dort passou meses debatendo exatamente isso. E a discussão nunca acabou."
+      "text": "A leitura reformada, ligada a nomes como Agostinho e Calvino, diz que Deus escolhe por pura graça, sem olhar para mérito nenhum, e que essa escolha não falha."
     },
     {
       "id": "c14",
-      "text": "Mas quase todos concordam numa coisa: a salvação é graça. É presente de Deus, e ninguém é salvo por merecimento."
+      "text": "A leitura arminiana, de Armínio e depois dos metodistas, diz que Deus conhece de antemão quem vai crer, e que a liberdade do ser humano é real."
     },
     {
       "id": "c15",
-      "text": "Agora me diz: qual dessas leituras você aprendeu na sua igreja? Comenta aqui embaixo, com respeito. O debate é antigo, mas a conversa pode ser boa."
+      "text": "A Igreja Católica ensina que Deus quer salvar todos, que a graça vem sempre primeiro, e que a pessoa precisa responder a ela livremente."
     },
     {
       "id": "c16",
+      "text": "Em mil seiscentos e dezoito, na Holanda, o Sínodo de Dort passou meses debatendo exatamente isso. E a discussão nunca acabou."
+    },
+    {
+      "id": "c17",
+      "text": "Por isso muitos estudiosos falam em mistério. A Bíblia afirma que Deus é soberano e que o ser humano é responsável, e nem sempre explica como as duas coisas se encaixam."
+    },
+    {
+      "id": "c18",
+      "text": "E repare: Paulo nunca usa a predestinação para deixar ninguém acomodado. Ele diz: operai a vossa salvação, porque Deus é quem opera em vós tanto o querer como o efetuar."
+    },
+    {
+      "id": "c19",
+      "text": "Mas quase todos concordam numa coisa: a salvação é graça. É presente de Deus, e ninguém é salvo por merecimento."
+    },
+    {
+      "id": "c20",
+      "text": "Agora me diz: qual dessas leituras você aprendeu na sua igreja? Comenta aqui embaixo, com respeito. O debate é antigo, mas a conversa pode ser boa."
+    },
+    {
+      "id": "c21",
       "text": "Segue a @e_cosdafe pra não perder o próximo mistério da Bíblia."
     }
   ]
