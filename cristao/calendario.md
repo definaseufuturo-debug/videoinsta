@@ -68,6 +68,19 @@ Os posts do Instagram **não vão mais para o YouTube**, e os bonequinhos **não
 - [ ] Quanto valiam 30 moedas de prata (Mt 26:15; Êx 21:32)
 - [ ] O homem mais alto da Bíblia: Golias e os 6 côvados (1Sm 17:4)
 
+## Fila dos MISTÉRIOS DA BÍBLIA (tema do Jonas, 11/11/2026; pegue o próximo [ ])
+Usada na **sex 19:00** (no lugar do estudo rápido) e no **dom 07:00** (no lugar da história). 60 a 90 s, voz 4, gancho com a pergunta que ninguém sabe responder, mostrar o que o texto diz e fechar pedindo comentário. **Regra de neutralidade:** temas em que as igrejas divergem (2, 5, 6, 10) mostram as principais leituras com os versículos, sem dizer qual é a "certa" e sem polêmica.
+- [ ] A origem do mal: se Deus criou tudo perfeito, como surgiu o mal? (Gn 3; Ez 28:12-17)
+- [ ] Melquisedeque: o personagem misterioso sem genealogia (Gn 14:18-20; Hb 7:1-3)
+- [ ] As setenta semanas de Daniel: qual o significado profético? (Dn 9:24-27)
+- [ ] A batalha espiritual: quem são os principados e potestades? (Ef 6:12; Dn 10:12-13)
+- [ ] O mistério da eternidade: como Deus não tem princípio nem fim? (Sl 90:2; Ap 1:8)
+- [ ] O pecado contra o Espírito Santo: por que não teria perdão? (Mt 12:31-32)
+- [ ] O estado dos mortos: o que acontece com a alma depois da morte? (Ec 9:5; Lc 16:19-31)
+- [ ] O mistério da ressurreição: como será o corpo dos ressuscitados? (1Co 15:35-54)
+- [ ] Predestinação e livre-arbítrio: Deus já determinou o destino de cada um? (Rm 8:29-30; Ef 1:4-5)
+- [ ] A besta, o falso profeta e o 666: quem são? (Ap 13:1-18; 19:20)
+
 ## Fila de ESTUDO BÍBLICO RÁPIDO (sex 19:00, pegue o próximo [ ])
 - [x] O que significa "amém" de verdade — 06/11
 - [ ] O que significa "Emanuel" (Is 7:14; Mt 1:23)
