@@ -1,0 +1,37 @@
+{
+  "status": "pendente",
+  "voice": "c9d3da0bdf61417d929dc67966e4befe",
+  "speed": 1.15,
+  "model": "s2.1-pro-free",
+  "language": "pt",
+  "clips": [
+    {
+      "id": "c1",
+      "text": "Quase nove em cada dez trocas de moeda no mundo têm o dólar de um lado. Por que uma moeda só manda tanto?"
+    },
+    {
+      "id": "c2",
+      "text": "Em mil novecentos e quarenta e quatro, quarenta e quatro países se reuniram em Bretton Woods, nos Estados Unidos. As moedas foram presas ao dólar, e o dólar, ao ouro."
+    },
+    {
+      "id": "c3",
+      "text": "Em mil novecentos e setenta e um, o dólar deixou de ser trocado por ouro. Mas o mundo já estava acostumado com ele."
+    },
+    {
+      "id": "c4",
+      "text": "Hoje, quase cinquenta e sete por cento das reservas dos bancos centrais estão em dólar, segundo o FMI."
+    },
+    {
+      "id": "c5",
+      "text": "Nas trocas de moeda, o dólar aparece em oitenta e nove por cento. O euro, em vinte e nove. O iene, em dezessete."
+    },
+    {
+      "id": "c6",
+      "text": "O motivo: a maior economia do mundo e um mercado financeiro gigante. Mas alguns países tentam usar mais as próprias moedas."
+    },
+    {
+      "id": "c7",
+      "text": "E você, acha que o dólar continua no topo? Comenta aí. Amanhã: os dez exércitos mais poderosos do mundo, segue pra não perder."
+    }
+  ]
+}
