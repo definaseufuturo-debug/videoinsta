@@ -1,0 +1,53 @@
+{
+  "status": "pendente",
+  "voice": "a0a26a57cac94ea4918f05a2393b4259",
+  "speed": 1.12,
+  "model": "s2.1-pro-free",
+  "language": "pt",
+  "clips": [
+    {
+      "id": "c1",
+      "text": "Deus olhou para trinta e dois mil soldados e disse: é gente demais."
+    },
+    {
+      "id": "c2",
+      "text": "Juízes sete. Gideão, o menor da família mais pobre de Manassés, acampa junto à fonte de Harode. No vale, os midianitas, como gafanhotos, com camelos sem número."
+    },
+    {
+      "id": "c3",
+      "text": "Primeiro corte: quem tem medo, volte pra casa. Vinte e dois mil vão embora."
+    },
+    {
+      "id": "c4",
+      "text": "Sobram dez mil. E Deus diz: ainda é muito. Leva todos até a água."
+    },
+    {
+      "id": "c5",
+      "text": "Quase todos se ajoelham para beber. Só trezentos levam a água à boca com a mão. Só esses ficam."
+    },
+    {
+      "id": "c6",
+      "text": "Trezentos, contra um exército que a Bíblia conta em cento e trinta e cinco mil. Quatrocentos e cinquenta para cada um."
+    },
+    {
+      "id": "c7",
+      "text": "E as armas? Uma trombeta, um jarro vazio e uma tocha escondida dentro dele."
+    },
+    {
+      "id": "c8",
+      "text": "Meia-noite. Três grupos de cem cercam o acampamento. Eles quebram os jarros, as tochas aparecem e as trombetas tocam."
+    },
+    {
+      "id": "c9",
+      "text": "Ninguém sai do lugar. E o exército inimigo, no escuro, vira a espada um contra o outro e foge."
+    },
+    {
+      "id": "c10",
+      "text": "Por que tão poucos? O próprio Deus explica: para Israel não dizer que foi a sua própria mão que o livrou."
+    },
+    {
+      "id": "c11",
+      "text": "Você sabia dessa? Comenta eu sabia ou não sabia. E segue, porque amanhã tem o dia em que o sol parou."
+    }
+  ]
+}
