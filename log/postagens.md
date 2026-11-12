@@ -154,4 +154,4 @@
 - 2026-11-12 14:55 | cristao | nada na fila
 - 2026-11-12 14:55 | jil-2026-11-11-celular | jesusislove | yt AiFT-xB6G4U
 - 2026-11-12 14:45 | achadinhos-2026-11-12-cebola | achadinhos | yt 28_1CkkDTrQ (canal: Minhas Ofertas Cupons Todos os Dias)
-- 2026-11-12 21:55 | 2026-11-12-exercitos | agendado | ok 18079070681741141 | yt (pendente)
+- 2026-11-12 21:55 | 2026-11-12-exercitos | agendado | ok 18079070681741141 | yt gHJAU9AXvww
