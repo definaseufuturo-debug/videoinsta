@@ -1,0 +1,19 @@
+{
+  "voice": "pf_dora",
+  "speed": 1.12,
+  "lang": "pt-br",
+  "_comment": "Poder militar (só dados públicos): os 10 exércitos mais poderosos segundo o ranking Global Firepower 2026 (Military Strength Ranking, 145 países, mais de 60 fatores; PwrIndx, quanto menor mais forte). Top 10 e notas: 1 EUA 0,0741; 2 Rússia 0,0791; 3 China 0,0919; 4 Índia 0,1346; 5 Coreia do Sul 0,1642; 6 França 0,1798; 7 Japão 0,1876; 8 Reino Unido 0,1881; 9 Turquia 0,1975; 10 Itália 0,2210 (India TV News, 27/01/2026; The CSR Journal, 06/03/2026; ordem também em Vanguard e Legit.ng). Brasil 11º, PwrIndx 0,2374, o mais bem colocado da América Latina (TNH1, 22/02/2026; The Rio Times, 'Brazil Global Firepower rank 11'; Sociedade Militar, 08/2026). Índice privado que combina efetivo, equipamentos, finanças e logística; não é previsão de guerra. Tom neutro, sem armas em detalhe.",
+  "fish": { "voice": "b1cab1f57b8d41aeb225d7d8bafc0806", "speed": 1.18, "model": "s2.1-pro-free" },
+  "say": {},
+  "clips": [
+    { "id": "c1", "scene": 1, "minStart": 0.3, "gapAfterPrev": 0, "text": "Cento e quarenta e cinco países, mais de sessenta critérios. Quem tem as forças armadas mais fortes do planeta?" },
+    { "id": "c2", "scene": 2, "minStart": 0, "gapAfterPrev": 0.45, "text": "No ranking Global Firepower de dois mil e vinte e seis, os Estados Unidos ficam em primeiro. Rússia e China vêm logo atrás." },
+    { "id": "c3", "scene": 3, "minStart": 0, "gapAfterPrev": 0.4, "text": "Depois aparecem Índia, Coreia do Sul e França." },
+    { "id": "c4", "scene": 4, "minStart": 0, "gapAfterPrev": 0.4, "text": "E fecham o top dez: Japão, Reino Unido, Turquia e Itália." },
+    { "id": "c5", "scene": 5, "minStart": 0, "gapAfterPrev": 0.45, "text": "E o Brasil? Décimo primeiro lugar, o mais bem colocado da América Latina." },
+    { "id": "c6", "scene": 6, "minStart": 0, "gapAfterPrev": 0.45, "text": "O índice soma tropas, equipamentos, orçamento e logística. Quanto menor a nota, mais forte o país." },
+    { "id": "c7", "scene": 7, "minStart": 0, "gapAfterPrev": 0.45, "text": "Alguma posição te surpreendeu? Comenta aí. Amanhã: os países que têm armas nucleares, segue pra não perder." }
+  ],
+  "tailAfterLastClip": 2.3,
+  "keywords": []
+}

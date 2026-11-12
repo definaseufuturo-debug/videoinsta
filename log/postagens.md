@@ -147,3 +147,4 @@
 - 2026-11-11 19:00 | 2026-11-11-dolar | agendado | ok 18104214626379703 | yt dr5O41GB9SM
 - 2026-11-11 21:56 | cristao-2026-11-11-tamanho-do-ceu | cristao | ok 17970707241187530
 - 2026-11-11 21:56 | - | jesusislove | nada na fila
+- 2026-11-12 00:22 | 2026-11-12-exercitos | produzido (B3, poder militar, Global Firepower 2026) | fila 2026-11-12T19:00

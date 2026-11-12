@@ -66,7 +66,7 @@
 - [ ] Como funciona a inflação (no mapa dos preços)
 
 ### Fila 4: PODER MILITAR (qui, só dados públicos)
-- [ ] Os 10 exércitos mais poderosos do mundo (ranking público)
+- [x] Os 10 exércitos mais poderosos do mundo (ranking público)
 - [ ] Os países que têm armas nucleares (mapa e quantidade estimada, SIPRI)
 - [ ] Porta-aviões: quem tem e quantos
 - [ ] Quanto custa manter um exército (orçamento por país)
