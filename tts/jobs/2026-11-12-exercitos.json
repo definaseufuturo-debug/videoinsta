@@ -1,0 +1,37 @@
+{
+  "status": "pendente",
+  "voice": "b1cab1f57b8d41aeb225d7d8bafc0806",
+  "speed": 1.18,
+  "model": "s2.1-pro-free",
+  "language": "pt",
+  "clips": [
+    {
+      "id": "c1",
+      "text": "Cento e quarenta e cinco países, mais de sessenta critérios. Quem tem as forças armadas mais fortes do planeta?"
+    },
+    {
+      "id": "c2",
+      "text": "No ranking Global Firepower de dois mil e vinte e seis, os Estados Unidos ficam em primeiro. Rússia e China vêm logo atrás."
+    },
+    {
+      "id": "c3",
+      "text": "Depois aparecem Índia, Coreia do Sul e França."
+    },
+    {
+      "id": "c4",
+      "text": "E fecham o top dez: Japão, Reino Unido, Turquia e Itália."
+    },
+    {
+      "id": "c5",
+      "text": "E o Brasil? Décimo primeiro lugar, o mais bem colocado da América Latina."
+    },
+    {
+      "id": "c6",
+      "text": "O índice soma tropas, equipamentos, orçamento e logística. Quanto menor a nota, mais forte o país."
+    },
+    {
+      "id": "c7",
+      "text": "Alguma posição te surpreendeu? Comenta aí. Amanhã: os países que têm armas nucleares, segue pra não perder."
+    }
+  ]
+}
