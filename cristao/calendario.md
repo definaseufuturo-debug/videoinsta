@@ -29,7 +29,7 @@ Os posts do Instagram **não vão mais para o YouTube**, e os bonequinhos **não
 - Descrição: a mesma legenda (pergunta que obriga a escolher + versículo + "Marca quem precisa ver isso").
 
 ## Fila das HISTÓRIAS QUE SURPREENDEM (todo dia 07:00, pegue o próximo [ ])
-- [ ] Gideão: Deus mandou embora 31.700 soldados e a vitória veio com 300, jarros e tochas (Jz 7)
+- [x] Gideão: Deus mandou embora 31.700 soldados e a vitória veio com 300, jarros e tochas (Jz 7) — 12/11 ("cristao-2026-11-12-gideao")
 - [ ] O dia em que o sol parou: Josué e o dia mais longo da história (Js 10:12-14)
 - [ ] Jonas e o peixe: a cidade de 120 mil pessoas que se arrependeu em 3 dias (Jn 3-4)
 - [ ] Daniel na cova dos leões: a lei que nem o rei podia mudar (Dn 6)
