@@ -153,3 +153,4 @@
 - 2026-11-12 09:55 | jesusislove | nada na fila
 - 2026-11-12 14:55 | cristao | nada na fila
 - 2026-11-12 14:55 | jil-2026-11-11-celular | jesusislove | yt AiFT-xB6G4U
+- 2026-11-12 14:45 | achadinhos-2026-11-12-cebola | achadinhos | yt 28_1CkkDTrQ (canal: Minhas Ofertas Cupons Todos os Dias)
