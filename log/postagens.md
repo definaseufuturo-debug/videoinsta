@@ -148,3 +148,4 @@
 - 2026-11-11 21:56 | cristao-2026-11-11-tamanho-do-ceu | cristao | ok 17970707241187530
 - 2026-11-11 21:56 | - | jesusislove | nada na fila
 - 2026-11-12 00:22 | 2026-11-12-exercitos | produzido (B3, poder militar, Global Firepower 2026) | fila 2026-11-12T19:00
+- 2026-11-12 02:10 | produção Tarefa E (cristao) | IG 07:00 ok cristao-2026-11-12-gideao (história que surpreende, Jz 7, pergaminho com grade de soldados, voz Fish 4, 60 s + CTA; o devocional/Palavra da Manhã está suspenso desde 11/11 pelo calendário) · YT 12:00 já tinha jil-2026-11-11-celular · YT 19:00 ok jil-2026-11-12-chuva (pôster escuro motivação × disciplina, Gl 6:9; pulei 'celular na mesa do jantar' para não repetir tema de celular no mesmo dia) · IG 19:00 ok cristao-2026-11-12-elias (mapa Carmelo→Horebe, voz Fish 4, 61 s + CTA)
