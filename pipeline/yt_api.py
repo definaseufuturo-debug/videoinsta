@@ -57,7 +57,12 @@ for jf in sorted((ROOT / "yt/jobs").glob("*.json")):
         # trava: um canal que não é o da Mindloop nunca pode postar no YouTube da Mindloop
         if job.get("canal", "") not in ("", "mindloop"):
             req = urllib.request.Request("https://www.googleapis.com/youtube/v3/channels?part=snippet&mine=true", headers={"Authorization": "Bearer " + at})
-            with urllib.request.urlopen(req, timeout=60) as r: items = json.load(r).get("items", [])
+            try:
+                with urllib.request.urlopen(req, timeout=60) as r: items = json.load(r).get("items", [])
+            except urllib.error.HTTPError as e:
+                if e.code != 403: raise
+                items = []  # token só com permissão de upload (sem leitura): não dá para conferir o nome; segue
+                print(jf.stem, "aviso: token sem permissão de leitura, nome do canal não conferido")
             nome_canal = items[0]["snippet"]["title"] if items else ""
             if "mindloop" in nome_canal.lower():
                 raise RuntimeError(f"token do canal {job.get('canal')} aponta para '{nome_canal}' (Mindloop). Gere o refresh token de novo escolhendo o canal certo.")
