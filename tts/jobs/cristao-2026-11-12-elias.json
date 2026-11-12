@@ -1,0 +1,53 @@
+{
+  "status": "pendente",
+  "voice": "a0a26a57cac94ea4918f05a2393b4259",
+  "speed": 1.12,
+  "model": "s2.1-pro-free",
+  "language": "pt",
+  "clips": [
+    {
+      "id": "c1",
+      "text": "Quatrocentos e cinquenta contra um. E depois, quarenta dias andando pelo deserto."
+    },
+    {
+      "id": "c2",
+      "text": "Primeiro Reis dezoito. No monte Carmelo, Elias desafia os quatrocentos e cinquenta profetas de Baal: o Deus que responder com fogo, esse é Deus."
+    },
+    {
+      "id": "c3",
+      "text": "Eles clamam da manhã até a tarde. Nada."
+    },
+    {
+      "id": "c4",
+      "text": "Elias manda derramar água no altar. Quatro cântaros, três vezes. Doze cântaros, e a água enche o rego em volta."
+    },
+    {
+      "id": "c5",
+      "text": "O fogo cai e consome tudo: o sacrifício, a lenha, as pedras, o pó. E lambe a água."
+    },
+    {
+      "id": "c6",
+      "text": "Vem a chuva, e Elias corre na frente do carro do rei até Jezreel. Uns vinte e cinco quilômetros."
+    },
+    {
+      "id": "c7",
+      "text": "Aí vem a virada. A rainha Jezabel jura matá-lo, e o homem do fogo foge com medo até Berseba, no sul."
+    },
+    {
+      "id": "c8",
+      "text": "No deserto, debaixo de um arbusto, ele pede para morrer. Um anjo o acorda duas vezes, com pão e água."
+    },
+    {
+      "id": "c9",
+      "text": "Com a força daquela comida, ele anda quarenta dias e quarenta noites até o Horebe. Do Carmelo até lá, uns quatrocentos e setenta quilômetros em linha reta. Mais que de São Paulo ao Rio."
+    },
+    {
+      "id": "c10",
+      "text": "E lá, Deus não estava no vento, nem no terremoto, nem no fogo. Estava num sussurro suave."
+    },
+    {
+      "id": "c11",
+      "text": "Você já foi forte num dia e caiu no outro? Comenta eu já. E segue, porque a próxima parte é Jonas: Nínive pra um lado, Társis pro outro."
+    }
+  ]
+}
