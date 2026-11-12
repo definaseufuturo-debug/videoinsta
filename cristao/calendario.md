@@ -254,3 +254,27 @@ Visual fixo: fundo preto, bonequinhos brancos com brilho, UM elemento vermelho s
 - **Respeito:** sem rosto de Deus ou de Jesus; use símbolos (luz, coluna de nuvem/fogo, silhueta distante, pergaminho). Pessoas aparecem como pontos/viajantes no mapa.
 - **Sem polêmica denominacional** nem política. Tom de fé, acolhedor, sem sensacionalismo ("o que a Bíblia conta").
 - Sem emoji no canvas (a fonte não tem).
+
+## FILA PÔSTER ESCURO (JesusIsLove) — 2 por dia, 12:00 e 19:00, desde 12/11/2026
+Estilo do modelo producoes/jil-2026-11-11-leite-derramado/ (fundo preto, holofote, bonecos brancos lisos, frase serifada, 15 a 20 s, sem narração, sons de cena). Temas livres (família, fé, hábitos, dinheiro, tempo, relacionamentos), sempre com 1 versículo no fechamento. Frases e cenas PRÓPRIAS (nunca traduzir ou imitar outros perfis).
+- [x] Leite derramado: pai que grita × pai que ajuda a limpar; 20 anos depois o filho repete (Ef 6:4)
+- [ ] O celular na mesa do jantar: família de cabeça baixa × família que conversa; o filho cresce e vai embora (Sl 90:12)
+- [ ] Motivação × disciplina: começa a chover; um volta pra casa, o outro abre o guarda-chuva e segue (Gl 6:9)
+- [ ] Seu filho faz o que você faz: pai manda ler a Bíblia mexendo no celular × pai que lê; o filho imita cada um (Pv 22:6)
+- [ ] Dá pra ganhar mais dinheiro, não dá pra ganhar mais domingo: domingos riscados no calendário enquanto ele trabalha (Ec 3:1)
+- [ ] Ninguém tira foto do alicerce: riem dele assentando tijolo; depois todo mundo tira selfie no prédio pronto (Mt 7:24)
+- [ ] Você rega o que quer ver crescer: planta regada com Palavra e oração × planta regada com rolagem infinita (Gl 6:7)
+- [ ] Mesma mensagem "a gente precisa conversar": um cria dez cenários de desastre, o outro ora e dorme (Fp 4:6-7)
+- [ ] Quem cai aprendendo chega antes: um lê o manual da bicicleta, o outro cai três vezes e sai pedalando (Pv 24:16)
+- [ ] A prova é sexta: um estuda 20 minutos por dia, o outro vira a noite na quinta (Pv 6:6-8, a formiga)
+- [ ] Presente × presença: pai dá o videogame caro e sai; pai que senta e joga junto (Sl 127:3)
+- [ ] Pai que promete × pai que aparece: a cadeira vazia na apresentação da escola (Mt 5:37)
+- [ ] O pai que pede desculpa: o que nunca pede × o que se abaixa e pede; o filho aprende a pedir (Tg 5:16)
+- [ ] Compara × encoraja: "por que você não é igual ao seu irmão?" × "eu vi o seu esforço" (Ef 4:29)
+- [ ] A mochila da mágoa: um carrega pedras por anos, o outro perdoa e solta (Cl 3:13)
+- [ ] A Bíblia na estante × a Bíblia aberta: poeira acumulando × páginas gastas ao longo dos anos (Sl 119:105)
+- [ ] Salário que entra e sai: quem guarda o que sobra × quem separa primeiro (Pv 21:20)
+- [ ] Oração só na crise × oração todo dia: a ponte construída antes da tempestade (1Ts 5:17)
+- [ ] Elogio em público, correção em particular: o filho diante dos amigos (Pv 15:1)
+- [ ] A mãe que ninguém vê: o dia inteiro dela acelerado, e um "obrigado" no fim (Pv 31:28)
+- [ ] Tempo de tela × tempo de joelho: o relógio da semana dividido (Mt 6:6)
