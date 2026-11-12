@@ -151,3 +151,5 @@
 - 2026-11-12 02:10 | produção Tarefa E (cristao) | IG 07:00 ok cristao-2026-11-12-gideao (história que surpreende, Jz 7, pergaminho com grade de soldados, voz Fish 4, 60 s + CTA; o devocional/Palavra da Manhã está suspenso desde 11/11 pelo calendário) · YT 12:00 já tinha jil-2026-11-11-celular · YT 19:00 ok jil-2026-11-12-chuva (pôster escuro motivação × disciplina, Gl 6:9; pulei 'celular na mesa do jantar' para não repetir tema de celular no mesmo dia) · IG 19:00 ok cristao-2026-11-12-elias (mapa Carmelo→Horebe, voz Fish 4, 61 s + CTA)
 - 2026-11-12 09:55 | cristao-2026-11-12-gideao | cristao | ok 18126886085474289
 - 2026-11-12 09:55 | jesusislove | nada na fila
+- 2026-11-12 14:55 | cristao | nada na fila
+- 2026-11-12 14:55 | jil-2026-11-11-celular | jesusislove | yt AiFT-xB6G4U
