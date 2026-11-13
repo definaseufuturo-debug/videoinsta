@@ -67,7 +67,18 @@ for jf in sorted((ROOT / "yt/jobs").glob("*.json")):
             if "mindloop" in nome_canal.lower():
                 raise RuntimeError(f"token do canal {job.get('canal')} aponta para '{nome_canal}' (Mindloop). Gere o refresh token de novo escolhendo o canal certo.")
         res = upload(job, at)
-        job.update(status="postado", video_id=res["id"], url="https://youtube.com/shorts/" + res["id"],
+        if job.get("thumb"):  # capa personalizada (vídeo longo); se falhar (canal sem verificação, etc.) não derruba o post
+            try:
+                img = (ROOT / job["thumb"]).read_bytes()
+                req = urllib.request.Request("https://www.googleapis.com/upload/youtube/v3/thumbnails/set?videoId=" + res["id"], data=img, method="POST",
+                                             headers={"Authorization": "Bearer " + at, "Content-Type": "image/jpeg"})
+                with urllib.request.urlopen(req, timeout=120) as r: r.read()
+                job["thumb_status"] = "ok"
+            except urllib.error.HTTPError as e:
+                job["thumb_status"] = f"erro HTTP {e.code}: {e.read().decode(errors='ignore')[:300]}"
+            except Exception as e:
+                job["thumb_status"] = f"erro: {str(e)[:300]}"
+        job.update(status="postado", video_id=res["id"], url=("https://youtube.com/watch?v=" if job.get("longo") else "https://youtube.com/shorts/") + res["id"],
                    privacidade=res.get("status", {}).get("privacyStatus"), canal_nome=res.get("snippet", {}).get("channelTitle"), canal_id=res.get("snippet", {}).get("channelId"), upload=res.get("status", {}).get("uploadStatus"))
         print(jf.stem, "ok", res["id"], job["privacidade"])
     except urllib.error.HTTPError as e:

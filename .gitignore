@@ -4,3 +4,4 @@ producoes/*/build/
 producoes/*/models
 producoes/*/node_modules
 __pycache__/
+longos/*/build/
