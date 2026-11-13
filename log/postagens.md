@@ -159,3 +159,5 @@
 - 2026-11-12 18:57 | jil-2026-11-12-chuva | jesusislove | yt 4b04uHo3LkM
 - 2026-11-13 00:23 | 2026-11-13-mapa-100-anos | produzido (B3, mapas e transformações, ONU 51→193, voz Fish masculina, 44 s + CTA) | fila 2026-11-13T19:00
 - 2026-11-13 02:05 | produção Tarefa E (cristao) | IG 07:00 ok cristao-2026-11-13-sol-parou (história que surpreende, Js 10, pergaminho, voz Fish 4, 62 s + CTA; Palavra da Manhã/devocional segue suspenso pelo calendário) · YT 12:00 ok jil-2026-11-13-mesa-do-jantar (pôster escuro, Sl 90:12) · YT 19:00 ok jil-2026-11-13-domingo (pôster escuro, Ec 3:1; pulei 'Seu filho faz o que você faz' para não repetir celular no mesmo dia) · IG 19:00 ok cristao-2026-11-13-origem-do-mal (sexta = Mistérios da Bíblia no lugar do estudo rápido, texto cinético, voz Fish 4, 62 s + CTA, leituras de Ez 28 mostradas de forma neutra)
+- 2026-11-13 09:55 | cristao-2026-11-13-sol-parou | cristao | ok 17964137742000061
+- 2026-11-13 09:55 | jesusislove | nada na fila
