@@ -1,0 +1,37 @@
+{
+  "status": "pendente",
+  "voice": "c9d3da0bdf61417d929dc67966e4befe",
+  "speed": 1.18,
+  "model": "s2.1-pro-free",
+  "language": "pt",
+  "clips": [
+    {
+      "id": "c1",
+      "text": "Em mil novecentos e quarenta e cinco, a ONU nasceu com cinquenta e um países. Hoje são cento e noventa e três. De onde saiu tanto país?"
+    },
+    {
+      "id": "c2",
+      "text": "Há cem anos, impérios europeus dominavam o mapa. Só o britânico cobria quase um quarto das terras do planeta."
+    },
+    {
+      "id": "c3",
+      "text": "Em mil novecentos e quarenta e sete, Índia e Paquistão ficaram independentes."
+    },
+    {
+      "id": "c4",
+      "text": "Em mil novecentos e sessenta, o Ano da África, dezessete países africanos ganharam independência."
+    },
+    {
+      "id": "c5",
+      "text": "Em mil novecentos e noventa e um, a União Soviética acabou e virou quinze países."
+    },
+    {
+      "id": "c6",
+      "text": "E o mais novo da ONU é o Sudão do Sul, de dois mil e onze."
+    },
+    {
+      "id": "c7",
+      "text": "Qual mudança te surpreendeu mais? Comenta aí. Amanhã: a queda do Império Romano, segue pra não perder."
+    }
+  ]
+}
