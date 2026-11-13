@@ -75,7 +75,7 @@
 - [ ] Bases militares fora do próprio território: quem tem mais
 
 ### Fila 5: MAPAS E TRANSFORMAÇÕES (sex)
-- [ ] Como o mapa do mundo mudou nos últimos 100 anos
+- [x] Como o mapa do mundo mudou nos últimos 100 anos
 - [ ] Países que desapareceram do mapa
 - [ ] Como surgiram as fronteiras do Brasil
 - [ ] Como a União Soviética virou 15 países

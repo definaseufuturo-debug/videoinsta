@@ -157,3 +157,4 @@
 - 2026-11-12 21:55 | 2026-11-12-exercitos | agendado | ok 18079070681741141 | yt gHJAU9AXvww
 - 2026-11-12 18:55 | cristao-2026-11-12-elias | cristao | ok 18122380591968846
 - 2026-11-12 18:57 | jil-2026-11-12-chuva | jesusislove | yt 4b04uHo3LkM
+- 2026-11-13 00:23 | 2026-11-13-mapa-100-anos | produzido (B3, mapas e transformações, ONU 51→193, voz Fish masculina, 44 s + CTA) | fila 2026-11-13T19:00
