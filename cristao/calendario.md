@@ -70,7 +70,7 @@ Os posts do Instagram **não vão mais para o YouTube**, e os bonequinhos **não
 
 ## Fila dos MISTÉRIOS DA BÍBLIA (tema do Jonas, 11/11/2026; pegue o próximo [ ])
 Usada na **sex 19:00** (no lugar do estudo rápido) e no **dom 07:00** (no lugar da história). 60 a 90 s, voz 4, gancho com a pergunta que ninguém sabe responder, mostrar o que o texto diz e fechar pedindo comentário. **Regra de neutralidade:** temas em que as igrejas divergem (2, 5, 6, 10) mostram as principais leituras com os versículos, sem dizer qual é a "certa" e sem polêmica.
-- [ ] A origem do mal: se Deus criou tudo perfeito, como surgiu o mal? (Gn 3; Ez 28:12-17)
+- [x] A origem do mal: se Deus criou tudo perfeito, como surgiu o mal? (Gn 3; Ez 28:12-17) — 13/11 ("cristao-2026-11-13-origem-do-mal", sex 19:00)
 - [ ] Melquisedeque: o personagem misterioso sem genealogia (Gn 14:18-20; Hb 7:1-3)
 - [ ] As setenta semanas de Daniel: qual o significado profético? (Dn 9:24-27)
 - [ ] A batalha espiritual: quem são os principados e potestades? (Ef 6:12; Dn 10:12-13)
