@@ -161,3 +161,4 @@
 - 2026-11-13 02:05 | produção Tarefa E (cristao) | IG 07:00 ok cristao-2026-11-13-sol-parou (história que surpreende, Js 10, pergaminho, voz Fish 4, 62 s + CTA; Palavra da Manhã/devocional segue suspenso pelo calendário) · YT 12:00 ok jil-2026-11-13-mesa-do-jantar (pôster escuro, Sl 90:12) · YT 19:00 ok jil-2026-11-13-domingo (pôster escuro, Ec 3:1; pulei 'Seu filho faz o que você faz' para não repetir celular no mesmo dia) · IG 19:00 ok cristao-2026-11-13-origem-do-mal (sexta = Mistérios da Bíblia no lugar do estudo rápido, texto cinético, voz Fish 4, 62 s + CTA, leituras de Ez 28 mostradas de forma neutra)
 - 2026-11-13 09:55 | cristao-2026-11-13-sol-parou | cristao | ok 17964137742000061
 - 2026-11-13 09:55 | jesusislove | nada na fila
+- 2026-11-13 07:40 | jil-coletanea-2 | jesusislove-longo | yt 1chTeuOjAqc | capa ok
