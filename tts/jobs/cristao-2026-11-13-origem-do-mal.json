@@ -1,0 +1,53 @@
+{
+  "status": "pendente",
+  "voice": "a0a26a57cac94ea4918f05a2393b4259",
+  "speed": 1.1,
+  "model": "s2.1-pro-free",
+  "language": "pt",
+  "clips": [
+    {
+      "id": "c1",
+      "text": "Se Deus criou tudo perfeito, de onde veio o mal?"
+    },
+    {
+      "id": "c2",
+      "text": "É um dos maiores mistérios da Bíblia. E o texto dá mais pistas do que muita gente imagina."
+    },
+    {
+      "id": "c3",
+      "text": "Primeira pista: no fim da criação, Gênesis diz que tudo era muito bom. Não havia mal em nada que Deus fez."
+    },
+    {
+      "id": "c4",
+      "text": "Segunda pista: em Gênesis três, o mal já aparece pronto, na voz da serpente. E o texto não conta de onde ele veio."
+    },
+    {
+      "id": "c5",
+      "text": "Terceira pista: Apocalipse doze chama essa serpente antiga de diabo e Satanás. Ou seja, o mal começou antes do Éden."
+    },
+    {
+      "id": "c6",
+      "text": "Quarta pista: Ezequiel vinte e oito. Perfeito eras nos teus caminhos, desde o dia em que foste criado, até que se achou iniquidade em ti."
+    },
+    {
+      "id": "c7",
+      "text": "Essa palavra é dirigida ao rei de Tiro. Muitos cristãos leem aqui também a queda de Satanás. Outros leem só o rei. As duas leituras existem."
+    },
+    {
+      "id": "c8",
+      "text": "Mas num ponto a Bíblia é clara: Deus não tenta ninguém. O mal nasce quando a criatura escolhe se afastar do bem."
+    },
+    {
+      "id": "c9",
+      "text": "Santo Agostinho resumiu assim: o mal não é uma coisa criada. É a falta do bem. Como a escuridão, que é só a falta de luz."
+    },
+    {
+      "id": "c10",
+      "text": "E a Bíblia não mostra só o começo do mal. Mostra o fim: um dia sem morte, sem choro e sem dor."
+    },
+    {
+      "id": "c11",
+      "text": "Você já tinha visto essas pistas? Comenta eu sabia ou não sabia. E segue, porque domingo tem Melquisedeque, o homem sem pai nem mãe."
+    }
+  ]
+}
