@@ -258,10 +258,10 @@ Visual fixo: fundo preto, bonequinhos brancos com brilho, UM elemento vermelho s
 ## FILA PÔSTER ESCURO (JesusIsLove) — 2 por dia, 12:00 e 19:00, desde 12/11/2026
 Estilo do modelo producoes/jil-2026-11-11-leite-derramado/ (fundo preto, holofote, bonecos brancos lisos, frase serifada, 15 a 20 s, sem narração, sons de cena). Temas livres (família, fé, hábitos, dinheiro, tempo, relacionamentos), sempre com 1 versículo no fechamento. Frases e cenas PRÓPRIAS (nunca traduzir ou imitar outros perfis).
 - [x] Leite derramado: pai que grita × pai que ajuda a limpar; 20 anos depois o filho repete (Ef 6:4)
-- [ ] O celular na mesa do jantar: família de cabeça baixa × família que conversa; o filho cresce e vai embora (Sl 90:12)
+- [x] O celular na mesa do jantar: família de cabeça baixa × família que conversa; o filho cresce e vai embora (Sl 90:12) — 13/11 ("jil-2026-11-13-mesa-do-jantar", YT 12:00)
 - [x] Motivação × disciplina: começa a chover; um volta pra casa, o outro abre o guarda-chuva e segue (Gl 6:9) — 12/11 ("jil-2026-11-12-chuva", YT 19:00)
 - [ ] Seu filho faz o que você faz: pai manda ler a Bíblia mexendo no celular × pai que lê; o filho imita cada um (Pv 22:6)
-- [ ] Dá pra ganhar mais dinheiro, não dá pra ganhar mais domingo: domingos riscados no calendário enquanto ele trabalha (Ec 3:1)
+- [x] Dá pra ganhar mais dinheiro, não dá pra ganhar mais domingo: domingos riscados no calendário enquanto ele trabalha (Ec 3:1) — 13/11 ("jil-2026-11-13-domingo", YT 19:00; pulei "Seu filho faz o que você faz" para não repetir celular no mesmo dia)
 - [ ] Ninguém tira foto do alicerce: riem dele assentando tijolo; depois todo mundo tira selfie no prédio pronto (Mt 7:24)
 - [ ] Você rega o que quer ver crescer: planta regada com Palavra e oração × planta regada com rolagem infinita (Gl 6:7)
 - [ ] Mesma mensagem "a gente precisa conversar": um cria dez cenários de desastre, o outro ora e dorme (Fp 4:6-7)
