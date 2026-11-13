@@ -176,6 +176,14 @@ Todo dia: **Instagram 07:00** HISTÓRIA BÍBLICA QUE SURPREENDE em animação na
 3. `postado` → `python3 pipeline/fila.py marcar <id> <video_id> --conta jesusislove` e `python3 pipeline/fila.py marcar_yt <id> <video_id> --conta jesusislove`. Erro → `fila.py falhou <id> "<erro>" --conta jesusislove`; se for `quotaExceeded`, deixe para o dia seguinte; senão tente de novo uma vez depois de 1 minuto.
 4. Linha no `log/postagens.md`: `- AAAA-MM-DD HH:MM | <id> | jesusislove | yt <video_id>` (ou `ERRO …`). Commit e push.
 
+## Tarefa H: COLETÂNEA SEMANAL JESUSISLOVE (domingo à tarde, vídeo longo) — desde 15/11/2026
+Vídeo horizontal de ~8 min (passar de 8:00 libera anúncio no meio) com os Shorts de pais e filhos do JesusIsLove, para somar horas de exibição.
+1. Escolha 12 a 16 Shorts de pais e filhos/família em `videos/jesusislove/` (e `videos/cristao/` de bonequinhos), primeiro os da semana, abrindo com o de mais visualizações; complete com antigos até passar de 8:00 (480 s). Nada fora do nicho. Não repita a abertura de coletâneas anteriores.
+2. `longos/jil-coletanea-<n>/spec.json` (modelo: `longos/jil-coletanea-2/spec.json`): `[arquivo, TÍTULO CURTO, versículo, referência, segundos úteis]`. Segundos úteis = duração − 3 quando o vídeo tem o cartão do `cta.py` no fim (todos desde 06/11), senão a duração inteira. Confira o versículo na Bíblia (ARC/ARA).
+3. `cd longos/jil-coletanea-<n> && python3 ../coletanea/montar.py spec.json build`; folha de quadros com Read; capa 1280x720 (`capa.py` adaptado da coletânea 2, frase forte + "N HISTÓRIAS", sem sobrepor os quadros).
+4. Copie para `videos/longos/jesusislove/coletanea-pais-e-filhos-<n>.mp4` e `-capa.jpg`; descrição `-descricao.txt` com gancho, "Qual dessas mais mexeu com você? Comenta o número 👇", capítulos (00:00 Abertura, cada história a partir de 5,5 s + 2,2 s de cartão antes de cada uma, Final), versículo, "🎨 Animação feita com IA.", convite para se inscrever e 7 hashtags. Commit e push.
+5. `YT_LONGO=1 YT_THUMB=videos/longos/jesusislove/coletanea-pais-e-filhos-<n>-capa.jpg bash pipeline/yt_post.sh jil-coletanea-<n> <mp4> <descricao.txt> "<título até 80 caracteres, sem emoji>" cristao`. Linha no log: `- AAAA-MM-DD HH:MM | jil-coletanea-<n> | jesusislove-longo | yt <video_id> | capa <thumb_status>`. Commit e push.
+
 ## SOM DE CADA VÍDEO (REVISADO em 06/11/2026: TRILHAS REAIS DESATIVADAS)
 O dono não gostou das músicas reais. **Não use mais `pipeline/trilha.py mixar`, nem `"clima"` no `script.json`** (o `tools/audio.py` dos templates agora ignora o clima). Volta ao que era:
 - **Bonequinhos (sem narração):** só os sons de cena reais do `audio.py` (`pipeline/sfx.py`, `Banco`, ambiente + 3 a 8 sons de cena), SEM música. Não rode `trilha.py mixar`.
