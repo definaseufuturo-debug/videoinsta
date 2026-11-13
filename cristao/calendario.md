@@ -256,25 +256,32 @@ Visual fixo: fundo preto, bonequinhos brancos com brilho, UM elemento vermelho s
 - Sem emoji no canvas (a fonte não tem).
 
 ## FILA PÔSTER ESCURO (JesusIsLove) — 2 por dia, 12:00 e 19:00, desde 12/11/2026
-Estilo do modelo producoes/jil-2026-11-11-leite-derramado/ (fundo preto, holofote, bonecos brancos lisos, frase serifada, 15 a 20 s, sem narração, sons de cena). Temas livres (família, fé, hábitos, dinheiro, tempo, relacionamentos), sempre com 1 versículo no fechamento. Frases e cenas PRÓPRIAS (nunca traduzir ou imitar outros perfis).
+Estilo do modelo producoes/jil-2026-11-11-leite-derramado/ (fundo preto, holofote, bonecos brancos lisos, frase serifada, 15 a 20 s, sem narração, sons de cena). Frases e cenas PRÓPRIAS (nunca traduzir ou imitar outros perfis).
+
+**REVISÃO 13/11/2026 (números):** leite derramado 5 mil, "o outro pai" 4,2 mil, "30 anos depois" 2,3 mil; motivação × disciplina (chuva) 299 e "só sobra a tela" 470. O público do canal veio por PAIS E FILHOS: **só temas de pais e filhos / família** (hábitos, dinheiro e motivação genéricos ficam pausados). Regras de gancho, obrigatórias:
+1. **1º quadro (0 s) já com o conflito:** um balão de fala GRANDE com a frase do pai ou da mãe ("QUANTAS VEZES EU JÁ FALEI?!", "AGORA NÃO, FILHO") + bonecos grandes (pelo menos 35% da altura do painel). Nada de abrir com tela escura, frase serifada pequena ou bonecos minúsculos.
+2. **Um único elemento vermelho** (balão, cachecol, porta) e no máximo 2 painéis.
+3. **Virada de tempo** ("20 ANOS DEPOIS") com o filho repetindo o que aprendeu: é o que faz comentar.
+4. Título do YouTube = a frase do pai entre aspas + consequência ("'Agora não, filho' — 20 anos depois ele disse o mesmo"), até 80 caracteres.
+5. Capa (thumb_offset) no quadro do balão grande.
 - [x] Leite derramado: pai que grita × pai que ajuda a limpar; 20 anos depois o filho repete (Ef 6:4)
 - [x] O celular na mesa do jantar: família de cabeça baixa × família que conversa; o filho cresce e vai embora (Sl 90:12) — 13/11 ("jil-2026-11-13-mesa-do-jantar", YT 12:00)
 - [x] Motivação × disciplina: começa a chover; um volta pra casa, o outro abre o guarda-chuva e segue (Gl 6:9) — 12/11 ("jil-2026-11-12-chuva", YT 19:00)
+- [x] Dá pra ganhar mais dinheiro, não dá pra ganhar mais domingo: domingos riscados no calendário enquanto ele trabalha (Ec 3:1) — 13/11 ("jil-2026-11-13-domingo", YT 19:00)
 - [ ] Seu filho faz o que você faz: pai manda ler a Bíblia mexendo no celular × pai que lê; o filho imita cada um (Pv 22:6)
-- [x] Dá pra ganhar mais dinheiro, não dá pra ganhar mais domingo: domingos riscados no calendário enquanto ele trabalha (Ec 3:1) — 13/11 ("jil-2026-11-13-domingo", YT 19:00; pulei "Seu filho faz o que você faz" para não repetir celular no mesmo dia)
-- [ ] Ninguém tira foto do alicerce: riem dele assentando tijolo; depois todo mundo tira selfie no prédio pronto (Mt 7:24)
-- [ ] Você rega o que quer ver crescer: planta regada com Palavra e oração × planta regada com rolagem infinita (Gl 6:7)
-- [ ] Mesma mensagem "a gente precisa conversar": um cria dez cenários de desastre, o outro ora e dorme (Fp 4:6-7)
-- [ ] Quem cai aprendendo chega antes: um lê o manual da bicicleta, o outro cai três vezes e sai pedalando (Pv 24:16)
-- [ ] A prova é sexta: um estuda 20 minutos por dia, o outro vira a noite na quinta (Pv 6:6-8, a formiga)
 - [ ] Presente × presença: pai dá o videogame caro e sai; pai que senta e joga junto (Sl 127:3)
 - [ ] Pai que promete × pai que aparece: a cadeira vazia na apresentação da escola (Mt 5:37)
-- [ ] O pai que pede desculpa: o que nunca pede × o que se abaixa e pede; o filho aprende a pedir (Tg 5:16)
+- [ ] O pai que pede desculpa: "eu não peço desculpa pra criança" × o que se abaixa e pede; 20 anos depois o filho pede ao neto (Tg 5:16)
 - [ ] Compara × encoraja: "por que você não é igual ao seu irmão?" × "eu vi o seu esforço" (Ef 4:29)
-- [ ] A mochila da mágoa: um carrega pedras por anos, o outro perdoa e solta (Cl 3:13)
-- [ ] A Bíblia na estante × a Bíblia aberta: poeira acumulando × páginas gastas ao longo dos anos (Sl 119:105)
-- [ ] Salário que entra e sai: quem guarda o que sobra × quem separa primeiro (Pv 21:20)
-- [ ] Oração só na crise × oração todo dia: a ponte construída antes da tempestade (1Ts 5:17)
-- [ ] Elogio em público, correção em particular: o filho diante dos amigos (Pv 15:1)
-- [ ] A mãe que ninguém vê: o dia inteiro dela acelerado, e um "obrigado" no fim (Pv 31:28)
-- [ ] Tempo de tela × tempo de joelho: o relógio da semana dividido (Mt 6:6)
+- [ ] Elogio em público, correção em particular: "olha a vergonha que você me fez passar!" na frente dos amigos × conversa no carro (Pv 15:1)
+- [ ] A mãe que ninguém vê: o dia inteiro dela acelerado, e um "obrigado, mãe" no fim (Pv 31:28)
+- [ ] "Engole o choro!" × "pode chorar, eu tô aqui": 20 anos depois, um adulto que não chora × um que abraça (Ec 3:4)
+- [ ] "Vai brincar lá fora, tô ocupado" × "me mostra o seu desenho": anos depois o filho responde "tô ocupado" no telefone (Pv 23:26)
+- [ ] O boletim vermelho: pai que rasga × pai que senta e estuda junto (Cl 3:21)
+- [ ] "Você não faz nada direito" × "você errou, mas eu confio em você": a frase que vira a voz interior do filho (Pv 18:21)
+- [ ] O pai que ora na beira da cama × o que nunca orou: 30 anos depois, quem o filho chama na crise (Dt 6:6-7)
+- [ ] A mãe que diz "não" e explica × a que diz "sim" pra tudo pra não ter briga: o adolescente aos 16 (Pv 29:15)
+- [ ] O abraço que não veio: pai que só cobra nota × pai que comemora o esforço (Lc 15:20)
+
+### Pausados (fora do nicho do canal; não usar no JesusIsLove)
+- Ninguém tira foto do alicerce (Mt 7:24) · Você rega o que quer ver crescer (Gl 6:7) · "A gente precisa conversar" (Fp 4:6-7) · Bicicleta / quem cai aprendendo (Pv 24:16) · A prova é sexta (Pv 6:6-8) · A mochila da mágoa (Cl 3:13) · A Bíblia na estante (Sl 119:105) · Salário que entra e sai (Pv 21:20) · Oração só na crise (1Ts 5:17) · Tempo de tela × tempo de joelho (Mt 6:6)
