@@ -30,7 +30,7 @@ Os posts do Instagram **não vão mais para o YouTube**, e os bonequinhos **não
 
 ## Fila das HISTÓRIAS QUE SURPREENDEM (todo dia 07:00, pegue o próximo [ ])
 - [x] Gideão: Deus mandou embora 31.700 soldados e a vitória veio com 300, jarros e tochas (Jz 7) — 12/11 ("cristao-2026-11-12-gideao")
-- [ ] O dia em que o sol parou: Josué e o dia mais longo da história (Js 10:12-14)
+- [x] O dia em que o sol parou: Josué e o dia mais longo da história (Js 10:12-14) — 13/11 ("cristao-2026-11-13-sol-parou")
 - [ ] Jonas e o peixe: a cidade de 120 mil pessoas que se arrependeu em 3 dias (Jn 3-4)
 - [ ] Daniel na cova dos leões: a lei que nem o rei podia mudar (Dn 6)
 - [ ] Os muros de Jericó: 7 dias, 7 voltas, nenhuma flecha (Js 6)
