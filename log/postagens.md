@@ -165,3 +165,4 @@
 - 2026-11-13 15:55 | cristao | nada na fila
 - 2026-11-13 15:55 | jil-2026-11-13-mesa-do-jantar | jesusislove | yt lOv2KMYCsgc
 - 2026-11-13 19:00 | 2026-11-13-mapa-100-anos | agendado | ok 18131984404888366 | yt ERRO (yt_post.sh: git pull --rebase falhou por alteracoes nao commitadas; nao postado)
+- 2026-11-13 21:55 | cristao-2026-11-13-origem-do-mal | cristao | ok 18030865082876178
