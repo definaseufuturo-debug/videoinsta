@@ -1,0 +1,53 @@
+{
+  "status": "pendente",
+  "voice": "a0a26a57cac94ea4918f05a2393b4259",
+  "speed": 1.1,
+  "model": "s2.1-pro-free",
+  "language": "pt",
+  "clips": [
+    {
+      "id": "c1",
+      "text": "Existe um livro inteiro da Bíblia em que o nome de Deus não aparece nenhuma vez."
+    },
+    {
+      "id": "c2",
+      "text": "É o livro de Ester. 10 capítulos, 167 versículos, e nenhuma menção direta a Deus."
+    },
+    {
+      "id": "c3",
+      "text": "E mesmo assim, é uma das histórias em que a mão de Deus mais aparece. Olha só."
+    },
+    {
+      "id": "c4",
+      "text": "Uma órfã judia vira rainha do maior império da época: 127 províncias, da Índia à Etiópia."
+    },
+    {
+      "id": "c5",
+      "text": "Um homem chamado Hamã consegue um decreto para destruir todos os judeus do império, num único dia."
+    },
+    {
+      "id": "c6",
+      "text": "E o primo dela, Mardoqueu, manda o recado: quem sabe se não foi para um momento como este que você chegou ao reino?"
+    },
+    {
+      "id": "c7",
+      "text": "Ester jejua 3 dias e vai falar com o rei sem ser chamada, arriscando a vida. Se eu perecer, pereci."
+    },
+    {
+      "id": "c8",
+      "text": "Aí vêm as coincidências. Naquela noite, o rei não consegue dormir. Manda ler os registros, e descobre que Mardoqueu tinha salvado a vida dele."
+    },
+    {
+      "id": "c9",
+      "text": "No fim, Hamã é enforcado na forca de 50 côvados que ele mesmo preparou para Mardoqueu. E os judeus comemoram até hoje a festa de Purim."
+    },
+    {
+      "id": "c10",
+      "text": "Por isso se diz: em Ester, Deus não é citado, mas está em cada detalhe. Na Bíblia católica, o livro ainda tem trechos em grego que citam Deus."
+    },
+    {
+      "id": "c11",
+      "text": "Você sabia dessa? Comenta eu sabia ou não sabia. E segue, porque quarta tem os dois homens da Bíblia que não morreram."
+    }
+  ]
+}
