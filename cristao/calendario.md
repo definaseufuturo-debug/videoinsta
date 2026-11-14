@@ -269,7 +269,7 @@ Estilo do modelo producoes/jil-2026-11-11-leite-derramado/ (fundo preto, holofot
 - [x] Motivação × disciplina: começa a chover; um volta pra casa, o outro abre o guarda-chuva e segue (Gl 6:9) — 12/11 ("jil-2026-11-12-chuva", YT 19:00)
 - [x] Dá pra ganhar mais dinheiro, não dá pra ganhar mais domingo: domingos riscados no calendário enquanto ele trabalha (Ec 3:1) — 13/11 ("jil-2026-11-13-domingo", YT 19:00)
 - [x] Seu filho faz o que você faz: pai manda ler a Bíblia mexendo no celular × pai que lê; o filho imita cada um (Pv 22:6) — 14/11 ("jil-2026-11-14-faz-o-que-voce-faz", YT 12:00)
-- [ ] Presente × presença: pai dá o videogame caro e sai; pai que senta e joga junto (Sl 127:3)
+- [x] Presente × presença: pai dá o videogame caro e sai; pai que senta e joga junto (Sl 127:3) — 14/11 ("jil-2026-11-14-presente-presenca", YT 19:00)
 - [ ] Pai que promete × pai que aparece: a cadeira vazia na apresentação da escola (Mt 5:37)
 - [ ] O pai que pede desculpa: "eu não peço desculpa pra criança" × o que se abaixa e pede; 20 anos depois o filho pede ao neto (Tg 5:16)
 - [ ] Compara × encoraja: "por que você não é igual ao seu irmão?" × "eu vi o seu esforço" (Ef 4:29)
