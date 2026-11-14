@@ -84,7 +84,7 @@
 - [ ] Os maiores impérios da história (no mapa)
 
 ### Fila 6: HISTÓRIA MUNDIAL (sáb)
-- [ ] A expansão e a queda do Império Romano
+- [x] A expansão e a queda do Império Romano
 - [ ] Como começou a Primeira Guerra Mundial
 - [ ] A Guerra Fria em 45 segundos
 - [ ] A ascensão e a queda do Império Otomano

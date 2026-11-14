@@ -167,3 +167,4 @@
 - 2026-11-13 19:00 | 2026-11-13-mapa-100-anos | agendado | ok 18131984404888366 | yt ERRO (yt_post.sh: git pull --rebase falhou por alteracoes nao commitadas; nao postado)
 - 2026-11-13 21:55 | cristao-2026-11-13-origem-do-mal | cristao | ok 18030865082876178
 - 2026-11-13 21:57 | jil-2026-11-13-domingo | jesusislove | yt QU2Nbme0MPo
+- 2026-11-14 00:27 | 2026-11-14-imperio-romano | produzido (B3 história, voz jovem Fish, 41.8 s) | fila 2026-11-14T20:00
