@@ -1,0 +1,37 @@
+{
+  "status": "pendente",
+  "voice": "b1cab1f57b8d41aeb225d7d8bafc0806",
+  "speed": 1.15,
+  "model": "s2.1-pro-free",
+  "language": "pt",
+  "clips": [
+    {
+      "id": "c1",
+      "text": "No auge, o Império Romano tinha mais de cinco milhões de quilômetros quadrados. Como algo tão grande caiu?"
+    },
+    {
+      "id": "c2",
+      "text": "Tudo começou numa cidade da Itália. Em poucos séculos, Roma cercou o Mediterrâneo inteiro."
+    },
+    {
+      "id": "c3",
+      "text": "Em cento e dezessete, ia da Britânia ao Egito, com cinquenta a setenta milhões de pessoas."
+    },
+    {
+      "id": "c4",
+      "text": "Em trezentos e noventa e cinco, o império foi dividido em dois: Ocidente e Oriente."
+    },
+    {
+      "id": "c5",
+      "text": "Com crises internas e a pressão de povos germânicos, o Ocidente caiu em quatrocentos e setenta e seis."
+    },
+    {
+      "id": "c6",
+      "text": "Já o Oriente, o Império Bizantino, durou quase mil anos a mais, até mil quatrocentos e cinquenta e três."
+    },
+    {
+      "id": "c7",
+      "text": "Pra você, o que derrubou Roma? Comenta aí. Amanhã: como funciona o Canal do Panamá, segue pra não perder."
+    }
+  ]
+}
