@@ -169,3 +169,5 @@
 - 2026-11-13 21:57 | jil-2026-11-13-domingo | jesusislove | yt QU2Nbme0MPo
 - 2026-11-14 00:27 | 2026-11-14-imperio-romano | produzido (B3 história, voz jovem Fish, 41.8 s) | fila 2026-11-14T20:00
 - 2026-11-14 02:05 | produção Tarefa E (cristao) | IG 07:00 ok cristao-2026-11-14-jonas (história que surpreende, Jn 1-4, pergaminho, voz Fish 4, 67 s + CTA; Palavra da Manhã/devocional segue suspenso pelo calendário) · YT 12:00 ok jil-2026-11-14-faz-o-que-voce-faz (pôster escuro, Pv 22:6) · YT 19:00 ok jil-2026-11-14-presente-presenca (pôster escuro, Sl 127:3) · IG 19:00 ok cristao-2026-11-14-ester (curiosidades, texto cinético, voz Fish 4, 62 s + CTA)
+- 2026-11-14 09:55 | cristao-2026-11-14-jonas | cristao | ok 18128400260490174
+- 2026-11-14 09:55 | - | jesusislove | nada na fila
