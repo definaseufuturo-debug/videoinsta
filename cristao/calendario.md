@@ -58,7 +58,7 @@ Os posts do Instagram **não vão mais para o YouTube**, e os bonequinhos **não
 
 ## Fila de CURIOSIDADES E DADOS (qua e sáb 19:00, pegue o próximo [ ])
 - [x] O versículo mais curto da Bíblia tem 2 palavras: "Jesus chorou" (Jo 11:35) — 04/11
-- [ ] O livro da Bíblia que não cita o nome de Deus nenhuma vez (Ester)
+- [x] O livro da Bíblia que não cita o nome de Deus nenhuma vez (Ester) — 14/11 ("cristao-2026-11-14-ester")
 - [ ] Dois homens da Bíblia que não morreram (Enoque, Gn 5:24; Elias, 2Rs 2:11)
 - [ ] O maior e o menor capítulo da Bíblia (Sl 119 com 176 versículos; Sl 117 com 2)
 - [ ] Os únicos animais que falaram na Bíblia (a serpente, Gn 3; a jumenta de Balaão, Nm 22:28)

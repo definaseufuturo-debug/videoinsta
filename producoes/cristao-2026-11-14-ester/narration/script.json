@@ -1,0 +1,27 @@
+{
+  "voice": "pm_alex",
+  "speed": 1.1,
+  "lang": "pt-br",
+  "_comment": "Curiosidades e dados (sáb 19:00): o livro que não cita o nome de Deus. Ester (texto hebraico/ARA): 10 capítulos, 167 versículos, sem nenhuma menção direta a Deus (também não cita oração explicitamente; o jejum aparece em 4:16). 1:1 (127 províncias, da Índia à Etiópia); 2:7 (Hadassa/Ester, órfã criada pelo primo Mardoqueu); 3:13 (decreto de Hamã: destruir todos os judeus num só dia, 13 de adar); 4:14 ('quem sabe se para tal tempo como este chegaste a este reino?'); 4:16 (jejuai três dias; 'se perecer, pereci'); 6:1-2 (naquela noite o rei não pôde dormir, mandou ler o livro das crônicas e achou que Mardoqueu denunciara o plano contra ele); 5:14 e 7:9-10 (forca de 50 côvados; enforcaram Hamã na forca que preparara para Mardoqueu); 9:26-28 (festa de Purim). Bíblia católica: Ester tem acréscimos gregos (deuterocanônicos) que mencionam Deus e trazem orações de Mardoqueu e Ester — dito de forma neutra. Conferido em bible.com (ARA) e Britannica ('Esther', 'the name of God is not mentioned'; acréscimos gregos na Septuaginta).",
+  "say": {},
+  "fish": {
+    "voice": "a0a26a57cac94ea4918f05a2393b4259",
+    "speed": 1.1,
+    "model": "s2.1-pro-free"
+  },
+  "clips": [
+    {"id": "c1", "scene": 1, "minStart": 0.3, "gapAfterPrev": 0, "text": "Existe um livro inteiro da Bíblia em que o nome de Deus não aparece nenhuma vez."},
+    {"id": "c2", "scene": 2, "minStart": 0, "gapAfterPrev": 0.5, "text": "É o livro de Ester. 10 capítulos, 167 versículos, e nenhuma menção direta a Deus."},
+    {"id": "c3", "scene": 3, "minStart": 0, "gapAfterPrev": 0.5, "text": "E mesmo assim, é uma das histórias em que a mão de Deus mais aparece. Olha só."},
+    {"id": "c4", "scene": 4, "minStart": 0, "gapAfterPrev": 0.5, "text": "Uma órfã judia vira rainha do maior império da época: 127 províncias, da Índia à Etiópia."},
+    {"id": "c5", "scene": 5, "minStart": 0, "gapAfterPrev": 0.5, "text": "Um homem chamado Hamã consegue um decreto para destruir todos os judeus do império, num único dia."},
+    {"id": "c6", "scene": 6, "minStart": 0, "gapAfterPrev": 0.5, "text": "E o primo dela, Mardoqueu, manda o recado: quem sabe se não foi para um momento como este que você chegou ao reino?"},
+    {"id": "c7", "scene": 7, "minStart": 0, "gapAfterPrev": 0.5, "text": "Ester jejua 3 dias e vai falar com o rei sem ser chamada, arriscando a vida. Se eu perecer, pereci."},
+    {"id": "c8", "scene": 8, "minStart": 0, "gapAfterPrev": 0.5, "text": "Aí vêm as coincidências. Naquela noite, o rei não consegue dormir. Manda ler os registros, e descobre que Mardoqueu tinha salvado a vida dele."},
+    {"id": "c9", "scene": 9, "minStart": 0, "gapAfterPrev": 0.5, "text": "No fim, Hamã é enforcado na forca de 50 côvados que ele mesmo preparou para Mardoqueu. E os judeus comemoram até hoje a festa de Purim."},
+    {"id": "c10", "scene": 10, "minStart": 0, "gapAfterPrev": 0.5, "text": "Por isso se diz: em Ester, Deus não é citado, mas está em cada detalhe. Na Bíblia católica, o livro ainda tem trechos em grego que citam Deus."},
+    {"id": "c11", "scene": 11, "minStart": 0, "gapAfterPrev": 0.5, "text": "Você sabia dessa? Comenta eu sabia ou não sabia. E segue, porque quarta tem os dois homens da Bíblia que não morreram."}
+  ],
+  "tailAfterLastClip": 2.0,
+  "keywords": []
+}
