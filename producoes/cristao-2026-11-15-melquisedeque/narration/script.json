@@ -1,0 +1,25 @@
+{
+  "voice": "pm_alex",
+  "speed": 1.1,
+  "lang": "pt-br",
+  "_comment": "Mistérios da Bíblia: Melquisedeque (dom 07:00, no lugar da história que surpreende; prometido no vídeo de 13/11). Gn 14:18-20 ARA (rei de Salém, sacerdote do Deus Altíssimo, trouxe pão e vinho, abençoou Abrão, 'E de tudo lhe deu Abrão o dízimo'); Sl 110:4 ('Tu és sacerdote para sempre, segundo a ordem de Melquisedeque'); Hb 7:1-3 ('sem pai, sem mãe, sem genealogia; que não teve princípio de dias, nem fim de existência... permanece sacerdote perpetuamente'); Hb 7:2 (rei de justiça / rei de paz); Hb 7:9-10 (Levi pagou dízimos por meio de Abraão); Hb 6:20 e 7:17 (Jesus sacerdote segundo a ordem de Melquisedeque). Salém = Jerusalém pela tradição (Sl 76:2). Leituras: homem histórico cuja genealogia o texto não registra, 'tipo' de Cristo (maioria dos comentaristas, ex. gotquestions.org/Portugues/Melquisedeque.html; enduringword Hb 7) × aparição de Cristo antes da encarnação (cristofania, também defendida por alguns). Mostradas as duas, sem dizer qual é a certa. Texto ARA.",
+  "say": {},
+  "fish": { "voice": "a0a26a57cac94ea4918f05a2393b4259", "speed": 1.1, "model": "s2.1-pro-free" },
+  "accent": [],
+  "clips": [
+    { "id": "c1", "scene": 1, "minStart": 0.3, "gapAfterPrev": 0, "text": "Na Bíblia existe um homem sem pai, sem mãe e sem genealogia. Quem foi ele?" },
+    { "id": "c2", "scene": 2, "minStart": 0, "gapAfterPrev": 0.5, "text": "O nome dele é Melquisedeque. Ele aparece em só três versículos de Gênesis, e mexeu com a Bíblia inteira." },
+    { "id": "c3", "scene": 3, "minStart": 0, "gapAfterPrev": 0.5, "text": "Abraão volta de uma batalha, e esse rei vem ao encontro dele com pão e vinho. Ele era rei de Salém e sacerdote do Deus Altíssimo." },
+    { "id": "c4", "scene": 4, "minStart": 0, "gapAfterPrev": 0.5, "text": "Primeiro detalhe estranho: ainda não existia sacerdócio em Israel. Nem existia Israel. E mesmo assim Abraão dá a ele o dízimo de tudo." },
+    { "id": "c5", "scene": 5, "minStart": 0, "gapAfterPrev": 0.5, "text": "Segundo: séculos depois, o Salmo cento e dez fala de alguém que é sacerdote para sempre, segundo a ordem de Melquisedeque." },
+    { "id": "c6", "scene": 6, "minStart": 0, "gapAfterPrev": 0.5, "text": "Terceiro: Hebreus diz que ele é sem pai, sem mãe, sem genealogia, sem princípio de dias nem fim de existência." },
+    { "id": "c7", "scene": 7, "minStart": 0, "gapAfterPrev": 0.5, "text": "E vai além: até Levi, o pai dos sacerdotes, pagou o dízimo a ele, por meio de Abraão. Antes mesmo de nascer." },
+    { "id": "c8", "scene": 8, "minStart": 0, "gapAfterPrev": 0.5, "text": "Até o nome é uma pista. Melquisedeque quer dizer rei de justiça. E rei de Salém quer dizer rei de paz." },
+    { "id": "c9", "scene": 9, "minStart": 0, "gapAfterPrev": 0.5, "text": "Então, quem era ele? Muitos leem que foi um rei de verdade, e a Bíblia só não registra a família dele, como uma figura de Cristo. Outros leem que foi o próprio Cristo aparecendo antes de nascer. As duas leituras existem." },
+    { "id": "c10", "scene": 10, "minStart": 0, "gapAfterPrev": 0.5, "text": "Mas o ponto de Hebreus é claro: Jesus é o sacerdote para sempre, segundo a ordem de Melquisedeque." },
+    { "id": "c11", "scene": 11, "minStart": 0, "gapAfterPrev": 0.5, "text": "Você já conhecia Melquisedeque? Comenta eu sabia ou não sabia. E segue, porque hoje à noite tem quiz: só quem lê a Bíblia acerta." }
+  ],
+  "ref": { "c2": "GÊNESIS 14:18-20", "c3": "GÊNESIS 14:18", "c4": "GÊNESIS 14:20", "c5": "SALMO 110:4", "c6": "HEBREUS 7:3", "c7": "HEBREUS 7:9-10", "c8": "HEBREUS 7:2", "c10": "HEBREUS 6:20" },
+  "tailAfterLastClip": 2.0,
+  "keywords": []
+}
