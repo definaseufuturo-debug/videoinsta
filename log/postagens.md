@@ -179,3 +179,5 @@
 - 2026-11-15 02:00 | produção Tarefa E (cristao) | IG 07:00 ok cristao-2026-11-15-melquisedeque (domingo = Mistérios da Bíblia no lugar da história, texto cinético, voz Fish 4, 68 s + CTA; Palavra da Manhã/devocional segue suspenso pelo calendário) · YT 12:00 ok jil-2026-11-15-cadeira-vazia (pôster escuro, Mt 5:37) · YT 19:00 ok jil-2026-11-15-desculpa-pra-crianca (pôster escuro, Tg 5:16) · IG 19:00 ok cristao-2026-11-15-quiz-dificil (quiz nível difícil, 5 perguntas com contagem de 5 s, voz Fish 4, 61 s + CTA)
 - 2026-11-15 06:55 | cristao-2026-11-15-melquisedeque | cristao | ok 18128400260490174
 - 2026-11-15 06:55 | jesusislove | nada na fila
+- 2026-11-15 14:55 | cristao | nada na fila do Instagram
+- 2026-11-15 14:55 | jil-2026-11-15-cadeira-vazia | jesusislove | yt D_8wsjB-l5g
