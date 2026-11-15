@@ -93,7 +93,7 @@
 - [ ] Como surgiu o Brasil (1500 a 1822 no mapa)
 
 ### Fila 7: COMÉRCIO, ENERGIA E RECURSOS (dom)
-- [ ] Como funciona o Canal do Panamá
+- [x] Como funciona o Canal do Panamá
 - [ ] A importância do Canal de Suez
 - [ ] Como os cabos submarinos levam a internet pelo mundo
 - [ ] Como um produto sai da China e chega ao Brasil

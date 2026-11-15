@@ -175,3 +175,4 @@
 - 2026-11-14 14:55 | jil-2026-11-14-faz-o-que-voce-faz | jesusislove | yt 865lT4g8KxE
 - 2026-11-14 21:55 | cristao-2026-11-14-ester | cristao | ok 18381660097242740
 - 2026-11-14 21:57 | jil-2026-11-14-presente-presenca | jesusislove | yt 3fbLiGjggp0
+- 2026-11-15 00:35 | 2026-11-15-canal-panama | produzido (B3 comércio/energia, voz masculina Fish, 44.0 s + CTA) | fila 2026-11-15T20:00 | obs: 2026-11-14-imperio-romano (20:00 de 14/11) segue pendente e não postado; o próximo 'proximo' vai pegá-lo antes deste
