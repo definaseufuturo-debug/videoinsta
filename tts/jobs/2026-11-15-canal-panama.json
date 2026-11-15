@@ -1,5 +1,5 @@
 {
-  "status": "pronto",
+  "status": "pendente",
   "voice": "c9d3da0bdf61417d929dc67966e4befe",
   "speed": 1.15,
   "model": "s2.1-pro-free",
@@ -7,11 +7,11 @@
   "clips": [
     {
       "id": "c1",
-      "text": "Pra atravessar o Panamá, um navio sobe vinte e seis metros acima do mar. Como funciona esse canal?"
+      "text": "Pra cruzar o Panamá, um navio sobe vinte e seis metros acima do mar. Como funciona esse canal?"
     },
     {
       "id": "c2",
-      "text": "Sem ele, quem vai do Atlântico ao Pacífico tem que contornar a América do Sul inteira. São semanas a mais de viagem."
+      "text": "Sem ele, o navio tem que contornar a América do Sul inteira: semanas a mais de viagem."
     },
     {
       "id": "c3",
@@ -19,7 +19,7 @@
     },
     {
       "id": "c4",
-      "text": "Nas eclusas, câmaras enchem de água e erguem o navio até o lago Gatún. Do outro lado, ele desce de novo até o mar."
+      "text": "As eclusas enchem de água e erguem o navio até o lago Gatún. Do outro lado, ele desce até o mar."
     },
     {
       "id": "c5",
@@ -27,11 +27,11 @@
     },
     {
       "id": "c6",
-      "text": "Os Estados Unidos construíram o canal. Em mil novecentos e noventa e nove, ele passou para o Panamá, e em dois mil e dezesseis ganhou eclusas maiores."
+      "text": "Os Estados Unidos construíram o canal, e em mil novecentos e noventa e nove ele passou para o Panamá."
     },
     {
       "id": "c7",
-      "text": "Qual canal você quer ver aqui? Comenta aí. Amanhã: quem controla as rotas marítimas do mundo, segue pra não perder."
+      "text": "Qual canal você quer ver aqui? Comenta. Amanhã: quem controla as rotas marítimas, segue pra não perder."
     }
   ]
 }
