@@ -1,0 +1,57 @@
+{
+  "status": "pendente",
+  "voice": "a0a26a57cac94ea4918f05a2393b4259",
+  "speed": 1.12,
+  "model": "s2.1-pro-free",
+  "language": "pt",
+  "clips": [
+    {
+      "id": "c1",
+      "text": "Cinco perguntas que quase ninguém acerta. Só quem lê a Bíblia. Valendo!"
+    },
+    {
+      "id": "c2",
+      "text": "Pergunta um: por quantas moedas de prata Judas traiu Jesus?"
+    },
+    {
+      "id": "c3",
+      "text": "Trinta moedas de prata."
+    },
+    {
+      "id": "c4",
+      "text": "Pergunta dois: com quantos homens Gideão venceu a batalha?"
+    },
+    {
+      "id": "c5",
+      "text": "Trezentos homens."
+    },
+    {
+      "id": "c6",
+      "text": "Pergunta três: quem disse, o teu povo é o meu povo, e o teu Deus é o meu Deus?"
+    },
+    {
+      "id": "c7",
+      "text": "Rute, falando com a sogra, Noemi."
+    },
+    {
+      "id": "c8",
+      "text": "Pergunta quatro: quem ficou mudo até o filho nascer?"
+    },
+    {
+      "id": "c9",
+      "text": "Zacarias, o pai de João Batista."
+    },
+    {
+      "id": "c10",
+      "text": "Última, a mais difícil: quantos anos viveu Matusalém?"
+    },
+    {
+      "id": "c11",
+      "text": "Novecentos e sessenta e nove anos."
+    },
+    {
+      "id": "c12",
+      "text": "Comenta quantas você acertou, de zero a cinco. E segue, pra ter um quiz da Bíblia todo domingo."
+    }
+  ]
+}
