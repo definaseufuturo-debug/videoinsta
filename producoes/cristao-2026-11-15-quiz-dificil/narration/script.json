@@ -1,0 +1,26 @@
+{
+  "voice": "pm_alex",
+  "speed": 1.1,
+  "lang": "pt-br",
+  "_comment": "QUIZ 'SÓ QUEM LÊ A BÍBLIA ACERTA' nível médio-difícil (dom 19:00; perguntas fáceis da fila — 12 discípulos, Daniel na cova — trocadas por mais difíceis, regra de 11/11). 1) Judas: 'pesaram-lhe trinta moedas de prata' (Mt 26:15 ARA). 2) Gideão: 'Com estes trezentos homens que lamberam a água vos livrarei' (Jz 7:7). 3) 'o teu povo é o meu povo, o teu Deus é o meu Deus' é Rute falando a Noemi (Rt 1:16). 4) Zacarias, pai de João Batista: 'ficarás mudo e não poderás falar até o dia em que estas coisas venham a realizar-se' (Lc 1:20; volta a falar em Lc 1:64). 5) Matusalém: 'Todos os dias de Matusalém foram novecentos e sessenta e nove anos' (Gn 5:27). Conferido na ARA (bible.com) e na Ave-Maria; mesmas respostas para católicos e evangélicos.",
+  "say": {},
+  "fish": { "voice": "a0a26a57cac94ea4918f05a2393b4259", "speed": 1.12, "model": "s2.1-pro-free" },
+  "accent": [],
+  "clips": [
+    { "id": "c1", "scene": 1, "minStart": 0.3, "gapAfterPrev": 0, "text": "Cinco perguntas que quase ninguém acerta. Só quem lê a Bíblia. Valendo!" },
+    { "id": "c2", "scene": 2, "minStart": 0, "gapAfterPrev": 0.45, "text": "Pergunta um: por quantas moedas de prata Judas traiu Jesus?" },
+    { "id": "c3", "scene": 3, "minStart": 0, "gapAfterPrev": 5.4, "text": "Trinta moedas de prata." },
+    { "id": "c4", "scene": 4, "minStart": 0, "gapAfterPrev": 0.45, "text": "Pergunta dois: com quantos homens Gideão venceu a batalha?" },
+    { "id": "c5", "scene": 5, "minStart": 0, "gapAfterPrev": 5.4, "text": "Trezentos homens." },
+    { "id": "c6", "scene": 6, "minStart": 0, "gapAfterPrev": 0.45, "text": "Pergunta três: quem disse, o teu povo é o meu povo, e o teu Deus é o meu Deus?" },
+    { "id": "c7", "scene": 7, "minStart": 0, "gapAfterPrev": 5.4, "text": "Rute, falando com a sogra, Noemi." },
+    { "id": "c8", "scene": 8, "minStart": 0, "gapAfterPrev": 0.45, "text": "Pergunta quatro: quem ficou mudo até o filho nascer?" },
+    { "id": "c9", "scene": 9, "minStart": 0, "gapAfterPrev": 5.4, "text": "Zacarias, o pai de João Batista." },
+    { "id": "c10", "scene": 10, "minStart": 0, "gapAfterPrev": 0.45, "text": "Última, a mais difícil: quantos anos viveu Matusalém?" },
+    { "id": "c11", "scene": 11, "minStart": 0, "gapAfterPrev": 5.4, "text": "Novecentos e sessenta e nove anos." },
+    { "id": "c12", "scene": 12, "minStart": 0, "gapAfterPrev": 0.5, "text": "Comenta quantas você acertou, de zero a cinco. E segue, pra ter um quiz da Bíblia todo domingo." }
+  ],
+  "ref": { "c3": "MATEUS 26:15", "c5": "JUÍZES 7:7", "c7": "RUTE 1:16", "c9": "LUCAS 1:20", "c11": "GÊNESIS 5:27" },
+  "tailAfterLastClip": 2.0,
+  "keywords": []
+}

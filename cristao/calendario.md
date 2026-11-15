@@ -93,7 +93,7 @@ Usada na **sex 19:00** (no lugar do estudo rápido) e no **dom 07:00** (no lugar
 
 ## Fila do QUIZ (dom 19:00, 3 perguntas por vídeo, pegue o próximo [ ])
 - [x] Quantos dias Jonas ficou no peixe? (3, Jn 1:17) · Quantos dias choveu no dilúvio? (40, Gn 7:12) · Qual foi o 1º milagre de Jesus? (água em vinho, Jo 2:1-11) — 08/11
-- [ ] Quantos discípulos Jesus escolheu? (12) · Por quantas moedas Judas traiu Jesus? (30, Mt 26:15) · Quem foi jogado na cova dos leões? (Daniel, Dn 6)
+- [x] Quantos discípulos Jesus escolheu? (12) · Por quantas moedas Judas traiu Jesus? (30, Mt 26:15) · Quem foi jogado na cova dos leões? (Daniel, Dn 6) — 15/11 ("cristao-2026-11-15-quiz-dificil", dom 19:00; nível difícil, 5 perguntas: Judas 30 moedas, Gideão 300, Rute 1:16, Zacarias mudo, Matusalém 969)
 - [ ] Quantos livros tem o Novo Testamento? (27) · Quem construiu a arca? (Noé) · Quantos anos o povo andou no deserto? (40, Nm 14:33)
 - [ ] Quem venceu Golias? (Davi) · Quantas pragas caíram no Egito? (10) · Qual o primeiro livro da Bíblia? (Gênesis)
 
