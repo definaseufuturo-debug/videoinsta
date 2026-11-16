@@ -1,0 +1,37 @@
+{
+  "status": "pendente",
+  "voice": "b1cab1f57b8d41aeb225d7d8bafc0806",
+  "speed": 1.15,
+  "model": "s2.1-pro-free",
+  "language": "pt",
+  "clips": [
+    {
+      "id": "c1",
+      "text": "Um corredor de menos de três quilômetros carrega um quinto do comércio marítimo do mundo. Quem controla essas rotas?"
+    },
+    {
+      "id": "c2",
+      "text": "É o estreito de Malaca, entre Malásia, Indonésia e Singapura. Mais de cem mil navios passaram por ali em dois mil e vinte e cinco."
+    },
+    {
+      "id": "c3",
+      "text": "Já pelo estreito de Ormuz, entre o Irã e Omã, passava cerca de vinte por cento do petróleo consumido no planeta."
+    },
+    {
+      "id": "c4",
+      "text": "Com a guerra na região desde fevereiro, o tráfego ali está uns sessenta e cinco por cento abaixo do normal."
+    },
+    {
+      "id": "c5",
+      "text": "Os canais têm dono. Suez é do Egito e leva até quinze por cento do comércio mundial. O do Panamá, uns cinco por cento."
+    },
+    {
+      "id": "c6",
+      "text": "Nos estreitos, a lei do mar garante a passagem dos navios. Mas quando um deles trava, o preço sobe no mundo inteiro."
+    },
+    {
+      "id": "c7",
+      "text": "Qual rota é a mais importante? Comenta. Amanhã: as fronteiras mais estranhas do mundo, segue pra não perder."
+    }
+  ]
+}
