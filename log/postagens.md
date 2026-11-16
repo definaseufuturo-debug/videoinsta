@@ -193,3 +193,4 @@
 - 2026-11-16 11:58 | jil-2026-11-16-compara-encoraja | jesusislove | yt taMaW7SG7Y0
 - 2026-11-16 21:55 | 2026-11-15-canal-panama | agendado | ok 18073873073496293 | yt k8tNwHrBG0Y
 - 2026-11-16 21:58 | cristao-2026-11-16-jonas-mapa | cristao | ok 18121952339327661
+- 2026-11-16 22:03 | jil-2026-11-16-vergonha-em-publico | jesusislove | yt KRk4-JjnwJM
