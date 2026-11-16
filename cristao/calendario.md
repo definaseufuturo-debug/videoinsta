@@ -233,7 +233,7 @@ Visual fixo: fundo preto, bonequinhos brancos com brilho, UM elemento vermelho s
 - [x] As 12 tribos: onde cada uma ficou na terra prometida (Js 13–19) — 05/11
 - [x] Davi e Golias: o vale de Elá no mapa (1Sm 17) — 09/11
 - [x] Elias: do monte Carmelo ao Horebe, 40 dias de caminhada (1Rs 18–19) — 12/11
-- [ ] Jonas: Nínive para um lado, Társis para o outro (Jn 1–3)
+- [x] Jonas: Nínive para um lado, Társis para o outro (Jn 1–3) — 16/11 ("cristao-2026-11-16-jonas-mapa")
 - [ ] O exílio: de Jerusalém à Babilônia (2Rs 24–25)
 - [ ] A volta do exílio e os muros de Neemias em 52 dias (Ed 1; Ne 6:15)
 - [ ] O caminho de Abraão: de Ur até Canaã (Gn 11–12)
