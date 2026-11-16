@@ -188,3 +188,4 @@
 - 2026-11-16 00:22 | cristao-2026-11-16-parecer-cristao | cristao | ok 18119466368470170 (postado a pedido, antecipado das 07:00)
 - 2026-11-16 00:23 | 2026-11-16-rotas-maritimas | produção B3 | na fila 2026-11-16T19:00 (geopolítica, voz jovem Fish, 46,5 s) | obs: Ormuz em guerra desde fev/2026; vídeo usa só dados de agências com data (UKMTO via ONU 13/11)
 - 2026-11-16 02:05 | produção Tarefa E (cristao) | IG 07:00 já coberto (cristao-2026-11-16-parecer-cristao, postado a pedido às 00:22; nada produzido para não postar 2x no horário) · YT 12:00 ok jil-2026-11-16-compara-encoraja (pôster escuro, Ef 4:29) · YT 19:00 ok jil-2026-11-16-vergonha-em-publico (pôster escuro, Pv 15:1) · IG 19:00 ok cristao-2026-11-16-jonas-mapa (mapa Jonas 1-4, voz Fish 4, 66 s + CTA)
+- 2026-11-16 09:54 | nada nas filas (cristao e jesusislove)
