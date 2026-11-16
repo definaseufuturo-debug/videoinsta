@@ -37,7 +37,7 @@
 
 ### Fila 1: GEOPOLÍTICA E CONFLITOS (seg)
 - [x] Por que Taiwan é tão importante para o mundo? (chips, estreito, rotas)
-- [ ] Quem controla as principais rotas marítimas? (Malaca, Ormuz, Suez, Panamá)
+- [x] Quem controla as principais rotas marítimas? (Malaca, Ormuz, Suez, Panamá)
 - [ ] As principais alianças militares do mundo (OTAN e outras, no mapa)
 - [ ] Como a OTAN mudou o mapa da Europa (expansão por ano)
 - [ ] A disputa entre China e Estados Unidos (comércio, tecnologia, Pacífico)

@@ -1,0 +1,23 @@
+{
+  "voice": "pm_alex",
+  "speed": 1.12,
+  "lang": "pt-br",
+  "_comment": "Geopolítica (seg): quem controla as principais rotas marítimas. Fontes: Malaca ~22% do comércio marítimo mundial (CSIS, via Reuters 23/04/2026; WION 2026), ponto mais estreito ~2,7 km no canal Phillips, estreito de Singapura (Reuters 2026; AM Nautical), mais de 102,5 mil navios em 2025 (Departamento Marítimo da Malásia, via Reuters), costas de Malásia, Indonésia e Singapura (Tailândia no extremo norte). Ormuz: ~20 milhões de barris/dia em 2024, cerca de 20% do consumo mundial de petróleo (EIA, jun/2025; IEA), entre Irã e Omã. Tráfego em Ormuz ~65% abaixo do nível pré-conflito (UKMTO, citado pela ONU News 13/11/2026 e Gulf News 10/11/2026); guerra desde 28/02/2026 (ONU News; Al Jazeera). Suez: 12 a 15% do comércio mundial (Atlantic Council 2025; Rodrigue/Notteboom PEMP ~15%), administrado pelo Egito (Autoridade do Canal de Suez, nacionalizado em 1956). Panamá: ~5% do comércio marítimo (PEMP; First Citizens 2025), do Panamá desde 1999. Passagem em trânsito nos estreitos garantida pela Convenção da ONU sobre o Direito do Mar, 1982 (Parte III). Tom neutro: sem lado, sem vítimas.",
+  "say": {},
+  "fish": {
+    "voice": "b1cab1f57b8d41aeb225d7d8bafc0806",
+    "speed": 1.15,
+    "model": "s2.1-pro-free"
+  },
+  "clips": [
+    { "id": "c1", "scene": 1, "minStart": 0.3, "gapAfterPrev": 0, "text": "Um corredor de menos de três quilômetros carrega um quinto do comércio marítimo do mundo. Quem controla essas rotas?" },
+    { "id": "c2", "scene": 2, "minStart": 0, "gapAfterPrev": 0.4, "text": "É o estreito de Malaca, entre Malásia, Indonésia e Singapura. Mais de cem mil navios passaram por ali em dois mil e vinte e cinco." },
+    { "id": "c3", "scene": 3, "minStart": 0, "gapAfterPrev": 0.4, "text": "Já pelo estreito de Ormuz, entre o Irã e Omã, passava cerca de vinte por cento do petróleo consumido no planeta." },
+    { "id": "c4", "scene": 4, "minStart": 0, "gapAfterPrev": 0.4, "text": "Com a guerra na região desde fevereiro, o tráfego ali está uns sessenta e cinco por cento abaixo do normal." },
+    { "id": "c5", "scene": 5, "minStart": 0, "gapAfterPrev": 0.4, "text": "Os canais têm dono. Suez é do Egito e leva até quinze por cento do comércio mundial. O do Panamá, uns cinco por cento." },
+    { "id": "c6", "scene": 6, "minStart": 0, "gapAfterPrev": 0.4, "text": "Nos estreitos, a lei do mar garante a passagem dos navios. Mas quando um deles trava, o preço sobe no mundo inteiro." },
+    { "id": "c7", "scene": 7, "minStart": 0, "gapAfterPrev": 0.45, "text": "Qual rota é a mais importante? Comenta. Amanhã: as fronteiras mais estranhas do mundo, segue pra não perder." }
+  ],
+  "tailAfterLastClip": 2.3,
+  "keywords": []
+}
