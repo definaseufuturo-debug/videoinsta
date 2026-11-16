@@ -1,0 +1,53 @@
+{
+  "status": "pendente",
+  "voice": "a0a26a57cac94ea4918f05a2393b4259",
+  "speed": 1.12,
+  "model": "s2.1-pro-free",
+  "language": "pt",
+  "clips": [
+    {
+      "id": "c1",
+      "text": "Deus mandou Jonas para o leste. Ele comprou passagem para quase quatro mil quilômetros na direção contrária."
+    },
+    {
+      "id": "c2",
+      "text": "Jonas, capítulo um. A ordem era clara: vá a Nínive, a grande cidade da Assíria, a inimiga de Israel."
+    },
+    {
+      "id": "c3",
+      "text": "Mas Jonas desce até Jope, no litoral, acha um navio para Társis, paga a passagem e embarca."
+    },
+    {
+      "id": "c4",
+      "text": "Nínive ficava uns novecentos quilômetros a leste. Társis, no extremo oeste, provavelmente na Espanha. Ele foi para o lado oposto."
+    },
+    {
+      "id": "c5",
+      "text": "No mar, vem uma tempestade tão forte que o navio quase se parte. Os marinheiros jogam a carga no mar. E Jonas? Dormindo no porão."
+    },
+    {
+      "id": "c6",
+      "text": "Eles lançam sortes, e a sorte cai em Jonas. Ele mesmo diz: me joguem no mar. E o mar se acalma."
+    },
+    {
+      "id": "c7",
+      "text": "Um grande peixe o engole. Três dias e três noites lá dentro. Depois, o peixe o vomita em terra firme."
+    },
+    {
+      "id": "c8",
+      "text": "Segunda chance. Agora ele vai a Nínive, uma cidade de três dias de caminhada, com uma mensagem de uma frase só: ainda quarenta dias, e Nínive será destruída."
+    },
+    {
+      "id": "c9",
+      "text": "E vem a reviravolta. A cidade inteira se arrepende, do maior ao menor, até o rei, com jejum e pano de saco. E Deus poupa a cidade."
+    },
+    {
+      "id": "c10",
+      "text": "O mais chocante? Jonas fica com raiva. E Deus responde: como não ter compaixão de mais de cento e vinte mil pessoas?"
+    },
+    {
+      "id": "c11",
+      "text": "Você já fugiu de algo que Deus te pediu? Comenta eu já. E segue, porque a próxima parte é o exílio: de Jerusalém à Babilônia."
+    }
+  ]
+}
