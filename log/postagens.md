@@ -185,3 +185,4 @@
 - 2026-11-15 21:55 | cristao-2026-11-15-quiz-dificil | cristao | ok 18156233740549540
 - 2026-11-15 21:59 | jil-2026-11-15-desculpa-pra-crianca | jesusislove | yt hx-HtLlhRys
 - 2026-11-15 20:00 | 2026-11-14-imperio-romano | agendado | ok 18131804471497710 | yt N06HW6OQ4lY (descrição do YT saiu só com #Shorts: legenda vazia por falha minha no arquivo temporário)
+- 2026-11-16 00:22 | cristao-2026-11-16-parecer-cristao | cristao | ok 18119466368470170 (postado a pedido, antecipado das 07:00)
