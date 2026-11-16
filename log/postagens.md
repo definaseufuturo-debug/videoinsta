@@ -191,3 +191,4 @@
 - 2026-11-16 09:54 | nada nas filas (cristao e jesusislove)
 - 2026-11-16 11:58 | cristao | nada na fila (Instagram)
 - 2026-11-16 11:58 | jil-2026-11-16-compara-encoraja | jesusislove | yt taMaW7SG7Y0
+- 2026-11-16 21:55 | 2026-11-15-canal-panama | agendado | ok 18073873073496293 | yt k8tNwHrBG0Y
