@@ -47,7 +47,7 @@
 
 ### Fila 2: CURIOSIDADES GEOGRÁFICAS (ter)
 - [x] Países sem acesso ao mar
-- [ ] As fronteiras mais estranhas do mundo
+- [x] As fronteiras mais estranhas do mundo
 - [ ] Países dentro de outros países
 - [ ] Os menores países do planeta
 - [ ] Os lugares mais isolados do planeta

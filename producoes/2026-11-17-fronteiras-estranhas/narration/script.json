@@ -1,0 +1,22 @@
+{
+  "voice": "pm_alex",
+  "speed": 1.12,
+  "lang": "pt-br",
+  "_comment": "Curiosidades geográficas (ter): as fronteiras mais estranhas do mundo. Fontes: Ilha dos Faisões (rio Bidassoa), condomínio França-Espanha desde o Tratado dos Pireneus (1659); Espanha de 1º/fev a 31/jul, França de 1º/ago a 31/jan (Wikipedia 'Pheasant Island'; The Local France 22/05/2023; Idealista 21/05/2025). Baarle: 22 enclaves belgas (Baarle-Hertog) dentro dos Países Baixos e 7 contraenclaves neerlandeses dentro deles; casas cortadas pela fronteira pertencem ao país onde fica a porta da frente (Wikipedia 'Baarle-Hertog'; Wanderlust; Expatica). Ilhas Diomedes no estreito de Bering: Grande Diomedes (Rússia) e Pequena Diomedes (EUA) a ~3,8 km, separadas pela Linha Internacional de Data; 21 h de diferença de fuso (20 h no horário de verão dos EUA) (Wikipedia 'Diomede Islands'; Geography Realm; Far Out Magazine). Bir Tawil: ~2.060 km² entre Egito e Sudão, não reivindicado por nenhum dos dois, porque aceitar a fronteira que dá Bir Tawil significaria abrir mão do Triângulo de Halaib (~20.580 km², reivindicado pelos dois e administrado pelo Egito) (Wikipedia 'Bir Tawil' e 'Halaib Triangle'; WorldAtlas). Tom neutro: sem lado na disputa Egito-Sudão. Contornos dos enclaves e de Bir Tawil/Halaib desenhados de forma esquemática.",
+  "say": {},
+  "fish": {
+    "voice": "c9d3da0bdf61417d929dc67966e4befe",
+    "speed": 1.15,
+    "model": "s2.1-pro-free"
+  },
+  "clips": [
+    { "id": "c1", "scene": 1, "minStart": 0.3, "gapAfterPrev": 0, "text": "Uma ilha muda de país a cada seis meses. E ela nem é a fronteira mais estranha do mundo." },
+    { "id": "c2", "scene": 2, "minStart": 0, "gapAfterPrev": 0.4, "text": "É a Ilha dos Faisões, entre França e Espanha: meio ano de cada lado, desde mil seiscentos e cinquenta e nove." },
+    { "id": "c3", "scene": 3, "minStart": 0, "gapAfterPrev": 0.4, "text": "Em Baarle, a Bélgica tem vinte e dois pedaços dentro dos Países Baixos. Nas casas cortadas ao meio, vale a porta da frente." },
+    { "id": "c4", "scene": 4, "minStart": 0, "gapAfterPrev": 0.4, "text": "No estreito de Bering, uma ilha russa e uma americana ficam a menos de quatro quilômetros, mas com vinte e uma horas de diferença." },
+    { "id": "c5", "scene": 5, "minStart": 0, "gapAfterPrev": 0.4, "text": "E Bir Tawil, entre Egito e Sudão, nenhum dos dois reivindica: quem aceitar abre mão de uma área dez vezes maior ao lado." },
+    { "id": "c6", "scene": 6, "minStart": 0, "gapAfterPrev": 0.45, "text": "Qual é a mais estranha? Comenta. Amanhã: as dez maiores economias do mundo, segue pra não perder." }
+  ],
+  "tailAfterLastClip": 2.3,
+  "keywords": []
+}

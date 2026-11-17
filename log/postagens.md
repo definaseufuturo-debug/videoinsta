@@ -194,3 +194,4 @@
 - 2026-11-16 21:55 | 2026-11-15-canal-panama | agendado | ok 18073873073496293 | yt k8tNwHrBG0Y
 - 2026-11-16 21:58 | cristao-2026-11-16-jonas-mapa | cristao | ok 18121952339327661
 - 2026-11-16 22:03 | jil-2026-11-16-vergonha-em-publico | jesusislove | yt KRk4-JjnwJM
+- 2026-11-17 00:24 | 2026-11-17-fronteiras-estranhas | produção B3 | na fila 2026-11-17T19:00 (curiosidades geográficas, voz masculina Fish, 44 s + CTA) | obs: fila tem 2026-11-16-rotas-maritimas ainda pendente (horário de ontem 19:00 não postado)
