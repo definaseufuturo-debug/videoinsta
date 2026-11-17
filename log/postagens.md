@@ -200,3 +200,4 @@
 - 2026-11-17 09:57 | jesusislove | nada na fila (YouTube)
 - 2026-11-17 14:55 | cristao | nada na fila
 - 2026-11-17 14:55 | jil-2026-11-17-engole-o-choro | jesusislove | yt p04ex7a66ro
+- 2026-11-17 21:55 | 2026-11-16-rotas-maritimas | agendado | ok 18249905017312415 | yt vsuFHJ6nB8w
