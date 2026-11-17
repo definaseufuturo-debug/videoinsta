@@ -1,0 +1,25 @@
+{
+  "voice": "pm_alex",
+  "speed": 1.1,
+  "lang": "pt-br",
+  "_comment": "História que surpreende (07:00): Daniel na cova dos leões, Daniel 6 (ARA). 6:1-2 (Dario constituiu 120 sátrapas e, sobre eles, três presidentes, dos quais Daniel era um); 6:3 (o rei pensava constituí-lo sobre todo o reino); 6:4-5 (procuravam ocasião contra ele e não acharam culpa; só na lei do seu Deus); 6:7 (decreto: por 30 dias, quem fizer petição a qualquer deus ou homem, senão ao rei, será lançado na cova dos leões); 6:8,12,15 (lei dos medos e persas, que não se pode revogar); 6:10 ('com as janelas abertas do lado de Jerusalém, três vezes por dia se punha de joelhos, e orava, e dava graças, diante do seu Deus, como costumava fazer'); 6:14 (o rei se empenhou até o pôr do sol para livrá-lo); 6:16-17 (lançado na cova; pedra na boca da cova, selada com o anel do rei); 6:18 (o rei passou a noite em jejum, sem dormir); 6:19-20 (pela manhã cedo foi à cova, chamou com voz triste); 6:22 ('O meu Deus enviou o seu anjo e fechou a boca aos leões'); 6:23 (nenhum dano se achou nele, porque crera no seu Deus); 6:24 (os acusadores foram lançados na mesma cova); 6:26 (decreto do rei: todos tremam diante do Deus de Daniel). Idade: Daniel foi levado jovem a Babilônia em 605 a.C. (Dn 1:1-6) e o episódio se passa depois da queda de Babilônia (539 a.C., Dn 5:30-31), por isso ele tinha cerca de 80 anos (estimativa comum: ucg.org 'Daniel and Darius the Mede'; Wikipedia 'Daniel in the lions den'). Texto conferido também em bibliaonline.com.br.",
+  "say": {},
+  "fish": { "voice": "a0a26a57cac94ea4918f05a2393b4259", "speed": 1.1, "model": "s2.1-pro-free" },
+  "accent": [],
+  "clips": [
+    { "id": "c1", "scene": 1, "minStart": 0.3, "gapAfterPrev": 0, "text": "Daniel tinha uns oitenta anos quando foi jogado na cova dos leões. E o crime dele foi orar." },
+    { "id": "c2", "scene": 2, "minStart": 0, "gapAfterPrev": 0.5, "text": "O rei Dario tinha cento e vinte governadores e três chefes acima deles. Daniel era um dos três, e o rei queria colocá-lo sobre o reino inteiro." },
+    { "id": "c3", "scene": 3, "minStart": 0, "gapAfterPrev": 0.5, "text": "Os outros ficaram com inveja. Procuraram um erro na vida dele, e não acharam nenhum." },
+    { "id": "c4", "scene": 4, "minStart": 0, "gapAfterPrev": 0.5, "text": "Então armaram uma lei: por trinta dias, ninguém podia pedir nada a nenhum deus, só ao rei. Quem desobedecesse, ia para os leões." },
+    { "id": "c5", "scene": 5, "minStart": 0, "gapAfterPrev": 0.5, "text": "E era uma lei dos medos e persas: depois de assinada, nem o próprio rei podia mudar." },
+    { "id": "c6", "scene": 6, "minStart": 0, "gapAfterPrev": 0.5, "text": "Daniel soube. Foi para casa, abriu a janela na direção de Jerusalém, e orou três vezes por dia, como sempre fazia." },
+    { "id": "c7", "scene": 7, "minStart": 0, "gapAfterPrev": 0.5, "text": "O rei tentou salvá-lo até o pôr do sol, e não conseguiu. Daniel foi lançado na cova, e uma pedra selada fechou a entrada." },
+    { "id": "c8", "scene": 8, "minStart": 0, "gapAfterPrev": 0.5, "text": "A surpresa: quem não dormiu naquela noite foi o rei. Ficou em jejum, e de madrugada correu até a cova." },
+    { "id": "c9", "scene": 9, "minStart": 0, "gapAfterPrev": 0.5, "text": "E lá de baixo Daniel respondeu: o meu Deus enviou o seu anjo, e fechou a boca dos leões. Nenhum arranhão." },
+    { "id": "c10", "scene": 10, "minStart": 0, "gapAfterPrev": 0.5, "text": "A armadilha voltou contra quem armou. E o rei mandou o império inteiro respeitar o Deus de Daniel." },
+    { "id": "c11", "scene": 11, "minStart": 0, "gapAfterPrev": 0.5, "text": "Daniel não orou para ser visto. Ele só não parou. Daniel seis, versículo dez." },
+    { "id": "c12", "scene": 12, "minStart": 0, "gapAfterPrev": 0.5, "text": "Você sabia que ele tinha oitenta anos? Comenta eu sabia ou não sabia. E segue, porque amanhã tem os muros de Jericó." }
+  ],
+  "tailAfterLastClip": 2.3,
+  "keywords": []
+}
