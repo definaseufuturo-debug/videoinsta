@@ -195,3 +195,4 @@
 - 2026-11-16 21:58 | cristao-2026-11-16-jonas-mapa | cristao | ok 18121952339327661
 - 2026-11-16 22:03 | jil-2026-11-16-vergonha-em-publico | jesusislove | yt KRk4-JjnwJM
 - 2026-11-17 00:24 | 2026-11-17-fronteiras-estranhas | produção B3 | na fila 2026-11-17T19:00 (curiosidades geográficas, voz masculina Fish, 44 s + CTA) | obs: fila tem 2026-11-16-rotas-maritimas ainda pendente (horário de ontem 19:00 não postado)
+- 2026-11-17 02:00 | produção Tarefa E (cristao) | IG 07:00 ok cristao-2026-11-17-daniel-leoes (história que surpreende, Dn 6, texto cinético, voz Fish 4, 66 s + CTA; segue o calendário: devocional/Palavra da Manhã suspenso desde 11/11) · YT 12:00 ok jil-2026-11-17-engole-o-choro (pôster escuro, Ec 3:4) · YT 19:00 ok jil-2026-11-17-mae-que-ninguem-ve (pôster escuro, Pv 31:28) · IG 19:00 ok cristao-2026-11-17-sansao (personagem, Jz 13-16, texto cinético, voz Fish 4, 66 s + CTA; Gideão pulado porque já foi história em 12/11)
