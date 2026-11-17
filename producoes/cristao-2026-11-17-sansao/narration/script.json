@@ -1,0 +1,101 @@
+{
+  "voice": "pm_alex",
+  "speed": 1.1,
+  "lang": "pt-br",
+  "_comment": "Personagem bíblico (ter 19:00): Sansão, Juízes 13-16 (ARA). 13:5 (nazireu desde o ventre; navalha não passará sobre a sua cabeça); 14:5-6 (despedaçou um leão novo sem ter nada na mão); 15:4-5 (trezentas raposas com tochas nos campos dos filisteus); 15:15 (com uma queixada de jumento matou mil homens); 16:3 (arrancou as portas da cidade de Gaza com as ombreiras e levou ao alto do monte); 16:5 (cada príncipe dos filisteus daria a Dalila mil e cem siclos de prata); 16:6-15 (três vezes ele mentiu); 16:17 (contou todo o coração: navalha nunca subiu à cabeça); 16:19 (raspadas as sete tranças); 16:21 (vazaram-lhe os olhos, levaram a Gaza, virava um moinho no cárcere); 16:22 (o cabelo começou a crescer); 16:27 (no templo de Dagom, sobre o teto, uns três mil homens e mulheres); 16:28 ('Senhor Deus, peço-te que te lembres de mim, e dá-me força só esta vez'); 16:30 (foram mais os que matou na sua morte do que os que matara na sua vida); 16:31 (julgou Israel vinte anos). Texto ARA conferido também em bibliaonline.com.br (Jz 16) e churchofjesuschrist.org (Jz 16, por).",
+  "say": {},
+  "fish": {
+    "voice": "a0a26a57cac94ea4918f05a2393b4259",
+    "speed": 1.1,
+    "model": "s2.1-pro-free"
+  },
+  "accent": [],
+  "clips": [
+    {
+      "id": "c1",
+      "scene": 1,
+      "minStart": 0.3,
+      "gapAfterPrev": 0,
+      "text": "O homem mais forte da Bíblia perdeu tudo por causa de um segredo. E a última oração dele foi a mais forte de todas."
+    },
+    {
+      "id": "c2",
+      "scene": 2,
+      "minStart": 0,
+      "gapAfterPrev": 0.5,
+      "text": "Sansão nasceu consagrado a Deus. Uma regra: navalha nenhuma podia passar na cabeça dele."
+    },
+    {
+      "id": "c3",
+      "scene": 3,
+      "minStart": 0,
+      "gapAfterPrev": 0.5,
+      "text": "Ele rasgou um leão com as mãos vazias. Soltou trezentas raposas com tochas nos campos dos filisteus."
+    },
+    {
+      "id": "c4",
+      "scene": 4,
+      "minStart": 0,
+      "gapAfterPrev": 0.5,
+      "text": "Com uma queixada de jumento venceu mil homens. E arrancou os portões da cidade de Gaza e levou nas costas até o alto do monte."
+    },
+    {
+      "id": "c5",
+      "scene": 5,
+      "minStart": 0,
+      "gapAfterPrev": 0.5,
+      "text": "Mas ele se apaixonou por Dalila. Cada chefe filisteu ofereceu a ela mil e cem moedas de prata para descobrir o segredo."
+    },
+    {
+      "id": "c6",
+      "scene": 6,
+      "minStart": 0,
+      "gapAfterPrev": 0.5,
+      "text": "Três vezes ele mentiu. Na quarta, contou tudo. Enquanto dormia, cortaram as sete tranças."
+    },
+    {
+      "id": "c7",
+      "scene": 7,
+      "minStart": 0,
+      "gapAfterPrev": 0.5,
+      "text": "Os filisteus tiraram os olhos dele, e o homem mais forte de Israel virou escravo, girando um moinho na prisão de Gaza."
+    },
+    {
+      "id": "c8",
+      "scene": 8,
+      "minStart": 0,
+      "gapAfterPrev": 0.5,
+      "text": "Mas um detalhe do texto muda tudo: o cabelo começou a crescer de novo."
+    },
+    {
+      "id": "c9",
+      "scene": 9,
+      "minStart": 0,
+      "gapAfterPrev": 0.5,
+      "text": "Numa festa no templo de Dagom, com uns três mil só no telhado, ele orou: lembra de mim, Senhor, e me dá força só esta vez."
+    },
+    {
+      "id": "c10",
+      "scene": 10,
+      "minStart": 0,
+      "gapAfterPrev": 0.5,
+      "text": "Ele empurrou as duas colunas, e o templo caiu. Juízes dezesseis, trinta. Na morte, ele venceu mais do que em toda a vida."
+    },
+    {
+      "id": "c11",
+      "scene": 11,
+      "minStart": 0,
+      "gapAfterPrev": 0.5,
+      "text": "A lição de Sansão: a força dele nunca esteve no cabelo. Estava em Deus, e Deus ouviu quem voltou."
+    },
+    {
+      "id": "c12",
+      "scene": 12,
+      "minStart": 0,
+      "gapAfterPrev": 0.5,
+      "text": "Você já precisou voltar para Deus? Comenta amém. E segue, porque toda terça tem um personagem da Bíblia."
+    }
+  ],
+  "tailAfterLastClip": 2.3,
+  "keywords": []
+}

@@ -47,9 +47,9 @@ Os posts do Instagram **não vão mais para o YouTube**, e os bonequinhos **não
 ## Fila do PERSONAGEM BÍBLICO (ter 19:00, pegue o próximo [ ])
 - [x] Matusalém: o homem que viveu 969 anos (Gn 5:21-27) — 03/11
 - [x] José do Egito: de escravo a governador em 13 anos (Gn 37:2; 41:46) — 10/11
-- [ ] Gideão: Deus mandou mandar embora 31.700 soldados e lutar com 300 (Jz 7)
+- [x] Gideão: Deus mandou mandar embora 31.700 soldados e lutar com 300 (Jz 7) — pulado em 17/11: já contado como história em 12/11 ("cristao-2026-11-12-gideao")
 - [ ] Ester: a órfã que virou rainha e salvou o seu povo (Et 2; 4:14)
-- [ ] Sansão: a força, a traição e a última oração (Jz 16)
+- [x] Sansão: a força, a traição e a última oração (Jz 16) — 17/11 ("cristao-2026-11-17-sansao", ter 19:00; Ester fica para a próxima terça)
 - [ ] Pedro: negou 3 vezes e foi perguntado 3 vezes "tu me amas?" (Lc 22:61; Jo 21:15-17)
 - [ ] Rute: a estrangeira que virou bisavó do rei Davi (Rt 1:16; 4:17)
 - [ ] Daniel: orou 3 vezes por dia mesmo com a lei proibindo (Dn 6:10)
