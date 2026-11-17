@@ -1,0 +1,33 @@
+{
+  "status": "pendente",
+  "voice": "c9d3da0bdf61417d929dc67966e4befe",
+  "speed": 1.15,
+  "model": "s2.1-pro-free",
+  "language": "pt",
+  "clips": [
+    {
+      "id": "c1",
+      "text": "Uma ilha muda de país a cada seis meses. E ela nem é a fronteira mais estranha do mundo."
+    },
+    {
+      "id": "c2",
+      "text": "É a Ilha dos Faisões, entre França e Espanha: meio ano de cada lado, desde mil seiscentos e cinquenta e nove."
+    },
+    {
+      "id": "c3",
+      "text": "Em Baarle, a Bélgica tem vinte e dois pedaços dentro dos Países Baixos. Nas casas cortadas ao meio, vale a porta da frente."
+    },
+    {
+      "id": "c4",
+      "text": "No estreito de Bering, uma ilha russa e uma americana ficam a menos de quatro quilômetros, mas com vinte e uma horas de diferença."
+    },
+    {
+      "id": "c5",
+      "text": "E Bir Tawil, entre Egito e Sudão, nenhum dos dois reivindica: quem aceitar abre mão de uma área dez vezes maior ao lado."
+    },
+    {
+      "id": "c6",
+      "text": "Qual é a mais estranha? Comenta. Amanhã: as dez maiores economias do mundo, segue pra não perder."
+    }
+  ]
+}
