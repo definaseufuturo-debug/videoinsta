@@ -198,3 +198,5 @@
 - 2026-11-17 02:00 | produção Tarefa E (cristao) | IG 07:00 ok cristao-2026-11-17-daniel-leoes (história que surpreende, Dn 6, texto cinético, voz Fish 4, 66 s + CTA; segue o calendário: devocional/Palavra da Manhã suspenso desde 11/11) · YT 12:00 ok jil-2026-11-17-engole-o-choro (pôster escuro, Ec 3:4) · YT 19:00 ok jil-2026-11-17-mae-que-ninguem-ve (pôster escuro, Pv 31:28) · IG 19:00 ok cristao-2026-11-17-sansao (personagem, Jz 13-16, texto cinético, voz Fish 4, 66 s + CTA; Gideão pulado porque já foi história em 12/11)
 - 2026-11-17 09:57 | cristao-2026-11-17-daniel-leoes | cristao | ok 18141185098592022
 - 2026-11-17 09:57 | jesusislove | nada na fila (YouTube)
+- 2026-11-17 14:55 | cristao | nada na fila
+- 2026-11-17 14:55 | jil-2026-11-17-engole-o-choro | jesusislove | yt p04ex7a66ro
