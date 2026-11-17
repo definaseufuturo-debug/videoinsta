@@ -274,7 +274,7 @@ Estilo do modelo producoes/jil-2026-11-11-leite-derramado/ (fundo preto, holofot
 - [x] O pai que pede desculpa: "eu não peço desculpa pra criança" × o que se abaixa e pede; 20 anos depois o filho pede ao neto (Tg 5:16) — 15/11 ("jil-2026-11-15-desculpa-pra-crianca", YT 19:00)
 - [x] Compara × encoraja: "por que você não é igual ao seu irmão?" × "eu vi o seu esforço" (Ef 4:29) — 16/11 ("jil-2026-11-16-compara-encoraja", YT 12:00)
 - [x] Elogio em público, correção em particular: "olha a vergonha que você me fez passar!" na frente dos amigos × conversa no carro (Pv 15:1) — 16/11 ("jil-2026-11-16-vergonha-em-publico", YT 19:00)
-- [ ] A mãe que ninguém vê: o dia inteiro dela acelerado, e um "obrigado, mãe" no fim (Pv 31:28)
+- [x] A mãe que ninguém vê: o dia inteiro dela acelerado, e um "obrigado, mãe" no fim (Pv 31:28) — 17/11 ("jil-2026-11-17-mae-que-ninguem-ve", YT 19:00; cesto de roupa, mãe pede ajuda e o filho no celular)
 - [x] "Engole o choro!" × "pode chorar, eu tô aqui": 20 anos depois, um adulto que não chora × um que abraça (Ec 3:4) — 17/11 ("jil-2026-11-17-engole-o-choro", YT 12:00)
 - [ ] "Vai brincar lá fora, tô ocupado" × "me mostra o seu desenho": anos depois o filho responde "tô ocupado" no telefone (Pv 23:26)
 - [ ] O boletim vermelho: pai que rasga × pai que senta e estuda junto (Cl 3:21)
