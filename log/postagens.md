@@ -204,3 +204,4 @@
 - 2026-11-17 21:55 | cristao-2026-11-17-sansao | cristao | ok 18037677560892858
 - 2026-11-17 21:57 | jil-2026-11-17-mae-que-ninguem-ve | jesusislove | yt 1tq3xBXosjo
 - 2026-11-18 00:24 | produção Tarefa B3 | 2026-11-18-maiores-economias (economia, 10 maiores economias FMI WEO out/2026, voz Fish jovem, 38 s + CTA) agendado 19:00
+- 2026-11-18 02:01 | produção Tarefa E (cristao) | IG 07:00 ok cristao-2026-11-18-jerico (história que surpreende, Js 6 + 1Rs 16:34, texto cinético, voz Fish 4, 66 s + CTA; segue o calendário: Palavra da Manhã/devocional suspenso desde 11/11) · YT 12:00 ok jil-2026-11-18-to-ocupado (pôster escuro, Pv 23:26) · YT 19:00 ok jil-2026-11-18-boletim-vermelho (pôster escuro, Cl 3:21) · IG 19:00 ok cristao-2026-11-18-nao-morreram (curiosidades: Enoque e Elias, texto cinético, voz Fish 4, 53 s + CTA)
