@@ -5,6 +5,18 @@
   "volume": 0.15,
   "variacoes": [
    {
+    "arquivo": "amb_casa-4.wav",
+    "pico": 3.327,
+    "duracao": 12.0,
+    "titulo": "CFX-20130329-UK-DorsetRoomTone01.wav (sem a voz: corte a partir de 2,6 s, em loop)",
+    "autor": "Carlvus",
+    "pagina": "https://freesound.org/people/Carlvus/sounds/182600",
+    "licenca": "CC0",
+    "id": "3cd82cce-204a-4127-98b9-0ae1ecf6e183"
+   }
+  ],
+  "descartados": [
+   {
     "arquivo": "amb_casa-3.wav",
     "pico": 0.895,
     "duracao": 12.0,
@@ -12,10 +24,10 @@
     "autor": "Carlvus",
     "pagina": "https://freesound.org/people/Carlvus/sounds/182600",
     "licenca": "CC0",
-    "id": "3cd82cce-204a-4127-98b9-0ae1ecf6e183"
+    "id": "3cd82cce-204a-4127-98b9-0ae1ecf6e183",
+    "motivo": "voz no começo (\"this is room tone, take one\") — retirado em 18/11/2026"
    }
-  ],
-  "descartados": []
+  ]
  },
  "amb_chuva": {
   "busca": "rain",
