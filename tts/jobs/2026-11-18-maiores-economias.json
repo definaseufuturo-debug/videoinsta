@@ -1,0 +1,37 @@
+{
+  "status": "pendente",
+  "voice": "b1cab1f57b8d41aeb225d7d8bafc0806",
+  "speed": 1.15,
+  "model": "s2.1-pro-free",
+  "language": "pt",
+  "clips": [
+    {
+      "id": "c1",
+      "text": "Trinta e dois trilhões de dólares. Esse é o tamanho da maior economia do planeta. Quem são as dez maiores?"
+    },
+    {
+      "id": "c2",
+      "text": "Pelo FMI, em dois mil e vinte e seis, os Estados Unidos lideram. A China vem em segundo, com vinte e um trilhões e meio."
+    },
+    {
+      "id": "c3",
+      "text": "Bem atrás, aparecem Alemanha, Japão, Reino Unido e Índia."
+    },
+    {
+      "id": "c4",
+      "text": "E fecham o top dez: França, Rússia, Itália e o Brasil, em décimo lugar."
+    },
+    {
+      "id": "c5",
+      "text": "Só Estados Unidos e China, juntos, valem quase o dobro dos outros oito somados."
+    },
+    {
+      "id": "c6",
+      "text": "E a projeção para dois mil e vinte e sete põe o Brasil em oitavo, à frente de Itália e Rússia."
+    },
+    {
+      "id": "c7",
+      "text": "Alguma posição te surpreendeu? Comenta aí. Amanhã: os países que têm armas nucleares, segue pra não perder."
+    }
+  ]
+}
