@@ -210,3 +210,5 @@
 - 2026-11-18 14:55 | jil-2026-11-18-to-ocupado | jesusislove | yt czX6Y9cfdec
 - 2026-11-18 14:55 | cristao | nada na fila do Instagram
 - 2026-11-18 21:54 | 2026-11-17-fronteiras-estranhas | agendado | ok 18102164210425886 | yt L--oJwnqSh0 (descrição só #Shorts)
+- 2026-11-18 18:55 | cristao-2026-11-18-nao-morreram | cristao | ok 18404976040205170
+- 2026-11-18 18:58 | jil-2026-11-18-boletim-vermelho | jesusislove | yt GI6_fQOmaZM
