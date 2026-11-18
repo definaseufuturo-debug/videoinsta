@@ -1,0 +1,53 @@
+{
+  "status": "pendente",
+  "voice": "a0a26a57cac94ea4918f05a2393b4259",
+  "speed": 1.1,
+  "model": "s2.1-pro-free",
+  "language": "pt",
+  "clips": [
+    {
+      "id": "c1",
+      "text": "Na Bíblia, só dois homens não morreram. Você sabe quem são?"
+    },
+    {
+      "id": "c2",
+      "text": "O primeiro é Enoque, o sétimo homem depois de Adão. Ele viveu trezentos e sessenta e cinco anos."
+    },
+    {
+      "id": "c3",
+      "text": "E a Bíblia resume a vida dele em uma frase: andou Enoque com Deus, e já não era, porque Deus o tomou para si."
+    },
+    {
+      "id": "c4",
+      "text": "Hebreus confirma: ele foi levado para não ver a morte, e ninguém achou o corpo."
+    },
+    {
+      "id": "c5",
+      "text": "E olha que curioso: o filho de Enoque foi Matusalém, o homem que mais viveu na Bíblia. Novecentos e sessenta e nove anos."
+    },
+    {
+      "id": "c6",
+      "text": "O segundo é o profeta Elias. Ele estava andando e conversando com Eliseu, quando um carro de fogo, com cavalos de fogo, passou entre os dois."
+    },
+    {
+      "id": "c7",
+      "text": "E Elias subiu ao céu num redemoinho. Segundo Reis dois, versículo onze."
+    },
+    {
+      "id": "c8",
+      "text": "Cinquenta homens procuraram por ele durante três dias. Nunca acharam."
+    },
+    {
+      "id": "c9",
+      "text": "E séculos depois, Elias aparece de novo, no monte, conversando com Jesus e Moisés."
+    },
+    {
+      "id": "c10",
+      "text": "Dois homens, uma coisa em comum: os dois andavam perto de Deus todos os dias."
+    },
+    {
+      "id": "c11",
+      "text": "Você sabia dos dois? Comenta eu sabia ou não sabia. E segue a gente, porque todo dia tem uma curiosidade da Bíblia."
+    }
+  ]
+}
