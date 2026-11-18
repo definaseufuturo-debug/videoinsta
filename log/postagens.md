@@ -207,3 +207,5 @@
 - 2026-11-18 02:01 | produção Tarefa E (cristao) | IG 07:00 ok cristao-2026-11-18-jerico (história que surpreende, Js 6 + 1Rs 16:34, texto cinético, voz Fish 4, 66 s + CTA; segue o calendário: Palavra da Manhã/devocional suspenso desde 11/11) · YT 12:00 ok jil-2026-11-18-to-ocupado (pôster escuro, Pv 23:26) · YT 19:00 ok jil-2026-11-18-boletim-vermelho (pôster escuro, Cl 3:21) · IG 19:00 ok cristao-2026-11-18-nao-morreram (curiosidades: Enoque e Elias, texto cinético, voz Fish 4, 53 s + CTA)
 - 2026-11-18 09:56 | cristao-2026-11-18-jerico | cristao | ok 17913698427308856
 - 2026-11-18 09:56 | jesusislove | nada na fila (próximo do YouTube vazio)
+- 2026-11-18 14:55 | jil-2026-11-18-to-ocupado | jesusislove | yt czX6Y9cfdec
+- 2026-11-18 14:55 | cristao | nada na fila do Instagram
