@@ -277,7 +277,7 @@ Estilo do modelo producoes/jil-2026-11-11-leite-derramado/ (fundo preto, holofot
 - [x] A mãe que ninguém vê: o dia inteiro dela acelerado, e um "obrigado, mãe" no fim (Pv 31:28) — 17/11 ("jil-2026-11-17-mae-que-ninguem-ve", YT 19:00; cesto de roupa, mãe pede ajuda e o filho no celular)
 - [x] "Engole o choro!" × "pode chorar, eu tô aqui": 20 anos depois, um adulto que não chora × um que abraça (Ec 3:4) — 17/11 ("jil-2026-11-17-engole-o-choro", YT 12:00)
 - [x] "Vai brincar lá fora, tô ocupado" × "me mostra o seu desenho": anos depois o filho responde "tô ocupado" no telefone (Pv 23:26) — 18/11 ("jil-2026-11-18-to-ocupado", YT 12:00; notebook, o pai idoso volta com o mesmo desenho)
-- [ ] O boletim vermelho: pai que rasga × pai que senta e estuda junto (Cl 3:21)
+- [x] O boletim vermelho: pai que rasga × pai que senta e estuda junto (Cl 3:21) — 18/11 ("jil-2026-11-18-boletim-vermelho", YT 19:00; vermelho = a nota 4,5, que vira 8,0 no estudo junto)
 - [ ] "Você não faz nada direito" × "você errou, mas eu confio em você": a frase que vira a voz interior do filho (Pv 18:21)
 - [ ] O pai que ora na beira da cama × o que nunca orou: 30 anos depois, quem o filho chama na crise (Dt 6:6-7)
 - [ ] A mãe que diz "não" e explica × a que diz "sim" pra tudo pra não ter briga: o adolescente aos 16 (Pv 29:15)
