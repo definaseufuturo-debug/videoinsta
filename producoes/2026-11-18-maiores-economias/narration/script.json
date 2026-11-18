@@ -1,0 +1,23 @@
+{
+  "voice": "pf_dora",
+  "speed": 1.12,
+  "lang": "pt-br",
+  "_comment": "Economia mundial (qua): as 10 maiores economias do mundo em 2026, PIB nominal em dólares correntes, estimativas do FMI (World Economic Outlook, outubro de 2026, divulgado em 13/10/2026). Top 10 2026 (US$ tri): 1 EUA 32,642; 2 China 21,546; 3 Alemanha 5,471; 4 Japão 4,342; 5 Reino Unido 4,268; 6 Índia 4,060; 7 França 3,554; 8 Rússia 2,861; 9 Itália 2,702; 10 Brasil 2,655 (Ouviram, 18/10/2026, 'Maiores economias do mundo em 2026: Brasil é o 10º no ranking do FMI'; Worldometers 'PIB por país (2026) - FMI', citando IMF WEO October 2026; Brasil 2,655, Rússia 2,861 e Itália 2,702 também em O Povo 17/10/2026, WSCOM 16/10/2026 e O Liberal 16/10/2026). Projeção 2027: Brasil 8º com ~US$ 2,80 tri, à frente de Itália (2,77) e Rússia (2,68) (Mercado & Consumo 19/10/2026; O Liberal; O Povo). Conta: EUA + China = 54,2 tri; os outros 8 somados = 29,9 tri (quase o dobro). PIB nominal depende do câmbio; é estimativa/projeção. Tom neutro: sem atribuir mérito a governos.",
+  "say": {},
+  "fish": {
+    "voice": "b1cab1f57b8d41aeb225d7d8bafc0806",
+    "speed": 1.15,
+    "model": "s2.1-pro-free"
+  },
+  "clips": [
+    { "id": "c1", "scene": 1, "minStart": 0.3, "gapAfterPrev": 0, "text": "Trinta e dois trilhões de dólares. Esse é o tamanho da maior economia do planeta. Quem são as dez maiores?" },
+    { "id": "c2", "scene": 2, "minStart": 0, "gapAfterPrev": 0.4, "text": "Pelo FMI, em dois mil e vinte e seis, os Estados Unidos lideram. A China vem em segundo, com vinte e um trilhões e meio." },
+    { "id": "c3", "scene": 3, "minStart": 0, "gapAfterPrev": 0.4, "text": "Bem atrás, aparecem Alemanha, Japão, Reino Unido e Índia." },
+    { "id": "c4", "scene": 4, "minStart": 0, "gapAfterPrev": 0.4, "text": "E fecham o top dez: França, Rússia, Itália e o Brasil, em décimo lugar." },
+    { "id": "c5", "scene": 5, "minStart": 0, "gapAfterPrev": 0.45, "text": "Só Estados Unidos e China, juntos, valem quase o dobro dos outros oito somados." },
+    { "id": "c6", "scene": 6, "minStart": 0, "gapAfterPrev": 0.45, "text": "E a projeção para dois mil e vinte e sete põe o Brasil em oitavo, à frente de Itália e Rússia." },
+    { "id": "c7", "scene": 7, "minStart": 0, "gapAfterPrev": 0.45, "text": "Alguma posição te surpreendeu? Comenta aí. Amanhã: os países que têm armas nucleares, segue pra não perder." }
+  ],
+  "tailAfterLastClip": 2.3,
+  "keywords": []
+}

@@ -57,7 +57,7 @@
 
 ### Fila 3: ECONOMIA MUNDIAL E DINHEIRO (qua)
 - [x] Por que o dólar domina o mundo?
-- [ ] As 10 maiores economias do mundo (ranking animado)
+- [x] As 10 maiores economias do mundo (ranking animado)
 - [ ] Países com as maiores reservas de ouro
 - [ ] Os países mais endividados do planeta
 - [ ] Como a China virou potência econômica
