@@ -2,6 +2,60 @@
 
 **Identidade:** "a Bíblia no mapa". Histórias bíblicas contadas como mapa animado em pergaminho, com rota, lugares, números do próprio texto e a referência bíblica. De 60 a 90 s, em 9:16 e em português.
 
+## ⚡ MODO DEBATE DA FÉ — INSTAGRAM @e_cosdafe (desde 18/11/2026, decisão do Jonas: "zero comentário, tá tudo informativo")
+**Vale por cima das filas antigas do Instagram (histórias, personagem, curiosidades, estudo, quiz, mapa), que ficam pausadas.** O YouTube JesusIsLove NÃO muda.
+| Horário | O que vai |
+|---|---|
+| **07:00** | **A BÍBLIA QUE NINGUÉM PREGA:** um texto bíblico difícil, chocante ou mal entendido ("Deus mandou ursos matarem 42 jovens?"). Conta o que o texto diz, o contexto, e termina com a pergunta que divide. Fila abaixo. |
+| **19:00** | **DEBATE DA FÉ:** uma pergunta que divide os cristãos ("Dízimo é obrigatório hoje?"). Fila abaixo. Se um assunto de fé estiver quente no dia (notícia, pastor famoso, polêmica em igreja), use ele em vez da fila, sem citar nome de pessoa. |
+
+### Formato (os dois horários): 60 a 80 s, narrado, voz 4, texto cinético (`pipeline/exemplos/devocional-cinetico/`) ou animação com personagens no estilo do ep. 01 (`producoes/cristao-2026-11-16-parecer-cristao/`)
+1. **1º segundo: a frase que divide**, enorme, que já é a capa ("CRENTE PODE BEBER VINHO?").
+2. **LADO SIM x LADO NÃO** (tela dividida ou dois blocos, cores fixas dourado x vermelho): o melhor argumento de cada lado, **cada um com o versículo e a referência na tela**. Mostre os dois com a mesma força e respeito, como os próprios cristãos defendem.
+3. **O detalhe do texto que quase ninguém conhece** (contexto, palavra no original, costume da época): a virada.
+4. **Não feche a questão.** Termine com: "E você: SIM ou NÃO? Comenta com a sua resposta e o versículo. Marca aquele irmão que vai discordar." + "segue a @e_cosdafe: todo dia um debate da fé".
+- **Legenda:** começa com a pergunta, 2 frases com os dois lados e as referências, "🎨 Animação e narração feitas com IA.", "👇 SIM ou NÃO? Comenta e marca quem pensa diferente." e 6 a 8 hashtags (inclua #debate #polemica #crente).
+- **Limites (sempre):** debate de IDEIA, nunca de pessoa: sem nome de pastor, igreja, denominação ou político; sem zombar de católico, evangélico, espírita ou ateu; sem fato inventado (versículo conferido e citado). Tema de saúde mental: diga que buscar ajuda médica não é falta de fé. Política partidária continua fora.
+
+### Fila DEBATE DA FÉ (19:00, pegue o próximo [ ])
+- [ ] Dízimo é obrigatório para o cristão hoje? (Ml 3:10 x 2Co 9:7)
+- [ ] Crente pode beber vinho? (Jo 2:1-11, Sl 104:15 x Pv 20:1, Ef 5:18)
+- [ ] Cristão pode fazer tatuagem? (Lv 19:28 e o contexto)
+- [ ] Mulher deve usar véu na igreja? (1Co 11:2-16)
+- [ ] Mulher pode ser pastora? (1Tm 2:12 x Rm 16:1-7, Jz 4:4)
+- [ ] Uma vez salvo, salvo para sempre? (Jo 10:28 x Hb 6:4-6)
+- [ ] Deus quer você rico? (3Jo 2 x 1Tm 6:9-10)
+- [ ] Precisa ir à igreja para ser salvo? Crente "desigrejado" (Hb 10:25 x Lc 23:43)
+- [ ] Falar em línguas ainda existe hoje? (At 2, 1Co 14 x 1Co 13:8)
+- [ ] Batismo de criança ou só de adulto? (At 16:33 x Mc 16:16)
+- [ ] Depressão é falta de fé? (Elias em 1Rs 19, Sl 42) — com aviso de buscar ajuda
+- [ ] Divórcio: quando a Bíblia permite? (Mt 19:9, 1Co 7:15)
+- [ ] Natal: festa cristã ou pagã? (usar perto de dezembro)
+- [ ] Sábado ou domingo: qual é o dia do Senhor? (Êx 20:8 x At 20:7)
+- [ ] Crente pode jogar na loteria ou em bet? (Pv 13:11, 1Tm 6:10)
+- [ ] O inferno é eterno? (Mt 25:46 x leituras diferentes)
+- [ ] Louvor virou show? Fumaça, luz e palco na igreja (Jo 4:24)
+- [ ] Mulher crente pode usar calça? (Dt 22:5 e o contexto)
+- [ ] Cristão pode andar armado? (Lc 22:36 x Mt 26:52)
+- [ ] Jesus era pobre? (Lc 9:58 x Lc 8:3, Jo 19:23)
+
+### Fila A BÍBLIA QUE NINGUÉM PREGA (07:00, pegue o próximo [ ])
+- [ ] Deus mandou ursos atacarem 42 jovens por zombarem de Eliseu? (2Rs 2:23-24)
+- [ ] Jesus disse: "Não vim trazer paz, mas espada" (Mt 10:34)
+- [ ] "Quem não odeia pai e mãe não pode ser meu discípulo" (Lc 14:26)
+- [ ] Ananias e Safira morreram por uma mentira sobre dinheiro (At 5:1-11)
+- [ ] Uzá tocou na arca para ela não cair e morreu (2Sm 6:6-7)
+- [ ] Jesus amaldiçoou uma figueira que não tinha fruto (Mc 11:12-14)
+- [ ] O voto de Jefté e a filha dele (Jz 11:30-40)
+- [ ] Jesus chamou uma mulher de "cachorrinho"? (Mt 15:21-28)
+- [ ] Deus endureceu o coração do faraó: e a liberdade dele? (Êx 9:12)
+- [ ] O pecado que não tem perdão (Mt 12:31-32)
+- [ ] Judas foi para o céu ou para o inferno? (Mt 26:24, At 1:25)
+- [ ] Jesus virou a mesa no templo: cristão pode ficar irado? (Jo 2:13-17, Ef 4:26)
+- [ ] "Não julgueis": cristão não pode julgar ninguém? (Mt 7:1 x Jo 7:24)
+- [ ] Deus se arrependeu de ter feito o homem? (Gn 6:6)
+- [ ] O ladrão na cruz foi salvo sem batismo e sem igreja (Lc 23:39-43)
+
 ## DIVISÃO DOS CANAIS (desde 02/11/2026, decisão do Jonas)
 | Canal | O que posta | Quando |
 |---|---|---|
@@ -252,7 +306,7 @@ Visual fixo: fundo preto, bonequinhos brancos com brilho, UM elemento vermelho s
 - **Fonte principal é o texto bíblico.** Cite capítulo e versículo no `_comment` do script.json e na legenda. Números (distâncias, quantidades, dias) só os do texto ou de fonte de referência (atlas bíblico, enciclopédia) conferida em 2 fontes.
 - **Locais debatidos** (travessia do Mar Vermelho, monte Sinai, etc.): mostre a localização tradicional e diga "tradicional"/"aproximada". Não tome partido em debates acadêmicos.
 - **Respeito:** sem rosto de Deus ou de Jesus; use símbolos (luz, coluna de nuvem/fogo, silhueta distante, pergaminho). Pessoas aparecem como pontos/viajantes no mapa.
-- **Sem polêmica denominacional** nem política. Tom de fé, acolhedor, sem sensacionalismo ("o que a Bíblia conta").
+- **Desde 18/11/2026 (MODO DEBATE no Instagram):** debate entre interpretações é permitido e desejado, com os dois lados e os versículos de cada um, com respeito; continua proibido: política partidária, nome de pessoa/igreja/denominação, zombaria de qualquer fé. (Antes: "sem polêmica denominacional".)
 - Sem emoji no canvas (a fonte não tem).
 
 ## FILA PÔSTER ESCURO (JesusIsLove) — 2 por dia, 12:00 e 19:00, desde 12/11/2026

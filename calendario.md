@@ -1,6 +1,45 @@
 # Calendário de conteúdo da @mindloop_u
 
-## NOVA IDENTIDADE (desde 09/11/2026, decisão do Jonas): "O MUNDO EXPLICADO EM MAPAS E DADOS"
+## ⚡ MODO DEBATE (desde 18/11/2026, decisão do Jonas: "zero comentário, zero compartilhamento, tá tudo informativo")
+**Vale por cima dos pilares abaixo.** A Mindloop vira **"o assunto que divide o Brasil, explicado com dados"**: todo dia 1 tema ATUAL ou POLÊMICO, que faz a pessoa tomar partido. Mapas, gráficos e números continuam, mas agora são a munição de cada lado do debate, não uma aula.
+
+### Como escolher o tema do dia
+1. Rode `pipeline/trends.sh` e faça 2 ou 3 WebSearch das notícias do dia. Se houver assunto quente que divide opinião e cabe em dados (trabalho, salário, imposto, preço, IA, celular, apostas, tecnologia, país x país), use ele. **Assunto quente ganha da fila.**
+2. Se não houver, pegue o próximo `[ ]` da "Fila DEBATE" abaixo.
+3. Fora: tragédia com vítimas, crime com pessoa identificável, fofoca, boato não confirmado, ataque a grupo (religião, raça, orientação), candidato ou partido. Polêmica de IDEIA, nunca de pessoa.
+
+### Formato DEBATE (40 a 55 s, narrado, voz Fish alternando)
+1. **1º segundo: a frase que divide**, em letra enorme e que já é a capa: afirmação ou pergunta de sim/não ("Trabalhar 6 dias por semana devia ser PROIBIDO?", "A IA vai tirar SEU emprego.").
+2. **O fato que acendeu** (1 frase, com data e fonte).
+3. **TELA DIVIDIDA: LADO A x LADO B** (cores fixas: vermelho x azul), 2 ou 3 argumentos de cada lado, cada um com um número, gráfico ou mapa ("quem é a favor diz… / quem é contra diz…"). Os dois lados com a mesma força. Nunca diga qual está certo.
+4. **O dado que incomoda os dois** (a virada: um número que nenhum dos lados gosta).
+5. **CTA de briga saudável:** "E você: A ou B? Comenta. Marca aquele amigo que vai discordar de você." + "segue a @mindloop_u: todo dia um assunto que divide o Brasil".
+- **Legenda:** começa com a pergunta polêmica, 2 frases com os dois lados, "📊 Fontes: …", "🎨 Animação e narração feitas com IA.", "👇 A ou B? Comenta e marca quem pensa diferente." e 6 a 8 hashtags (inclua #debate #polemica).
+- **Neutralidade continua:** os dois lados com fontes; política só como debate de ideia (a medida, não o político). Sem rosto de pessoa real.
+
+### Fila DEBATE (pegue o próximo [ ] quando não houver assunto quente)
+- [ ] Fim da escala 6x1: vai gerar emprego ou demissão? (PEC 221/2019 aprovada no Senado em 14/10/2026: 44h → 42h → 40h; falta promulgar)
+- [ ] Semana de 4 dias: os países que testaram e o que deu (pilotos Reino Unido, Portugal, Islândia)
+- [ ] A IA vai tirar o seu emprego? As profissões mais e menos expostas (OIT, FMI)
+- [ ] Celular proibido na escola: melhorou as notas ou não? (Lei 15.100/2025 + estudos)
+- [ ] Bets: o Brasil devia proibir as apostas? (quanto o brasileiro gasta, Banco Central)
+- [ ] Rede social proibida para menor de 16 anos: certo ou exagero? (Austrália proibiu em dez/2025)
+- [ ] Salário mínimo x salário mínimo necessário do DIEESE: dá pra viver?
+- [ ] O Brasil cobra muito imposto? Carga tributária comparada com o mundo (OCDE, Receita)
+- [ ] Taxa das blusinhas: protege a indústria ou pune o pobre? (imposto em compras internacionais)
+- [ ] Motorista de aplicativo devia ter carteira assinada?
+- [ ] Faculdade ainda vale a pena? Salário com e sem diploma (IBGE)
+- [ ] Alugar ou comprar casa: a conta que ninguém faz
+- [ ] Horário de verão devia voltar? (economia de energia x rotina)
+- [ ] Home office ou presencial: quem produz mais? (estudos)
+- [ ] Carro elétrico chinês: bom pro bolso ou ruim pra indústria brasileira?
+- [ ] Energia nuclear: o Brasil devia construir mais usinas?
+- [ ] Aposentadoria aos 65: o Brasil comparado com o mundo
+- [ ] Serviço militar obrigatório devia acabar? (como é nos outros países)
+- [ ] Gorjeta de 10%: obrigação ou opção?
+- [ ] Pix vai ser taxado? Mito x fato (com a regra oficial)
+
+## (BASE VISUAL, agora a serviço do MODO DEBATE acima) "O MUNDO EXPLICADO EM MAPAS E DADOS" — desde 09/11/2026
 **Mindloop = o mundo explicado com mapas animados, gráficos, comparações e linhas do tempo.** Vale para o Instagram @mindloop_u e para o YouTube da Mindloop. Os bonequinhos "da mente" foram ENCERRADOS na Mindloop (o arquivo antigo está mais abaixo). Pais e filhos continua só no YouTube JesusIsLove.
 
 ### Horário (Brasília): 1 vídeo por dia
