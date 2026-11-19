@@ -40,7 +40,7 @@
 - [ ] Jesus era pobre? (Lc 9:58 x Lc 8:3, Jo 19:23)
 
 ### Fila A BÍBLIA QUE NINGUÉM PREGA (07:00, pegue o próximo [ ])
-- [ ] Deus mandou ursos atacarem 42 jovens por zombarem de Eliseu? (2Rs 2:23-24)
+- [x] Deus mandou ursos atacarem 42 jovens por zombarem de Eliseu? (2Rs 2:23-24) — 19/11 ("cristao-2026-11-19-ursos-eliseu", 1º do modo debate, texto cinético, voz Fish 4, 67 s + CTA)
 - [ ] Jesus disse: "Não vim trazer paz, mas espada" (Mt 10:34)
 - [ ] "Quem não odeia pai e mãe não pode ser meu discípulo" (Lc 14:26)
 - [ ] Ananias e Safira morreram por uma mentira sobre dinheiro (At 5:1-11)
@@ -332,7 +332,7 @@ Estilo do modelo producoes/jil-2026-11-11-leite-derramado/ (fundo preto, holofot
 - [x] "Engole o choro!" × "pode chorar, eu tô aqui": 20 anos depois, um adulto que não chora × um que abraça (Ec 3:4) — 17/11 ("jil-2026-11-17-engole-o-choro", YT 12:00)
 - [x] "Vai brincar lá fora, tô ocupado" × "me mostra o seu desenho": anos depois o filho responde "tô ocupado" no telefone (Pv 23:26) — 18/11 ("jil-2026-11-18-to-ocupado", YT 12:00; notebook, o pai idoso volta com o mesmo desenho)
 - [x] O boletim vermelho: pai que rasga × pai que senta e estuda junto (Cl 3:21) — 18/11 ("jil-2026-11-18-boletim-vermelho", YT 19:00; vermelho = a nota 4,5, que vira 8,0 no estudo junto)
-- [ ] "Você não faz nada direito" × "você errou, mas eu confio em você": a frase que vira a voz interior do filho (Pv 18:21)
+- [x] "Você não faz nada direito" × "você errou, mas eu confio em você": a frase que vira a voz interior do filho (Pv 18:21) — 19/11 ("jil-2026-11-19-nada-direito", YT 12:00; prato quebrado, 20 anos depois a frase vira pensamento)
 - [ ] O pai que ora na beira da cama × o que nunca orou: 30 anos depois, quem o filho chama na crise (Dt 6:6-7)
 - [ ] A mãe que diz "não" e explica × a que diz "sim" pra tudo pra não ter briga: o adolescente aos 16 (Pv 29:15)
 - [ ] O abraço que não veio: pai que só cobra nota × pai que comemora o esforço (Lc 15:20)
