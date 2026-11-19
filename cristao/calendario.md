@@ -333,7 +333,7 @@ Estilo do modelo producoes/jil-2026-11-11-leite-derramado/ (fundo preto, holofot
 - [x] "Vai brincar lá fora, tô ocupado" × "me mostra o seu desenho": anos depois o filho responde "tô ocupado" no telefone (Pv 23:26) — 18/11 ("jil-2026-11-18-to-ocupado", YT 12:00; notebook, o pai idoso volta com o mesmo desenho)
 - [x] O boletim vermelho: pai que rasga × pai que senta e estuda junto (Cl 3:21) — 18/11 ("jil-2026-11-18-boletim-vermelho", YT 19:00; vermelho = a nota 4,5, que vira 8,0 no estudo junto)
 - [x] "Você não faz nada direito" × "você errou, mas eu confio em você": a frase que vira a voz interior do filho (Pv 18:21) — 19/11 ("jil-2026-11-19-nada-direito", YT 12:00; prato quebrado, 20 anos depois a frase vira pensamento)
-- [ ] O pai que ora na beira da cama × o que nunca orou: 30 anos depois, quem o filho chama na crise (Dt 6:6-7)
+- [x] O pai que ora na beira da cama × o que nunca orou: 30 anos depois, quem o filho chama na crise (Dt 6:6-7) — 19/11 ("jil-2026-11-19-orar-pra-que", YT 19:00; "orar pra quê? vai dormir", 30 anos depois a notícia ruim no celular)
 - [ ] A mãe que diz "não" e explica × a que diz "sim" pra tudo pra não ter briga: o adolescente aos 16 (Pv 29:15)
 - [ ] O abraço que não veio: pai que só cobra nota × pai que comemora o esforço (Lc 15:20)
 
