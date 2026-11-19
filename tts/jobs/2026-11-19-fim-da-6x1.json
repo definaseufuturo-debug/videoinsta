@@ -1,0 +1,37 @@
+{
+  "status": "pendente",
+  "voice": "c9d3da0bdf61417d929dc67966e4befe",
+  "speed": 1.15,
+  "model": "s2.1-pro-free",
+  "language": "pt",
+  "clips": [
+    {
+      "id": "c1",
+      "text": "O fim da escala seis por um vai criar emprego, ou vai gerar demissão?"
+    },
+    {
+      "id": "c2",
+      "text": "O Senado aprovou por setenta e cinco a um. Em dezesseis de dezembro, o limite cai de quarenta e quatro para quarenta e duas horas por semana. E para quarenta, em dois mil e vinte e sete."
+    },
+    {
+      "id": "c3",
+      "text": "Quem é a favor diz: são quase quinze milhões de brasileiros trabalhando seis dias por semana, segundo o Dieese."
+    },
+    {
+      "id": "c4",
+      "text": "E lembra que, em oitenta e oito, a jornada caiu de quarenta e oito para quarenta e quatro horas, e estudos não acharam alta no desemprego."
+    },
+    {
+      "id": "c5",
+      "text": "Quem é contra diz: a indústria calcula um custo de até duzentos e sessenta e sete bilhões de reais por ano, e a hora de trabalho fica dez por cento mais cara."
+    },
+    {
+      "id": "c6",
+      "text": "E o dado que incomoda os dois lados: uma decisão no Supremo liberou, sem acordo, dias de oito horas e vinte e quatro minutos, sem hora extra."
+    },
+    {
+      "id": "c7",
+      "text": "E você: emprego ou demissão? Comenta, e marca aquele amigo que vai discordar. Amanhã: semana de quatro dias, segue pra não perder."
+    }
+  ]
+}
