@@ -18,7 +18,7 @@
 - **Limites (sempre):** debate de IDEIA, nunca de pessoa: sem nome de pastor, igreja, denominação ou político; sem zombar de católico, evangélico, espírita ou ateu; sem fato inventado (versículo conferido e citado). Tema de saúde mental: diga que buscar ajuda médica não é falta de fé. Política partidária continua fora.
 
 ### Fila DEBATE DA FÉ (19:00, pegue o próximo [ ])
-- [ ] Dízimo é obrigatório para o cristão hoje? (Ml 3:10 x 2Co 9:7)
+- [x] Dízimo é obrigatório para o cristão hoje? (Ml 3:10 x 2Co 9:7) — 19/11 ("cristao-2026-11-19-dizimo", texto cinético com LADO SIM dourado x LADO NÃO vermelho, voz Fish 4, 61 s + CTA)
 - [ ] Crente pode beber vinho? (Jo 2:1-11, Sl 104:15 x Pv 20:1, Ef 5:18)
 - [ ] Cristão pode fazer tatuagem? (Lv 19:28 e o contexto)
 - [ ] Mulher deve usar véu na igreja? (1Co 11:2-16)
