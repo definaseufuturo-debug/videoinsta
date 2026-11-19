@@ -216,3 +216,5 @@
 - 2026-11-19 02:05 | produção Tarefa E (cristao, 1º dia do MODO DEBATE no Instagram, que vale por cima do "Palavra da Manhã/formato do dia" do prompt) | IG 07:00 ok cristao-2026-11-19-ursos-eliseu (A Bíblia que ninguém prega, 2Rs 2:23-24, texto cinético com LADO SIM x NÃO, voz Fish 4, 67 s + CTA) · YT 12:00 ok jil-2026-11-19-nada-direito (pôster escuro, Pv 18:21) · YT 19:00 ok jil-2026-11-19-orar-pra-que (pôster escuro, Dt 6:7) · IG 19:00 ok cristao-2026-11-19-dizimo (Debate da fé, Ml 3:10 x 2Co 9:7, voz Fish 4, 61 s + CTA)
 - 2026-11-19 06:55 | cristao-2026-11-19-ursos-eliseu | cristao | ok 18446332792195349
 - 2026-11-19 06:55 | jesusislove | nada na fila
+- 2026-11-19 11:55 | cristao | nada na fila do Instagram
+- 2026-11-19 11:55 | jil-2026-11-19-nada-direito | jesusislove | yt 3oDTwiFzr-E
