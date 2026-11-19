@@ -18,7 +18,7 @@
 - **Neutralidade continua:** os dois lados com fontes; política só como debate de ideia (a medida, não o político). Sem rosto de pessoa real.
 
 ### Fila DEBATE (pegue o próximo [ ] quando não houver assunto quente)
-- [ ] Fim da escala 6x1: vai gerar emprego ou demissão? (PEC 221/2019 aprovada no Senado em 14/10/2026: 44h → 42h → 40h; falta promulgar)
+- [x] Fim da escala 6x1: vai gerar emprego ou demissão? (PEC 221/2019 aprovada no Senado em 14/10/2026: 44h → 42h → 40h; falta promulgar)
 - [ ] Semana de 4 dias: os países que testaram e o que deu (pilotos Reino Unido, Portugal, Islândia)
 - [ ] A IA vai tirar o seu emprego? As profissões mais e menos expostas (OIT, FMI)
 - [ ] Celular proibido na escola: melhorou as notas ou não? (Lei 15.100/2025 + estudos)

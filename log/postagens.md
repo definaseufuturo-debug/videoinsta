@@ -212,3 +212,4 @@
 - 2026-11-18 21:54 | 2026-11-17-fronteiras-estranhas | agendado | ok 18102164210425886 | yt L--oJwnqSh0 (descrição só #Shorts)
 - 2026-11-18 18:55 | cristao-2026-11-18-nao-morreram | cristao | ok 18404976040205170
 - 2026-11-18 18:58 | jil-2026-11-18-boletim-vermelho | jesusislove | yt GI6_fQOmaZM
+- 2026-11-19 00:30 | produção Tarefa B3 (MODO DEBATE) | 2026-11-19-fim-da-6x1 (assunto quente: fim da 6x1 começa em 16/12 e liminar do STF em disputa; 1º da Fila DEBATE; A favor x Contra com Dieese, estudo 1988, CNI; dado que incomoda: 8h24 sem hora extra; voz Fish masculina, 52 s + CTA) agendado 19:00
