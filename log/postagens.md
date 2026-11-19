@@ -220,3 +220,4 @@
 - 2026-11-19 11:55 | jil-2026-11-19-nada-direito | jesusislove | yt 3oDTwiFzr-E
 - 2026-11-19 21:54 | 2026-11-18-maiores-economias | agendado | ok 17917256508472128 | yt R-vhvhIQMN4
 - 2026-11-19 21:55 | cristao-2026-11-19-dizimo | cristao | ok 17955223404338176
+- 2026-11-19 21:58 | jil-2026-11-19-orar-pra-que | jesusislove | yt WHagDzyEosQ
