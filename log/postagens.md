@@ -225,3 +225,4 @@
 - 2026-11-21 08:55 | produção manual (sessão do Jonas) | jil-2026-11-21-pra-nao-ter-briga (pôster escuro, Pv 29:15, 18 s + CTA) agendado YT 12:00; as tarefas de madrugada de 20 e 21/11 falharam por limite de uso (modelos trocados para Sonnet/Haiku)
 - 2026-11-21 09:10 | produção manual (sessão do Jonas) | jil-2026-11-21-abraco-que-nao-veio (pôster escuro, Lc 15:20, 18 s + CTA) agendado YT 19:00
 - 2026-11-21 09:20 | produção manual (sessão do Jonas) | cristao-2026-11-21-vinho (Debate da fé: crente pode beber vinho?, texto cinético, voz Fish 4, 60 s + CTA, 25 MB) agendado IG 19:00
+- 2026-11-21 11:55 | jil-2026-11-21-pra-nao-ter-briga | jesusislove | yt DyuX3KCpZQQ (rodada automática; fila cristao (IG) vazia nesta rodada das 06:52 até agora)
