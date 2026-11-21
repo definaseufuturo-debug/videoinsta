@@ -1,0 +1,57 @@
+{
+  "status": "pendente",
+  "voice": "a0a26a57cac94ea4918f05a2393b4259",
+  "speed": 1.1,
+  "model": "s2.1-pro-free",
+  "language": "pt",
+  "clips": [
+    {
+      "id": "c1",
+      "text": "Crente pode beber vinho?"
+    },
+    {
+      "id": "c2",
+      "text": "Essa pergunta divide igrejas inteiras. Vamos ver os dois lados, com a Bíblia aberta."
+    },
+    {
+      "id": "c3",
+      "text": "Quem diz sim começa em Caná: Jesus transformou água em vinho numa festa de casamento."
+    },
+    {
+      "id": "c4",
+      "text": "E o salmista chama o vinho de dádiva de Deus: o vinho que alegra o coração do homem."
+    },
+    {
+      "id": "c5",
+      "text": "E Paulo aconselhou Timóteo: não continues a beber somente água, usa um pouco de vinho, por causa do teu estômago."
+    },
+    {
+      "id": "c6",
+      "text": "Quem diz não lembra o aviso: o vinho é escarnecedor, e quem se perde por ele não é sábio."
+    },
+    {
+      "id": "c7",
+      "text": "E Paulo manda: não vos embriagueis com vinho, no qual há dissolução, mas enchei-vos do Espírito."
+    },
+    {
+      "id": "c8",
+      "text": "E ainda: bom é não beber vinho se isso faz o seu irmão tropeçar."
+    },
+    {
+      "id": "c9",
+      "text": "Agora o detalhe que quase ninguém conta. Jesus lembrou que João Batista veio sem beber vinho, e disseram: tem demônio."
+    },
+    {
+      "id": "c10",
+      "text": "E que ele mesmo veio comendo e bebendo, e disseram: é comilão e beberrão. Nos dois casos, quem criticava só queria achar defeito."
+    },
+    {
+      "id": "c11",
+      "text": "Os dois lados concordam numa coisa: a Bíblia condena a embriaguez. A divisão é sobre beber ou não beber."
+    },
+    {
+      "id": "c12",
+      "text": "E você: crente pode beber vinho, sim ou não? Comenta a sua resposta e o versículo. Marca aquele irmão que vai discordar. E segue: todo dia um debate da fé."
+    }
+  ]
+}
