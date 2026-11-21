@@ -222,3 +222,4 @@
 - 2026-11-19 21:55 | cristao-2026-11-19-dizimo | cristao | ok 17955223404338176
 - 2026-11-19 21:58 | jil-2026-11-19-orar-pra-que | jesusislove | yt WHagDzyEosQ
 - 2026-11-21 09:53 | nada nas filas (cristao e jesusislove)
+- 2026-11-21 08:55 | produção manual (sessão do Jonas) | jil-2026-11-21-pra-nao-ter-briga (pôster escuro, Pv 29:15, 18 s + CTA) agendado YT 12:00; as tarefas de madrugada de 20 e 21/11 falharam por limite de uso (modelos trocados para Sonnet/Haiku)
