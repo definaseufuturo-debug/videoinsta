@@ -19,7 +19,7 @@
 
 ### Fila DEBATE DA FÉ (19:00, pegue o próximo [ ])
 - [x] Dízimo é obrigatório para o cristão hoje? (Ml 3:10 x 2Co 9:7) — 19/11 ("cristao-2026-11-19-dizimo", texto cinético com LADO SIM dourado x LADO NÃO vermelho, voz Fish 4, 61 s + CTA)
-- [ ] Crente pode beber vinho? (Jo 2:1-11, Sl 104:15 x Pv 20:1, Ef 5:18)
+- [x] Crente pode beber vinho? (Jo 2:1-11, Sl 104:15 x Pv 20:1, Ef 5:18) — 21/11 ("cristao-2026-11-21-vinho", texto cinético LADO SIM x NÃO, voz Fish 4, 60 s + CTA; virada: Lc 7:33-34 João Batista x Jesus)
 - [ ] Cristão pode fazer tatuagem? (Lv 19:28 e o contexto)
 - [ ] Mulher deve usar véu na igreja? (1Co 11:2-16)
 - [ ] Mulher pode ser pastora? (1Tm 2:12 x Rm 16:1-7, Jz 4:4)
