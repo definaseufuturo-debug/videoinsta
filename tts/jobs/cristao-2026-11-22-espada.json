@@ -1,0 +1,57 @@
+{
+  "status": "pendente",
+  "voice": "a0a26a57cac94ea4918f05a2393b4259",
+  "speed": 1.1,
+  "model": "s2.1-pro-free",
+  "language": "pt",
+  "clips": [
+    {
+      "id": "c1",
+      "text": "Jesus disse: não vim trazer paz, mas espada."
+    },
+    {
+      "id": "c2",
+      "text": "Está em Mateus dez, trinta e quatro. E quase ninguém explica o que isso significa."
+    },
+    {
+      "id": "c3",
+      "text": "Ele estava enviando os doze discípulos em missão, e avisando que seguir o caminho dele ia custar caro."
+    },
+    {
+      "id": "c4",
+      "text": "Jesus disse: não penseis que vim trazer paz à terra. Não vim trazer paz, mas espada."
+    },
+    {
+      "id": "c5",
+      "text": "E continuou: o filho contra o pai, a filha contra a mãe, e os inimigos do homem serão os da sua própria casa."
+    },
+    {
+      "id": "c6",
+      "text": "Quem diz que é paz lembra que Isaías chamou o Messias de Príncipe da Paz."
+    },
+    {
+      "id": "c7",
+      "text": "Que o próprio Jesus disse: a minha paz vos dou."
+    },
+    {
+      "id": "c8",
+      "text": "E que, quando Pedro puxou a espada, Jesus mandou guardar: quem usa a espada, pela espada morrerá."
+    },
+    {
+      "id": "c9",
+      "text": "Quem diz que é divisão lembra o aviso de Paulo: todos os que querem viver piedosamente em Cristo serão perseguidos."
+    },
+    {
+      "id": "c10",
+      "text": "Agora o detalhe que quase ninguém conta. Lucas conta a mesma fala, e no lugar da palavra espada está escrito: divisão."
+    },
+    {
+      "id": "c11",
+      "text": "Por isso, muitos leem a espada como símbolo: não de guerra, mas do corte que a mensagem de Jesus faz, até dentro de casa. Mas ainda se discute: essa divisão é inevitável, ou o cristão deve evitá-la?"
+    },
+    {
+      "id": "c12",
+      "text": "E você: Jesus veio trazer paz ou espada? Comenta a sua resposta e o versículo. Marca aquele irmão que vai discordar. E segue: todo dia a Bíblia que ninguém prega."
+    }
+  ]
+}
