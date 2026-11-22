@@ -41,7 +41,7 @@
 
 ### Fila A BÍBLIA QUE NINGUÉM PREGA (07:00, pegue o próximo [ ])
 - [x] Deus mandou ursos atacarem 42 jovens por zombarem de Eliseu? (2Rs 2:23-24) — 19/11 ("cristao-2026-11-19-ursos-eliseu", 1º do modo debate, texto cinético, voz Fish 4, 67 s + CTA)
-- [ ] Jesus disse: "Não vim trazer paz, mas espada" (Mt 10:34)
+- [x] Jesus disse: "Não vim trazer paz, mas espada" (Mt 10:34) — 22/11 ("cristao-2026-11-22-espada", texto cinético PAZ x DIVISÃO, voz Fish 4, 64 s + CTA)
 - [ ] "Quem não odeia pai e mãe não pode ser meu discípulo" (Lc 14:26)
 - [ ] Ananias e Safira morreram por uma mentira sobre dinheiro (At 5:1-11)
 - [ ] Uzá tocou na arca para ela não cair e morreu (2Sm 6:6-7)

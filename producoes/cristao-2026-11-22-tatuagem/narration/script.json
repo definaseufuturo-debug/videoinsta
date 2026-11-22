@@ -1,0 +1,101 @@
+{
+  "voice": "pm_alex",
+  "speed": 1.1,
+  "lang": "pt-br",
+  "_comment": "Debate da fé (19:00): cristão pode fazer tatuagem? Lado NÃO: Lv 19:28 (não fareis cortes na vossa carne por causa de algum morto, nem fareis marca alguma sobre vós; eu sou o Senhor); 1Co 6:19-20 (o corpo é santuário do Espírito Santo); Rm 12:1. Lado SIM: contexto de Lv 19:28 e Dt 14:1 (cortes e marcas ligados ao luto e a cultos pagãos); Rm 6:14 (não estais debaixo da lei, mas da graça); 1Sm 16:7 (o homem vê o exterior, Deus vê o coração). Detalhe: Lv 19:27-28 junta cabelo, barba e cortes pelos mortos; Lv 19:19 proíbe tecido de dois tipos, e hoje quase ninguém guarda; a pergunta é como ler a lei do AT. Concordam: a motivação do coração importa (1Sm 16:7) e o corpo é de Deus. Segunda fonte: GotQuestions PT 'O que a Bíblia diz sobre tatuagens'; BibleGateway Encyclopedia 'Tattoo'; comentário Lv 19:28. Neutro: sem nome de igreja ou pastor.",
+  "say": {},
+  "fish": {
+    "voice": "a0a26a57cac94ea4918f05a2393b4259",
+    "speed": 1.1,
+    "model": "s2.1-pro-free"
+  },
+  "accent": [],
+  "clips": [
+    {
+      "id": "c1",
+      "scene": 1,
+      "minStart": 0.3,
+      "gapAfterPrev": 0,
+      "text": "Cristão pode fazer tatuagem?"
+    },
+    {
+      "id": "c2",
+      "scene": 2,
+      "minStart": 0,
+      "gapAfterPrev": 0.5,
+      "text": "Essa pergunta divide igrejas e famílias. Vamos ver os dois lados, com a Bíblia aberta."
+    },
+    {
+      "id": "c3",
+      "scene": 3,
+      "minStart": 0,
+      "gapAfterPrev": 0.5,
+      "text": "Quem diz não começa em Levítico: não fareis cortes na vossa carne, nem fareis marca alguma sobre vós. Eu sou o Senhor."
+    },
+    {
+      "id": "c4",
+      "scene": 4,
+      "minStart": 0,
+      "gapAfterPrev": 0.5,
+      "text": "E lembra que Paulo escreveu: o vosso corpo é santuário do Espírito Santo."
+    },
+    {
+      "id": "c5",
+      "scene": 5,
+      "minStart": 0,
+      "gapAfterPrev": 0.5,
+      "text": "Por isso, glorifiquem a Deus no corpo de vocês. Para esse lado, marcar a pele é mexer no que é de Deus."
+    },
+    {
+      "id": "c6",
+      "scene": 6,
+      "minStart": 0,
+      "gapAfterPrev": 0.5,
+      "text": "Quem diz sim volta ao contexto: em Levítico e em Deuteronômio, os cortes e as marcas eram rituais de luto pelos mortos, ligados aos povos pagãos."
+    },
+    {
+      "id": "c7",
+      "scene": 7,
+      "minStart": 0,
+      "gapAfterPrev": 0.5,
+      "text": "E lembra que Paulo também escreveu: não estais debaixo da lei, mas debaixo da graça."
+    },
+    {
+      "id": "c8",
+      "scene": 8,
+      "minStart": 0,
+      "gapAfterPrev": 0.5,
+      "text": "E que Deus não olha como o homem olha: o homem vê o exterior, mas o Senhor vê o coração."
+    },
+    {
+      "id": "c9",
+      "scene": 9,
+      "minStart": 0,
+      "gapAfterPrev": 0.5,
+      "text": "Agora o detalhe que quase ninguém conta. No mesmo capítulo de Levítico, Deus também proíbe vestir tecido de dois tipos misturados."
+    },
+    {
+      "id": "c10",
+      "scene": 10,
+      "minStart": 0,
+      "gapAfterPrev": 0.5,
+      "text": "E quase ninguém guarda essa regra hoje. Então a pergunta de verdade é: como ler a lei do Antigo Testamento?"
+    },
+    {
+      "id": "c11",
+      "scene": 11,
+      "minStart": 0,
+      "gapAfterPrev": 0.5,
+      "text": "Os dois lados concordam numa coisa: o corpo é de Deus, e o coração importa. A divisão é sobre a marca na pele."
+    },
+    {
+      "id": "c12",
+      "scene": 12,
+      "minStart": 0,
+      "gapAfterPrev": 0.5,
+      "text": "E você: cristão pode fazer tatuagem, sim ou não? Comenta a sua resposta e o versículo. Marca aquele irmão que vai discordar. E segue: todo dia um debate da fé."
+    }
+  ],
+  "tailAfterLastClip": 2.3,
+  "keywords": []
+}
