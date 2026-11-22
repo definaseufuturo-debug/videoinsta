@@ -234,3 +234,5 @@
 - 2026-11-22 01:58 | cristao-2026-11-22-tatuagem | produção cristão | Debate da fé: tatuagem (Lv 19:28), 64 s + CTA, 26 MB, agendado IG 19:00
 - 2026-11-22 01:58 | jil-2026-11-22-diz-que-nao-to | produção cristão | pôster escuro (Ef 4:25), 18 s + CTA, agendado YT 12:00 (fila pôster esgotada: tema novo criado)
 - 2026-11-22 01:58 | jil-2026-11-22-a-briga-que-ele-ouve | produção cristão | pôster escuro (Ef 4:32), 18 s + CTA, agendado YT 19:00
+- 2026-11-22 06:57 | cristao-2026-11-22-espada | cristao | ok 17994461043080819
+- 2026-11-22 06:57 | jesusislove | nada nas filas (JesusIsLove sem vídeo pendente; 12:00 e 19:00 sem item)
