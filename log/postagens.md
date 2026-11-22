@@ -241,3 +241,4 @@
 - 2026-11-22 14:53 | jil-coletanea-4 | jesusislove-longo | yt R3IgyeQNkW4 | capa ok | obs: 21 histórias (8:43); 14 da semana (16 a 22/11 + leite-derramado e domingo) + 7 antigos; abre com 'Engole o choro'; 'celular' e 'chuva' fora do nicho
 - 2026-11-22 18:53 | cristao-2026-11-22-tatuagem | cristao | ok 18107442554347630
 - 2026-11-22 18:53 | jil-2026-11-22-a-briga-que-ele-ouve | jesusislove | yt vfLn9AXJd6E
+- 2026-11-22 22:53 | 2026-11-19-fim-da-6x1 | agendado | ERRO Windsor: No instagram accounts are configured for bemyveusgmailcom (2 tentativas, a 2a apos 1 min) | yt nao enviado (Instagram falhou)
