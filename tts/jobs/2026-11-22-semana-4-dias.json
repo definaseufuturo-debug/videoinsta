@@ -1,0 +1,37 @@
+{
+  "status": "pendente",
+  "voice": "b1cab1f57b8d41aeb225d7d8bafc0806",
+  "speed": 1.2,
+  "model": "s2.1-pro-free",
+  "language": "pt",
+  "clips": [
+    {
+      "id": "c1",
+      "text": "Trabalhar quatro dias por semana, ganhando o mesmo: é sonho possível, ou conta que não fecha?"
+    },
+    {
+      "id": "c2",
+      "text": "O maior teste do mundo foi no Reino Unido, em dois mil e vinte e dois: sessenta e uma empresas, quase três mil pessoas, quatro dias, salário integral."
+    },
+    {
+      "id": "c3",
+      "text": "Quem é a favor diz: cinquenta e seis das sessenta e uma mantiveram o modelo. Os pedidos de demissão caíram cinquenta e sete por cento, e a receita ficou estável."
+    },
+    {
+      "id": "c4",
+      "text": "Na Islândia, testes de dois mil e quinze a dezenove, com cerca de dois mil e quinhentos trabalhadores, acharam produtividade igual ou maior. Hoje, oitenta e seis por cento já têm jornada menor."
+    },
+    {
+      "id": "c5",
+      "text": "Quem é contra diz: as empresas entraram porque quiseram, e eram em sua maioria pequenas. Hospital, fábrica e comércio não podem parar um dia, e precisariam contratar mais gente."
+    },
+    {
+      "id": "c6",
+      "text": "O dado que incomoda os dois lados: só dezoito das sessenta e uma tornaram a mudança permanente, e todas se inscreveram por vontade própria."
+    },
+    {
+      "id": "c7",
+      "text": "E você: A ou B? Comenta e marca quem vai discordar. Amanhã: a inteligência artificial vai tirar o seu emprego? Segue pra não perder."
+    }
+  ]
+}
