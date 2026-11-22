@@ -230,3 +230,7 @@
 - 2026-11-21 18:59 | jil-2026-11-21-abraco-que-nao-veio | jesusislove | yt DrKnPmxEaVo
 - 2026-11-21 19:51 | 2026-11-19-fim-da-6x1 | agendado | ERRO instagram: Windsor.ai sem conta instagram configurada para o login (selecionar em onboard.windsor.ai); YouTube não tentado; item marcado como falhou
 - 2026-11-22 00:25 | 2026-11-22-semana-4-dias | B3 debate (pilar dom) | produzido e agendado 20:00 (voz Fish jovem, 52 s + CTA; fonte: Autonomy/NPR/Alda). Obs: Windsor sem conta instagram desde 19/11 (item 2026-11-19-fim-da-6x1 falhou); verificar conexão em onboard.windsor.ai
+- 2026-11-22 01:58 | cristao-2026-11-22-espada | produção cristão (rotina de madrugada, modo debate) | A Bíblia que ninguém prega: Mt 10:34 paz x divisão, 64 s + CTA, 25 MB, agendado IG 07:00
+- 2026-11-22 01:58 | cristao-2026-11-22-tatuagem | produção cristão | Debate da fé: tatuagem (Lv 19:28), 64 s + CTA, 26 MB, agendado IG 19:00
+- 2026-11-22 01:58 | jil-2026-11-22-diz-que-nao-to | produção cristão | pôster escuro (Ef 4:25), 18 s + CTA, agendado YT 12:00 (fila pôster esgotada: tema novo criado)
+- 2026-11-22 01:58 | jil-2026-11-22-a-briga-que-ele-ouve | produção cristão | pôster escuro (Ef 4:32), 18 s + CTA, agendado YT 19:00

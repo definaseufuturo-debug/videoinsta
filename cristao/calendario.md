@@ -337,5 +337,8 @@ Estilo do modelo producoes/jil-2026-11-11-leite-derramado/ (fundo preto, holofot
 - [x] A mãe que diz "não" e explica × a que diz "sim" pra tudo pra não ter briga: o adolescente aos 16 (Pv 29:15) — 21/11 ("jil-2026-11-21-pra-nao-ter-briga", YT 12:00; doce na mão, 10 anos depois "você não manda em mim!")
 - [x] O abraço que não veio: pai que só cobra nota × pai que comemora o esforço (Lc 15:20) — 21/11 ("jil-2026-11-21-abraco-que-nao-veio", YT 19:00; prova 8,5 e "E os outros 1,5?!", 20 anos depois a cena se repete espelhada)
 
+- [x] "Diz que eu não tô em casa": pai manda o filho mentir ao telefone × "diz que estou, já vou atender"; 20 anos depois o filho repete (Ef 4:25) — 22/11 ("jil-2026-11-22-diz-que-nao-to", YT 12:00)
+- [x] A briga que a criança ouve: casal briga e o filho ouve atrás da porta × "pera, ele tá ouvindo" e abraçam (Ef 4:32) — 22/11 ("jil-2026-11-22-a-briga-que-ele-ouve", YT 19:00)
+- [ ] (fila esgotada em 22/11: criar novos temas de pais e filhos; ideias: a oração do filho "faz o papai chegar cedo", o telefone que parou de tocar, os avós, ninguém nasce sabendo ser pai)
 ### Pausados (fora do nicho do canal; não usar no JesusIsLove)
 - Ninguém tira foto do alicerce (Mt 7:24) · Você rega o que quer ver crescer (Gl 6:7) · "A gente precisa conversar" (Fp 4:6-7) · Bicicleta / quem cai aprendendo (Pv 24:16) · A prova é sexta (Pv 6:6-8) · A mochila da mágoa (Cl 3:13) · A Bíblia na estante (Sl 119:105) · Salário que entra e sai (Pv 21:20) · Oração só na crise (1Ts 5:17) · Tempo de tela × tempo de joelho (Mt 6:6)
