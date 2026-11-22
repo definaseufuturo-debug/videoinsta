@@ -229,3 +229,4 @@
 - 2026-11-21 18:59 | cristao-2026-11-21-vinho | cristao | ok 17987020161124513
 - 2026-11-21 18:59 | jil-2026-11-21-abraco-que-nao-veio | jesusislove | yt DrKnPmxEaVo
 - 2026-11-21 19:51 | 2026-11-19-fim-da-6x1 | agendado | ERRO instagram: Windsor.ai sem conta instagram configurada para o login (selecionar em onboard.windsor.ai); YouTube não tentado; item marcado como falhou
+- 2026-11-22 00:25 | 2026-11-22-semana-4-dias | B3 debate (pilar dom) | produzido e agendado 20:00 (voz Fish jovem, 52 s + CTA; fonte: Autonomy/NPR/Alda). Obs: Windsor sem conta instagram desde 19/11 (item 2026-11-19-fim-da-6x1 falhou); verificar conexão em onboard.windsor.ai
