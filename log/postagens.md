@@ -236,3 +236,5 @@
 - 2026-11-22 01:58 | jil-2026-11-22-a-briga-que-ele-ouve | produção cristão | pôster escuro (Ef 4:32), 18 s + CTA, agendado YT 19:00
 - 2026-11-22 06:57 | cristao-2026-11-22-espada | cristao | ok 17994461043080819
 - 2026-11-22 06:57 | jesusislove | nada nas filas (JesusIsLove sem vídeo pendente; 12:00 e 19:00 sem item)
+- 2026-11-22 11:56 | jil-2026-11-22-diz-que-nao-to | jesusislove | yt JrjgovGCPlc
+- 2026-11-22 11:56 | cristao | nada na fila cristao (Instagram @e_cosdafe sem vídeo para postar)
