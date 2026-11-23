@@ -1,38 +1,257 @@
 {
- "status": "pendente",
- "acao": "stats",
- "canal": "cristao",
- "ids": [
-  "g6QflGCbiFI",
-  "dEB1h00ab4s",
-  "8kDNaYwcMRk",
-  "FGKKhnESDIs",
-  "D5GafH0VPR4",
-  "fZEhS4BcGL4",
-  "wEBdQNEvmio",
-  "ApDZbdYKiVA",
-  "_Rxn22rycyY",
-  "If5BT57GK64",
-  "AiFT-xB6G4U",
-  "4b04uHo3LkM",
-  "lOv2KMYCsgc",
-  "QU2Nbme0MPo",
-  "865lT4g8KxE",
-  "3fbLiGjggp0",
-  "D_8wsjB-l5g",
-  "hx-HtLlhRys",
-  "taMaW7SG7Y0",
-  "KRk4-JjnwJM",
-  "p04ex7a66ro",
-  "1tq3xBXosjo",
-  "czX6Y9cfdec",
-  "GI6_fQOmaZM",
-  "3oDTwiFzr-E",
-  "WHagDzyEosQ",
-  "DyuX3KCpZQQ",
-  "DrKnPmxEaVo",
-  "JrjgovGCPlc",
-  "vfLn9AXJd6E",
-  "g5-h35CE6Jg"
- ]
+  "status": "ok",
+  "acao": "stats",
+  "canal": "cristao",
+  "ids": [
+    "g6QflGCbiFI",
+    "dEB1h00ab4s",
+    "8kDNaYwcMRk",
+    "FGKKhnESDIs",
+    "D5GafH0VPR4",
+    "fZEhS4BcGL4",
+    "wEBdQNEvmio",
+    "ApDZbdYKiVA",
+    "_Rxn22rycyY",
+    "If5BT57GK64",
+    "AiFT-xB6G4U",
+    "4b04uHo3LkM",
+    "lOv2KMYCsgc",
+    "QU2Nbme0MPo",
+    "865lT4g8KxE",
+    "3fbLiGjggp0",
+    "D_8wsjB-l5g",
+    "hx-HtLlhRys",
+    "taMaW7SG7Y0",
+    "KRk4-JjnwJM",
+    "p04ex7a66ro",
+    "1tq3xBXosjo",
+    "czX6Y9cfdec",
+    "GI6_fQOmaZM",
+    "3oDTwiFzr-E",
+    "WHagDzyEosQ",
+    "DyuX3KCpZQQ",
+    "DrKnPmxEaVo",
+    "JrjgovGCPlc",
+    "vfLn9AXJd6E",
+    "g5-h35CE6Jg"
+  ],
+  "stats": {
+    "g6QflGCbiFI": {
+      "views": 72553,
+      "likes": 2020,
+      "comments": 18,
+      "dur": "PT31S",
+      "title": "No desenho do seu filho, você é uma tela #Shorts"
+    },
+    "dEB1h00ab4s": {
+      "views": 176551,
+      "likes": 4593,
+      "comments": 101,
+      "dur": "PT31S",
+      "title": "Você não vai saber que foi a última vez que pegou seu filho no colo #Shorts"
+    },
+    "8kDNaYwcMRk": {
+      "views": 41419,
+      "likes": 1670,
+      "comments": 29,
+      "dur": "PT31S",
+      "title": "Ele segurou a sua mão no primeiro passo. Você vai segurar a dele? #Shorts"
+    },
+    "FGKKhnESDIs": {
+      "views": 12,
+      "likes": 0,
+      "comments": 0,
+      "dur": "PT31S",
+      "title": "Ele aprendeu a resposta com você: agora não #Shorts"
+    },
+    "D5GafH0VPR4": {
+      "views": 48,
+      "likes": 3,
+      "comments": 0,
+      "dur": "PT34S",
+      "title": "Você esqueceu a frase. Ele carregou por 30 anos. #Shorts"
+    },
+    "fZEhS4BcGL4": {
+      "views": 2333,
+      "likes": 93,
+      "comments": 3,
+      "dur": "PT34S",
+      "title": "Ela ligou 47 vezes. Você ligou uma. #Shorts"
+    },
+    "wEBdQNEvmio": {
+      "views": 4444,
+      "likes": 195,
+      "comments": 2,
+      "dur": "PT34S",
+      "title": "Por que você não é igual ao seu irmão? Ele ouviu e encolheu. #Shorts"
+    },
+    "ApDZbdYKiVA": {
+      "views": 2477,
+      "likes": 100,
+      "comments": 3,
+      "dur": "PT34S",
+      "title": "Seu filho nunca ouviu você pedir desculpa. Ele aprendeu a esconder. #Shorts"
+    },
+    "_Rxn22rycyY": {
+      "views": 4541,
+      "likes": 213,
+      "comments": 0,
+      "dur": "PT34S",
+      "title": "Ele fechou a porta, mas queria que você ficasse #Shorts"
+    },
+    "If5BT57GK64": {
+      "views": 2,
+      "likes": 0,
+      "comments": 0,
+      "dur": "PT20S",
+      "title": "Seu filho esquece o leite derramado. Não esquece o seu grito. #Shorts"
+    },
+    "AiFT-xB6G4U": {
+      "views": 1240,
+      "likes": 46,
+      "comments": 0,
+      "dur": "PT25S",
+      "title": "Você viu 4 horas da vida dos outros hoje. E a sua? #Shorts"
+    },
+    "4b04uHo3LkM": {
+      "views": 1354,
+      "likes": 55,
+      "comments": 2,
+      "dur": "PT21S",
+      "title": "Motivação te leva até a primeira chuva. Disciplina te leva até o fim. #Shorts"
+    },
+    "lOv2KMYCsgc": {
+      "views": 2785,
+      "likes": 76,
+      "comments": 1,
+      "dur": "PT21S",
+      "title": "Ele não vai lembrar da comida. Vai lembrar se você olhou pra ele. #Shorts"
+    },
+    "QU2Nbme0MPo": {
+      "views": 1846,
+      "likes": 60,
+      "comments": 0,
+      "dur": "PT21S",
+      "title": "Dá pra ganhar mais dinheiro. Não dá pra ganhar mais domingo. #Shorts"
+    },
+    "865lT4g8KxE": {
+      "views": 2449,
+      "likes": 98,
+      "comments": 0,
+      "dur": "PT21S",
+      "title": "\"Vai ler a Bíblia, menino!\" 20 anos depois ele mandou igual, no celular #Shorts"
+    },
+    "3fbLiGjggp0": {
+      "views": 1441,
+      "likes": 50,
+      "comments": 0,
+      "dur": "PT21S",
+      "title": "\"Toma, agora me deixa trabalhar\" 20 anos depois o filho disse o mesmo #Shorts"
+    },
+    "D_8wsjB-l5g": {
+      "views": 1268,
+      "likes": 41,
+      "comments": 0,
+      "dur": "PT22S",
+      "title": "\"Eu vou, filho. Prometo.\" 20 anos depois a cadeira vazia era a do filho #Shorts"
+    },
+    "hx-HtLlhRys": {
+      "views": 1229,
+      "likes": 41,
+      "comments": 2,
+      "dur": "PT22S",
+      "title": "\"Eu não peço desculpa pra criança\" 20 anos depois o filho disse o mesmo #Shorts"
+    },
+    "taMaW7SG7Y0": {
+      "views": 1585,
+      "likes": 48,
+      "comments": 0,
+      "dur": "PT22S",
+      "title": "\"Por que você não é igual ao seu irmão?\" 20 anos depois ele disse o mesmo #Shorts"
+    },
+    "KRk4-JjnwJM": {
+      "views": 1264,
+      "likes": 30,
+      "comments": 0,
+      "dur": "PT22S",
+      "title": "\"Olha a vergonha que você me fez passar!\" 20 anos depois ele gritou igual #Shorts"
+    },
+    "p04ex7a66ro": {
+      "views": 1623,
+      "likes": 56,
+      "comments": 0,
+      "dur": "PT22S",
+      "title": "\"Engole o choro!\" — 20 anos depois ele disse o mesmo ao filho #Shorts"
+    },
+    "1tq3xBXosjo": {
+      "views": 1458,
+      "likes": 40,
+      "comments": 7,
+      "dur": "PT22S",
+      "title": "\"Alguém pode me ajudar?\" — 20 anos depois o filho fez o mesmo em casa #Shorts"
+    },
+    "czX6Y9cfdec": {
+      "views": 1182,
+      "likes": 34,
+      "comments": 0,
+      "dur": "PT22S",
+      "title": "\"Vai brincar lá fora, tô ocupado\" — 20 anos depois o filho disse o mesmo #Shorts"
+    },
+    "GI6_fQOmaZM": {
+      "views": 1453,
+      "likes": 37,
+      "comments": 0,
+      "dur": "PT22S",
+      "title": "\"Que nota é essa?!\" — 20 anos depois ele rasgou o boletim do filho #Shorts"
+    },
+    "3oDTwiFzr-E": {
+      "views": 1349,
+      "likes": 46,
+      "comments": 0,
+      "dur": "PT22S",
+      "title": "\"Você não faz nada direito\" — 20 anos depois virou a voz na cabeça dele #Shorts"
+    },
+    "WHagDzyEosQ": {
+      "views": 38,
+      "likes": 0,
+      "comments": 1,
+      "dur": "PT22S",
+      "title": "\"Orar pra quê? Vai dormir\" — 30 anos depois ele não sabia a quem chamar #Shorts"
+    },
+    "DyuX3KCpZQQ": {
+      "views": 1102,
+      "likes": 20,
+      "comments": 0,
+      "dur": "PT22S",
+      "title": "\"Tá bom, pra não ter briga\" — 10 anos depois ele não aceita um \"não\" #Shorts"
+    },
+    "DrKnPmxEaVo": {
+      "views": 1030,
+      "likes": 21,
+      "comments": 0,
+      "dur": "PT22S",
+      "title": "\"8,5? E os outros 1,5?\" — 20 anos depois ele disse o mesmo #Shorts"
+    },
+    "JrjgovGCPlc": {
+      "views": 958,
+      "likes": 13,
+      "comments": 0,
+      "dur": "PT22S",
+      "title": "\"Diz que eu não tô em casa\" — 20 anos depois ele fez o mesmo #Shorts"
+    },
+    "vfLn9AXJd6E": {
+      "views": 907,
+      "likes": 19,
+      "comments": 0,
+      "dur": "PT22S",
+      "title": "\"Você nunca escuta!\" — ele ouviu tudo atrás da porta #Shorts"
+    },
+    "g5-h35CE6Jg": {
+      "views": 2,
+      "likes": 0,
+      "comments": 0,
+      "dur": "PT22S",
+      "title": "\"Não vou na casa da sua avó\" — 20 anos depois ele disse o mesmo #Shorts"
+    }
+  }
 }
