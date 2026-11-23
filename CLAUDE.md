@@ -4,10 +4,10 @@
 
 > **Desde 09/11/2026 a Mindloop (Instagram e YouTube) faz "o mundo explicado em mapas e dados", 1 vídeo por dia (Tarefa B3). Os bonequinhos da Mindloop (B2) estão pausados.**
 
-Este repositório gera vídeos animados (desenhados por código), narrados com voz neural e sincronizados palavra a palavra, e os publica como Reels na @mindloop_u pelo Windsor.ai e como Shorts no YouTube (`pipeline/yt_post.sh`, workflow `yt-post.yml`, segredos `YT_CLIENT_ID`, `YT_CLIENT_SECRET` e `YT_REFRESH_TOKEN`). O canal cristão do YouTube (**JesusIsLove**, `yt_post.sh` com canal `cristao`, segredo `YT_REFRESH_TOKEN_CRISTAO`) tem fila própria (`--conta jesusislove`) e só posta bonequinhos de pais e filhos; os Reels do @e_cosdafe não vão mais para o YouTube (desde 02/11/2026).
+Este repositório gera vídeos animados (desenhados por código), narrados com voz neural e sincronizados palavra a palavra, e os publica como Reels na @mindloop_u pela API oficial da Meta (`pipeline/ig_post.sh`, desde 23/11/2026; antes era pelo Windsor.ai) e como Shorts no YouTube (`pipeline/yt_post.sh`, workflow `yt-post.yml`, segredos `YT_CLIENT_ID`, `YT_CLIENT_SECRET` e `YT_REFRESH_TOKEN`). O canal cristão do YouTube (**JesusIsLove**, `yt_post.sh` com canal `cristao`, segredo `YT_REFRESH_TOKEN_CRISTAO`) tem fila própria (`--conta jesusislove`) e só posta bonequinhos de pais e filhos; os Reels do @e_cosdafe não vão mais para o YouTube (desde 02/11/2026).
 
 - **Dono:** Jonas, que fala português.
-- **Conta:** Instagram `mindloop_u`, id `17841442746650307`, connector `instagram`.
+- **Conta:** Instagram `mindloop_u`, id `17841442746650307`. **Não usa mais o Windsor (desde 23/11/2026).** Posta pela API oficial da Meta: `pipeline/ig_post.sh` com `"conta": "mindloop"` (segredo `IG_TOKEN_MINDLOOP`; se não existir, usa `IG_TOKEN_SISTEMA`).
 
 ## Estrutura
 - `videos/`: MP4 finais. São públicos via `https://raw.githubusercontent.com/definaseufuturo-debug/videoinsta/main/videos/<arquivo>`, que é a URL que o Instagram baixa.
@@ -24,10 +24,11 @@ Este repositório gera vídeos animados (desenhados por código), narrados com v
 ## Tarefa A: POSTAR (rodada nos horários de postagem)
 1. `python3 pipeline/fila.py proximo`.
    - Se vier `{"nada": true}`, registre no log e encerre.
-2. Chame o Windsor `execute_action` com connector `instagram` e account `17841442746650307`:
-   - se `tipo` for `video`: action `create_video_post`, com params `{video_url, caption, share_to_feed: true, thumb_offset}` vindos do JSON;
-   - se `tipo` for `carrossel`: action `create_carousel_post`, com params `{image_urls, caption}` vindos do JSON.
+2. Monte o job e salve num arquivo temporário, depois rode `bash pipeline/ig_post.sh <arquivo>` (API oficial da Meta; o Windsor não é mais usado):
+   - se `tipo` for `video`: `{"conta": "mindloop", "tipo": "video", "video_url", "caption", "share_to_feed": true, "thumb_offset"}` com os campos do JSON;
+   - se `tipo` for `carrossel`: `{"conta": "mindloop", "tipo": "carrossel", "image_urls", "caption"}`.
    O `proximo` normal só devolve vídeos. Os carrosséis saem pela tarefa de carrossel com `fila.py proximo --so-carrossel`, que nunca usa a reserva.
+   O script devolve `status` ("postado" ou "erro"), `media_id` e `erro`.
 3. Se der certo: `python3 pipeline/fila.py marcar <id> <media_id>`.
    Se der erro: `python3 pipeline/fila.py falhou <id> "<erro>"`. Tente de novo uma única vez, depois de 1 minuto.
 3b. **YouTube (só vídeos, só depois do Instagram dar certo).** Salve o `caption` num arquivo temporário e rode `bash pipeline/yt_post.sh <id> videos/<arquivo do video_url> <arquivo da legenda> "<título>"`.
