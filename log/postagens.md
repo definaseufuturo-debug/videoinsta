@@ -254,3 +254,5 @@
 - 2026-11-23 11:57 | jil-2026-11-23-casa-da-vovo | jesusislove | yt g5-h35CE6Jg
 - 2026-11-23 11:57 | cristao | nada na fila (Instagram @e_cosdafe)
 - 2026-11-23 19:01 | 2026-11-23-ia-emprego | agendado | ok 17960517441266641 | yt dbDL7gcds5c
+- 2026-11-23 22:08 | cristao-2026-11-23-veu | cristao | ERRO/INCERTO: job enviado (ig/jobs/cristao-2026-11-23-veu.json, commit 054bb0a); workflow ig-post run 45274824405 concluiu com sucesso mas o resultado não voltou ao repositório (status segue "pendente"). Não postei de novo para evitar duplicar: VERIFICAR no @e_cosdafe antes de repostar. Item segue pendente na fila.
+- 2026-11-23 22:08 | jil-2026-11-23-isso-nao-da-dinheiro | jesusislove | yt rxwIg__9v5Y (título inclui "20 anos depois", contra a regra da NOVA FASE; revisar)
