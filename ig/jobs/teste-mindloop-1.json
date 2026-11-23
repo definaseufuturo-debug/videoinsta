@@ -1,5 +1,7 @@
 {
   "conta": "mindloop",
   "tipo": "teste",
-  "status": "pendente"
+  "status": "erro",
+  "erro": "HTTP 400: {\"error\":{\"message\":\"Unsupported get request. Object with ID '17841442746650307' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api\",\"code\":100,\"type\":\"GraphMethodException\",\"error_subcode\":33,\"fbtrace_id\":\"Al1_dna3k4LH_YMq4gX51Sv\"}}",
+  "processado_em": "2026-11-23T14:24:29Z"
 }
