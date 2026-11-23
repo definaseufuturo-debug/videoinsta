@@ -253,3 +253,4 @@
 - 2026-11-23 11:50 | 2026-11-19-fim-da-6x1 | fila | movido para a reserva (atrasado desde 19/11 por falta de conexão do Windsor)
 - 2026-11-23 11:57 | jil-2026-11-23-casa-da-vovo | jesusislove | yt g5-h35CE6Jg
 - 2026-11-23 11:57 | cristao | nada na fila (Instagram @e_cosdafe)
+- 2026-11-23 19:01 | 2026-11-23-ia-emprego | agendado | ok 17960517441266641 | yt dbDL7gcds5c
