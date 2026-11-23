@@ -1,0 +1,18 @@
+{
+  "voice": "pm_alex",
+  "speed": 1.12,
+  "lang": "pt-br",
+  "_comment": "MODO DEBATE (seg 23/11/2026), Fila DEBATE: A IA vai tirar o seu emprego? Fontes: FMI (Georgieva, blog 14/01/2024 + SDN 2024/001): ~40% dos empregos do mundo expostos a IA, 60% nas economias avancadas, ~26% nos paises de baixa renda, e alerta de que pode aumentar a desigualdade; OIT/NASK (Working Paper 140, mai/2025, indice refinado de exposicao a IA generativa): ~1 em cada 4 empregos (25%) em ocupacoes expostas, so ~3% na faixa de maior exposicao, trabalho administrativo/de escritorio o mais exposto, maioria das ocupacoes seria transformada e nao eliminada. Cobertura: Reuters/CNBC (15/01/2024), Fast Company Brasil/ONU Brasil (OIT). Exposicao nao e demissao: nenhum dos dois relatorios projeta quantos empregos vao sumir.",
+  "say": { "FMI": "éfe eme í", "OIT": "ó í tê" },
+  "fish": { "voice": "c9d3da0bdf61417d929dc67966e4befe", "speed": 1.2, "model": "s2.1-pro-free" },
+  "clips": [
+    { "id": "c1", "scene": 1, "minStart": 0.3, "gapAfterPrev": 0, "text": "A inteligência artificial vai tirar o seu emprego? O FMI diz que quarenta por cento dos empregos do mundo estão expostos." },
+    { "id": "c2", "scene": 2, "minStart": 0, "gapAfterPrev": 0.4, "text": "Quem diz que sim aponta: nos países ricos, são sessenta por cento. E a OIT diz que o trabalho de escritório é o mais exposto." },
+    { "id": "c3", "scene": 3, "minStart": 0, "gapAfterPrev": 0.45, "text": "Quem diz que não responde: exposto não é demitido. A OIT calcula que um em cada quatro empregos será transformado, e só três por cento estão no nível máximo." },
+    { "id": "c4", "scene": 4, "minStart": 0, "gapAfterPrev": 0.4, "text": "O dado que incomoda os dois: nenhum desses relatórios diz quantos empregos vão sumir. Eles medem exposição, não demissão." },
+    { "id": "c5", "scene": 5, "minStart": 0, "gapAfterPrev": 0.4, "text": "E nos países de renda baixa, a exposição é de vinte e seis por cento. O FMI alerta: a IA pode aumentar a desigualdade entre países." },
+    { "id": "c6", "scene": 6, "minStart": 0, "gapAfterPrev": 0.45, "text": "E você: sim ou não? Comenta e marca quem vai discordar. Amanhã: celular proibido na escola, funcionou? Segue a Mindloop pra não perder." }
+  ],
+  "tailAfterLastClip": 1.8,
+  "keywords": []
+}

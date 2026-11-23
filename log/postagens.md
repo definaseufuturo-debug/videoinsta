@@ -242,3 +242,4 @@
 - 2026-11-22 18:53 | cristao-2026-11-22-tatuagem | cristao | ok 18107442554347630
 - 2026-11-22 18:53 | jil-2026-11-22-a-briga-que-ele-ouve | jesusislove | yt vfLn9AXJd6E
 - 2026-11-22 22:53 | 2026-11-19-fim-da-6x1 | agendado | ERRO Windsor: No instagram accounts are configured for bemyveusgmailcom (2 tentativas, a 2a apos 1 min) | yt nao enviado (Instagram falhou)
+- 2026-11-23 00:30 | 2026-11-23-ia-emprego | produção B3 (debate IA x emprego, FMI+OIT, voz masculina Fish) | na fila para 2026-11-23T19:00
