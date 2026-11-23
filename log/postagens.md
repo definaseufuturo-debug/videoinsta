@@ -247,3 +247,5 @@
 - 2026-11-23 02:10 | jil-2026-11-23-isso-nao-da-dinheiro | produção cristão | pôster escuro (Pv 16:3), 18 s + CTA, agendado YT 19:00
 - 2026-11-23 02:25 | cristao-2026-11-23-odiar-pai-mae | produção cristão | A Bíblia que ninguém prega (Lc 14:26), 64 s + CTA, agendado IG 07:00
 - 2026-11-23 02:35 | cristao-2026-11-23-veu | produção cristão | Debate da fé: véu (1Co 11), 63 s + CTA, agendado IG 19:00
+- 2026-11-23 06:53 | cristao-2026-11-23-odiar-pai-mae | cristao | ok 18025429745951080
+- 2026-11-23 06:53 | jesusislove | nada na hora (proximo: jil-2026-11-23-casa-da-vovo agendado 12:00, ainda não venceu)
