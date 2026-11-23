@@ -251,3 +251,5 @@
 - 2026-11-23 06:53 | jesusislove | nada na hora (proximo: jil-2026-11-23-casa-da-vovo agendado 12:00, ainda não venceu)
 - 2026-11-23 11:50 | 2026-11-22-semana-4-dias | agendado (atrasado; 1º post pela API da Meta, sem Windsor) | ok 18211671064373114 | yt R9WPBucZBLE
 - 2026-11-23 11:50 | 2026-11-19-fim-da-6x1 | fila | movido para a reserva (atrasado desde 19/11 por falta de conexão do Windsor)
+- 2026-11-23 11:57 | jil-2026-11-23-casa-da-vovo | jesusislove | yt g5-h35CE6Jg
+- 2026-11-23 11:57 | cristao | nada na fila (Instagram @e_cosdafe)
