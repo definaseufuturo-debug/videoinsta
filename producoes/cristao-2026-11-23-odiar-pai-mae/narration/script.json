@@ -1,0 +1,87 @@
+{
+  "voice": "pm_alex",
+  "speed": 1.1,
+  "lang": "pt-br",
+  "_comment": "A Bíblia que ninguém prega (07:00): Lc 14:26 (ARC: 'se alguém vem a mim e não aborrece a seu pai e mãe, mulher, filhos, irmãos, irmãs, e ainda a sua própria vida, não pode ser meu discípulo'); Lc 14:27,33 (cruz e renunciar a tudo); Mt 10:37 (quem ama pai ou mãe mais do que a mim não é digno de mim); Gn 29:30-31 (Jacó amou mais Raquel; Lia 'aborrecida' = amada menos); Mt 15:4 (honra pai e mãe); Jo 19:26-27 (Jesus entrega a mãe ao discípulo). Segunda fonte: comentários sobre o semitismo 'miseo' = amar menos / preferir (GotQuestions PT 'Lucas 14:26'; BibleGateway). Neutro, sem denominação.",
+  "say": {},
+  "fish": {
+    "voice": "a0a26a57cac94ea4918f05a2393b4259",
+    "speed": 1.1,
+    "model": "s2.1-pro-free"
+  },
+  "accent": [],
+  "clips": [
+    {
+      "id": "c1",
+      "scene": 1,
+      "minStart": 0.3,
+      "gapAfterPrev": 0,
+      "text": "Jesus mandou odiar o pai e a mãe?"
+    },
+    {
+      "id": "c2",
+      "scene": 2,
+      "minStart": 0,
+      "gapAfterPrev": 0.5,
+      "text": "Está em Lucas, capítulo 14, versículo 26. E parece bater de frente com o mandamento de honrar pai e mãe. Vamos ver os dois lados."
+    },
+    {
+      "id": "c3",
+      "scene": 3,
+      "minStart": 0,
+      "gapAfterPrev": 0.5,
+      "text": "Jesus disse: se alguém vem a mim e não aborrece a seu pai, e mãe, e mulher, e filhos, e irmãos, e até a sua própria vida, não pode ser meu discípulo."
+    },
+    {
+      "id": "c4",
+      "scene": 4,
+      "minStart": 0,
+      "gapAfterPrev": 0.5,
+      "text": "Quem lê ao pé da letra lembra do que vem logo depois: carregar a cruz e renunciar a tudo o que se tem. Para esse lado, seguir Jesus custa até a família."
+    },
+    {
+      "id": "c5",
+      "scene": 5,
+      "minStart": 0,
+      "gapAfterPrev": 0.5,
+      "text": "Quem lê como linguagem de comparação lembra de Mateus 10:37: quem ama o pai ou a mãe mais do que a mim não é digno de mim."
+    },
+    {
+      "id": "c6",
+      "scene": 6,
+      "minStart": 0,
+      "gapAfterPrev": 0.5,
+      "text": "E em Gênesis 29, a Bíblia diz que Jacó amou mais a Raquel, e que Lia era aborrecida. Na mesma história, aborrecer é amar menos."
+    },
+    {
+      "id": "c7",
+      "scene": 7,
+      "minStart": 0,
+      "gapAfterPrev": 0.5,
+      "text": "Agora o detalhe que quase ninguém conta. Em Mateus 15:4, Jesus defende o mandamento: honra a teu pai e a tua mãe."
+    },
+    {
+      "id": "c8",
+      "scene": 8,
+      "minStart": 0,
+      "gapAfterPrev": 0.5,
+      "text": "E da cruz, no meio da dor, ele entregou a própria mãe aos cuidados do discípulo João."
+    },
+    {
+      "id": "c9",
+      "scene": 9,
+      "minStart": 0,
+      "gapAfterPrev": 0.5,
+      "text": "Os dois lados concordam numa coisa: Jesus precisa vir em primeiro lugar. A divisão é se isso pede uma ruptura de verdade, ou é um jeito forte de dizer prioridade."
+    },
+    {
+      "id": "c10",
+      "scene": 10,
+      "minStart": 0,
+      "gapAfterPrev": 0.5,
+      "text": "E você: ruptura ou prioridade? Comenta a sua palavra e o versículo. Marca aquele irmão que vai discordar. E segue: todo dia, a Bíblia que ninguém prega."
+    }
+  ],
+  "tailAfterLastClip": 2.3,
+  "keywords": []
+}

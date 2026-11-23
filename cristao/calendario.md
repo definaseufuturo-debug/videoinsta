@@ -339,6 +339,8 @@ Estilo do modelo producoes/jil-2026-11-11-leite-derramado/ (fundo preto, holofot
 
 - [x] "Diz que eu não tô em casa": pai manda o filho mentir ao telefone × "diz que estou, já vou atender"; 20 anos depois o filho repete (Ef 4:25) — 22/11 ("jil-2026-11-22-diz-que-nao-to", YT 12:00)
 - [x] A briga que a criança ouve: casal briga e o filho ouve atrás da porta × "pera, ele tá ouvindo" e abraçam (Ef 4:32) — 22/11 ("jil-2026-11-22-a-briga-que-ele-ouve", YT 19:00)
-- [ ] (fila esgotada em 22/11: criar novos temas de pais e filhos; ideias: a oração do filho "faz o papai chegar cedo", o telefone que parou de tocar, os avós, ninguém nasce sabendo ser pai)
+- [x] "Não vou na casa da sua avó, é chata!": mãe que fala mal da avó × mãe que leva o filho; 20 anos depois o filho repete e a avó espera (Êx 20:12) — 23/11 ("jil-2026-11-23-casa-da-vovo", YT 12:00)
+- [x] "Isso não dá dinheiro, larga isso!" (violão): pai que apaga o sonho × pai que pede "toca pra mim" (Pv 16:3) — 23/11 ("jil-2026-11-23-isso-nao-da-dinheiro", YT 19:00)
+- [ ] (fila esgotada em 23/11: criar novos temas de pais e filhos; ideias: a oração do filho "faz o papai chegar cedo", o telefone que parou de tocar, os avós, ninguém nasce sabendo ser pai)
 ### Pausados (fora do nicho do canal; não usar no JesusIsLove)
 - Ninguém tira foto do alicerce (Mt 7:24) · Você rega o que quer ver crescer (Gl 6:7) · "A gente precisa conversar" (Fp 4:6-7) · Bicicleta / quem cai aprendendo (Pv 24:16) · A prova é sexta (Pv 6:6-8) · A mochila da mágoa (Cl 3:13) · A Bíblia na estante (Sl 119:105) · Salário que entra e sai (Pv 21:20) · Oração só na crise (1Ts 5:17) · Tempo de tela × tempo de joelho (Mt 6:6)
