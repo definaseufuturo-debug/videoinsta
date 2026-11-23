@@ -1,0 +1,33 @@
+{
+  "status": "pendente",
+  "voice": "c9d3da0bdf61417d929dc67966e4befe",
+  "speed": 1.2,
+  "model": "s2.1-pro-free",
+  "language": "pt",
+  "clips": [
+    {
+      "id": "c1",
+      "text": "A inteligência artificial vai tirar o seu emprego? O éfe eme í diz que quarenta por cento dos empregos do mundo estão expostos."
+    },
+    {
+      "id": "c2",
+      "text": "Quem diz que sim aponta: nos países ricos, são sessenta por cento. E a ó í tê diz que o trabalho de escritório é o mais exposto."
+    },
+    {
+      "id": "c3",
+      "text": "Quem diz que não responde: exposto não é demitido. A ó í tê calcula que um em cada quatro empregos será transformado, e só três por cento estão no nível máximo."
+    },
+    {
+      "id": "c4",
+      "text": "O dado que incomoda os dois: nenhum desses relatórios diz quantos empregos vão sumir. Eles medem exposição, não demissão."
+    },
+    {
+      "id": "c5",
+      "text": "E nos países de renda baixa, a exposição é de vinte e seis por cento. O éfe eme í alerta: a IA pode aumentar a desigualdade entre países."
+    },
+    {
+      "id": "c6",
+      "text": "E você: sim ou não? Comenta e marca quem vai discordar. Amanhã: celular proibido na escola, funcionou? Segue a Mindloop pra não perder."
+    }
+  ]
+}
