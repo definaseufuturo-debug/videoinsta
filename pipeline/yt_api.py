@@ -44,6 +44,19 @@ for jf in sorted((ROOT / "yt/jobs").glob("*.json")):
         nome, rtok = refresh_token(job.get("canal", ""))
         if not (CID and CSEC and rtok): raise RuntimeError(f"faltam segredos YT_CLIENT_ID / YT_CLIENT_SECRET / {nome}")
         at = token(rtok)
+        if job.get("acao") == "stats":  # só leitura: visualizações/likes/comentários dos ids pedidos
+            job["stats"] = {}
+            ids = job.get("ids", [])
+            for k in range(0, len(ids), 50):
+                q = "https://www.googleapis.com/youtube/v3/videos?part=statistics,contentDetails,snippet&id=" + ",".join(ids[k:k+50])
+                with urllib.request.urlopen(urllib.request.Request(q, headers={"Authorization": "Bearer " + at}), timeout=60) as r:
+                    for it in json.load(r).get("items", []):
+                        st = it.get("statistics", {})
+                        job["stats"][it["id"]] = {"views": int(st.get("viewCount", 0)), "likes": int(st.get("likeCount", 0)),
+                                                  "comments": int(st.get("commentCount", 0)), "dur": it["contentDetails"]["duration"],
+                                                  "title": it["snippet"]["title"]}
+            job["status"] = "ok"; print(jf.stem, "stats ok", len(job["stats"]))
+            jf.write_text(json.dumps(job, ensure_ascii=False, indent=2)); continue
         if job.get("acao") == "checar":
             job.update(status="ok", token="válido")
             try:
