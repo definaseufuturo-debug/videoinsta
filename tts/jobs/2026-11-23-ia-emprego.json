@@ -1,5 +1,5 @@
 {
-  "status": "erro",
+  "status": "pendente",
   "voice": "c9d3da0bdf61417d929dc67966e4befe",
   "speed": 1.2,
   "model": "s2.1-pro-free",
@@ -29,6 +29,5 @@
       "id": "c6",
       "text": "E você: sim ou não? Comenta e marca quem vai discordar. Amanhã: celular proibido na escola, funcionou? Segue a Mindloop pra não perder."
     }
-  ],
-  "erro": "HTTP 502: error code: 502\n"
+  ]
 }
