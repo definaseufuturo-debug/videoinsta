@@ -257,3 +257,4 @@
 - 2026-11-23 22:08 | cristao-2026-11-23-veu | cristao | ERRO/INCERTO: job enviado (ig/jobs/cristao-2026-11-23-veu.json, commit 054bb0a); workflow ig-post run 45274824405 concluiu com sucesso mas o resultado não voltou ao repositório (status segue "pendente"). Não postei de novo para evitar duplicar: VERIFICAR no @e_cosdafe antes de repostar. Item segue pendente na fila.
 - 2026-11-23 22:08 | jil-2026-11-23-isso-nao-da-dinheiro | jesusislove | yt rxwIg__9v5Y (título inclui "20 anos depois", contra a regra da NOVA FASE; revisar)
 - 2026-11-23 22:28 | cristao-2026-11-23-veu | cristao | ok (confirmado pelo Jonas: postado no @e_cosdafe; media_id desconhecido, resultado do workflow não voltou)
+- 2026-11-24 00:30 | 2026-11-24-celular-escola | produção debate (Fila DEBATE: celular na escola) | agendado 19:00, voz jovem Fish; fontes MEC/Inep + Birmingham/Lancet + UCL

@@ -1,0 +1,18 @@
+{
+  "voice": "pm_alex",
+  "speed": 1.12,
+  "lang": "pt-br",
+  "_comment": "MODO DEBATE (ter 24/11/2026), Fila DEBATE: Celular proibido na escola. Fontes: MEC/Inep com Instituto Alana e Unesco, Pesquisa Nacional do 1o ano da Lei 15.100/2025 (Agencia Brasil e Diario do Nordeste, 30/06/2026): 92% das escolas aplicam as regras, antes da lei 13% permitiam uso irrestrito; percepcao de gestores (coleta mar-abr/2026, margem de 5 p.p.): 95% mais concentracao... 88% menos cyberbullying, 86% menos ansiedade; sao percepcoes, nao medicao de notas. Contra: Univ. de Birmingham, Lancet Regional Health Europe (05/02/2025), 1.227 alunos em 30 escolas inglesas: sem diferenca em notas, ansiedade, sono entre escolas com e sem proibicao; uso do celular na escola caiu cerca de 40 min. UCL (30/06/2026): 87% dos professores e 88% dos pais apoiam proibicao, 75% dos alunos discordam (amostra de 732 alunos, Inglaterra, comunicado de imprensa). Tema fecha com amanha: bets (proximo da fila).",
+  "say": { "MEC": "ême é cê", "UCL": "u cê éli" },
+  "fish": { "voice": "b1cab1f57b8d41aeb225d7d8bafc0806", "speed": 1.2, "model": "s2.1-pro-free" },
+  "clips": [
+    { "id": "c1", "scene": 1, "minStart": 0.3, "gapAfterPrev": 0, "text": "Celular proibido na escola: funcionou? Antes da lei, treze por cento das escolas liberavam o aparelho. Hoje, noventa e dois por cento seguem a regra." },
+    { "id": "c2", "scene": 2, "minStart": 0, "gapAfterPrev": 0.4, "text": "Quem é a favor mostra a pesquisa do MEC: noventa e cinco por cento dos diretores notaram mais concentração, e oitenta e oito por cento, menos cyberbullying." },
+    { "id": "c3", "scene": 3, "minStart": 0, "gapAfterPrev": 0.45, "text": "Quem é contra mostra um estudo inglês com mil duzentos e vinte e sete alunos: sem diferença em notas, ansiedade ou sono entre escolas com e sem proibição." },
+    { "id": "c4", "scene": 4, "minStart": 0, "gapAfterPrev": 0.4, "text": "O dado que incomoda os dois: a pesquisa do MEC mede a percepção dos diretores, não as notas. E no estudo inglês, o uso do celular caiu só quarenta minutos." },
+    { "id": "c5", "scene": 5, "minStart": 0, "gapAfterPrev": 0.4, "text": "E na Inglaterra, oitenta e sete por cento dos professores apoiam a proibição. Já setenta e cinco por cento dos alunos discordam." },
+    { "id": "c6", "scene": 6, "minStart": 0, "gapAfterPrev": 0.45, "text": "E você: A ou B? Comenta e marca quem vai discordar. Amanhã: bets, o Brasil devia proibir? Segue a Mindloop pra não perder." }
+  ],
+  "tailAfterLastClip": 1.8,
+  "keywords": []
+}
