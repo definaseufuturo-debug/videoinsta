@@ -43,7 +43,7 @@
 - [x] Deus mandou ursos atacarem 42 jovens por zombarem de Eliseu? (2Rs 2:23-24) — 19/11 ("cristao-2026-11-19-ursos-eliseu", 1º do modo debate, texto cinético, voz Fish 4, 67 s + CTA)
 - [x] Jesus disse: "Não vim trazer paz, mas espada" (Mt 10:34) — 22/11 ("cristao-2026-11-22-espada", texto cinético PAZ x DIVISÃO, voz Fish 4, 64 s + CTA)
 - [x] "Quem não odeia pai e mãe não pode ser meu discípulo" (Lc 14:26) — 23/11 ("cristao-2026-11-23-odiar-pai-mae", texto cinético, voz Fish 4, 64 s + CTA)
-- [ ] Ananias e Safira morreram por uma mentira sobre dinheiro (At 5:1-11)
+- [x] Ananias e Safira morreram por uma mentira sobre dinheiro (At 5:1-11) — 24/11 ("cristao-2026-11-24-ananias-safira", texto cinético, voz Fish 4, 82 s com CTA)
 - [ ] Uzá tocou na arca para ela não cair e morreu (2Sm 6:6-7)
 - [ ] Jesus amaldiçoou uma figueira que não tinha fruto (Mc 11:12-14)
 - [ ] O voto de Jefté e a filha dele (Jz 11:30-40)
@@ -94,8 +94,8 @@ Os posts do Instagram **não vão mais para o YouTube**, e os bonequinhos **não
 - **Medir:** `bash pipeline/yt_stats.sh jesusislove` mostra as visualizações de todos os Shorts, do mais visto ao menos visto. Rode a cada 3 ou 4 dias. Se um tipo de cena rende o dobro da média, faça mais dele; se 6 vídeos seguidos ficarem abaixo de 3 mil, pare e avise o Jonas em vez de continuar a fila.
 
 ### FILA MOMENTOS QUE PASSAM (pegue o próximo [ ], na ordem; quando restarem menos de 6, crie mais 12 com a mesma fórmula)
-- [ ] Ele finge que dorme no carro: o pai carrega o filho dormindo do carro até a cama aos 3, 6 e 9 anos; aos 12 o filho "finge dormir" pra ser carregado e o pai percebe e carrega mesmo assim. Final: "ELE AINDA FINGE DORMIR PRA VOCÊ CARREGAR. CARREGUE." Título: "Ele finge que dorme no carro pra você carregar". (Sl 4:8) — vermelho: a chave do carro
-- [ ] A última historinha: o pai lê antes de dormir aos 3, 6 e 9 anos; aos 12 a luz está apagada e a porta fechada; de manhã o pai volta com o livro e o filho abre espaço na cama. Final: "ELE PARA DE PEDIR A HISTÓRIA ANTES DE VOCÊ PARAR DE LER." Título: "Um dia ele para de pedir a historinha. Você sabe qual foi a última?" (Dt 6:7) — vermelho: o livro
+- [x] Ele finge que dorme no carro: o pai carrega o filho dormindo do carro até a cama aos 3, 6 e 9 anos; aos 12 o filho "finge dormir" pra ser carregado e o pai percebe e carrega mesmo assim. Final: "ELE AINDA FINGE DORMIR PRA VOCÊ CARREGAR. CARREGUE." Título: "Ele finge que dorme no carro pra você carregar". (Sl 4:8) — vermelho: a chave do carro
+- [x] A última historinha: o pai lê antes de dormir aos 3, 6 e 9 anos; aos 12 a luz está apagada e a porta fechada; de manhã o pai volta com o livro e o filho abre espaço na cama. Final: "ELE PARA DE PEDIR A HISTÓRIA ANTES DE VOCÊ PARAR DE LER." Título: "Um dia ele para de pedir a historinha. Você sabe qual foi a última?" (Dt 6:7) — vermelho: o livro
 - [ ] A porta de casa: aos 2 anos ele corre gritando "papai chegou!"; aos 6 corre mais devagar; aos 10 olha do sofá; aos 14 nem levanta; o pai ajoelha na porta e abre os braços em silêncio e o filho vem. Final: "SE ELE PAROU DE CORRER ATÉ VOCÊ, VÁ ATÉ ELE." Título: "A última vez que ele correu até você na porta" (Lc 15:20) — vermelho: a maçaneta
 - [ ] Eu te amo, primeiro: aos 5 ele diz "eu te amo" sozinho; aos 12 só quando o pai pede; aos 16 nunca; o pai diz primeiro, em silêncio o balão fica no ar, e vem a resposta tímida. Final: "DIGA PRIMEIRO. ELE ESTÁ ESPERANDO." Título: "Quando foi a última vez que ele disse 'te amo' sem você pedir?" (1Jo 4:19) — vermelho: o balão do "eu te amo"
 - [ ] Ele não olhou pra trás: no portão da escola ele olha pra trás 3 vezes e acena aos 4 anos, 1 vez aos 8, nenhuma aos 12; no último quadro ele para na porta, olha pra trás por 1 segundo e a mãe acena. Final: "UM DIA ELE NÃO OLHA PRA TRÁS. HOJE AINDA OLHA. ACENA." Título: "Um dia ele entra na escola sem olhar pra trás" (Dt 31:6) — vermelho: o portão

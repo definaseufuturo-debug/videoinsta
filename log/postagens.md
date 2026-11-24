@@ -258,3 +258,4 @@
 - 2026-11-23 22:08 | jil-2026-11-23-isso-nao-da-dinheiro | jesusislove | yt rxwIg__9v5Y (título inclui "20 anos depois", contra a regra da NOVA FASE; revisar)
 - 2026-11-23 22:28 | cristao-2026-11-23-veu | cristao | ok (confirmado pelo Jonas: postado no @e_cosdafe; media_id desconhecido, resultado do workflow não voltou)
 - 2026-11-24 00:30 | 2026-11-24-celular-escola | produção debate (Fila DEBATE: celular na escola) | agendado 19:00, voz jovem Fish; fontes MEC/Inep + Birmingham/Lancet + UCL
+- 2026-11-24 01:58 | cristao-2026-11-24-ananias-safira, jil-2026-11-24-finge-dormir, jil-2026-11-24-ultima-historinha | produção | na fila (IG 07:00; YT 12:00 e 19:00). Obs: finge-dormir estava 'fora da fila até o Jonas aprovar' (commit 62ce6fa); entrou como 1º da fila MOMENTOS QUE PASSAM. CLAUDE.md atual (modo debate/bonequinhos) seguido em vez do prompt antigo (palavra da manhã/pôster escuro)
