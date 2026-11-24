@@ -261,3 +261,4 @@
 - 2026-11-24 01:58 | cristao-2026-11-24-ananias-safira, jil-2026-11-24-finge-dormir, jil-2026-11-24-ultima-historinha | produção | na fila (IG 07:00; YT 12:00 e 19:00). Obs: finge-dormir estava 'fora da fila até o Jonas aprovar' (commit 62ce6fa); entrou como 1º da fila MOMENTOS QUE PASSAM. CLAUDE.md atual (modo debate/bonequinhos) seguido em vez do prompt antigo (palavra da manhã/pôster escuro)
 - 2026-11-24 02:05 | cristao-2026-11-24-mulher-pastora | produção | na fila (IG 19:00)
 - 2026-11-24 06:57 | cristao-2026-11-24-ananias-safira | cristao (rodada agendada) | ok 18181748920439814 (pedido do workflow saiu com id ig_job por erro no nome do arquivo; resultado confirmado em ig/jobs/ig_job.json; sem nova tentativa) | jesusislove: nada na fila
+- 2026-11-24 11:56 | jil-2026-11-24-finge-dormir | jesusislove | yt PIlgtI1JlLA
