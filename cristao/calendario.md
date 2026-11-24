@@ -22,7 +22,7 @@
 - [x] Crente pode beber vinho? (Jo 2:1-11, Sl 104:15 x Pv 20:1, Ef 5:18) — 21/11 ("cristao-2026-11-21-vinho", texto cinético LADO SIM x NÃO, voz Fish 4, 60 s + CTA; virada: Lc 7:33-34 João Batista x Jesus)
 - [x] Cristão pode fazer tatuagem? (Lv 19:28 e o contexto) — 22/11 ("cristao-2026-11-22-tatuagem", texto cinético SIM x NÃO, voz Fish 4, 64 s + CTA)
 - [x] Mulher deve usar véu na igreja? (1Co 11:2-16) — 23/11 ("cristao-2026-11-23-veu", texto cinético SIM x NÃO, voz Fish 4, 63 s + CTA)
-- [ ] Mulher pode ser pastora? (1Tm 2:12 x Rm 16:1-7, Jz 4:4)
+- [x] Mulher pode ser pastora? (1Tm 2:12 x Rm 16:1-7, Jz 4:4) — 24/11 ("cristao-2026-11-24-mulher-pastora", texto cinético SIM x NÃO, voz Fish 4, 83 s + CTA)
 - [ ] Uma vez salvo, salvo para sempre? (Jo 10:28 x Hb 6:4-6)
 - [ ] Deus quer você rico? (3Jo 2 x 1Tm 6:9-10)
 - [ ] Precisa ir à igreja para ser salvo? Crente "desigrejado" (Hb 10:25 x Lc 23:43)
