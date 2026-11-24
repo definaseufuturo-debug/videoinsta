@@ -262,3 +262,4 @@
 - 2026-11-24 02:05 | cristao-2026-11-24-mulher-pastora | produção | na fila (IG 19:00)
 - 2026-11-24 06:57 | cristao-2026-11-24-ananias-safira | cristao (rodada agendada) | ok 18181748920439814 (pedido do workflow saiu com id ig_job por erro no nome do arquivo; resultado confirmado em ig/jobs/ig_job.json; sem nova tentativa) | jesusislove: nada na fila
 - 2026-11-24 11:56 | jil-2026-11-24-finge-dormir | jesusislove | yt PIlgtI1JlLA
+- 2026-11-24 19:00 | 2026-11-24-celular-escola | agendado | ok 17942171223123491 | yt YSY6Eegx6-g
