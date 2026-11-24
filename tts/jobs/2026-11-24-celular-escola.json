@@ -1,0 +1,33 @@
+{
+  "status": "pendente",
+  "voice": "b1cab1f57b8d41aeb225d7d8bafc0806",
+  "speed": 1.2,
+  "model": "s2.1-pro-free",
+  "language": "pt",
+  "clips": [
+    {
+      "id": "c1",
+      "text": "Celular proibido na escola: funcionou? Antes da lei, treze por cento das escolas liberavam o aparelho. Hoje, noventa e dois por cento seguem a regra."
+    },
+    {
+      "id": "c2",
+      "text": "Quem é a favor mostra a pesquisa do ême é cê: noventa e cinco por cento dos diretores notaram mais concentração, e oitenta e oito por cento, menos cyberbullying."
+    },
+    {
+      "id": "c3",
+      "text": "Quem é contra mostra um estudo inglês com mil duzentos e vinte e sete alunos: sem diferença em notas, ansiedade ou sono entre escolas com e sem proibição."
+    },
+    {
+      "id": "c4",
+      "text": "O dado que incomoda os dois: a pesquisa do ême é cê mede a percepção dos diretores, não as notas. E no estudo inglês, o uso do celular caiu só quarenta minutos."
+    },
+    {
+      "id": "c5",
+      "text": "E na Inglaterra, oitenta e sete por cento dos professores apoiam a proibição. Já setenta e cinco por cento dos alunos discordam."
+    },
+    {
+      "id": "c6",
+      "text": "E você: A ou B? Comenta e marca quem vai discordar. Amanhã: bets, o Brasil devia proibir? Segue a Mindloop pra não perder."
+    }
+  ]
+}
