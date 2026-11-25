@@ -1,5 +1,14 @@
 # Calendário do perfil cristão @e_cosdafe
 
+## NOVO ESTILO @e_cosdafe (piloto 25/11/2026, aguarda aprovação do Jonas; não entra na fila até ele aprovar)
+**Pedido do Jonas:** assuntos profundos, nada superficial que criança já sabe. Ideias, pensamentos, explicações de textos bíblicos, doutrinas e curiosidades não convencionais, com animação forte: personagens, mapas, dados e gráficos. Narração, 30 a 45 s. CTA pedindo comentário e marcação, como no debate.
+- **Estrutura (7 cenas):** 1) gancho com pergunta que divide, 2) dado em gráfico ou linha do tempo, 3) personagem/contexto, 4) virada com o detalhe do texto ou do original, 5) cartão do versículo com a palavra-chave destacada, 6) duas leituras lado a lado (sem nome de pessoa nem igreja), 7) CTA: "SIM ou NÃO? Comenta e marca quem vai discordar" + "segue".
+- **Visual:** fundo azul-noite com grade, dourado, vermelho para o choque, ciano para a segunda voz; personagem palito; números que crescem; legenda palavra a palavra.
+- **Voz:** Fish voz 4 (`a0a26a57cac94ea4918f05a2393b4259`), speed 1.15.
+- **Regras:** fato com duas fontes no `_comment`; sem nome de pastor, igreja ou partido; sem zombar de nenhuma fé; saúde mental com aviso de buscar ajuda médica.
+- **Piloto:** `cristao-2026-11-26-trindade-palavra` ("A trindade não está na Bíblia?", 42 s + cartão).
+
+
 **Identidade:** "a Bíblia no mapa". Histórias bíblicas contadas como mapa animado em pergaminho, com rota, lugares, números do próprio texto e a referência bíblica. De 60 a 90 s, em 9:16 e em português.
 
 ## ⚡ MODO DEBATE DA FÉ — INSTAGRAM @e_cosdafe (desde 18/11/2026, decisão do Jonas: "zero comentário, tá tudo informativo")

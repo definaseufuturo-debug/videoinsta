@@ -1,0 +1,65 @@
+{
+  "voice": "pm_alex",
+  "speed": 1.15,
+  "lang": "pt-br",
+  "_comment": "Piloto do NOVO estilo @e_cosdafe (27/11 em diante). Fatos: 'trinitas' aparece pela 1ª vez em Tertuliano, Adversus Praxean, por volta de 213 d.C. (tertullian.org; Wikipedia Tertullian). Concílio de Niceia 325 e Constantinopla 381 (Wikipedia Nicaea I; worldhistory.org/Trinity). Mateus 28:19 usa 'nome' no singular: 'em o nome do Pai, do Filho e do Espírito Santo'. Datas das cartas de Paulo (c. 50-60) e dos evangelhos (c. 70-100) são estimativas de consenso acadêmico.",
+  "fish": {
+    "voice": "a0a26a57cac94ea4918f05a2393b4259",
+    "speed": 1.15,
+    "model": "s2.1-pro-free"
+  },
+  "say": {},
+  "clips": [
+    {
+      "id": "c1",
+      "scene": 1,
+      "minStart": 0.3,
+      "gapAfterPrev": 0,
+      "text": "A palavra Trindade não aparece em nenhum lugar da Bíblia. Então, de onde ela veio?"
+    },
+    {
+      "id": "c2",
+      "scene": 2,
+      "minStart": 0,
+      "gapAfterPrev": 0.35,
+      "text": "Os textos do Novo Testamento foram escritos entre os anos 50 e 100. A palavra só aparece mais de cem anos depois."
+    },
+    {
+      "id": "c3",
+      "scene": 3,
+      "minStart": 0,
+      "gapAfterPrev": 0.35,
+      "text": "Por volta do ano 213, o escritor Tertuliano, em Cartago, usou a palavra latina trinitas pra explicar Pai, Filho e Espírito Santo."
+    },
+    {
+      "id": "c4",
+      "scene": 4,
+      "minStart": 0,
+      "gapAfterPrev": 0.35,
+      "text": "Em 325, o Concílio de Niceia definiu que o Filho é da mesma substância do Pai. Em 381, Constantinopla fechou a fórmula."
+    },
+    {
+      "id": "c5",
+      "scene": 5,
+      "minStart": 0,
+      "gapAfterPrev": 0.35,
+      "text": "O texto mais citado é Mateus 28:19: batizem em o nome do Pai, do Filho e do Espírito Santo. Um nome, no singular."
+    },
+    {
+      "id": "c6",
+      "scene": 6,
+      "minStart": 0,
+      "gapAfterPrev": 0.35,
+      "text": "Muitas igrejas aceitam a Trindade. Outras cristãs, como as unitárias, não aceitam. Os dois lados leem a mesma Bíblia."
+    },
+    {
+      "id": "c7",
+      "scene": 7,
+      "minStart": 0,
+      "gapAfterPrev": 0.35,
+      "text": "E você: a Trindade está na Bíblia ou é uma construção da igreja? Comenta com o versículo que pensa, e marca quem vai discordar."
+    }
+  ],
+  "tailAfterLastClip": 2.2,
+  "keywords": []
+}
