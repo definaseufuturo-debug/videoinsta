@@ -1,0 +1,37 @@
+{
+  "status": "pendente",
+  "voice": "a0a26a57cac94ea4918f05a2393b4259",
+  "speed": 1.15,
+  "model": "s2.1-pro-free",
+  "language": "pt",
+  "clips": [
+    {
+      "id": "c1",
+      "text": "A palavra Trindade não aparece em nenhum lugar da Bíblia. Então, de onde ela veio?"
+    },
+    {
+      "id": "c2",
+      "text": "Os textos do Novo Testamento foram escritos entre os anos 50 e 100. A palavra só surge quase dois séculos depois."
+    },
+    {
+      "id": "c3",
+      "text": "Por volta do ano 213, o escritor Tertuliano, em Cartago, usou a palavra latina trinitas pra explicar Pai, Filho e Espírito Santo."
+    },
+    {
+      "id": "c4",
+      "text": "Em 325, o Concílio de Niceia definiu que o Filho é da mesma substância do Pai. Em 381, Constantinopla fechou a fórmula."
+    },
+    {
+      "id": "c5",
+      "text": "O texto mais citado é Mateus 28:19: batizem em o nome do Pai, do Filho e do Espírito Santo. Um nome, no singular."
+    },
+    {
+      "id": "c6",
+      "text": "Muitas igrejas aceitam a Trindade. Outras cristãs, como as unitárias, não aceitam. Os dois lados leem a mesma Bíblia."
+    },
+    {
+      "id": "c7",
+      "text": "E você: a Trindade está na Bíblia ou é uma construção da igreja? Comenta com o versículo que pensa, e marca quem vai discordar."
+    }
+  ]
+}
