@@ -267,3 +267,4 @@
 - 2026-11-25 01:58 | cristao-2026-11-25-uza (IG 07:00), cristao-2026-11-25-salvo-sempre (IG 19:00), jil-2026-11-25-porta-de-casa (YT 12:00), jil-2026-11-25-te-amo-primeiro (YT 19:00) | produção | na fila. CLAUDE.md atual seguido (modo debate + Momentos que passam), não o prompt antigo (palavra da manhã/pôster escuro). Uzá com 86 s (+3 s CTA), um pouco acima dos 80 s. Vídeos narrados comprimidos (crf 26) para <30 MB. ATENÇÃO: mulher-pastora (IG) e ultima-historinha (YT) de 24/11 19:00 continuam 'pendente' (não postaram ontem); o 'proximo' vai pegá-los antes do Uzá.
 - 2026-11-25 07:00 | cristao-2026-11-24-mulher-pastora | agendado (atrasado, de 24/11 19:00) | ok 17982513188915868 | IG (Tarefa F; sem YouTube, por regra)
 - 2026-11-25 07:00 | jil-2026-11-24-ultima-historinha | agendado (atrasado, de 24/11 19:00) | yt CdthFlQruU8
+- 2026-11-25 11:58 | cristao-2026-11-25-uza | cristao | ok 18213278653371363
