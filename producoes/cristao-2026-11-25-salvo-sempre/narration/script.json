@@ -1,0 +1,94 @@
+{
+  "voice": "pm_alex",
+  "speed": 1.1,
+  "lang": "pt-br",
+  "_comment": "Debate da fé (19:00): Jo 10:28-29 (jamais perecerão, ninguém as arrebatará); Rm 8:38-39; Fp 1:6; Hb 6:4-6 e 6:9; Mt 24:13 (perseverar até o fim); 1Co 10:12; Ef 2:8-9. Segunda fonte: BibleGateway (ARA) e GotQuestions PT 'segurança eterna'. Debate de ideia, sem nome de denominação.",
+  "say": {},
+  "fish": {
+    "voice": "a0a26a57cac94ea4918f05a2393b4259",
+    "speed": 1.1,
+    "model": "s2.1-pro-free"
+  },
+  "accent": [],
+  "clips": [
+    {
+      "id": "c1",
+      "scene": 1,
+      "minStart": 0.3,
+      "gapAfterPrev": 0,
+      "text": "Uma vez salvo, salvo para sempre? Os cristãos se dividem."
+    },
+    {
+      "id": "c2",
+      "scene": 2,
+      "minStart": 0,
+      "gapAfterPrev": 0.5,
+      "text": "É um dos maiores debates da fé. Hoje, os dois lados, com o texto na mão."
+    },
+    {
+      "id": "c3",
+      "scene": 3,
+      "minStart": 0,
+      "gapAfterPrev": 0.5,
+      "text": "Lado SIM. Jesus disse: eu lhes dou a vida eterna, e jamais perecerão. Ninguém as arrebatará da minha mão."
+    },
+    {
+      "id": "c4",
+      "scene": 4,
+      "minStart": 0,
+      "gapAfterPrev": 0.5,
+      "text": "Paulo escreveu que nem a morte, nem a vida, nem coisa alguma criada poderá nos separar do amor de Deus."
+    },
+    {
+      "id": "c5",
+      "scene": 5,
+      "minStart": 0,
+      "gapAfterPrev": 0.5,
+      "text": "E que aquele que começou a boa obra em nós vai completá-la até o dia de Cristo Jesus."
+    },
+    {
+      "id": "c6",
+      "scene": 6,
+      "minStart": 0,
+      "gapAfterPrev": 0.5,
+      "text": "Lado NÃO. Hebreus 6 fala de quem já foi iluminado, provou o dom celestial e depois caiu. Diz que é impossível renová-los outra vez para o arrependimento."
+    },
+    {
+      "id": "c7",
+      "scene": 7,
+      "minStart": 0,
+      "gapAfterPrev": 0.5,
+      "text": "Jesus avisou: aquele que perseverar até o fim, esse será salvo."
+    },
+    {
+      "id": "c8",
+      "scene": 8,
+      "minStart": 0,
+      "gapAfterPrev": 0.5,
+      "text": "E Paulo escreveu a crentes: quem pensa estar em pé, cuide para não cair."
+    },
+    {
+      "id": "c9",
+      "scene": 9,
+      "minStart": 0,
+      "gapAfterPrev": 0.5,
+      "text": "Agora o detalhe que muita gente não conta. Logo depois do aviso, o próprio autor de Hebreus escreve: estamos persuadidos de coisas melhores a respeito de vocês. Ele fala do risco, mas não acusa os leitores."
+    },
+    {
+      "id": "c10",
+      "scene": 10,
+      "minStart": 0,
+      "gapAfterPrev": 0.5,
+      "text": "Os dois lados concordam numa coisa: a salvação é graça, e ninguém se salva por mérito próprio. A divisão é se essa graça pode ser rejeitada depois."
+    },
+    {
+      "id": "c11",
+      "scene": 11,
+      "minStart": 0,
+      "gapAfterPrev": 0.5,
+      "text": "E você: SIM ou NÃO? Comenta com a sua resposta e o versículo. Marca aquele irmão que vai discordar. E segue: todo dia, um debate da fé."
+    }
+  ],
+  "tailAfterLastClip": 2.3,
+  "keywords": []
+}

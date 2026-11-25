@@ -23,7 +23,7 @@
 - [x] Cristão pode fazer tatuagem? (Lv 19:28 e o contexto) — 22/11 ("cristao-2026-11-22-tatuagem", texto cinético SIM x NÃO, voz Fish 4, 64 s + CTA)
 - [x] Mulher deve usar véu na igreja? (1Co 11:2-16) — 23/11 ("cristao-2026-11-23-veu", texto cinético SIM x NÃO, voz Fish 4, 63 s + CTA)
 - [x] Mulher pode ser pastora? (1Tm 2:12 x Rm 16:1-7, Jz 4:4) — 24/11 ("cristao-2026-11-24-mulher-pastora", texto cinético SIM x NÃO, voz Fish 4, 83 s + CTA)
-- [ ] Uma vez salvo, salvo para sempre? (Jo 10:28 x Hb 6:4-6)
+- [x] Uma vez salvo, salvo para sempre? (Jo 10:28 x Hb 6:4-6) — 25/11 ("cristao-2026-11-25-salvo-sempre", texto cinético SIM x NÃO, voz Fish 4, 63 s + CTA)
 - [ ] Deus quer você rico? (3Jo 2 x 1Tm 6:9-10)
 - [ ] Precisa ir à igreja para ser salvo? Crente "desigrejado" (Hb 10:25 x Lc 23:43)
 - [ ] Falar em línguas ainda existe hoje? (At 2, 1Co 14 x 1Co 13:8)
@@ -44,7 +44,7 @@
 - [x] Jesus disse: "Não vim trazer paz, mas espada" (Mt 10:34) — 22/11 ("cristao-2026-11-22-espada", texto cinético PAZ x DIVISÃO, voz Fish 4, 64 s + CTA)
 - [x] "Quem não odeia pai e mãe não pode ser meu discípulo" (Lc 14:26) — 23/11 ("cristao-2026-11-23-odiar-pai-mae", texto cinético, voz Fish 4, 64 s + CTA)
 - [x] Ananias e Safira morreram por uma mentira sobre dinheiro (At 5:1-11) — 24/11 ("cristao-2026-11-24-ananias-safira", texto cinético, voz Fish 4, 82 s com CTA)
-- [ ] Uzá tocou na arca para ela não cair e morreu (2Sm 6:6-7)
+- [x] Uzá tocou na arca para ela não cair e morreu (2Sm 6:6-7) — 25/11 ("cristao-2026-11-25-uza", texto cinético, voz Fish 4, 86 s + CTA)
 - [ ] Jesus amaldiçoou uma figueira que não tinha fruto (Mc 11:12-14)
 - [ ] O voto de Jefté e a filha dele (Jz 11:30-40)
 - [ ] Jesus chamou uma mulher de "cachorrinho"? (Mt 15:21-28)
@@ -96,8 +96,8 @@ Os posts do Instagram **não vão mais para o YouTube**, e os bonequinhos **não
 ### FILA MOMENTOS QUE PASSAM (pegue o próximo [ ], na ordem; quando restarem menos de 6, crie mais 12 com a mesma fórmula)
 - [x] Ele finge que dorme no carro: o pai carrega o filho dormindo do carro até a cama aos 3, 6 e 9 anos; aos 12 o filho "finge dormir" pra ser carregado e o pai percebe e carrega mesmo assim. Final: "ELE AINDA FINGE DORMIR PRA VOCÊ CARREGAR. CARREGUE." Título: "Ele finge que dorme no carro pra você carregar". (Sl 4:8) — vermelho: a chave do carro
 - [x] A última historinha: o pai lê antes de dormir aos 3, 6 e 9 anos; aos 12 a luz está apagada e a porta fechada; de manhã o pai volta com o livro e o filho abre espaço na cama. Final: "ELE PARA DE PEDIR A HISTÓRIA ANTES DE VOCÊ PARAR DE LER." Título: "Um dia ele para de pedir a historinha. Você sabe qual foi a última?" (Dt 6:7) — vermelho: o livro
-- [ ] A porta de casa: aos 2 anos ele corre gritando "papai chegou!"; aos 6 corre mais devagar; aos 10 olha do sofá; aos 14 nem levanta; o pai ajoelha na porta e abre os braços em silêncio e o filho vem. Final: "SE ELE PAROU DE CORRER ATÉ VOCÊ, VÁ ATÉ ELE." Título: "A última vez que ele correu até você na porta" (Lc 15:20) — vermelho: a maçaneta
-- [ ] Eu te amo, primeiro: aos 5 ele diz "eu te amo" sozinho; aos 12 só quando o pai pede; aos 16 nunca; o pai diz primeiro, em silêncio o balão fica no ar, e vem a resposta tímida. Final: "DIGA PRIMEIRO. ELE ESTÁ ESPERANDO." Título: "Quando foi a última vez que ele disse 'te amo' sem você pedir?" (1Jo 4:19) — vermelho: o balão do "eu te amo"
+- [x] A porta de casa (25/11 12:00, "jil-2026-11-25-porta-de-casa"): aos 2 anos ele corre gritando "papai chegou!"; aos 6 corre mais devagar; aos 10 olha do sofá; aos 14 nem levanta; o pai ajoelha na porta e abre os braços em silêncio e o filho vem. Final: "SE ELE PAROU DE CORRER ATÉ VOCÊ, VÁ ATÉ ELE." Título: "A última vez que ele correu até você na porta" (Lc 15:20) — vermelho: a maçaneta
+- [x] Eu te amo, primeiro (25/11 19:00, "jil-2026-11-25-te-amo-primeiro"): aos 5 ele diz "eu te amo" sozinho; aos 12 só quando o pai pede; aos 16 nunca; o pai diz primeiro, em silêncio o balão fica no ar, e vem a resposta tímida. Final: "DIGA PRIMEIRO. ELE ESTÁ ESPERANDO." Título: "Quando foi a última vez que ele disse 'te amo' sem você pedir?" (1Jo 4:19) — vermelho: o balão do "eu te amo"
 - [ ] Ele não olhou pra trás: no portão da escola ele olha pra trás 3 vezes e acena aos 4 anos, 1 vez aos 8, nenhuma aos 12; no último quadro ele para na porta, olha pra trás por 1 segundo e a mãe acena. Final: "UM DIA ELE NÃO OLHA PRA TRÁS. HOJE AINDA OLHA. ACENA." Título: "Um dia ele entra na escola sem olhar pra trás" (Dt 31:6) — vermelho: o portão
 - [ ] O banco da bicicleta: o pai segura o banco, solta sem o filho ver, o filho pedala sozinho e vira pra checar; o pai, de longe, levanta os braços. Final: "CRIAR É APRENDER A SOLTAR." Título: "O dia em que você soltou o banco da bicicleta" (Pv 22:6) — vermelho: o banco
 - [ ] A bagunça que vai fazer falta: a mãe junta brinquedos do chão; a cada ano há menos brinquedos; a sala fica limpa e vazia; ela acha um carrinho esquecido embaixo do sofá e o abraça. Final: "A BAGUNÇA É O BARULHO DE QUEM AINDA MORA AQUI." Título: "A bagunça que você vai sentir saudade" (Sl 127:3) — vermelho: o carrinho

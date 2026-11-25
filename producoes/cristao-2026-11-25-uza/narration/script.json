@@ -1,0 +1,87 @@
+{
+  "voice": "pm_alex",
+  "speed": 1.1,
+  "lang": "pt-br",
+  "_comment": "A Bíblia que ninguém prega (07:00): 2Sm 6:1-11 (carro novo, bois tropeçam, Uzá segura a arca, morre 'por esta imprudência'; Davi abalado/medo; arca 3 meses em Obede-Edom, casa abençoada); Nm 4:15 (não tocar as coisas santas); Nm 7:9 e Êx 25:12-14 (levitas levam nos ombros, por varas); 1Sm 6:7-8 (filisteus: carro novo); 1Cr 15:2,13 (Davi: não a buscamos segundo o direito; levitas levam). Segunda fonte: BibleGateway 2 Samuel 6 / 1 Chronicles 15; GotQuestions PT 'Uzá'. Neutro, sem denominação.",
+  "say": {},
+  "fish": {
+    "voice": "a0a26a57cac94ea4918f05a2393b4259",
+    "speed": 1.1,
+    "model": "s2.1-pro-free"
+  },
+  "accent": [],
+  "clips": [
+    {
+      "id": "c1",
+      "scene": 1,
+      "minStart": 0.3,
+      "gapAfterPrev": 0,
+      "text": "Ele só quis segurar a arca para ela não cair. E morreu na hora. Isso é justo?"
+    },
+    {
+      "id": "c2",
+      "scene": 2,
+      "minStart": 0,
+      "gapAfterPrev": 0.5,
+      "text": "Está em Segundo Samuel, capítulo 6. O rei Davi leva a arca da aliança para Jerusalém, num carro novo puxado por bois. Vamos ver o que o texto diz."
+    },
+    {
+      "id": "c3",
+      "scene": 3,
+      "minStart": 0,
+      "gapAfterPrev": 0.5,
+      "text": "No caminho, os bois tropeçam. Uzá estende a mão e segura a arca. O texto diz que a ira do Senhor se acendeu contra ele, por esta imprudência, e ele morreu ali, junto à arca."
+    },
+    {
+      "id": "c4",
+      "scene": 4,
+      "minStart": 0,
+      "gapAfterPrev": 0.5,
+      "text": "Para um lado, parece injusto demais. Uzá não estava roubando nem fugindo. Estava tentando evitar que a arca caísse no chão. Davi ficou abalado, teve medo, e perguntou: como virá a mim a arca do Senhor?"
+    },
+    {
+      "id": "c5",
+      "scene": 5,
+      "minStart": 0,
+      "gapAfterPrev": 0.5,
+      "text": "Para o outro lado, havia regra clara. Em Números 4, ninguém podia tocar nas coisas santas, sob pena de morte. E a arca devia ser levada nos ombros dos levitas, por varas, e nunca num carro."
+    },
+    {
+      "id": "c6",
+      "scene": 6,
+      "minStart": 0,
+      "gapAfterPrev": 0.5,
+      "text": "Agora o detalhe que quase ninguém conta. O carro novo puxado por bois foi o método dos filisteus, em Primeiro Samuel 6, quando eles devolveram a arca. O povo de Deus copiou o jeito de quem não conhecia a lei."
+    },
+    {
+      "id": "c7",
+      "scene": 7,
+      "minStart": 0,
+      "gapAfterPrev": 0.5,
+      "text": "E em Primeiro Crônicas 15, o próprio Davi admite: da primeira vez, não buscamos o Senhor segundo o direito. Na segunda tentativa, os levitas levaram a arca nos ombros, e ninguém morreu."
+    },
+    {
+      "id": "c8",
+      "scene": 8,
+      "minStart": 0,
+      "gapAfterPrev": 0.5,
+      "text": "Também importa o que veio depois. A arca ficou três meses na casa de Obede-Edom, e o texto diz que o Senhor abençoou a casa dele. O problema não foi a arca estar perto. Foi o jeito de levar."
+    },
+    {
+      "id": "c9",
+      "scene": 9,
+      "minStart": 0,
+      "gapAfterPrev": 0.5,
+      "text": "Os dois lados concordam numa coisa: o texto liga a morte à imprudência, e não a uma intenção má. A divisão é se a pena foi justa ou dura demais para um gesto de socorro."
+    },
+    {
+      "id": "c10",
+      "scene": 10,
+      "minStart": 0,
+      "gapAfterPrev": 0.5,
+      "text": "E você: JUSTO ou DURO DEMAIS? Comenta a sua palavra e o versículo. Marca aquele irmão que vai discordar. E segue: todo dia, a Bíblia que ninguém prega. Amanhã: Jesus amaldiçoou uma figueira?"
+    }
+  ],
+  "tailAfterLastClip": 2.3,
+  "keywords": []
+}
