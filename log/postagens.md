@@ -263,3 +263,4 @@
 - 2026-11-24 06:57 | cristao-2026-11-24-ananias-safira | cristao (rodada agendada) | ok 18181748920439814 (pedido do workflow saiu com id ig_job por erro no nome do arquivo; resultado confirmado em ig/jobs/ig_job.json; sem nova tentativa) | jesusislove: nada na fila
 - 2026-11-24 11:56 | jil-2026-11-24-finge-dormir | jesusislove | yt PIlgtI1JlLA
 - 2026-11-24 19:00 | 2026-11-24-celular-escola | agendado | ok 17942171223123491 | yt YSY6Eegx6-g
+- 2026-11-25 00:25 | 2026-11-25-bets-proibidas | produção (debate, fila DEBATE: Bets) | na fila (19:00). Tema reformulado: as bets já foram proibidas pela MP 1.394/2026 (25/09), então o debate virou 'acertaram ou vai piorar?'. Voz Fish masculina. 2 fontes por número no _comment

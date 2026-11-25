@@ -22,7 +22,7 @@
 - [x] Semana de 4 dias: os países que testaram e o que deu (pilotos Reino Unido, Portugal, Islândia)
 - [x] A IA vai tirar o seu emprego? As profissões mais e menos expostas (OIT, FMI)
 - [x] Celular proibido na escola: melhorou as notas ou não? (Lei 15.100/2025 + estudos)
-- [ ] Bets: o Brasil devia proibir as apostas? (quanto o brasileiro gasta, Banco Central)
+- [x] Bets: proibiram (MP 1.394/2026, 25/09): acertaram ou vai piorar? (produzido 25/11)
 - [ ] Rede social proibida para menor de 16 anos: certo ou exagero? (Austrália proibiu em dez/2025)
 - [ ] Salário mínimo x salário mínimo necessário do DIEESE: dá pra viver?
 - [ ] O Brasil cobra muito imposto? Carga tributária comparada com o mundo (OCDE, Receita)

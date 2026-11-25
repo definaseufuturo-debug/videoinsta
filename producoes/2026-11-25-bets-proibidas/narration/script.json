@@ -1,0 +1,18 @@
+{
+  "voice": "pm_alex",
+  "speed": 1.12,
+  "lang": "pt-br",
+  "_comment": "DEBATE: proibição das bets. Fontes (2 por número): R$ 62,5 bi perdidos pelas famílias em 2025 = Comsefaz/Boletim Fiscal dos Estados com dados de pagamentos do Banco Central (Agência Brasil 06/08/2026; Diário do Comércio). MP 1.394/2026 publicada 25/09/2026, vigência prorrogada até 05/03/2027 (Senado Notícias 28/09/2026; Agência Brasil/CUT 11/11/2026). Custo social quase R$ 4 por R$ 1 arrecadado, danos >= R$ 38,8 bi/ano, ~1,4 mi em jogo problemático (Ieps, via Brasil de Fato 28/09/2026). Previsão de perda de arrecadação R$ 1,541 bi em 2026 (Senado Notícias). Mercado ilegal/VPN (FGV Ibre via Broadcast/InvesTalk 12/11/2026). Arrecadação ~R$ 5 bi fev/2025-fev/2026, R$ 57 mi ao Fundo Nacional de Saúde (Brasil de Fato). Próximo da fila: rede social proibida para menor de 16.",
+  "say": { "Ieps": "ieps", "bets": "béts" },
+  "fish": { "voice": "c9d3da0bdf61417d929dc67966e4befe", "speed": 1.15, "model": "s2.1-pro-free" },
+  "clips": [
+    { "id": "c1", "scene": 1, "minStart": 0.3, "gapAfterPrev": 0, "text": "Sessenta e dois bilhões e meio de reais. Foi o que as famílias perderam em bets em dois mil e vinte e cinco. Aí o governo proibiu tudo. Acertou?" },
+    { "id": "c2", "scene": 2, "minStart": 0, "gapAfterPrev": 0.4, "text": "A medida provisória saiu em vinte e cinco de setembro. O Congresso decide até março se vira lei." },
+    { "id": "c3", "scene": 3, "minStart": 0, "gapAfterPrev": 0.4, "text": "Quem é a favor diz: cada real arrecadado custou quase quatro em danos. E são um milhão e quatrocentos mil em jogo problemático." },
+    { "id": "c4", "scene": 4, "minStart": 0, "gapAfterPrev": 0.4, "text": "Quem é contra diz: proibir empurra o apostador pro site clandestino. E o governo prevê perder um bilhão e meio em imposto este ano." },
+    { "id": "c5", "scene": 5, "minStart": 0, "gapAfterPrev": 0.4, "text": "O dado que incomoda os dois: dos quase cinco bilhões arrecadados, só cinquenta e sete milhões foram pra saúde." },
+    { "id": "c6", "scene": 6, "minStart": 0, "gapAfterPrev": 0.45, "text": "E você: A ou B? Comenta e marca quem discorda. Amanhã: rede social proibida pra menor de dezesseis anos. Segue pra não perder." }
+  ],
+  "tailAfterLastClip": 1.8,
+  "keywords": []
+}
