@@ -268,3 +268,4 @@
 - 2026-11-25 07:00 | cristao-2026-11-24-mulher-pastora | agendado (atrasado, de 24/11 19:00) | ok 17982513188915868 | IG (Tarefa F; sem YouTube, por regra)
 - 2026-11-25 07:00 | jil-2026-11-24-ultima-historinha | agendado (atrasado, de 24/11 19:00) | yt CdthFlQruU8
 - 2026-11-25 11:58 | cristao-2026-11-25-uza | cristao | ok 18213278653371363
+- 2026-11-25 12:04 | jil-2026-11-25-porta-de-casa | jesusislove | yt E1iTKri56SI
