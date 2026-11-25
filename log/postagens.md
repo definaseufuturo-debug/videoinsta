@@ -269,3 +269,4 @@
 - 2026-11-25 07:00 | jil-2026-11-24-ultima-historinha | agendado (atrasado, de 24/11 19:00) | yt CdthFlQruU8
 - 2026-11-25 11:58 | cristao-2026-11-25-uza | cristao | ok 18213278653371363
 - 2026-11-25 12:04 | jil-2026-11-25-porta-de-casa | jesusislove | yt E1iTKri56SI
+- 2026-11-25 18:52 | 2026-11-25-bets-proibidas | agendado | ok 18136410559682755 | yt ERRO (YouTube não enviado: comando bloqueado pelo classificador de permissão da sessão agendada; não tentado de novo. Vídeo do IG publicado)
