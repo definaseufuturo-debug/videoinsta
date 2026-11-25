@@ -1,0 +1,33 @@
+{
+  "status": "pendente",
+  "voice": "c9d3da0bdf61417d929dc67966e4befe",
+  "speed": 1.15,
+  "model": "s2.1-pro-free",
+  "language": "pt",
+  "clips": [
+    {
+      "id": "c1",
+      "text": "Sessenta e dois bilhões e meio de reais. Foi o que as famílias perderam em béts em dois mil e vinte e cinco. Aí o governo proibiu tudo. Acertou?"
+    },
+    {
+      "id": "c2",
+      "text": "A medida provisória saiu em vinte e cinco de setembro. O Congresso decide até março se vira lei."
+    },
+    {
+      "id": "c3",
+      "text": "Quem é a favor diz: cada real arrecadado custou quase quatro em danos. E são um milhão e quatrocentos mil em jogo problemático."
+    },
+    {
+      "id": "c4",
+      "text": "Quem é contra diz: proibir empurra o apostador pro site clandestino. E o governo prevê perder um bilhão e meio em imposto este ano."
+    },
+    {
+      "id": "c5",
+      "text": "O dado que incomoda os dois: dos quase cinco bilhões arrecadados, só cinquenta e sete milhões foram pra saúde."
+    },
+    {
+      "id": "c6",
+      "text": "E você: A ou B? Comenta e marca quem discorda. Amanhã: rede social proibida pra menor de dezesseis anos. Segue pra não perder."
+    }
+  ]
+}
