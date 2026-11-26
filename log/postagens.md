@@ -276,3 +276,5 @@
 - 2026-11-26 02:00 | cristao-2026-11-26-figueira (IG 07:00), cristao-2026-11-26-deus-rico (IG 19:00), jil-2026-11-26-nao-olhou-pra-tras (YT 12:00), jil-2026-11-26-banco-bicicleta (YT 19:00) | produção | na fila. CLAUDE.md atual seguido (modo debate + Momentos que passam), não o prompt antigo (palavra da manhã/pôster escuro). Figueira 75 s (+3 s CTA) e deus-rico ~75 s, comprimidos (crf 27) para <30 MB. Piloto 'trindade-palavra' (novo estilo) não entrou: aguarda aprovação do Jonas. ATENÇÃO: jil-2026-11-25-te-amo-primeiro (YT 19:00 de ontem) segue 'pendente' (erro de permissão no post); o 'proximo' vai pegá-lo antes dos de hoje.
 - 2026-11-26 06:57 | cristao-2026-11-26-figueira | cristao | ok 17928910512221662
 - 2026-11-26 06:57 | jil-2026-11-25-te-amo-primeiro | jesusislove | yt Z6FrEU89tzY
+- 2026-11-26 11:54 | jil-2026-11-26-nao-olhou-pra-tras | jesusislove | yt pZwCqWt7BPA
+- 2026-11-26 11:54 | nada na fila cristao (Instagram @e_cosdafe)
