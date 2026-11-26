@@ -1,0 +1,4 @@
+# Exemplo: LOUSA DE GIZ (formato obrigatório do @e_cosdafe desde 26/11/2026)
+Ananias e Safira, 8 clips, 69 s. Bonecos de giz que ATUAM cada cena (andam, caem, aplaudem, discutem), objetos que se desenham (igreja, relógio, sacos, balança), borracha varrendo a lousa entre as cenas, legenda palavra a palavra.
+Como usar: `pipeline/novo.sh <slug> template_cristao`, copie `anim.js` para `src/anim.js` e `script.json` como base para `narration/script.json` (mesmo formato; um clip = uma cena). Reescreva as cenas `scene1..sceneN` (funções no fim do arquivo), os blocos `s1..sN` (âncoras `wt('cN','palavra')`, use palavras que existam no clip) e os `cue(...)`. O motor (txt, write, poly, figure, sack, coin, bubble, church, clockFace) é reaproveitado. Cena por clip: `NS = TL.clips.length`, adapte `sceneFns`.
+Regras: sempre bonecos em ação; texto só como apoio. Cores fixas: SIM/lado A = dourado, NÃO/lado B = vermelho.

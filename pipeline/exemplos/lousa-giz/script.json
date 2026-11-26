@@ -1,0 +1,72 @@
+{
+  "voice": "pm_alex",
+  "speed": 1.1,
+  "lang": "pt-br",
+  "_comment": "A Bíblia que ninguém prega: Ananias e Safira (Atos 5:1-11). Contexto: At 4:32-37 (irmãos repartiam tudo; Barnabé vendeu um campo e entregou todo o valor). At 5:1-2: Ananias, com Safira, vendeu uma propriedade e reteve parte do preço, com ciência da mulher. At 5:3-4 (Pedro): 'Não mentiste aos homens, mas a Deus'; 'Guardando-a, não era tua? E, vendida, não estava em teu poder?' Ananias caiu e expirou (5:5). Cerca de três horas depois entrou Safira sem saber (5:7); Pedro: 'Dize-me, vendestes por tanto aquela herdade?', 'Sim, por tanto' (5:8); 'Por que combinastes entre vós tentar o Espírito do Senhor?' (5:9); ela caiu e expirou (5:10); grande temor sobre toda a igreja (5:11). O texto não diz que Pedro os matou. ARC conferido. Personagens fictícios e genéricos (bonecos de giz).",
+  "say": {},
+  "fish": {
+    "voice": "a0a26a57cac94ea4918f05a2393b4259",
+    "speed": 1.12,
+    "model": "s2.1-pro-free"
+  },
+  "clips": [
+    {
+      "id": "c1",
+      "scene": 1,
+      "minStart": 0.3,
+      "gapAfterPrev": 0,
+      "text": "Um casal entrou na igreja com dinheiro na mão e saiu morto. Foi Deus quem os matou por causa de uma mentira?"
+    },
+    {
+      "id": "c2",
+      "scene": 2,
+      "minStart": 0,
+      "gapAfterPrev": 0.7,
+      "text": "Atos, capítulo cinco. A igreja era nova e os irmãos repartiam tudo. Barnabé vendeu um campo e entregou todo o dinheiro aos apóstolos. Todo mundo aplaudiu."
+    },
+    {
+      "id": "c3",
+      "scene": 3,
+      "minStart": 0,
+      "gapAfterPrev": 0.7,
+      "text": "Ananias e Safira também venderam uma propriedade. Mas combinaram em segredo: entregar só uma parte e dizer que era tudo."
+    },
+    {
+      "id": "c4",
+      "scene": 4,
+      "minStart": 0,
+      "gapAfterPrev": 0.7,
+      "text": "Ananias põe o dinheiro aos pés dos apóstolos. Pedro pergunta: por que você mentiu? Não foi aos homens, foi a Deus. E Ananias cai morto."
+    },
+    {
+      "id": "c5",
+      "scene": 5,
+      "minStart": 0,
+      "gapAfterPrev": 0.7,
+      "text": "Três horas depois, Safira chega sem saber de nada. Pedro pergunta se o valor foi aquele. Ela repete a mentira, e cai morta ao lado do marido."
+    },
+    {
+      "id": "c6",
+      "scene": 6,
+      "minStart": 0,
+      "gapAfterPrev": 0.8,
+      "text": "Mas repara no detalhe. Pedro disse que o terreno era deles. Ninguém era obrigado a dar nada. O pecado não foi guardar dinheiro. Foi fingir uma generosidade que não existia."
+    },
+    {
+      "id": "c7",
+      "scene": 7,
+      "minStart": 0,
+      "gapAfterPrev": 0.8,
+      "text": "Tem cristão que diz: foi justo, era o começo da igreja. Outro diz: foi duro demais, nem tiveram chance de se arrepender."
+    },
+    {
+      "id": "c8",
+      "scene": 8,
+      "minStart": 0,
+      "gapAfterPrev": 0.9,
+      "text": "E você: justo ou duro demais? Comenta com a sua resposta e o versículo. Marca quem vai discordar. E segue a arroba e cosdafe: todo dia um debate da fé."
+    }
+  ],
+  "tailAfterLastClip": 2.2,
+  "keywords": []
+}

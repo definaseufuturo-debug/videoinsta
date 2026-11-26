@@ -18,7 +18,7 @@
 | **07:00** | **A BÍBLIA QUE NINGUÉM PREGA:** um texto bíblico difícil, chocante ou mal entendido ("Deus mandou ursos matarem 42 jovens?"). Conta o que o texto diz, o contexto, e termina com a pergunta que divide. Fila abaixo. |
 | **19:00** | **DEBATE DA FÉ:** uma pergunta que divide os cristãos ("Dízimo é obrigatório hoje?"). Fila abaixo. Se um assunto de fé estiver quente no dia (notícia, pastor famoso, polêmica em igreja), use ele em vez da fila, sem citar nome de pessoa. |
 
-### Formato (os dois horários): 60 a 80 s, narrado, voz 4, texto cinético (`pipeline/exemplos/devocional-cinetico/`) ou animação com personagens no estilo do ep. 01 (`producoes/cristao-2026-11-16-parecer-cristao/`)
+### Formato (os dois horários): 60 a 80 s, narrado, voz 4, **SEMPRE DINÂMICO COM BONECOS ATUANDO (desde 26/11/2026; texto cinético PROIBIDO)**: lousa de giz (`pipeline/exemplos/lousa-giz/`) ou bonequinhos em cena (`pipeline/exemplos/palito-*`)
 1. **1º segundo: a frase que divide**, enorme, que já é a capa ("CRENTE PODE BEBER VINHO?").
 2. **LADO SIM x LADO NÃO** (tela dividida ou dois blocos, cores fixas dourado x vermelho): o melhor argumento de cada lado, **cada um com o versículo e a referência na tela**. Mostre os dois com a mesma força e respeito, como os próprios cristãos defendem.
 3. **O detalhe do texto que quase ninguém conhece** (contexto, palavra no original, costume da época): a virada.
