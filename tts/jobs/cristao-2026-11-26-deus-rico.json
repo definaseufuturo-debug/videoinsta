@@ -1,0 +1,53 @@
+{
+  "status": "pendente",
+  "voice": "a0a26a57cac94ea4918f05a2393b4259",
+  "speed": 1.1,
+  "model": "s2.1-pro-free",
+  "language": "pt",
+  "clips": [
+    {
+      "id": "c1",
+      "text": "Deus quer você rico? Os cristãos se dividem."
+    },
+    {
+      "id": "c2",
+      "text": "É um dos maiores debates da fé. Hoje, os dois lados, com o texto na mão."
+    },
+    {
+      "id": "c3",
+      "text": "Lado SIM. Em Terceira João, versículo 2, o apóstolo escreve: amado, desejo que te vás bem em todas as coisas e que tenhas saúde."
+    },
+    {
+      "id": "c4",
+      "text": "Em Deuteronômio 8, Deus diz que é ele quem dá força para adquirir riqueza. E Provérbios 10 afirma: a bênção do Senhor enriquece."
+    },
+    {
+      "id": "c5",
+      "text": "Abraão, Jó e Salomão tiveram muito, e a Bíblia mostra isso como bênção, não como pecado."
+    },
+    {
+      "id": "c6",
+      "text": "Lado NÃO. Em Primeira Timóteo 6, Paulo diz que os que querem ficar ricos caem em tentação e em laços, e que o amor ao dinheiro é raiz de todos os males."
+    },
+    {
+      "id": "c7",
+      "text": "Jesus disse que ninguém pode servir a Deus e ao dinheiro, em Mateus 6. E que as raposas têm covas, mas ele não tinha onde reclinar a cabeça."
+    },
+    {
+      "id": "c8",
+      "text": "Agora o detalhe que muita gente não conta. Terceira João 2 é uma saudação de carta, um desejo de que o amigo vá bem e tenha saúde. Não é uma promessa de riqueza. E Paulo condena o amor ao dinheiro, não o dinheiro."
+    },
+    {
+      "id": "c9",
+      "text": "Na mesma carta, Paulo diz aos ricos para não serem orgulhosos e para serem generosos. Ou seja, ele aceita que haja ricos na igreja."
+    },
+    {
+      "id": "c10",
+      "text": "Os dois lados concordam numa coisa: o problema é quem manda no coração, o dinheiro ou Deus. A divisão é se Deus promete prosperidade hoje."
+    },
+    {
+      "id": "c11",
+      "text": "E você: SIM ou NÃO? Comenta com a sua resposta e o versículo. Marca aquele irmão que vai discordar. E segue: todo dia, um debate da fé. Amanhã: precisa ir à igreja para ser salvo?"
+    }
+  ]
+}
