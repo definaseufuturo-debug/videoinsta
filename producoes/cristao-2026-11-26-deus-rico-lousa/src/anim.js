@@ -181,9 +181,9 @@
       const bob = Math.sin(t * 3) * 14; poly([[780, 60], [780, 420 + bob]], prog(t, sF.tentacao - 0.6, sF.tentacao), CHALK, 5, 260); coin(780, 450 + bob, 46, sm(t, sF.tentacao - 0.5, sF.tentacao - 0.1, outBack), GOLD);
       const lean = 0.35 * sm(t, sF.ricos, sF.tentacao + 0.3), lx = 380 + 40 * sm(t, sF.ricos, sF.tentacao + 0.6);
       figure({ x: lx, y: GROUND, c: RED, s: 2.5, lean, mood: 'shock', pose: { legs: IDLE.legs, arms: [[1.6, 1.9], [0.9, 1.4]] } });
-      if (t > sF.tentacao) { const lk = sm(t, sF.tentacao, sF.tentacao + 0.9, x => x); poly(circ(lx, GROUND - 20, 70, 24).map(([x, y]) => [x, (y - GROUND + 20) * 0.3 + GROUND - 20]), lk, CHALK, 8, 261); poly(circ(lx, GROUND - 40, 90, 24).map(([x, y]) => [x, (y - GROUND + 40) * 0.3 + GROUND - 40]), lk * 0.9, CHALK, 8, 262); txt('LAÇOS', lx, GROUND + 60, 54, { color: CHALK, a: lk, stroke: 8 }); }
+      if (t > sF.tentacao) { const lk = sm(t, sF.tentacao, sF.tentacao + 0.9, x => x); poly(circ(lx, GROUND - 20, 70, 24).map(([x, y]) => [x, (y - GROUND + 20) * 0.3 + GROUND - 20]), lk, CHALK, 8, 261); poly(circ(lx, GROUND - 40, 90, 24).map(([x, y]) => [x, (y - GROUND + 40) * 0.3 + GROUND - 40]), lk * 0.9, CHALK, 8, 262); txt('LAÇOS', lx, GROUND + 45, 44, { color: CHALK, a: lk, stroke: 8 }); }
       chip('1 TM 6:9-10', 540, 330, 54, prog(t, sF.paulo - 0.1, sF.paulo + 0.3), RED);
-      if (t > sF.amor - 0.2) { const k = prog(t, sF.amor - 0.2, sF.amor + 0.5); txt('O AMOR AO DINHEIRO', 540, 1450, 52, { color: CHALK, a: k, stroke: 10 }); write('É RAIZ DE TODOS OS MALES', 540, 1520, 52, sm(t, sF.raiz - 0.3, sF.raiz + 0.9, x => x), { color: RED, stroke: 10 }); }
+      if (t > sF.amor - 0.2) { const k = prog(t, sF.amor - 0.2, sF.amor + 0.5); txt('O AMOR AO DINHEIRO', 540, 1475, 50, { color: CHALK, a: k, stroke: 10 }); write('É RAIZ DE TODOS OS MALES', 540, 1545, 50, sm(t, sF.raiz - 0.3, sF.raiz + 0.9, x => x), { color: RED, stroke: 10 }); }
     }
     function scene7(t) {
       head('E JESUS DISSE', t, 7, RED);
@@ -193,7 +193,7 @@
       poly(box(650 + sp * 0.6, GROUND - 60, 260, 60), prog(t, sG.servir - 0.4, sG.servir), RED, 7, 271); txt('DINHEIRO', 780 + sp * 0.6, GROUND - 30, 42, { color: RED, a: prog(t, sG.servir - 0.3, sG.servir) });
       const fall = prog(t, sG.dinheiro + 0.4, sG.dinheiro + 1.0);
       figure({ x: 540, y: GROUND - 60 + fall * 70, c: CHALK, s: 2.3, fall: 0, mood: 'shock', pose: { legs: [[0.5 + sp / 260, 0.5 + sp / 260], [-0.5 - sp / 260, -0.5 - sp / 260]], arms: [[1.4, 1.5], [-1.4, -1.5]] } });
-      if (t > sG.raposas - 0.2) { ctx.save(); ga(sm(t, sG.raposas - 0.2, sG.raposas + 0.4)); ctx.fillStyle = BOARD; ctx.fillRect(100, 640, 880, 560); ga(1); ctx.restore(); const fk = sm(t, sG.raposas - 0.2, sG.raposas + 0.8, x => x);
+      if (t > sG.raposas - 0.2) { ctx.save(); ga(sm(t, sG.raposas - 0.2, sG.raposas + 0.4)); ctx.fillStyle = BOARD; ctx.fillRect(60, 640, 960, 780); ga(1); ctx.restore(); const fk = sm(t, sG.raposas - 0.2, sG.raposas + 0.8, x => x);
         poly([[160, 1100], [160, 880], [300, 760], [440, 880], [440, 1100]], fk, CHALK, 8, 272); txt('COVA', 300, 1010, 44, { color: CHALK, a: fk });
         poly([[600, 1000], [640, 900], [680, 960], [760, 960], [800, 900], [840, 1000], [720, 1070], [600, 1000]], fk, GOLD, 8, 273); txt('RAPOSAS', 720, 1140, 44, { color: GOLD, a: fk });
         if (t > sG.cabeca - 0.3) { const hk = sm(t, sG.cabeca - 0.3, sG.cabeca + 0.5); figure({ x: 540, y: 700, c: CHALK, s: 1.0, a: hk * 0.0 }); txt('SEM ONDE', 540, 1290, 70, { color: RED, a: hk, stroke: 10 }); txt('REPOUSAR A CABEÇA', 540, 1370, 56, { color: CHALK, a: hk, stroke: 10 }); } }
@@ -216,9 +216,9 @@
     function scene10(t) {
       head('ONDE OS DOIS CONCORDAM', t, 10, GOLD);
       const hk = sm(t, sJ.coracao - 0.4, sJ.coracao + 0.5, outBack); ctx.save(); ctx.translate(540, 700); ctx.scale(hk * (1 + 0.04 * Math.sin(t * 6)), hk * (1 + 0.04 * Math.sin(t * 6))); ctx.fillStyle = RED; ga(0.4); ctx.beginPath(); ctx.moveTo(0, 130); ctx.bezierCurveTo(-240, -30, -120, -190, 0, -70); ctx.bezierCurveTo(120, -190, 240, -30, 0, 130); ctx.fill(); ga(1); ctx.strokeStyle = RED; ctx.lineWidth = 9; ctx.stroke(); ctx.restore();
-      txt('QUEM MANDA', 540, 880, 74, { color: CHALK, a: hk, stroke: 10 }); txt('NO CORAÇÃO?', 540, 965, 74, { color: GOLD, a: hk, stroke: 10 });
-      const dk = sm(t, sJ.dinheiro - 0.2, sJ.dinheiro + 0.4, outBack); figure({ x: 170, y: GROUND, c: RED, s: 1.9, a: dk, pose: { legs: IDLE.legs, arms: [[1.4, 1.6], [-0.1, -0.1]] }, mood: 'sad' }); sack(300, GROUND - 270, 0.6, GOLD, dk); txt('DINHEIRO', 190, GROUND - 480, 50, { color: RED, a: dk, stroke: 9 });
-      const gk = sm(t, sJ.deus - 0.2, sJ.deus + 0.4, outBack); figure({ x: 910, y: GROUND, dir: -1, c: GOLD, s: 1.9, a: gk, pose: { legs: IDLE.legs, arms: [[2.4, 2.7], [-0.1, -0.1]] }, mood: 'smile' }); txt('DEUS', 890, GROUND - 480, 50, { color: GOLD, a: gk, stroke: 9 });
+      txt('QUEM MANDA', 540, 900, 64, { color: CHALK, a: hk, stroke: 10 }); txt('NO CORAÇÃO?', 540, 975, 64, { color: GOLD, a: hk, stroke: 10 });
+      const dk = sm(t, sJ.dinheiro - 0.2, sJ.dinheiro + 0.4, outBack); figure({ x: 170, y: GROUND, c: RED, s: 1.9, a: dk, pose: { legs: IDLE.legs, arms: [[1.4, 1.6], [-0.1, -0.1]] }, mood: 'sad' }); sack(300, GROUND - 270, 0.6, GOLD, dk); txt('DINHEIRO', 190, GROUND - 600, 50, { color: RED, a: dk, stroke: 9 });
+      const gk = sm(t, sJ.deus - 0.2, sJ.deus + 0.4, outBack); figure({ x: 910, y: GROUND, dir: -1, c: GOLD, s: 1.9, a: gk, pose: { legs: IDLE.legs, arms: [[2.4, 2.7], [-0.1, -0.1]] }, mood: 'smile' }); txt('DEUS', 890, GROUND - 600, 50, { color: GOLD, a: gk, stroke: 9 });
       if (t > sJ.prosperidade - 0.3) { const k = prog(t, sJ.prosperidade - 0.3, sJ.prosperidade + 0.4); txt('PROSPERIDADE HOJE?', 540, 1180, 62, { color: CHALK, a: k, stroke: 10 }); txt('?', 540, 1300, 120, { color: RED, scale: outBack(k), stroke: 12 }); }
     }
     function scene11(t) {
