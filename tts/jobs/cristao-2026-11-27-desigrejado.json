@@ -1,0 +1,45 @@
+{
+  "status": "pendente",
+  "voice": "a0a26a57cac94ea4918f05a2393b4259",
+  "speed": 1.12,
+  "model": "s2.1-pro-free",
+  "language": "pt",
+  "clips": [
+    {
+      "id": "c1",
+      "text": "Dá para ser salvo sem frequentar igreja nenhuma? Os cristãos se dividem."
+    },
+    {
+      "id": "c2",
+      "text": "É o debate do crente desigrejado. Hoje, os dois lados, com o texto na mão."
+    },
+    {
+      "id": "c3",
+      "text": "Lado SIM. Hebreus dez, versículo vinte e cinco, manda não deixar de congregar, como alguns já têm por costume."
+    },
+    {
+      "id": "c4",
+      "text": "Em Atos dois, os primeiros cristãos perseveravam juntos no ensino, na comunhão e no partir do pão. E Paulo chama a igreja de corpo: um membro sozinho não funciona."
+    },
+    {
+      "id": "c5",
+      "text": "Lado NÃO. Em Lucas vinte e três, o ladrão na cruz ouve de Jesus: hoje estarás comigo no paraíso. Sem igreja, sem batismo, sem culto."
+    },
+    {
+      "id": "c6",
+      "text": "E Efésios dois, versículos oito e nove: é pela graça que somos salvos, mediante a fé, e não por obras. Ir ao culto não salva ninguém."
+    },
+    {
+      "id": "c7",
+      "text": "Agora o detalhe. Hebreus dez não diz que a igreja salva. Diz para não deixar de se reunir, a fim de estimular uns aos outros ao amor e às boas obras. A reunião sustenta a fé, não compra a salvação."
+    },
+    {
+      "id": "c8",
+      "text": "Os dois lados concordam: a salvação é pela graça. A divisão é se a fé sobrevive sozinha, longe da comunhão."
+    },
+    {
+      "id": "c9",
+      "text": "E você: SIM ou NÃO? Comenta com a sua resposta e o versículo. Marca aquele irmão que vai discordar. E segue: todo dia, um debate da fé. Amanhã: falar em línguas ainda existe?"
+    }
+  ]
+}
