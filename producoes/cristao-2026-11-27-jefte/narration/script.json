@@ -1,0 +1,73 @@
+{
+  "voice": "pm_alex",
+  "speed": 1.1,
+  "lang": "pt-br",
+  "_comment": "A Bíblia que ninguém prega (07:00): Jefté (Jz 11:29-40, ARC). Voto em 11:30-31; filha única sai com tamboris e danças 11:34; 'abri a minha boca ao Senhor e não poderei voltar atrás' 11:35; dois meses nos montes 11:37-38; 'cumpriu nela o voto... e ela nunca conheceu varão' 11:39; 4 dias por ano 11:40. Sacrifício humano proibido: Lv 18:21, Dt 12:31. Leituras: sacrifício literal (tradicional) x consagração perpétua (leitura de alguns comentaristas medievais, ex.: Kimhi; 'e' hebraico pode ser 'ou'). Jefté citado em Hb 11:32. Segunda fonte: comentários bíblicos/GotQuestions PT. Sem nome de pessoa/igreja atual. Bonecos de giz genéricos.",
+  "say": {},
+  "fish": {
+    "voice": "a0a26a57cac94ea4918f05a2393b4259",
+    "speed": 1.12,
+    "model": "s2.1-pro-free"
+  },
+  "accent": [],
+  "clips": [
+    {
+      "id": "c1",
+      "scene": 1,
+      "minStart": 0.3,
+      "gapAfterPrev": 0,
+      "text": "Um pai prometeu a Deus a primeira coisa que saísse da sua porta. Saiu a filha dele. O que aconteceu depois?"
+    },
+    {
+      "id": "c2",
+      "scene": 2,
+      "minStart": 0,
+      "gapAfterPrev": 0.5,
+      "text": "Juízes onze. Jefté ia lutar contra os amonitas. Antes da batalha, fez um voto: quem sair da minha casa ao meu encontro, quando eu voltar vencedor, será do Senhor."
+    },
+    {
+      "id": "c3",
+      "scene": 3,
+      "minStart": 0,
+      "gapAfterPrev": 0.5,
+      "text": "Deus deu a vitória. Jefté voltou para casa, em Mispá. E quem saiu correndo, com tamborim e dança, para recebê-lo? A única filha dele."
+    },
+    {
+      "id": "c4",
+      "scene": 4,
+      "minStart": 0,
+      "gapAfterPrev": 0.5,
+      "text": "Ele rasgou as roupas. Disse: ai, minha filha, eu abri a boca ao Senhor e não posso voltar atrás. E ela respondeu: faça comigo conforme o que você prometeu."
+    },
+    {
+      "id": "c5",
+      "scene": 5,
+      "minStart": 0,
+      "gapAfterPrev": 0.5,
+      "text": "Ela só pediu dois meses para andar pelos montes e chorar. Passados os dois meses, o texto diz que ele cumpriu nela o voto. E todo ano as moças de Israel passaram a lembrar dela, durante quatro dias."
+    },
+    {
+      "id": "c6",
+      "scene": 6,
+      "minStart": 0,
+      "gapAfterPrev": 0.5,
+      "text": "Agora o detalhe. A Lei proíbe sacrifício humano, em Levítico dezoito, versículo vinte e um. Deus nunca pediu esse voto. Foi o próprio Jefté quem inventou a promessa."
+    },
+    {
+      "id": "c7",
+      "scene": 7,
+      "minStart": 0,
+      "gapAfterPrev": 0.5,
+      "text": "Os cristãos leem de dois jeitos. Uns dizem: ele sacrificou a filha, e a Bíblia só conta o que aconteceu, sem aprovar. Outros dizem: ela foi consagrada a Deus para sempre, sem casar, e chorou por nunca ter filhos."
+    },
+    {
+      "id": "c8",
+      "scene": 8,
+      "minStart": 0,
+      "gapAfterPrev": 0.5,
+      "text": "E você? Sacrifício ou consagração? Comenta a sua resposta e o versículo. Marca quem vai discordar. E segue: todo dia, uma Bíblia que ninguém prega. Amanhã: Jesus chamou uma mulher de cachorrinho?"
+    }
+  ],
+  "tailAfterLastClip": 2.3,
+  "keywords": []
+}

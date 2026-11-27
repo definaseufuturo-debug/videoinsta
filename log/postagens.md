@@ -282,3 +282,4 @@
 - 2026-11-26 15:50 | cristao-2026-11-26-deus-rico (lousa) | cristao | ok 18188023792423663 (postado agora a pedido do Jonas, antes das 19:00)
 - 2026-11-26 18:54 | jil-2026-11-26-banco-bicicleta | jesusislove | yt 4YebEVibEaI
 - 2026-11-27 00:25 | produção B3 | mindloop | 2026-11-27-redes-menor-16 (sex, debate: rede social proibida p/ menor de 16; mapa-múndi + Austrália 4,7 mi contas/eSafety, estudo 86%→81%; voz Fish jovem, 45 s + 3 s CTA) na fila 19:00. Brasil/ECA Digital não citado (fonte não confirmada).
+- 2026-11-27 01:52 | produção cristão | jil-2026-11-27-bagunca (12:00) e jil-2026-11-27-18-veroes (19:00) na fila jesusislove; bonequinhos 'Momentos que passam' (CLAUDE.md manda; prompt agendado citava pôster escuro, já superado)
