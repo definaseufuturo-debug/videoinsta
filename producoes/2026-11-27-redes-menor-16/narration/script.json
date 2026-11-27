@@ -1,0 +1,18 @@
+{
+  "voice": "pm_alex",
+  "speed": 1.12,
+  "lang": "pt-br",
+  "_comment": "DEBATE (sex, mapas): rede social proibida para menor de 16. Fontes: eSafety (governo da Austrália), nota 'Platforms restrict access to 4.7 million under-16 accounts' (lei em vigor desde 10/12/2025; ~4,7 mi de contas restritas, dados de dez/2025-jan/2026); Al Jazeera 03/08/2026 e Olhar Digital 31/07/2026 sobre estudo da eSafety aos 3 meses (uso entre jovens 86% -> 81%; uso diário ~60% -> 58%; ~metade dos que ficaram diz que a plataforma nunca verificou a idade; VPN/foto falsa apontados por pesquisadora Joanna Orlando; defesa da eSafety: 'limite de velocidade não é falha só porque alguns aceleram'). Outros países (Al Jazeera 03/08/2026): Malásia (<16, 2026), Dinamarca (<15, anunciado nov/2025), Grécia (<15, proposta p/ 01/01/2027), Reino Unido (plano p/ primavera 2027). Brasil NÃO citado (fonte não confirmada). Próximo da fila: salário mínimo x necessário (Dieese).",
+  "say": {},
+  "fish": { "voice": "b1cab1f57b8d41aeb225d7d8bafc0806", "speed": 1.15, "model": "s2.1-pro-free" },
+  "clips": [
+    { "id": "c1", "scene": 1, "minStart": 0.3, "gapAfterPrev": 0, "text": "Quatro milhões e setecentas mil contas derrubadas. Mesmo assim, oito em cada dez jovens australianos seguem nas redes. Proibir rede social pra menor de dezesseis: certo ou exagero?" },
+    { "id": "c2", "scene": 2, "minStart": 0, "gapAfterPrev": 0.4, "text": "A Austrália proibiu em dezembro de dois mil e vinte e cinco. Malásia, Dinamarca, Grécia e Reino Unido caminham pro mesmo rumo." },
+    { "id": "c3", "scene": 3, "minStart": 0, "gapAfterPrev": 0.4, "text": "Quem é a favor diz: lei é como limite de velocidade. Não é falha só porque alguns aceleram. E quatro milhões e setecentas mil contas já foram restritas." },
+    { "id": "c4", "scene": 4, "minStart": 0, "gapAfterPrev": 0.4, "text": "Quem é contra diz: o jovem usa VPN e foto falsa. E metade de quem ficou nas redes diz que a plataforma nunca checou sua idade." },
+    { "id": "c5", "scene": 5, "minStart": 0, "gapAfterPrev": 0.4, "text": "O dado que incomoda os dois: o uso entre jovens caiu só de oitenta e seis pra oitenta e um por cento. E o uso diário, de sessenta pra cinquenta e oito." },
+    { "id": "c6", "scene": 6, "minStart": 0, "gapAfterPrev": 0.45, "text": "E você: A ou B? Comenta e marca quem discorda. Amanhã: salário mínimo contra o salário que o Dieese diz ser necessário. Segue pra não perder." }
+  ],
+  "tailAfterLastClip": 1.8,
+  "keywords": []
+}

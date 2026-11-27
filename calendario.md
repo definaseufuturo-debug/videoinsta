@@ -23,7 +23,7 @@
 - [x] A IA vai tirar o seu emprego? As profissões mais e menos expostas (OIT, FMI)
 - [x] Celular proibido na escola: melhorou as notas ou não? (Lei 15.100/2025 + estudos)
 - [x] Bets: proibiram (MP 1.394/2026, 25/09): acertaram ou vai piorar? (produzido 25/11)
-- [ ] Rede social proibida para menor de 16 anos: certo ou exagero? (Austrália proibiu em dez/2025)
+- [x] Rede social proibida para menor de 16 anos: certo ou exagero? (Austrália proibiu em dez/2025)
 - [ ] Salário mínimo x salário mínimo necessário do DIEESE: dá pra viver?
 - [ ] O Brasil cobra muito imposto? Carga tributária comparada com o mundo (OCDE, Receita)
 - [ ] Taxa das blusinhas: protege a indústria ou pune o pobre? (imposto em compras internacionais)
