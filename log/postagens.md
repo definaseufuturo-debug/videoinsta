@@ -287,3 +287,5 @@
 - 2026-11-27 02:02 | produção cristão | cristao-2026-11-27-desigrejado (19:00 IG, Debate da fé, lousa, 62 s + CTA) na fila
 - 2026-11-27 07:00 | cristao-2026-11-27-jefte | cristao | ok 18402926761200605
 - 2026-11-27 07:00 | jesusislove | nada na fila
+- 2026-11-27 11:55 | jil-2026-11-27-bagunca | jesusislove | yt Sm_SKWXRQb4
+- 2026-11-27 11:55 | nada na fila cristao (Instagram) | cristao | nada nas filas (19:00 ainda não chegou)
