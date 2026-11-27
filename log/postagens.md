@@ -289,3 +289,4 @@
 - 2026-11-27 07:00 | jesusislove | nada na fila
 - 2026-11-27 11:55 | jil-2026-11-27-bagunca | jesusislove | yt Sm_SKWXRQb4
 - 2026-11-27 11:55 | nada na fila cristao (Instagram) | cristao | nada nas filas (19:00 ainda não chegou)
+- 2026-11-27 18:54 | 2026-11-27-redes-menor-16 | agendado | ok 18135118705702422 | yt ERRO (publicação no YouTube bloqueada pelo classificador de ações; não tentado de novo)
