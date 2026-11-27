@@ -34,7 +34,7 @@
 - [x] Mulher pode ser pastora? (1Tm 2:12 x Rm 16:1-7, Jz 4:4) — 24/11 ("cristao-2026-11-24-mulher-pastora", texto cinético SIM x NÃO, voz Fish 4, 83 s + CTA)
 - [x] Uma vez salvo, salvo para sempre? (Jo 10:28 x Hb 6:4-6) — 25/11 ("cristao-2026-11-25-salvo-sempre", texto cinético SIM x NÃO, voz Fish 4, 63 s + CTA)
 - [x] Deus quer você rico? (3Jo 2 x 1Tm 6:9-10) — 26/11 ("cristao-2026-11-26-deus-rico", texto cinético SIM x NÃO, voz Fish 4, ~75 s + CTA)
-- [ ] Precisa ir à igreja para ser salvo? Crente "desigrejado" (Hb 10:25 x Lc 23:43)
+- [x] Precisa ir à igreja para ser salvo? Crente "desigrejado" (Hb 10:25 x Lc 23:43) — 27/11 ("cristao-2026-11-27-desigrejado", lousa de giz SIM x NÃO, voz Fish 4, 62 s + CTA)
 - [ ] Falar em línguas ainda existe hoje? (At 2, 1Co 14 x 1Co 13:8)
 - [ ] Batismo de criança ou só de adulto? (At 16:33 x Mc 16:16)
 - [ ] Depressão é falta de fé? (Elias em 1Rs 19, Sl 42) — com aviso de buscar ajuda
