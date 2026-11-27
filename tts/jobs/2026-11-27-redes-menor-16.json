@@ -1,0 +1,33 @@
+{
+  "status": "pendente",
+  "voice": "b1cab1f57b8d41aeb225d7d8bafc0806",
+  "speed": 1.15,
+  "model": "s2.1-pro-free",
+  "language": "pt",
+  "clips": [
+    {
+      "id": "c1",
+      "text": "Quatro milhões e setecentas mil contas derrubadas. Mesmo assim, oito em cada dez jovens australianos seguem nas redes. Proibir rede social pra menor de dezesseis: certo ou exagero?"
+    },
+    {
+      "id": "c2",
+      "text": "A Austrália proibiu em dezembro de dois mil e vinte e cinco. Malásia, Dinamarca, Grécia e Reino Unido caminham pro mesmo rumo."
+    },
+    {
+      "id": "c3",
+      "text": "Quem é a favor diz: lei é como limite de velocidade. Não é falha só porque alguns aceleram. E quatro milhões e setecentas mil contas já foram restritas."
+    },
+    {
+      "id": "c4",
+      "text": "Quem é contra diz: o jovem usa VPN e foto falsa. E metade de quem ficou nas redes diz que a plataforma nunca checou sua idade."
+    },
+    {
+      "id": "c5",
+      "text": "O dado que incomoda os dois: o uso entre jovens caiu só de oitenta e seis pra oitenta e um por cento. E o uso diário, de sessenta pra cinquenta e oito."
+    },
+    {
+      "id": "c6",
+      "text": "E você: A ou B? Comenta e marca quem discorda. Amanhã: salário mínimo contra o salário que o Dieese diz ser necessário. Segue pra não perder."
+    }
+  ]
+}
