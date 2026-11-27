@@ -55,7 +55,7 @@
 - [x] Ananias e Safira morreram por uma mentira sobre dinheiro (At 5:1-11) — 24/11 ("cristao-2026-11-24-ananias-safira", texto cinético, voz Fish 4, 82 s com CTA)
 - [x] Uzá tocou na arca para ela não cair e morreu (2Sm 6:6-7) — 25/11 ("cristao-2026-11-25-uza", texto cinético, voz Fish 4, 86 s + CTA)
 - [x] Jesus amaldiçoou uma figueira que não tinha fruto (Mc 11:12-14) — 26/11 ("cristao-2026-11-26-figueira", texto cinético, voz Fish 4, 75 s + CTA)
-- [ ] O voto de Jefté e a filha dele (Jz 11:30-40)
+- [x] O voto de Jefté e a filha dele (Jz 11:30-40) — 27/11 ("cristao-2026-11-27-jefte", lousa de giz, voz Fish 4, 67 s + CTA)
 - [ ] Jesus chamou uma mulher de "cachorrinho"? (Mt 15:21-28)
 - [ ] Deus endureceu o coração do faraó: e a liberdade dele? (Êx 9:12)
 - [ ] O pecado que não tem perdão (Mt 12:31-32)
