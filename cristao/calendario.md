@@ -35,7 +35,7 @@
 - [x] Uma vez salvo, salvo para sempre? (Jo 10:28 x Hb 6:4-6) — 25/11 ("cristao-2026-11-25-salvo-sempre", texto cinético SIM x NÃO, voz Fish 4, 63 s + CTA)
 - [x] Deus quer você rico? (3Jo 2 x 1Tm 6:9-10) — 26/11 ("cristao-2026-11-26-deus-rico", texto cinético SIM x NÃO, voz Fish 4, ~75 s + CTA)
 - [x] Precisa ir à igreja para ser salvo? Crente "desigrejado" (Hb 10:25 x Lc 23:43) — 27/11 ("cristao-2026-11-27-desigrejado", lousa de giz SIM x NÃO, voz Fish 4, 62 s + CTA)
-- [ ] Falar em línguas ainda existe hoje? (At 2, 1Co 14 x 1Co 13:8)
+- [x] Falar em línguas ainda existe hoje? (At 2, 1Co 14 x 1Co 13:8) — 28/11 ('cristao-2026-11-28-linguas', lousa de giz SIM x NÃO, voz Fish 4, 62 s + CTA)
 - [ ] Batismo de criança ou só de adulto? (At 16:33 x Mc 16:16)
 - [ ] Depressão é falta de fé? (Elias em 1Rs 19, Sl 42) — com aviso de buscar ajuda
 - [ ] Divórcio: quando a Bíblia permite? (Mt 19:9, 1Co 7:15)

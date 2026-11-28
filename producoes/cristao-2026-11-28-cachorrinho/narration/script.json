@@ -1,0 +1,87 @@
+{
+  "voice": "pm_alex",
+  "speed": 1.1,
+  "lang": "pt-br",
+  "_comment": "A Bíblia que ninguém prega (07:00): Mt 15:21-28 (ARC): Tiro e Sidom v.21; mulher cananeia grita v.22; Jesus não respondeu palavra v.23; discípulos pedem que a despeça v.23; 'não fui enviado senão às ovelhas perdidas da casa de Israel' v.24; 'Senhor, socorre-me' v.25; 'não é bom pegar o pão dos filhos e deitá-lo aos cachorrinhos' v.26 (grego kynaria, diminutivo, cão doméstico); migalhas v.27; 'grande é a tua fé' v.28; filha sã. Paralelo Mc 7:24-30. Centurião Mt 8:10 (nem em Israel achei tanta fé). Segunda fonte: comentários bíblicos/GotQuestions PT. Leituras: teste da fé x abertura da missão aos gentios. Sem nome de pessoa/igreja atual.",
+  "say": {},
+  "fish": {
+    "voice": "a0a26a57cac94ea4918f05a2393b4259",
+    "speed": 1.12,
+    "model": "s2.1-pro-free"
+  },
+  "accent": [],
+  "clips": [
+    {
+      "id": "c1",
+      "scene": 1,
+      "minStart": 0.3,
+      "gapAfterPrev": 0,
+      "text": "Jesus chamou uma mulher de cachorrinho? Está na Bíblia, e quase ninguém prega."
+    },
+    {
+      "id": "c2",
+      "scene": 2,
+      "minStart": 0,
+      "gapAfterPrev": 0.5,
+      "text": "Mateus quinze. Em terra de estrangeiros, uma mulher gritava atrás de Jesus: Senhor, tem pena de mim! Minha filha está possuída por um demônio."
+    },
+    {
+      "id": "c3",
+      "scene": 3,
+      "minStart": 0,
+      "gapAfterPrev": 0.5,
+      "text": "Jesus não respondeu nenhuma palavra. Os discípulos pediram: manda essa mulher embora, ela vem gritando atrás de nós."
+    },
+    {
+      "id": "c4",
+      "scene": 4,
+      "minStart": 0,
+      "gapAfterPrev": 0.5,
+      "text": "Jesus disse: fui enviado só às ovelhas perdidas de Israel. Ela se ajoelhou: Senhor, me socorre!"
+    },
+    {
+      "id": "c5",
+      "scene": 5,
+      "minStart": 0,
+      "gapAfterPrev": 0.5,
+      "text": "Então veio a frase que choca: não é bom pegar o pão dos filhos e jogar aos cachorrinhos."
+    },
+    {
+      "id": "c6",
+      "scene": 6,
+      "minStart": 0,
+      "gapAfterPrev": 0.5,
+      "text": "Ela não foi embora. Respondeu: é verdade, Senhor, mas até os cachorrinhos comem as migalhas que caem da mesa dos donos."
+    },
+    {
+      "id": "c7",
+      "scene": 7,
+      "minStart": 0,
+      "gapAfterPrev": 0.5,
+      "text": "Jesus disse: ó mulher, grande é a tua fé! Seja feito como queres. E a filha dela ficou curada naquela hora."
+    },
+    {
+      "id": "c8",
+      "scene": 8,
+      "minStart": 0,
+      "gapAfterPrev": 0.5,
+      "text": "Agora o detalhe. A palavra não é cachorro de rua: é cachorrinho de casa, que vive embaixo da mesa. E em Mateus, os dois que Jesus elogia por tamanha fé são estrangeiros: essa mulher e o centurião romano."
+    },
+    {
+      "id": "c9",
+      "scene": 9,
+      "minStart": 0,
+      "gapAfterPrev": 0.5,
+      "text": "Uns leem um teste, que revelou a fé dela diante dos discípulos. Outros, o momento em que a missão se abre para todos os povos. Mas a frase continua dura."
+    },
+    {
+      "id": "c10",
+      "scene": 10,
+      "minStart": 0,
+      "gapAfterPrev": 0.5,
+      "text": "E você: TESTE ou DURO DEMAIS? Comenta com a sua resposta e o versículo. Marca aquele irmão que vai discordar. E segue: todo dia, um debate da fé. Amanhã: Deus endureceu o coração do faraó?"
+    }
+  ],
+  "tailAfterLastClip": 2.3,
+  "keywords": []
+}
