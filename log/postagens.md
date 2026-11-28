@@ -296,3 +296,5 @@
 - 2026-11-28 02:00 | produção cristão | cristao-2026-11-28-cachorrinho (07:00 IG, Bíblia que ninguém prega, lousa, 65 s + CTA), jil-2026-11-28-bilhete-lancheira (12:00 YT), cristao-2026-11-28-linguas (19:00 IG, Debate da fé, lousa, 65 s + CTA), jil-2026-11-28-sapatinho (19:00 YT) na fila. CLAUDE.md atual seguido (modo debate + lousa + Momentos que passam), não o prompt antigo (palavra da manhã/pôster escuro).
 - 2026-11-28 06:56 | cristao-2026-11-28-cachorrinho | cristao | ok 18494644222113671 (job_ig; workflow demorou ~5 min)
 - 2026-11-28 06:56 | jesusislove | nada vencido (próximos: 12:00 bilhete-lancheira, 19:00 sapatinho)
+- 2026-11-28 11:55 | jil-2026-11-28-bilhete-lancheira | jesusislove | yt FVM0OjZ10lc
+- 2026-11-28 11:55 | cristao | nada na fila (Instagram @e_cosdafe sem vídeo para postar)
