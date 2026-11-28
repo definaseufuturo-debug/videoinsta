@@ -1,5 +1,5 @@
 {
-  "status": "pronto",
+  "status": "pendente",
   "voice": "c9d3da0bdf61417d929dc67966e4befe",
   "speed": 1.15,
   "model": "s2.1-pro-free",
@@ -7,23 +7,23 @@
   "clips": [
     {
       "id": "c1",
-      "text": "Sete mil, novecentos e noventa e dois reais. Esse é o salário mínimo que o Dieese diz ser necessário. O de verdade é mil seiscentos e vinte e um. O mínimo devia subir bem mais?"
+      "text": "Sete mil, novecentos e noventa e dois reais. É o mínimo que o Dieese diz ser necessário. O de verdade é mil seiscentos e vinte e um. Devia subir bem mais?"
     },
     {
       "id": "c2",
-      "text": "Todo mês o Dieese calcula quanto uma família de quatro pessoas precisa pra viver. Em outubro de dois mil e vinte e seis: quatro vírgula noventa e três vezes o mínimo."
+      "text": "O Dieese calcula quanto uma família de quatro pessoas precisa. Em outubro: quatro vírgula noventa e três mínimos."
     },
     {
       "id": "c3",
-      "text": "Quem diz que sim aponta: a cesta básica come cinquenta e dois por cento do mínimo líquido, na média das capitais. Em São Paulo, sessenta e três por cento. E o novo mínimo injeta oitenta e um bilhões na economia, estima o Dieese."
+      "text": "Quem diz que sim: a cesta básica come cinquenta e dois por cento do mínimo líquido. Em São Paulo, sessenta e três. E o novo mínimo injeta oitenta e um bilhões na economia."
     },
     {
       "id": "c4",
-      "text": "Quem diz que não, ou que é preciso ir com calma, responde: cada real a mais custa trezentos e oitenta milhões à Previdência. Só em dois mil e vinte e seis, trinta e nove bilhões. E quase sessenta e dois milhões de brasileiros têm renda ligada ao piso."
+      "text": "Quem diz que não: cada real a mais custa trezentos e oitenta milhões à Previdência. Só em dois mil e vinte e seis, trinta e nove bilhões. E quase sessenta e dois milhões têm renda ligada ao piso."
     },
     {
       "id": "c5",
-      "text": "O dado que incomoda os dois: em um ano, o mínimo subiu seis vírgula oito por cento. Só que o necessário subiu doze por cento. A distância foi de quatro vírgula sessenta e nove pra quatro vírgula noventa e três vezes."
+      "text": "O dado que incomoda os dois: em um ano, o mínimo subiu seis vírgula oito por cento. O necessário, doze. A distância foi de quatro vírgula sessenta e nove pra quatro vírgula noventa e três vezes."
     },
     {
       "id": "c6",
