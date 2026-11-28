@@ -292,3 +292,4 @@
 - 2026-11-27 18:54 | 2026-11-27-redes-menor-16 | agendado | ok 18135118705702422 | yt ERRO (publicação no YouTube bloqueada pelo classificador de ações; não tentado de novo)
 - 2026-11-27 19:00 | cristao-2026-11-27-desigrejado | cristao | ok 18113517791360181
 - 2026-11-27 19:00 | jil-2026-11-27-18-veroes | jesusislove | yt Ix0-c6dK05c
+- 2026-11-28 00:35 | produção B3 | mindloop | 2026-11-28-salario-minimo (sáb, debate: salário mínimo x necessário DIEESE; DIEESE out/2026 R$ 7.992,47 = 4,93x; custo Previdência via DIEESE/Agência Brasil; voz Fish masculina, 60 s + 3 s CTA, acima dos 55 s do formato) na fila 20:00. Pilar do dia (história) trocado pelo MODO DEBATE do CLAUDE.md; sem assunto quente que cabe em dados (trends só NBA/bitcoin).

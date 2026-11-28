@@ -1,0 +1,58 @@
+{
+  "voice": "pm_alex",
+  "speed": 1.12,
+  "lang": "pt-br",
+  "_comment": "DEBATE (sáb): salário mínimo x salário mínimo necessário. Fontes: DIEESE, Pesquisa Nacional da Cesta Básica, resultados de out/2026 (10/11/2026): necessário R$ 7.992,47 = 4,93x o mínimo de R$ 1.621,00; out/2025 R$ 7.116,83 = 4,69x o mínimo de R$ 1.518,00; cesta consome em média 52,01% do mínimo líquido nas 27 capitais, 63,45% em São Paulo. Confirmado também por DGABC (10/11/2026). Impacto: DIEESE via Agência Brasil/InfoMoney (26/12/2025) e Estadão Conteúdo/Jovem Pan (22/12/2025): R$ 81,7 bi injetados na economia; +R$ 39,1 bi na Previdência em 2026; R$ 380,5 mi por R$ 1 de aumento; 61,9 mi de brasileiros com renda ligada ao piso. Reajuste nominal 6,79% (1.518 para 1.621); necessário +12,3% (7.116,83 para 7.992,47, cálculo próprio). Próximo da fila: carga tributária.",
+  "say": {},
+  "fish": {
+    "voice": "c9d3da0bdf61417d929dc67966e4befe",
+    "speed": 1.15,
+    "model": "s2.1-pro-free"
+  },
+  "clips": [
+    {
+      "id": "c1",
+      "scene": 1,
+      "minStart": 0.3,
+      "gapAfterPrev": 0,
+      "text": "Sete mil, novecentos e noventa e dois reais. É o mínimo que o Dieese diz ser necessário. O de verdade é mil seiscentos e vinte e um. Devia subir bem mais?"
+    },
+    {
+      "id": "c2",
+      "scene": 2,
+      "minStart": 0,
+      "gapAfterPrev": 0.4,
+      "text": "O Dieese calcula quanto uma família de quatro pessoas precisa. Em outubro: quatro vírgula noventa e três mínimos."
+    },
+    {
+      "id": "c3",
+      "scene": 3,
+      "minStart": 0,
+      "gapAfterPrev": 0.4,
+      "text": "Quem diz que sim: a cesta básica come cinquenta e dois por cento do mínimo líquido. Em São Paulo, sessenta e três. E o novo mínimo injeta oitenta e um bilhões na economia."
+    },
+    {
+      "id": "c4",
+      "scene": 4,
+      "minStart": 0,
+      "gapAfterPrev": 0.4,
+      "text": "Quem diz que não: cada real a mais custa trezentos e oitenta milhões à Previdência. Só em dois mil e vinte e seis, trinta e nove bilhões. E quase sessenta e dois milhões têm renda ligada ao piso."
+    },
+    {
+      "id": "c5",
+      "scene": 5,
+      "minStart": 0,
+      "gapAfterPrev": 0.4,
+      "text": "O dado que incomoda os dois: em um ano, o mínimo subiu seis vírgula oito por cento. O necessário, doze. A distância foi de quatro vírgula sessenta e nove pra quatro vírgula noventa e três vezes."
+    },
+    {
+      "id": "c6",
+      "scene": 6,
+      "minStart": 0,
+      "gapAfterPrev": 0.45,
+      "text": "E você: A ou B? Comenta e marca quem discorda. Amanhã: o Brasil cobra imposto demais? Segue pra não perder."
+    }
+  ],
+  "tailAfterLastClip": 1.8,
+  "keywords": []
+}

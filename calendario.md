@@ -24,7 +24,7 @@
 - [x] Celular proibido na escola: melhorou as notas ou não? (Lei 15.100/2025 + estudos)
 - [x] Bets: proibiram (MP 1.394/2026, 25/09): acertaram ou vai piorar? (produzido 25/11)
 - [x] Rede social proibida para menor de 16 anos: certo ou exagero? (Austrália proibiu em dez/2025)
-- [ ] Salário mínimo x salário mínimo necessário do DIEESE: dá pra viver?
+- [x] Salário mínimo x salário mínimo necessário do DIEESE: dá pra viver? (produzido 28/11; DIEESE out/2026: R$ 7.992,47 = 4,93x o mínimo de R$ 1.621)
 - [ ] O Brasil cobra muito imposto? Carga tributária comparada com o mundo (OCDE, Receita)
 - [ ] Taxa das blusinhas: protege a indústria ou pune o pobre? (imposto em compras internacionais)
 - [ ] Motorista de aplicativo devia ter carteira assinada?
